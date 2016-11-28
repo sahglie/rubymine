@@ -1,0 +1,30 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="process_alerts" type="Bash" />
+      <mapping pattern="create_incidents" type="Bash" />
+      <mapping ext="csv" type="Cvs file" />
+      <mapping ext="hamljs" type="HAML" />
+      <mapping pattern="offsite_crontab_quality_assurance" type="PLAIN_TEXT" />
+      <mapping pattern="alert_pig_crontab_quality_assurance" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gnupg" type="PLAIN_TEXT" />
+      <mapping pattern="alert_pig_crontab_production" type="PLAIN_TEXT" />
+      <mapping pattern="CRAP" type="PLAIN_TEXT" />
+      <mapping pattern="offsite_crontab_production" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="pcap" type="PLAIN_TEXT" />
+      <mapping pattern="sock" type="Ruby" />
+      <mapping pattern="rspec" type="Ruby" />
+      <mapping pattern="spring" type="Ruby" />
+      <mapping pattern="rspec_no_spring" type="Ruby" />
+      <mapping pattern="netgrep" type="Ruby" />
+      <mapping ext="nessus_v2" type="XML" />
+      <mapping ext="nessus" type="XML" />
+      <mapping ext="example" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

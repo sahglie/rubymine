@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="EditorToggleStickySelection" />
+      <action id="EditorLineEnd" />
+      <typing text-keycode="222:1">&quot;</typing>
+      <action id="EditorEscape" />
+      <action id="EditorLineEnd" />
+      <action id="EditorToggleStickySelection" />
+      <typing text-keycode="44:0">,</typing>
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+    </macro>
+  </component>
+</application>
