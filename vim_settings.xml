@@ -34,6 +34,9 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/services/data_enrichment/queue.rb" timestamp="1480365969217">
+        <mark key="'" line="93" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/Gemfile" timestamp="1480355770075">
         <mark key="[" line="31" column="22" />
         <mark key="]" line="31" column="23" />
@@ -360,7 +363,6 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/config/config.yml" timestamp="1480357553281" />
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1.html.haml" timestamp="1480278908841">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="3" column="25" />
@@ -882,11 +884,8 @@
         <mark key="^" line="18" column="8" />
         <mark key="." line="18" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/_errors.html.erb" timestamp="1480357925694" />
     </filemarks>
     <jumps>
-      <jump line="36" column="4" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
-      <jump line="11" column="5" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/security_questions/update.js.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/security_questions/update.js.erb" />
       <jump line="28" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2.html.erb" />
       <jump line="11" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step3.html.erb" />
@@ -985,6 +984,8 @@
       <jump line="4" column="27" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_simple_form.html.haml" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_simple_form.html.haml" />
       <jump line="13" column="6" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/change_password_controller.rb" />
+      <jump line="10" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/app/services/data_enrichment/queue.rb" />
+      <jump line="93" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/services/data_enrichment/queue.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1027,7 +1028,7 @@
         <text encoding="base64">ICAgICAgICBwYXJhbXMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1075,11 +1076,11 @@
         <entry>e</entry>
         <entry>d</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
