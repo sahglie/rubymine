@@ -53,7 +53,6 @@
         <mark key="^" line="25" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount-rails5/app/views/account/activate_cwid/_progress.html.erb" timestamp="1480179621375">
-        <mark key="'" line="23" column="76" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="35" />
         <mark key="^" line="2" column="35" />
@@ -132,11 +131,7 @@
         <mark key="." line="1" column="33" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount-rails5/lib/account/cwid_progress.rb" timestamp="1480175698960">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="46" />
+        <mark key="'" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/_form.html.haml" timestamp="1479924581570">
         <mark key="[" line="1" column="17" />
@@ -477,12 +472,6 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount-rails5/lib/account/user.rb" timestamp="1480174961363">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="11" />
-        <mark key="." line="32" column="11" />
-        <mark key="^" line="32" column="11" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/metrics/ops_reports/notice_spec.rb" timestamp="1476136593892">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="53" />
@@ -590,12 +579,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount-rails5/Gemfile" timestamp="1480132140186">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Development/projects/myaccount-rails5/Gemfile" timestamp="1480298996874">
+        <mark key="'" line="36" column="2" />
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="11" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="24" column="11" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/email_tmp_password.rb" timestamp="1475710408202">
         <mark key="[" line="4" column="15" />
@@ -736,7 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/admin/metrics/ops_reports/show.js" />
       <jump line="143" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/admin/metrics/ops_reports/show.js" />
       <jump line="109" column="44" filename="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/admin/metrics/ops_reports/show.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Development/projects/myaccount/config/routes.rb" />
@@ -836,49 +824,50 @@
       <jump line="22" column="0" filename="$USER_HOME$/Development/projects/myaccount-rails5/lib/account/cwid_progress.rb" />
       <jump line="62" column="0" filename="$USER_HOME$/Development/projects/myaccount-rails5/lib/account/cwid_progress.rb" />
       <jump line="23" column="76" filename="$USER_HOME$/Development/projects/myaccount-rails5/app/views/account/activate_cwid/_progress.html.erb" />
+      <jump line="30" column="2" filename="$USER_HOME$/Development/projects/myaccount-rails5/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>tag</text>
       </register>
-      <register name="0" type="4">
-        <text>, input_html: { value: @password_change.password })</text>
+      <register name="0" type="2">
+        <text encoding="base64">cGxhdGZvcm1zIDpydWJ5IGRvCiAgZ2VtICdzcWxpdGUzJwplbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAZnV6emVkX2VtYWlsID0gdXNlci5mdXp6ZWRfZW1haWwK</text>
+        <text encoding="base64">ICBnZW0gImFjdGl2ZXJlY29yZC1qZGJjcG9zdGdyZXNxbC1hZGFwdGVyIiwgIn4+IDEuMi45Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSYWlscy5sb2dnZXIuZGVidWcoQGVtYWlsKQo=</text>
+        <text encoding="base64">ICBnZW0gImFjdGl2ZXJlY29yZC1qZGJjcG9zdGdyZXNxbC1hZGFwdGVyIiwgIn4+IDEuMi45Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBAZW1haWwgPSB1c2VyLmVtYWlsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAY3dpZCA9IHVzZXIuY3dpZAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Z2VtICdqcnVieS1vcGVuc3NsJwpnZW0gJ2tyeXB0J3kKCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyBAY3dpZCA9IHVzZXIuY3dpZAogICAgICAjIEBlbWFpbCA9IHVzZXIuZW1haWwKICAgICAgIyBSYWlscy5sb2dnZXIuZGVidWcoQGVtYWlsKQogICAgICAjIEBmdXp6ZWRfZW1haWwgPSB1c2VyLmZ1enplZF9lbWFpbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCUgZW5kICU+Cg==</text>
+        <text encoding="base64">cGxhdGZvcm1zIDpydWJ5IGRvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8JT0gamF2YXNjcmlwdF9pbmNsdWRlX3RhZygiYWNjb3VudC9pbmRleCIpICU+Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -928,9 +917,9 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>vs</entry>
         <entry>action RecentFiles</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
