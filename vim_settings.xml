@@ -34,10 +34,10 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/Gemfile" timestamp="1480268271142">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
+      <file name="$USER_HOME$/Development/projects/myaccount/Gemfile" timestamp="1480355770075">
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
         <mark key="^" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_errors.html.haml" timestamp="1480286753531">
@@ -174,6 +174,10 @@
         <mark key="." line="42" column="62" />
         <mark key="^" line="42" column="62" />
       </file>
+      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/_form.html.erb" timestamp="1480356851764">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="74" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/application.js" timestamp="1476130858985">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="25" column="8" />
@@ -289,12 +293,12 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid/step4_controller.rb" timestamp="1480286955921">
+      <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid/step4_controller.rb" timestamp="1480356699075">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="33" column="2" />
-        <mark key="^" line="4" column="39" />
-        <mark key="." line="4" column="39" />
+        <mark key="[" line="14" column="63" />
+        <mark key="]" line="14" column="67" />
+        <mark key="^" line="14" column="67" />
+        <mark key="." line="14" column="67" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/metrics/ops_reports/show.html.erb" timestamp="1476226674040">
         <mark key="[" line="29" column="9" />
@@ -332,7 +336,7 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="11" />
       </file>
-      <file name="/fragment.rb" timestamp="1480285030040">
+      <file name="/fragment.rb" timestamp="1480357718611">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -356,6 +360,7 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="10" column="21" />
       </file>
+      <file name="$USER_HOME$/Development/projects/myaccount/config/config.yml" timestamp="1480357553281" />
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1.html.haml" timestamp="1480278908841">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="3" column="25" />
@@ -444,7 +449,7 @@
         <mark key="^" line="32" column="5" />
         <mark key="." line="21" column="79" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_progress.html.haml" timestamp="1480283324376">
+      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_progress.html.haml" timestamp="1480357901678">
         <mark key="'" line="41" column="6" />
         <mark key="[" line="36" column="54" />
         <mark key="]" line="36" column="55" />
@@ -494,12 +499,12 @@
         <mark key="^" line="25" column="67" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/index.html.haml" timestamp="1480288413723">
+      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/index.html.haml" timestamp="1480356816102">
         <mark key="'" line="13" column="30" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="13" />
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="31" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/metrics/ops_reports/nessus.rb" timestamp="1476133283060">
         <mark key="[" line="57" column="60" />
@@ -573,11 +578,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/set_password.js.erb" timestamp="1480286817824">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="38" />
-        <mark key="^" line="2" column="38" />
+      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/set_password.js.erb" timestamp="1480356822233">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+        <mark key="^" line="5" column="50" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/find_cwid.js.erb" timestamp="1480277124604">
         <mark key="[" line="12" column="0" />
@@ -700,12 +705,11 @@
         <mark key="^" line="8" column="79" />
         <mark key="." line="8" column="87" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_form.html.haml" timestamp="1480287971969">
-        <mark key="'" line="5" column="10" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_form.html.haml" timestamp="1480356878472">
+        <mark key="[" line="2" column="82" />
+        <mark key="]" line="2" column="94" />
+        <mark key="." line="2" column="94" />
+        <mark key="^" line="2" column="94" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/new.html.haml" timestamp="1479924308317">
         <mark key="[" line="7" column="33" />
@@ -718,12 +722,6 @@
         <mark key="]" line="7" column="66" />
         <mark key="." line="7" column="66" />
         <mark key="^" line="7" column="66" />
-      </file>
-      <file name="/Ruby Console" timestamp="1480275322635">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/assets/stylesheets/application.scss" timestamp="1476224043616">
         <mark key="[" line="7" column="9" />
@@ -749,6 +747,13 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_simple_form.html.haml" timestamp="1480356755035">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="107" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/_form.html.haml" timestamp="1479924581570">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="31" />
@@ -761,11 +766,11 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/change_password_controller.rb" timestamp="1479940491508">
-        <mark key="[" line="14" column="61" />
-        <mark key="]" line="14" column="61" />
-        <mark key="^" line="14" column="61" />
-        <mark key="." line="14" column="61" />
+      <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/change_password_controller.rb" timestamp="1480357902074">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/find_cwid_email.js.erb" timestamp="1480271489676">
         <mark key="'" line="15" column="20" />
@@ -805,7 +810,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480288829810">
+      <file name="/Dummy.txt" timestamp="1480357017313">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -877,13 +882,9 @@
         <mark key="^" line="18" column="8" />
         <mark key="." line="18" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/_errors.html.erb" timestamp="1480357925694" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/security_questions/_questions_form.html.erb" />
-      <jump line="15" column="24" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
-      <jump line="76" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
-      <jump line="17" column="6" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
-      <jump line="34" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
       <jump line="36" column="4" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
       <jump line="11" column="5" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/security_questions/update.js.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/security_questions/update.js.erb" />
@@ -979,46 +980,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid/step4_controller.rb" />
       <jump line="2" column="17" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step5/index.html.haml" />
       <jump line="5" column="10" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_form.html.haml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_form.html.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_form.html.haml" />
+      <jump line="4" column="27" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_simple_form.html.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_simple_form.html.haml" />
+      <jump line="13" column="6" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/change_password_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBAZXJyb3JzID0gaGl0YWNoaS5lcnJvcnMK</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>cwid</text>
       </register>
       <register name="/" type="4">
         <text>tag</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHN0cm9uZz5QYXNzd29yZCBNdXN0Ojwvc3Ryb25nPjxici8+PGJyLz4K</text>
+      <register name="0" type="4">
+        <text>input_html: { value: @password_change.password }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPCU9IHQoOmZvcmdvdF9wYXNzd29yZF9oZWxwKS5odG1sX3NhZmUgJT48YnIvPjxici8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBAZXJyb3JzID0gaGl0YWNoaS5lcnJvcnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPCU9IHQoOnBhc3N3b3JkX3JlcXVpcmVtZW50cykuaHRtbF9zYWZlICU+PGJyLz48YnIvPgo=</text>
+        <text encoding="base64">ICAgICAgIyAzKSBvbiBzdWNjZXNzIHVwZGF0ZSBwYXNzd29yZCBpbiBoaXRhY2hpIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHN0cm9uZz5QYXNzd29yZCBNdXN0Ojwvc3Ryb25nPjxici8+PGJyLz4K</text>
+        <text encoding="base64">ICAgICAgIyAyKSB2YWxpZGF0ZSBjd2lkL3Bhc3N3b3JkIGFnYWluc3QgbWRzX2xkYXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAlZGl2e2NsYXNzOiAiY29sLW1kLTYifQo=</text>
+        <text encoding="base64">ICAgICAgIyAxKSBwcm9tcHQgZm9yIGN3aWQvcGFzc3dvcmQvbmV3X3Bhc3N3b3JkL3Bhc3N3b3JkX2NvbmZpcm1hdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICVzcGFue2NsYXNzOiAiaGVscC1ibG9jayBoZWxwLWJsb2NrLWluZm8ifQo=</text>
+        <text encoding="base64">PSBmb3JtX3RhZyhhY2NvdW50X3NldF9wYXNzd29yZF9wYXRoLCBtZXRob2Q6ICJwb3N0Iiwgcm9sZTogImZvcm0iLCByZW1vdGU6IHRydWUpIGRvCiAgJWRpdntjbGFzczogImZvcm0tZ3JvdXAgbmV3X3Bhc3N3b3JkIn0KICAgICVsYWJlbHtmb3I6ICJuZXdfcGFzc3dvcmQiLCBjbGFzczogImNvbnRyb2wtbGFiZWwifSBOZXcgUGFzc3dvcmQKICAgICVpbnB1dHt0eXBlOiAicGFzc3dvcmQiLCBjbGFzczogImZvcm0tY29udHJvbCIsIG5hbWU6ICJuZXdfcGFzc3dvcmQiLCB2YWx1ZTogIiN7QHBhc3N3b3JkX2NoYW5nZS5uZXdfcGFzc3dvcmR9Iiwgc3R5bGU6ICJ3aWR0aDogMTcwcHg7In0KICAgIC0gaWYgQHBhc3N3b3JkX2NoYW5nZS5lcnJvcnNbOm5ld19wYXNzd29yZF0ucHJlc2VudD8KICAgICAgJXNwYW57Y2xhc3M6ICJoZWxwLWJsb2NrIn09IEBwYXNzd29yZF9jaGFuZ2UuZXJyb3JzWzpuZXdfcGFzc3dvcmRdLmZpcnN0CiAgJWRpdntjbGFzczogImZvcm0tZ3JvdXAgcGFzc3dvcmRfY29uZmlybWF0aW9uIn0KICAgICVsYWJlbHtmb3I6ICJwYXNzd29yZF9jb25maXJtYXRpb24iLCBjbGFzczogImNvbnRyb2wtbGFiZWwifSBQYXNzd29yZCBDb25maXJtYXRpb24KICAgICVpbnB1dHt0eXBlOiAicGFzc3dvcmQiLCBjbGFzczogImZvcm0tY29udHJvbCIsIG5hbWU6ICJwYXNzd29yZF9jb25maXJtYXRpb24iLCB2YWx1ZTogIiN7QHBhc3N3b3JkX2NoYW5nZS5wYXNzd29yZF9jb25maXJtYXRpb259Iiwgc3R5bGU6ICJ3aWR0aDogMTcwcHg7In0KICAgIC0gaWYgQHBhc3N3b3JkX2NoYW5nZS5lcnJvcnNbOnBhc3N3b3JkX2NvbmZpcm1hdGlvbl0ucHJlc2VudD8KICAgICAgJXNwYW57Y2xhc3M6ICJoZWxwLWJsb2NrIn09IEBwYXNzd29yZF9jaGFuZ2UuZXJyb3JzWzpwYXNzd29yZF9jb25maXJtYXRpb25dLmZpcnN0CiAgJWhyCiAgJWRpdntjbGFzczogImZvcm0tZ3JvdXAifQogICAgJWlucHV0e3R5cGU6ICJzdWJtaXQiLCBjbGFzczogImJ0biBidG4td2NtLXN1Ym1pdCIsIHZhbHVlOiAiU3VibWl0IiwgImRhdGEtZGlzYWJsZS13aXRoIjogIlBsZWFzZSB3YWl0Li4uIn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPSBsaW5rX3RvKCdBbHJlYWR5IGhhdmUgeW91ciBUZW1wb3JhcnkgUGFzc3dvcmQ/IFRoZW4gc2tpcCB0byBzdGVwIDIuJywgYWNjb3VudF9hY3RpdmF0ZV9zdGVwMl91cmwpCg==</text>
+        <text encoding="base64">Cgo9IGZvcm1fdGFnKGFjY291bnRfc2V0X3Bhc3N3b3JkX3BhdGgsIG1ldGhvZDogInBvc3QiLCByb2xlOiAiZm9ybSIsIHJlbW90ZTogdHJ1ZSkgZG8KICAlZGl2e2NsYXNzOiAiZm9ybS1ncm91cCBuZXdfcGFzc3dvcmQifQogICAgJWxhYmVse2ZvcjogIm5ld19wYXNzd29yZCIsIGNsYXNzOiAiY29udHJvbC1sYWJlbCJ9IE5ldyBQYXNzd29yZAogICAgJWlucHV0e3R5cGU6ICJwYXNzd29yZCIsIGNsYXNzOiAiZm9ybS1jb250cm9sIiwgbmFtZTogIm5ld19wYXNzd29yZCIsIHZhbHVlOiAiI3tAcGFzc3dvcmRfY2hhbmdlLm5ld19wYXNzd29yZH0iLCBzdHlsZTogIndpZHRoOiAxNzBweDsifQogICAgLSBpZiBAcGFzc3dvcmRfY2hhbmdlLmVycm9yc1s6bmV3X3Bhc3N3b3JkXS5wcmVzZW50PwogICAgICAlc3BhbntjbGFzczogImhlbHAtYmxvY2sifT0gQHBhc3N3b3JkX2NoYW5nZS5lcnJvcnNbOm5ld19wYXNzd29yZF0uZmlyc3QKICAlZGl2e2NsYXNzOiAiZm9ybS1ncm91cCBwYXNzd29yZF9jb25maXJtYXRpb24ifQogICAgJWxhYmVse2ZvcjogInBhc3N3b3JkX2NvbmZpcm1hdGlvbiIsIGNsYXNzOiAiY29udHJvbC1sYWJlbCJ9IFBhc3N3b3JkIENvbmZpcm1hdGlvbgogICAgJWlucHV0e3R5cGU6ICJwYXNzd29yZCIsIGNsYXNzOiAiZm9ybS1jb250cm9sIiwgbmFtZTogInBhc3N3b3JkX2NvbmZpcm1hdGlvbiIsIHZhbHVlOiAiI3tAcGFzc3dvcmRfY2hhbmdlLnBhc3N3b3JkX2NvbmZpcm1hdGlvbn0iLCBzdHlsZTogIndpZHRoOiAxNzBweDsifQogICAgLSBpZiBAcGFzc3dvcmRfY2hhbmdlLmVycm9yc1s6cGFzc3dvcmRfY29uZmlybWF0aW9uXS5wcmVzZW50PwogICAgICAlc3BhbntjbGFzczogImhlbHAtYmxvY2sifT0gQHBhc3N3b3JkX2NoYW5nZS5lcnJvcnNbOnBhc3N3b3JkX2NvbmZpcm1hdGlvbl0uZmlyc3QKICAlaHIKICAlZGl2e2NsYXNzOiAiZm9ybS1ncm91cCJ9CiAgICAlaW5wdXR7dHlwZTogInN1Ym1pdCIsIGNsYXNzOiAiYnRuIGJ0bi13Y20tc3VibWl0IiwgdmFsdWU6ICJTdWJtaXQiLCAiZGF0YS1kaXNhYmxlLXdpdGgiOiAiUGxlYXNlIHdhaXQuLi4ifQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJWJyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJWJyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1066,13 +1072,13 @@
         <entry>action GotoTest</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action QuickList.Ruby/Rails</entry>
         <entry>e</entry>
         <entry>d</entry>
-        <entry>action GotoFile</entry>
-        <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action QuickList.Ruby/Rails</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
