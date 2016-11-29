@@ -470,6 +470,12 @@
         <mark key="." line="6" column="53" />
         <mark key="^" line="6" column="53" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/repl/commands/help.rb" timestamp="1480383545661">
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="19" column="64" />
+        <mark key="." line="19" column="64" />
+        <mark key="^" line="19" column="64" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid/step5_controller.rb" timestamp="1480286999258">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -823,7 +829,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480382989648">
+      <file name="/Dummy.txt" timestamp="1480383278562">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -1006,16 +1012,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FalsePositive</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>FalsePositive</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdoZW4gQ29tbWFuZHM6OkZhbHNlUG9zaXRpdmUKICAgICAgICAgICAgQ29tbWFuZHM6OkZhbHNlUG9zaXRpdmUubmV3KEBlbnYpCg==</text>
+        <text encoding="base64">KHBjKSAgcG9zc2libGVfY29tcHJvbWlzZSAgICAtIG1hcmsgYWxlcnQgYXMgYSAncG9zc2libGUgY29tcHJvbWlzZScsIGFwcGVuZCB0byBoaXN0b3J5Lmpzb24gYW5kIGFsZXJ0cy5qc29uCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBAZXJyb3JzID0gaGl0YWNoaS5lcnJvcnMK</text>
@@ -1045,7 +1051,7 @@
         <text encoding="base64">ICAgICAgICBwYXJhbXMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1086,7 +1092,6 @@
         <entry>action Run</entry>
         <entry>action RunClass</entry>
         <entry>action GotoAction</entry>
-        <entry>wq</entry>
         <entry>action GotoTest</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
@@ -1098,6 +1103,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
