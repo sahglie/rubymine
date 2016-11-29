@@ -641,6 +641,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="38" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/repl/commands/compromise.rb" timestamp="1480382578296">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="2" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/email_tmp_password.rb" timestamp="1475710408202">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="17" />
@@ -658,6 +663,12 @@
         <mark key="]" line="12" column="45" />
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/repl/commands/general_event_type.rb" timestamp="1480382742899">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="31" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/verify_email_controller.rb" timestamp="1475710715841">
         <mark key="[" line="7" column="21" />
@@ -860,6 +871,12 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/repl/cli.rb" timestamp="1480382902696">
+        <mark key="[" line="72" column="22" />
+        <mark key="]" line="72" column="37" />
+        <mark key="." line="72" column="37" />
+        <mark key="^" line="72" column="37" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/set_questions.js.erb" timestamp="1480271371739">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="66" />
@@ -886,7 +903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/security_questions/update.js.erb" />
       <jump line="28" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2.html.erb" />
       <jump line="11" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step3.html.erb" />
       <jump line="52" column="1" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
@@ -986,19 +1002,20 @@
       <jump line="13" column="6" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/change_password_controller.rb" />
       <jump line="10" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/app/services/data_enrichment/queue.rb" />
       <jump line="93" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/services/data_enrichment/queue.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/repl/commands/compromise.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAZXJyb3JzID0gaGl0YWNoaS5lcnJvcnMK</text>
+      <register name="&quot;" type="4">
+        <text>FalsePositive</text>
       </register>
       <register name="-" type="4">
-        <text>cwid</text>
+        <text>FalsePositive</text>
       </register>
       <register name="/" type="4">
         <text>tag</text>
       </register>
-      <register name="0" type="4">
-        <text>input_html: { value: @password_change.password }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHdoZW4gQ29tbWFuZHM6OkZhbHNlUG9zaXRpdmUKICAgICAgICAgICAgQ29tbWFuZHM6OkZhbHNlUG9zaXRpdmUubmV3KEBlbnYpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBAZXJyb3JzID0gaGl0YWNoaS5lcnJvcnMK</text>
@@ -1028,7 +1045,7 @@
         <text encoding="base64">ICAgICAgICBwYXJhbXMK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -1077,10 +1094,10 @@
         <entry>d</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action QuickList.Ruby/Rails</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
