@@ -303,12 +303,6 @@
         <mark key="^" line="14" column="67" />
         <mark key="." line="14" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_lease.rb" timestamp="1480443569514">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="30" column="14" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/metrics/ops_reports/show.html.erb" timestamp="1476226674040">
         <mark key="[" line="29" column="9" />
         <mark key="]" line="29" column="9" />
@@ -829,7 +823,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480383550148">
+      <file name="/Dummy.txt" timestamp="1480443623128">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -1045,7 +1039,7 @@
         <text encoding="base64">ICAgICAgIyAxKSBwcm9tcHQgZm9yIGN3aWQvcGFzc3dvcmQvbmV3X3Bhc3N3b3JkL3Bhc3N3b3JkX2NvbmZpcm1hdGlvbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -1084,7 +1078,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b1N5bWJvbA==</entry>
         <entry>action Debug</entry>
         <entry>action GotoAction</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>e</entry>
         <entry>d</entry>
@@ -1092,12 +1085,13 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action RecentFiles</entry>
         <entry>wq</entry>
         <entry>action RunClass</entry>
         <entry>action GotoTest</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
