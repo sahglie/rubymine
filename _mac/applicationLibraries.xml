@@ -4370,6 +4370,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/coffee-script-source-1.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-script-source (v1.11.1, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/coffee-script-source-1.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/coffee-script-source-1.11.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-script-source (v1.7.0, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/coffee-script-source-1.7.0/lib" />
@@ -9072,6 +9080,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/jbuilder-2.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/jbuilder-2.6.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="jbuilder (v2.6.1, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/jbuilder-2.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/jbuilder-2.6.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/jbuilder-2.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/jbuilder-2.6.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="jdbc-derby (v10.10.2.0@5216f0, RVM: ruby-2.2.3) [gem]">
@@ -14822,6 +14840,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/puma-3.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/puma-3.6.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/puma-3.6.2/tools" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.6.2, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.2/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.2/tools" />
       </SOURCES>
     </library>
     <library name="puma (v3.6.2, RVM: ruby-2.2.5) [gem]">
@@ -21828,6 +21860,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/thor-0.19.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/thor-0.19.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.4, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/thor-0.19.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/thor-0.19.4/lib" />
       </SOURCES>
     </library>
     <library name="thread (v0.1.7, RVM: ruby-2.2.3) [gem]">
