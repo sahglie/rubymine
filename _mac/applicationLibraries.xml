@@ -19880,6 +19880,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/shoulda-matchers-3.1.1/.hound_config" />
       </SOURCES>
     </library>
+    <library name="sidekiq (v4.2.2, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sidekiq-4.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sidekiq-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sidekiq-4.2.2/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sidekiq-4.2.2/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sidekiq-4.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sidekiq-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sidekiq-4.2.2/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sidekiq-4.2.2/.github" />
+      </SOURCES>
+    </library>
     <library name="sidekiq (v4.2.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sidekiq-4.2.2/bin" />
