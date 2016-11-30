@@ -248,10 +248,10 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/sidekiq.rb" timestamp="1480542187569">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-        <mark key="." line="5" column="41" />
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+        <mark key="." line="1" column="41" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/update.js.erb" timestamp="1480288213390">
         <mark key="[" line="2" column="22" />
@@ -1094,7 +1094,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1139,14 +1139,14 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoRelated</entry>
         <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
