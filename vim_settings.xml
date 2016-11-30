@@ -427,11 +427,11 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480541317287">
-        <mark key="[" line="132" column="32" />
-        <mark key="]" line="133" column="50" />
-        <mark key="^" line="133" column="50" />
-        <mark key="." line="133" column="50" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480548279724">
+        <mark key="[" line="131" column="56" />
+        <mark key="]" line="131" column="59" />
+        <mark key="^" line="131" column="59" />
+        <mark key="." line="131" column="59" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2/index.html.haml" timestamp="1480286088379">
         <mark key="'" line="19" column="6" />
@@ -1059,10 +1059,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>production</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>tag</text>
