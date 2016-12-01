@@ -544,6 +544,12 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="41" column="57" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" timestamp="1480631301354">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/cases/anomalous_behaviour.rb" timestamp="1475602463417">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="68" />
@@ -557,11 +563,11 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_packet_worker.rb" timestamp="1480614862976">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="2" column="26" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_packet_worker.rb" timestamp="1480631415556">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="16" column="56" />
+        <mark key="^" line="16" column="56" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/metrics/ops_reports/nessus.rb" timestamp="1476133283060">
         <mark key="[" line="57" column="60" />
@@ -859,9 +865,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/snort.rb" timestamp="1480547390748">
-        <mark key="[" line="48" column="16" />
-        <mark key="]" line="48" column="21" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/snort.rb" timestamp="1480631310468">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="44" column="89" />
         <mark key="." line="48" column="21" />
         <mark key="^" line="48" column="21" />
       </file>
@@ -1059,47 +1065,47 @@
       <jump line="3" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, platform: :mri</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBAZXZlbnRfanNvblsicGFja2V0X2RhdGFfYmFzZTY0Il0gPSA6OlNub3J0OjpQYWNrZXQuaGV4X3RvX2Jhc2U2NChAZXZlbnRfanNvblsicGFja2V0X2RhdGFfaGV4Il0pCiAgICAgICAgcGFja2V0ID0gOjpTbm9ydDo6UGFja2V0Lm5ld19mcm9tX2pzb24oQGV2ZW50X2pzb24pCiAgICAgICAgY29hbGVzY2VfaWQgPSA6OlNub3J0OjpQYWNrZXQuZXh0cmFjdF9jb2FsZXNjZV9pZChAZXZlbnRfanNvbikKICAgICAgICBldmVudF90cyA9IDo6U25vcnQ6OlBhY2tldC5leHRyYWN0X2V2ZW50X3RzKEBldmVudF9qc29uKQogICAgICAgIGV2ZW50ID0gOjpTbm9ydDo6RXZlbnQuZmluZF9ieShldmVudF9jb2FsZXNjZV9pZDogY29hbGVzY2VfaWQsIGV2ZW50X3RzOiBldmVudF90cykK</text>
       </register>
       <register name="-" type="4">
-        <text>, platform: :mri</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>ruby</text>
       </register>
-      <register name="0" type="4">
-        <text>git: 'https://github.com/jruby/activerecord-jdbc-adapter.git', branch: 'rails-5'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBAZXZlbnRfanNvblsicGFja2V0X2RhdGFfYmFzZTY0Il0gPSA6OlNub3J0OjpQYWNrZXQuaGV4X3RvX2Jhc2U2NChAZXZlbnRfanNvblsicGFja2V0X2RhdGFfaGV4Il0pCiAgICAgICAgcGFja2V0ID0gOjpTbm9ydDo6UGFja2V0Lm5ld19mcm9tX2pzb24oQGV2ZW50X2pzb24pCiAgICAgICAgY29hbGVzY2VfaWQgPSA6OlNub3J0OjpQYWNrZXQuZXh0cmFjdF9jb2FsZXNjZV9pZChAZXZlbnRfanNvbikKICAgICAgICBldmVudF90cyA9IDo6U25vcnQ6OlBhY2tldC5leHRyYWN0X2V2ZW50X3RzKEBldmVudF9qc29uKQogICAgICAgIGV2ZW50ID0gOjpTbm9ydDo6RXZlbnQuZmluZF9ieShldmVudF9jb2FsZXNjZV9pZDogY29hbGVzY2VfaWQsIGV2ZW50X3RzOiBldmVudF90cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZW0gJ2FjdGl2ZXJlY29yZC1qZGJjc3FsaXRlMy1hZGFwdGVyJywgZ2l0OiAnaHR0cHM6Ly9naXRodWIuY29tL2pydWJ5L2FjdGl2ZXJlY29yZC1qZGJjLWFkYXB0ZXIuZ2l0JywgYnJhbmNoOiAncmFpbHMtNScK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZW0gJ2FjdGl2ZXJlY29yZC1vcmFjbGVfZW5oYW5jZWQtYWRhcHRlcicsICd+PiAxLjcuMCcK</text>
+        <text encoding="base64">ICBnZW0gJ2FjdGl2ZXJlY29yZC1qZGJjc3FsaXRlMy1hZGFwdGVyJywgZ2l0OiAnaHR0cHM6Ly9naXRodWIuY29tL2pydWJ5L2FjdGl2ZXJlY29yZC1qZGJjLWFkYXB0ZXIuZ2l0JywgYnJhbmNoOiAncmFpbHMtNScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZW0gJ3RoZXJ1YnlyaGlubycK</text>
+        <text encoding="base64">ICBnZW0gJ2FjdGl2ZXJlY29yZC1vcmFjbGVfZW5oYW5jZWQtYWRhcHRlcicsICd+PiAxLjcuMCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICBnZW0gJ3RoZXJ1YnlyaGlubycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhayBpZiBwYWNrZXRzLmxlbmd0aCA8IDVfMDAwCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvc2l6ZSArPSBsc2l6ZQo=</text>
+        <text encoding="base64">ICAgICAgICBicmVhayBpZiBwYWNrZXRzLmxlbmd0aCA8IDVfMDAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBvc2l6ZSArPSBsc2l6ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFNub3J0UGFja2V0V29ya2VyLnBlcmZvcm1fYXN5bmMocGFja2V0LmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYWNrZXRzLmVhY2ggZG8gfHBhY2tldHwK</text>
+        <text encoding="base64">ICAgICAgICAgIFNub3J0UGFja2V0V29ya2VyLnBlcmZvcm1fYXN5bmMocGFja2V0LmlkKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1145,14 +1151,14 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoRelated</entry>
         <entry>action Run</entry>
-        <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoTest</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
