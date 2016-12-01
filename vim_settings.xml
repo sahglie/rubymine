@@ -557,11 +557,11 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_packet_worker.rb" timestamp="1480547368845">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="31" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_packet_worker.rb" timestamp="1480614862976">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/metrics/ops_reports/nessus.rb" timestamp="1476133283060">
         <mark key="[" line="57" column="60" />
@@ -1099,7 +1099,7 @@
         <text encoding="base64">ICAgICAgICBwYWNrZXRzLmVhY2ggZG8gfHBhY2tldHwK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1150,9 +1150,9 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
-        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
