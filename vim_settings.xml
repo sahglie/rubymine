@@ -428,10 +428,10 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480549737544">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480633792634">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2/index.html.haml" timestamp="1480286088379">
         <mark key="'" line="19" column="6" />
@@ -544,12 +544,12 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="41" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" timestamp="1480633051976">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" timestamp="1480633701334">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="55" column="7" />
-        <mark key="]" line="55" column="7" />
-        <mark key="." line="55" column="7" />
-        <mark key="^" line="55" column="7" />
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="47" column="39" />
+        <mark key="." line="47" column="39" />
+        <mark key="^" line="47" column="39" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/cases/anomalous_behaviour.rb" timestamp="1475602463417">
         <mark key="[" line="25" column="0" />
@@ -564,11 +564,11 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_packet_worker.rb" timestamp="1480632995652">
-        <mark key="[" line="19" column="78" />
-        <mark key="]" line="19" column="78" />
-        <mark key="^" line="40" column="14" />
-        <mark key="." line="19" column="78" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_packet_worker.rb" timestamp="1480633661191">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/metrics/ops_reports/nessus.rb" timestamp="1476133283060">
         <mark key="[" line="57" column="60" />
@@ -866,11 +866,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/snort.rb" timestamp="1480632741626">
-        <mark key="[" line="45" column="38" />
-        <mark key="]" line="46" column="39" />
-        <mark key="." line="46" column="39" />
-        <mark key="^" line="46" column="39" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/snort.rb" timestamp="1480633647409">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="34" column="27" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/metrics/002_reports.sql" timestamp="1476128541539">
         <mark key="[" line="10" column="2" />
@@ -1066,11 +1066,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdW5sZXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ruby</text>
@@ -1079,31 +1079,31 @@
         <text encoding="base64">ICBFdmVudE5vdEZvdW5kID0gQ2xhc3MubmV3KFN0YW5kYXJkRXJyb3IpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2Vuc29yX2hvc3RuYW1lOiBzZW5zb3JfaG9zdG5hbWUK</text>
+        <text encoding="base64">ICAgICAgdW5sZXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgTm9vcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXNjdWUgQWN0aXZlUmVjb3JkOjpSZWNvcmROb3RGb3VuZAo=</text>
+        <text encoding="base64">ICAjIGRlZiBwZXJmb3JtKHBhY2tldF9pZCkKICAjICAgcGFja2V0ID0gU25vcnQ6Ok9ycGhhbmVkUGFja2V0LmZpbmQocGFja2V0X2lkKQogICMgICBwcm9jZXNzZWQgPSBJZHM6OlByb2Nlc3NvcnM6OlNub3J0Lm5ldyhldmVudF9qc29uOiBwYWNrZXQucGFja2V0X2pzb24pLigpCiAgIyAgIGlmIHByb2Nlc3NlZAogICMgICAgIHBhY2tldC5kZXN0cm95CiAgIyAgIGVsc2UKICAjICAgICByYWlzZSBTdGFuZGFyZEVycm9yLCAiZXZlbnQgbm90IGZvdW5kIGZvciBwYWNrZXQiCiAgIyAgIGVuZAogICMgcmVzY3VlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQKICAjICAgIyBOb29wCiAgIyBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBldmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmFpc2UgU3RhbmRhcmRFcnJvciwgImV2ZW50IG5vdCBmb3VuZCBmb3IgcGFja2V0Igo=</text>
+        <text encoding="base64">ICAgICAgRXJyb3IgPSBDbGFzcy5uZXcoU3RhbmRhcmRFcnJvcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgSW52YWxpZFBheWxvYWQgPSBDbGFzcy5uZXcoRXJyb3IpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGFja2V0LmRlc3Ryb3kK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHByb2Nlc3NlZAo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NlZCA9IElkczo6UHJvY2Vzc29yczo6U25vcnQubmV3KGV2ZW50X2pzb246IHBhY2tldC5wYWNrZXRfanNvbikuKCkK</text>
+        <text encoding="base64">ICAgICAgICA6OlNub3J0OjpPcnBoYW5lZFBhY2tldC5wYWNrZXQocGFja2V0X2pzb246IEBldmVudF9qc29uLCBlcnJvcl9tc2c6IGVycl9tc2cpLnNhdmUhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
