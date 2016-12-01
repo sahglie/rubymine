@@ -66,11 +66,12 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1480547613639">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="10" />
-        <mark key="." line="50" column="10" />
-        <mark key="^" line="50" column="10" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1480549765628">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="57" column="7" />
+        <mark key="]" line="57" column="9" />
+        <mark key="." line="57" column="9" />
+        <mark key="^" line="57" column="9" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_header.html.haml" timestamp="1480286142357">
         <mark key="[" line="4" column="14" />
@@ -427,11 +428,10 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480548279724">
-        <mark key="[" line="131" column="56" />
-        <mark key="]" line="131" column="59" />
-        <mark key="^" line="131" column="59" />
-        <mark key="." line="131" column="59" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480549737544">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2/index.html.haml" timestamp="1480286088379">
         <mark key="'" line="19" column="6" />
@@ -918,11 +918,12 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile" timestamp="1480540670013">
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile" timestamp="1480550329523">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="32" column="14" />
+        <mark key="^" line="32" column="29" />
+        <mark key="." line="32" column="14" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/index.html.haml" timestamp="1479924552856">
         <mark key="[" line="19" column="20" />
@@ -956,9 +957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="34" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4.html.erb" />
-      <jump line="51" column="21" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
       <jump line="9" column="17" filename="$USER_HOME$/Development/projects/myaccount/lib/account/cwid_progress.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/change_password_controller.rb" />
       <jump line="21" column="5" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/change_password_controller.rb" />
@@ -1056,55 +1054,58 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
       <jump line="36" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
       <jump line="82" column="50" filename="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" />
+      <jump line="15" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
+      <jump line="44" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
+      <jump line="3" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>, platform: :mri</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, platform: :mri</text>
       </register>
       <register name="/" type="4">
-        <text>tag</text>
+        <text>ruby</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ19lcnJvcigiSW52YWxpZCBzbm9ydCBwYWNrZXQ6ICN7cGFja2V0LmVycm9ycy5mdWxsX21lc3NhZ2VzfSIpCg==</text>
+      <register name="0" type="4">
+        <text>git: 'https://github.com/jruby/activerecord-jdbc-adapter.git', branch: 'rails-5'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwb29sOiAyNQo=</text>
+        <text encoding="base64">ICBnZW0gJ2FjdGl2ZXJlY29yZC1qZGJjc3FsaXRlMy1hZGFwdGVyJywgZ2l0OiAnaHR0cHM6Ly9naXRodWIuY29tL2pydWJ5L2FjdGl2ZXJlY29yZC1qZGJjLWFkYXB0ZXIuZ2l0JywgYnJhbmNoOiAncmFpbHMtNScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3Nvci4oKQo=</text>
+        <text encoding="base64">ICBnZW0gJ2FjdGl2ZXJlY29yZC1vcmFjbGVfZW5oYW5jZWQtYWRhcHRlcicsICd+PiAxLjcuMCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICNsb2dfZXJyb3IoIkludmFsaWQgc25vcnQgcGFja2V0OiAje3BhY2tldC5lcnJvcnMuZnVsbF9tZXNzYWdlc30iKQo=</text>
+        <text encoding="base64">ICBnZW0gJ3RoZXJ1YnlyaGlubycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYWNrZXQuZGVzdHJveQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBicmVhayBpZiBwYWNrZXRzLmxlbmd0aCA8IDVfMDAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvc2l6ZSArPSBsc2l6ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW91bnQgU2lkZWtpcTo6V2ViID0+ICcvc2lkZWtpcScK</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtb3VudCBTaWRla2lxOjpXZWIsIGF0OiAiL2FkbWluL3NpZGVraXEiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFNub3J0UGFja2V0V29ya2VyLnBlcmZvcm1fYXN5bmMocGFja2V0LmlkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWNrZXRzLmVhY2ggZG8gfHBhY2tldHwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tag</last-search>
+      <last-search>ruby</last-search>
       <last-offset />
-      <last-pattern>tag</last-pattern>
+      <last-pattern>ruby</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>tag</last-substitute>
       <last-dir>1</last-dir>
@@ -1129,6 +1130,7 @@
         <entry>pg</entry>
         <entry>ignore</entry>
         <entry>tag</entry>
+        <entry>ruby</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -1147,8 +1149,8 @@
         <entry>action RunClass</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoAction</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
