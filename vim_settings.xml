@@ -1099,7 +1099,7 @@
         <text encoding="base64">ICAgICAgICBwYWNrZXRzLmVhY2ggZG8gfHBhY2tldHwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1151,8 +1151,8 @@
         <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
