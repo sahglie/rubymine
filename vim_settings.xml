@@ -1114,7 +1114,7 @@
         <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1167,8 +1167,8 @@
         <entry>action GotoAction</entry>
         <entry>action GotoTest</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
