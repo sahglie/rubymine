@@ -604,11 +604,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/jobs/snort_packet_job.rb" timestamp="1480718639223">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/jobs/snort_packet_job.rb" timestamp="1480719491646">
         <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="42" />
-        <mark key="^" line="6" column="42" />
-        <mark key="." line="6" column="42" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan.rb" timestamp="1478550115613">
         <mark key="[" line="3" column="25" />
@@ -920,7 +920,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480719212651">
+      <file name="/Dummy.txt" timestamp="1480719278963">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -1101,11 +1101,11 @@
       <jump line="90" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZcPg==</text>
