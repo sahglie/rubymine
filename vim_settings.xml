@@ -250,11 +250,11 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/sidekiq.rb" timestamp="1480634693144">
-        <mark key="[" line="5" column="70" />
-        <mark key="]" line="5" column="78" />
-        <mark key="^" line="5" column="78" />
-        <mark key="." line="5" column="78" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/sidekiq.rb" timestamp="1480718435435">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="52" />
+        <mark key="^" line="9" column="52" />
+        <mark key="." line="9" column="52" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/update.js.erb" timestamp="1480288213390">
         <mark key="[" line="2" column="22" />
@@ -425,9 +425,9 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_event_worker.rb" timestamp="1480717166112">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_event_worker.rb" timestamp="1480718408918">
         <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
+        <mark key="]" line="41" column="43" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="43" column="42" />
       </file>
@@ -916,7 +916,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480717228630">
+      <file name="/Dummy.txt" timestamp="1480718439153">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -1097,44 +1097,44 @@
       <jump line="90" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihlLCA6ZGF0YSA9PiB7IGRhdGE6IGV2ZW50IH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA6ZGF0YSA9PiB7IGRhdGE6IGV2ZW50IH0p</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihlLCA6ZGF0YSA9PiB7IGRhdGE6IGV2ZW50IH0pCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihlLCA6ZGF0YSA9PiB7IGRhdGE6IGV2ZW50IH0pCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihlKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihlLCA6ZGF0YSA9PiB7IGRhdGE6IGV2ZW50IH0pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEV4Y2VwdGlvbk5vdGlmaWVyLm5vdGlmeV9leGNlcHRpb24oZSwgOmRhdGEgPT4geyBkYXRhOiBldmVudCB9KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFeGNlcHRpb25Ob3RpZmllci5ub3RpZnlfZXhjZXB0aW9uKGUsIDpkYXRhID0+IHsgZGF0YTogRU5WIH0pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEV4Y2VwdGlvbk5vdGlmaWVyLm5vdGlmeV9leGNlcHRpb24oZSwgOmRhdGEgPT4geyBkYXRhOiBFTlYgfSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEV4Y2VwdGlvbk5vdGlmaWVyLm5vdGlmeV9leGNlcHRpb24oZSwgOmRhdGEgPT4geyBkYXRhOiBldmVudCB9KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBFeGNlcHRpb25Ob3RpZmllci5ub3RpZnlfZXhjZXB0aW9uKGUsIDpkYXRhID0+IHsgZGF0YTogRU5WIH0pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEV4Y2VwdGlvbk5vdGlmaWVyLm5vdGlmeV9leGNlcHRpb24oZSwgOmRhdGEgPT4geyBkYXRhOiBFTlYgfSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgbm90aWZ5X2V4Y2VwdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRzdGRlcnIucHV0cyhlLm1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICBkZWYgbm90aWZ5X2V4Y2VwdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1189,9 +1189,9 @@
         <entry>action GotoAction</entry>
         <entry>wq</entry>
         <entry>action GotoTest</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
