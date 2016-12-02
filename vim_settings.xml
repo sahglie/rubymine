@@ -561,12 +561,12 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="41" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" timestamp="1480703235769">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" timestamp="1480709402274">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="42" column="58" />
-        <mark key="]" line="42" column="59" />
-        <mark key="^" line="42" column="29" />
-        <mark key="." line="42" column="59" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="12" />
+        <mark key="^" line="41" column="12" />
+        <mark key="." line="41" column="12" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/cases/anomalous_behaviour.rb" timestamp="1475602463417">
         <mark key="[" line="25" column="0" />
@@ -1120,7 +1120,7 @@
         <text encoding="base64">ICAjIGRlZiBwZXJmb3JtKHBhY2tldF9pZCkKICAjICAgcGFja2V0ID0gU25vcnQ6Ok9ycGhhbmVkUGFja2V0LmZpbmQocGFja2V0X2lkKQogICMgICBwcm9jZXNzZWQgPSBJZHM6OlByb2Nlc3NvcnM6OlNub3J0Lm5ldyhldmVudF9qc29uOiBwYWNrZXQucGFja2V0X2pzb24pLigpCiAgIyAgIGlmIHByb2Nlc3NlZAogICMgICAgIHBhY2tldC5kZXN0cm95CiAgIyAgIGVsc2UKICAjICAgICByYWlzZSBFdmVudE5vdEZvdW5kCiAgIyAgIGVuZAogICMgcmVzY3VlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQKICAjICAgIyBOb29wCiAgIyBlbmQK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1173,9 +1173,9 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoTest</entry>
+        <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
-        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
