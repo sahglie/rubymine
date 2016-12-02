@@ -357,6 +357,13 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="67" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_quality_assurance" timestamp="1480702982738">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/repos/question.rb" timestamp="1480282210429">
         <mark key="[" line="72" column="39" />
         <mark key="]" line="72" column="46" />
@@ -890,7 +897,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480702316604">
+      <file name="/Dummy.txt" timestamp="1480702985058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -965,7 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="40" filename="$USER_HOME$/Development/projects/myaccount/spec/lib/account/cwid_progress_spec.rb" />
       <jump line="61" column="25" filename="$USER_HOME$/Development/projects/myaccount/spec/lib/account/cwid_progress_spec.rb" />
       <jump line="25" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/change_password_controller.rb" />
       <jump line="68" column="34" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
@@ -1065,6 +1071,7 @@
       <jump line="196" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
       <jump line="130" column="36" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
       <jump line="131" column="43" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_quality_assurance" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1074,7 +1081,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ruby</text>
+        <text>osx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV2ZW50LmFkZF9wYWNrZXQocGFja2V0KQogICAgZXZlbnQuc2F2ZSEK</text>
@@ -1111,9 +1118,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ruby</last-search>
+      <last-search>osx</last-search>
       <last-offset />
-      <last-pattern>ruby</last-pattern>
+      <last-pattern>osx</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>tag</last-substitute>
       <last-dir>1</last-dir>
@@ -1139,6 +1146,7 @@
         <entry>ignore</entry>
         <entry>tag</entry>
         <entry>ruby</entry>
+        <entry>osx</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
