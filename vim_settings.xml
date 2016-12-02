@@ -28,6 +28,9 @@
         <mark key="^" line="40" column="5" />
         <mark key="." line="40" column="5" />
       </file>
+      <file name="/a.dummy" timestamp="1480702213277">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/aggressive_ip.rb" timestamp="1479926929706">
         <mark key="[" line="23" column="54" />
         <mark key="]" line="23" column="5" />
@@ -565,11 +568,11 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_packet_worker.rb" timestamp="1480701134027">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="19" />
-        <mark key="^" line="23" column="19" />
-        <mark key="." line="23" column="19" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_packet_worker.rb" timestamp="1480702297564">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/metrics/ops_reports/nessus.rb" timestamp="1476133283060">
         <mark key="[" line="57" column="60" />
@@ -696,11 +699,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="38" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/repl/commands/compromise.rb" timestamp="1480382578296">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="45" column="2" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/email_tmp_password.rb" timestamp="1475710408202">
         <mark key="[" line="4" column="15" />
@@ -892,12 +890,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/010_nos_arp_ndp.sql" timestamp="1480445392271">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="67" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1480701135704">
+      <file name="/Dummy.txt" timestamp="1480702316604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -1075,40 +1068,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6ZHN0X2lwLCBpcF9hZGRyZXNzOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgcmV0cnkK</text>
       </register>
       <register name="-" type="4">
-        <text>Worker</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ruby</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFNpZGVraXE6Oldvcmtlcgo=</text>
+        <text encoding="base64">ICAgIGV2ZW50LmFkZF9wYWNrZXQocGFja2V0KQogICAgZXZlbnQuc2F2ZSEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6ZHN0X2lwLCBpcF9hZGRyZXNzOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgcmV0cnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6c3JjX2lwLCBpcF9hZGRyZXNzOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgZXZlbnQuc2F2ZSEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQgICAgICBldmVudC5hZGRfcGFja2V0KHBhY2tldCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIGRlZiBwZXJmb3JtKHBhY2tldF9pZCkKICAjICAgcGFja2V0ID0gU25vcnQ6Ok9ycGhhbmVkUGFja2V0LmZpbmQocGFja2V0X2lkKQogICMgICBwcm9jZXNzZWQgPSBJZHM6OlByb2Nlc3NvcnM6OlNub3J0Lm5ldyhldmVudF9qc29uOiBwYWNrZXQucGFja2V0X2pzb24pLigpCiAgIyAgIGlmIHByb2Nlc3NlZAogICMgICAgIHBhY2tldC5kZXN0cm95CiAgIyAgIGVsc2UKICAjICAgICByYWlzZSBFdmVudE5vdEZvdW5kCiAgIyAgIGVuZAogICMgcmVzY3VlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQKICAjICAgIyBOb29wCiAgIyBlbmQK</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6ZHN0X2lwLCBpcF9hZGRyZXNzOiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgcGVyZm9ybShwYWNrZXRfZGF0YTosIGV2ZW50X2lkOiwgZXZlbnRfdHM6LCBwYWNrZXRfdHM6LCBzcmNfaXA6LCBkc3RfaXA6OikKICAgIHBhY2tldCA9IFNub3J0OjpQYWNrZXQubmV3KAogICAgICBkYXRhOiBwYWNrZXRfZGF0YSwKICAgICAgZXZlbnRfaWQ6IGV2ZW50X2lkLAogICAgICBldmVudF90czogZXZlbnRfdHMsCiAgICAgIHBhY2tldF90czogcGFja2V0X3RzLAogICAgICBzcmNfaXA6IHNyY19pcCwKICAgICAgZHN0X2lwOiBkc3RfaXAsCiAgICApCgogICAgZXZlbnQgPSBTbm9ydDo6RXZlbnQuZmluZF9ieShldmVudF9jb2FsZXNjZV9pZDogcGFja2V0LmV2ZW50X2lkLCBldmVudF90czogcGFja2V0LmV2ZW50X3RzKQoKICAgIGlmIGV2ZW50Lm5pbD8KICAgICAgcmFpc2UgRXZlbnROb3RGb3VuZCwgcGFja2V0LmV4Y2VwdGlvbl9kYXRhCiAgICBlbmQKCiAgICBpZiBwYWNrZXQuaW52YWxpZD8KICAgICAgcmFpc2UgSW52YWxpZFBhY2tldCwgcGFja2V0LmV4Y2VwdGlvbl9kYXRhCiAgICBlbmQKCiAgICBldmVudC5hZGQocGFja2V0KQogICAgZXZlbnQuc2F2ZSEKICBlbmQK</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6c3JjX2lwLCBpcF9hZGRyZXNzOiB0cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmFpc2UgSW52YWxpZFBhY2tldCwgcGFja2V0LmV4Y2VwdGlvbl9kYXRhCg==</text>
+        <text encoding="base64">ICAjIGRlZiBwZXJmb3JtKHBhY2tldF9pZCkKICAjICAgcGFja2V0ID0gU25vcnQ6Ok9ycGhhbmVkUGFja2V0LmZpbmQocGFja2V0X2lkKQogICMgICBwcm9jZXNzZWQgPSBJZHM6OlByb2Nlc3NvcnM6OlNub3J0Lm5ldyhldmVudF9qc29uOiBwYWNrZXQucGFja2V0X2pzb24pLigpCiAgIyAgIGlmIHByb2Nlc3NlZAogICMgICAgIHBhY2tldC5kZXN0cm95CiAgIyAgIGVsc2UKICAjICAgICByYWlzZSBFdmVudE5vdEZvdW5kCiAgIyAgIGVuZAogICMgcmVzY3VlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQKICAjICAgIyBOb29wCiAgIyBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgcGVyZm9ybShwYWNrZXRfZGF0YTosIGV2ZW50X2lkOiwgZXZlbnRfdHM6LCBwYWNrZXRfdHM6LCBzcmNfaXA6LCBkc3RfaXA6OikKICAgIHBhY2tldCA9IFNub3J0OjpQYWNrZXQubmV3KAogICAgICBkYXRhOiBwYWNrZXRfZGF0YSwKICAgICAgZXZlbnRfaWQ6IGV2ZW50X2lkLAogICAgICBldmVudF90czogZXZlbnRfdHMsCiAgICAgIHBhY2tldF90czogcGFja2V0X3RzLAogICAgICBzcmNfaXA6IHNyY19pcCwKICAgICAgZHN0X2lwOiBkc3RfaXAsCiAgICApCgogICAgZXZlbnQgPSBTbm9ydDo6RXZlbnQuZmluZF9ieShldmVudF9jb2FsZXNjZV9pZDogcGFja2V0LmV2ZW50X2lkLCBldmVudF90czogcGFja2V0LmV2ZW50X3RzKQoKICAgIGlmIGV2ZW50Lm5pbD8KICAgICAgcmFpc2UgRXZlbnROb3RGb3VuZCwgcGFja2V0LmV4Y2VwdGlvbl9kYXRhCiAgICBlbmQKCiAgICBpZiBwYWNrZXQuaW52YWxpZD8KICAgICAgcmFpc2UgSW52YWxpZFBhY2tldCwgcGFja2V0LmV4Y2VwdGlvbl9kYXRhCiAgICBlbmQKCiAgICBldmVudC5hZGQocGFja2V0KQogICAgZXZlbnQuc2F2ZSEKICBlbmQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGVuZAo=</text>
