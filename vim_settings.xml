@@ -853,6 +853,7 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/snort/event_spec.rb" timestamp="1480715068321" />
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step5/index.html.erb" timestamp="1480287082082">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="45" />
@@ -903,7 +904,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480712213198">
+      <file name="/Dummy.txt" timestamp="1480712432991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -1120,7 +1121,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoTest</text>
       </register>
     </registers>
     <search>
@@ -1171,11 +1172,11 @@
         <entry>action GotoDeclaration</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoTest</entry>
         <entry>action GotoFile</entry>
         <entry>wq</entry>
-        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action GotoTest</entry>
       </history-cmd>
       <history-expr />
       <history-input />
