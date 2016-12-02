@@ -444,11 +444,11 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480710003195">
-        <mark key="'" line="132" column="43" />
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480710630725">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="57" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2/index.html.haml" timestamp="1480286088379">
         <mark key="'" line="19" column="6" />
@@ -561,12 +561,12 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="41" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" timestamp="1480709994273">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" timestamp="1480710522901">
         <mark key="'" line="86" column="0" />
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="12" />
-        <mark key="^" line="41" column="12" />
-        <mark key="." line="41" column="12" />
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="30" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/cases/anomalous_behaviour.rb" timestamp="1475602463417">
         <mark key="[" line="25" column="0" />
@@ -978,8 +978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/activerecord-5.0.0/lib/active_record/connection_adapters/postgresql/oid/cidr.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/alert_pig/aggressive_ip_rule_spec.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/alert_pig/aggressive_ip_ignore_spec.rb" />
       <jump line="42" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/alert_pig/aggressive_ip_spec.rb" />
       <jump line="46" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/alert_pig/aggressive_ip_spec.rb" />
@@ -1078,63 +1076,64 @@
       <jump line="160" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
       <jump line="41" column="12" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
       <jump line="86" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
+      <jump line="38" column="57" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
+      <jump line="46" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U2lkZWtpcTo6V2ViLnNldCg6c2Vzc2lvbnMsIFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5zZXNzaW9uX29wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICAgcGFja2V0X2lkcy5pbmNsdWRlPyhwYWNrZXRfaWQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rack</text>
+        <text encoding="base64">XDxwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHN0X2lwOiBwYWNrZXQuZHN0X2lwLAo=</text>
+        <text encoding="base64">ICAgICAgcGFja2V0c19hcnJheSA9IHBhY2tldHNfanNvbi5mZXRjaCgicGFja2V0cyIpCiAgICAgIGN1cnJlbnRfcGFja2V0X2lkcyA9IHBhY2tldHNfYXJyYXkubWFwIHsgfHB8ICIje3BbImRhdGEiXX0tI3twWyJ0cyJdfSIgfQoKICAgICAgcGFja2V0X2lkID0gIiN7cGFja2V0LmRhdGF9LSN7cGFja2V0LnBhY2tldF90c30iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U2lkZWtpcTo6V2ViLnNldCg6c2Vzc2lvbnMsIFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5zZXNzaW9uX29wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICAgcGFja2V0X2lkcy5pbmNsdWRlPyhwYWNrZXRfaWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U2lkZWtpcTo6V2ViLnNldCg6c2Vzc2lvbl9zZWNyZXQsIFJhaWxzLmFwcGxpY2F0aW9uLnNlY3JldHNbOnNlY3JldF9rZXlfYmFzZV0pCg==</text>
+        <text encoding="base64">ICAgICAgcGFja2V0X2lkID0gIiN7cGFja2V0LmRhdGF9LSN7cGFja2V0LnBhY2tldF90c30iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0cnkK</text>
+        <text encoding="base64">ICAgICAgcGFja2V0X2lkID0gIiN7cGFja2V0LmRhdGF9LSN7cGFja2V0LnBhY2tldF90c30iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXZlbnQuc2F2ZSEK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGQgICAgICBldmVudC5hZGRfcGFja2V0KHBhY2tldCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6ZHN0X2lwLCBpcF9hZGRyZXNzOiB0cnVlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6c3JjX2lwLCBpcF9hZGRyZXNzOiB0cnVlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY3VycmVudF9wYWNrZXRfaWRzID0gcGFja2V0c19hcnJheS5tYXAgeyB8cHwgIiN7cFsiZGF0YSJdfS0je3BbInRzIl19IiB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcGFja2V0X2lkID0gIiN7cGFja2V0LmRhdGF9LSN7cGFja2V0LnBhY2tldF90c30iCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">U2lkZWtpcTo6V2ViLnNldCg6c2Vzc2lvbnMsIFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5zZXNzaW9uX29wdGlvbnMpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIGRlZiBwZXJmb3JtKHBhY2tldF9pZCkKICAjICAgcGFja2V0ID0gU25vcnQ6Ok9ycGhhbmVkUGFja2V0LmZpbmQocGFja2V0X2lkKQogICMgICBwcm9jZXNzZWQgPSBJZHM6OlByb2Nlc3NvcnM6OlNub3J0Lm5ldyhldmVudF9qc29uOiBwYWNrZXQucGFja2V0X2pzb24pLigpCiAgIyAgIGlmIHByb2Nlc3NlZAogICMgICAgIHBhY2tldC5kZXN0cm95CiAgIyAgIGVsc2UKICAjICAgICByYWlzZSBFdmVudE5vdEZvdW5kCiAgIyAgIGVuZAogICMgcmVzY3VlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQKICAjICAgIyBOb29wCiAgIyBlbmQK</text>
+        <text encoding="base64">U2lkZWtpcTo6V2ViLnNldCg6c2Vzc2lvbl9zZWNyZXQsIFJhaWxzLmFwcGxpY2F0aW9uLnNlY3JldHNbOnNlY3JldF9rZXlfYmFzZV0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rack</last-search>
+      <last-search encoding="base64">XDxwXD4=</last-search>
       <last-offset />
-      <last-pattern>rack</last-pattern>
+      <last-pattern encoding="base64">XDxwXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>tag</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>env</entry>
         <entry>name</entry>
         <entry>hashie</entry>
         <entry>def find_host</entry>
@@ -1154,6 +1153,7 @@
         <entry>osx</entry>
         <entry>sinatra</entry>
         <entry>rack</entry>
+        <entry encoding="base64">XDxwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -1173,9 +1173,9 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoTest</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
