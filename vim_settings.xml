@@ -903,7 +903,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480705364282">
+      <file name="/Dummy.txt" timestamp="1480706103970">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -1120,7 +1120,7 @@
         <text encoding="base64">ICAjIGRlZiBwZXJmb3JtKHBhY2tldF9pZCkKICAjICAgcGFja2V0ID0gU25vcnQ6Ok9ycGhhbmVkUGFja2V0LmZpbmQocGFja2V0X2lkKQogICMgICBwcm9jZXNzZWQgPSBJZHM6OlByb2Nlc3NvcnM6OlNub3J0Lm5ldyhldmVudF9qc29uOiBwYWNrZXQucGFja2V0X2pzb24pLigpCiAgIyAgIGlmIHByb2Nlc3NlZAogICMgICAgIHBhY2tldC5kZXN0cm95CiAgIyAgIGVsc2UKICAjICAgICByYWlzZSBFdmVudE5vdEZvdW5kCiAgIyAgIGVuZAogICMgcmVzY3VlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQKICAjICAgIyBOb29wCiAgIyBlbmQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1174,8 +1174,8 @@
         <entry>action GotoAction</entry>
         <entry>action GotoTest</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
