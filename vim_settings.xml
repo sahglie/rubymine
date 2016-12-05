@@ -259,10 +259,10 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/sidekiq.rb" timestamp="1480966681558">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/sidekiq.rb" timestamp="1480966775914">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/update.js.erb" timestamp="1480288213390">
@@ -863,12 +863,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1480966538240">
-        <mark key="'" line="200" column="6" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1480966769509">
+        <mark key="'" line="201" column="6" />
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="84" column="8" />
+        <mark key="^" line="84" column="8" />
+        <mark key="." line="84" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/_form.html.haml" timestamp="1479924581570">
         <mark key="[" line="1" column="17" />
@@ -932,7 +932,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480965516986">
+      <file name="/Dummy.txt" timestamp="1480966684067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -1119,8 +1119,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAjIH0K</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -1128,35 +1128,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiB1cmwncmVkaXM6Ly9yZWRpcy1kZXYuc2VjdXJpdHkuYmVya2VsZXkuZWR1OjYzNzkvMCcsIHBhc3N3b3JkOiBwYXNzd29yZAo=</text>
+      <register name="0" type="4">
+        <text>redis://redis-dev.security.berkeley.edu:6379/0'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1cmw6IHVybCdyZWRpczovL3JlZGlzLWRldi5zZWN1cml0eS5iZXJrZWxleS5lZHU6NjM3OS8wJywgcGFzc3dvcmQ6IHBhc3N3b3JkCg==</text>
+        <text encoding="base64">ICAjIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjICAgICBFeGNlcHRpb25Ob3RpZmllci5ub3RpZnlfZXhjZXB0aW9uKGV4LCBjdHhfaGFzaCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAjIGNvbmZpZy5lcnJvcl9oYW5kbGVycyA8PCBQcm9jLm5ldyB7IHxleCwgY3R4X2hhc2h8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAjdXJsOiB1cmwncmVkaXM6Ly9yZWRpcy1kZXYuc2VjdXJpdHkuYmVya2VsZXkuZWR1OjYzNzkvMCcsIHBhc3N3b3JkOiBwYXNzd29yZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICB1cmw6IHVybCdyZWRpczovL3JlZGlzLWRldi5zZWN1cml0eS5iZXJrZWxleS5lZHU6NjM3OS8wJywgcGFzc3dvcmQ6IHBhc3N3b3JkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhY2tldC5kZXN0cm95Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSWRzOjpQcm9jZXNzb3JzOjpTbm9ydC5uZXcoZXZlbnRfanNvbjogcGFja2V0LnBhY2tldF9qc29uKS4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
