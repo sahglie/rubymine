@@ -28,7 +28,7 @@
         <mark key="^" line="40" column="5" />
         <mark key="." line="40" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1480962022989">
+      <file name="/a.dummy" timestamp="1480976501220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -366,12 +366,12 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_quality_assurance" timestamp="1480720450732">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_quality_assurance" timestamp="1480976382206">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="77" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/repos/question.rb" timestamp="1480282210429">
         <mark key="[" line="72" column="39" />
@@ -453,12 +453,11 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480966998703">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480976302678">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="136" column="13" />
-        <mark key="]" line="136" column="17" />
-        <mark key="^" line="136" column="17" />
-        <mark key="." line="136" column="17" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2/index.html.haml" timestamp="1480286088379">
         <mark key="'" line="19" column="6" />
@@ -592,6 +591,11 @@
         <mark key="^" line="25" column="5" />
         <mark key="." line="25" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/snort/retry_errors.rb" timestamp="1480976354464">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/metrics/ops_reports/nessus.rb" timestamp="1476133283060">
         <mark key="[" line="57" column="60" />
         <mark key="]" line="57" column="79" />
@@ -706,10 +710,9 @@
         <mark key="." line="24" column="63" />
         <mark key="^" line="24" column="63" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1480965402275">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1480976374646">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
-        <mark key="^" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/cwid.rb" timestamp="1479941675378">
@@ -876,6 +879,12 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/snort/event_spec.rb" timestamp="1480976475886">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step5/index.html.erb" timestamp="1480287082082">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="45" />
@@ -932,7 +941,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480967000164">
+      <file name="/Dummy.txt" timestamp="1480976385427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -991,6 +1000,12 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/snort_spec.rb" timestamp="1480976496710">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/set_questions.js.erb" timestamp="1480271371739">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="66" />
@@ -1017,8 +1032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Development/projects/myaccount/spec/features/account_management_spec.rb" />
-      <jump line="56" column="2" filename="$USER_HOME$/Development/projects/myaccount/spec/features/account_management_spec.rb" />
       <jump line="19" column="102" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/forgot_password/_questions_form.html.erb" />
       <jump line="11" column="17" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
       <jump line="14" column="1" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
@@ -1117,10 +1130,12 @@
       <jump line="142" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
       <jump line="145" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
+      <jump line="105" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/snort/event_spec.rb" />
+      <jump line="92" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/snort_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -1132,31 +1147,31 @@
         <text>redis://redis-dev.security.berkeley.edu:6379/0'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAjICAgICBFeGNlcHRpb25Ob3RpZmllci5ub3RpZnlfZXhjZXB0aW9uKGV4LCBjdHhfaGFzaCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjIGNvbmZpZy5lcnJvcl9oYW5kbGVycyA8PCBQcm9jLm5ldyB7IHxleCwgY3R4X2hhc2h8Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAjdXJsOiB1cmwncmVkaXM6Ly9yZWRpcy1kZXYuc2VjdXJpdHkuYmVya2VsZXkuZWR1OjYzNzkvMCcsIHBhc3N3b3JkOiBwYXNzd29yZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB1cmw6IHVybCdyZWRpczovL3JlZGlzLWRldi5zZWN1cml0eS5iZXJrZWxleS5lZHU6NjM3OS8wJywgcGFzc3dvcmQ6IHBhc3N3b3JkCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBpdCAic2F2ZXMgcGFja2V0IHRvIG9ycGhhbmVkX3BhY2tldHMgdGFibGUgd2hlbiBwYWNrZXQgaGFzIG5vIGV2ZW50IiBkbwogICAgSWRzOjpQcm9jZXNzb3JzOjpTbm9ydC5uZXcoZXZlbnRfanNvbjogcGFja2V0X2pzb24pLigpCiAgICBleHBlY3QoU25vcnQ6Ok9ycGhhbmVkUGFja2V0LmNvdW50KS50byBlcWwoMSkKCiAgICBvcnBoYW4gPSBTbm9ydDo6T3JwaGFuZWRQYWNrZXQuZmlyc3QKICAgIGV4cGVjdChvcnBoYW4uZXJyb3JfY291bnQpLnRvIGVxbCgxKQogICAgU25vcnQ6Ok9ycGhhbmVkUGFja2V0LmRlbGV0ZV9hbGwKCiAgICBJZHM6OlByb2Nlc3NvcnM6OlNub3J0Lm5ldyhldmVudF9qc29uOiBvcnBoYW4ucGFja2V0X2pzb24pLigpCiAgICBvcnBoYW4gPSBTbm9ydDo6T3JwaGFuZWRQYWNrZXQuZmlyc3QKICAgIGV4cGVjdChvcnBoYW4uZXJyb3JfY291bnQpLnRvIGVxbCgyKQogIGVuZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb250ZXh0KCIucmV0cnlfb3JwaGFuZWRfcGFja2V0cyIpIGRvCiAgICBpdCAiam9pbnMgYSBwYWNrZXQgdG8gaXRzIGV2ZW50IiBkbwogICAgICBTbm9ydDo6T3JwaGFuZWRQYWNrZXQucGFja2V0KHBhY2tldF9qc29uOiBwYWNrZXRfanNvbiwgZXJyb3JfbXNnOiAiTm8gZXZlbnQgZm91bmQiKS5zYXZlIQogICAgICBTbm9ydDo6RXZlbnQubmV3X2Zyb21fanNvbihldmVudF9qc29uKS5zYXZlIQogICAgICBTbm9ydDo6RXZlbnQucmV0cnlfb3JwaGFuZWRfcGFja2V0cwoKICAgICAgZXZlbnQgPSBTbm9ydDo6RXZlbnQuZmlyc3QKICAgICAgZXhwZWN0KFNub3J0OjpFdmVudC5jb3VudCkudG8gZXFsKDEpCiAgICAgIGV4cGVjdChldmVudC5wYWNrZXRzLmNvdW50KS50byBlcWwoMSkKICAgIGVuZAoKICAgIGl0ICJpbmNyZW1lbnRzIHRoZSBwYWNrZXRzIGVycm9yIGNvdW50IiBkbwogICAgICBTbm9ydDo6T3JwaGFuZWRQYWNrZXQucGFja2V0KHBhY2tldF9qc29uOiBwYWNrZXRfanNvbiwgZXJyb3JfbXNnOiAiTm8gZXZlbnQgZm91bmQiKS5zYXZlIQogICAgICBTbm9ydDo6RXZlbnQucmV0cnlfb3JwaGFuZWRfcGFja2V0cwoKICAgICAgb3JwaGFuID0gU25vcnQ6Ok9ycGhhbmVkUGFja2V0LmZpcnN0CiAgICAgIGV4cGVjdChTbm9ydDo6T3JwaGFuZWRQYWNrZXQuY291bnQpLnRvIGVxbCgxKQogICAgICBleHBlY3Qob3JwaGFuLmVycm9yX2NvdW50KS50byBlcWwoMikKCiAgICAgIFNub3J0OjpFdmVudC5yZXRyeV9vcnBoYW5lZF9wYWNrZXRzCiAgICAgIG9ycGhhbiA9IFNub3J0OjpPcnBoYW5lZFBhY2tldC5maXJzdAogICAgICBleHBlY3QoU25vcnQ6Ok9ycGhhbmVkUGFja2V0LmNvdW50KS50byBlcWwoMSkKICAgICAgZXhwZWN0KG9ycGhhbi5lcnJvcl9jb3VudCkudG8gZXFsKDMpCiAgICBlbmQKCiAgICBpdCAibW92ZSB0aGUgcGFja2V0IGludG8gdGhlIGVycm9ycyB0YWJsZSIgZG8KICAgICAgU25vcnQ6Ok9ycGhhbmVkUGFja2V0LnBhY2tldChwYWNrZXRfanNvbjogcGFja2V0X2pzb24sIGVycm9yX21zZzogIk5vIGV2ZW50IGZvdW5kIikuc2F2ZSEKICAgICAgU25vcnQ6OkV2ZW50LnJldHJ5X29ycGhhbmVkX3BhY2tldHMoZXJyb3JfY291bnRfbGltaXQ6IDEpCgogICAgICBleHBlY3QoU25vcnQ6Ok9ycGhhbmVkUGFja2V0LmNvdW50KS50byBlcWwoMCkKICAgICAgZXhwZWN0KFNub3J0OjpFcnJvci5jb3VudCkudG8gZXFsKDEpCiAgICBlbmQKICBlbmQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">MTAgICAqICAgKiAgICogICAqICBhcHBfc29jayBSQUlMU19FTlY9JEVOViAkU05PUlQvcmV0cnlfZXJyb3JzLnJiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IzEwICAgKiAgICogICAqICAgKiAgYXBwX3NvY2sgUkFJTFNfRU5WPSRFTlYgJFNOT1JUL3JldHJ5X2Vycm9ycy5yYgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICBTbm9ydDo6RXZlbnQucmV0cnlfb3JwaGFuZWRfcGFja2V0cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
