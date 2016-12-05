@@ -453,12 +453,12 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480965514261">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" timestamp="1480966998703">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="139" column="71" />
-        <mark key="." line="145" column="0" />
+        <mark key="[" line="136" column="13" />
+        <mark key="]" line="136" column="17" />
+        <mark key="^" line="136" column="17" />
+        <mark key="." line="136" column="17" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2/index.html.haml" timestamp="1480286088379">
         <mark key="'" line="19" column="6" />
@@ -932,7 +932,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480966684067">
+      <file name="/Dummy.txt" timestamp="1480967000164">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -1119,11 +1119,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIH0K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZcPg==</text>
