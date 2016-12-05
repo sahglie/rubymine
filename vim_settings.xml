@@ -28,8 +28,11 @@
         <mark key="^" line="40" column="5" />
         <mark key="." line="40" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1480702213277">
+      <file name="/a.dummy" timestamp="1480962022989">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/aggressive_ip.rb" timestamp="1479926929706">
         <mark key="[" line="23" column="54" />
@@ -1107,8 +1110,8 @@
       <jump line="90" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dWNiX3N1YmRvbWFpbnMK</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -1120,31 +1123,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgLmZvcl9kYXRlX3JhbmdlKHN0YXJ0X2RhdGU6IERhdGUueWVzdGVyZGF5LmJlZ2lubmluZ19vZl9kYXksIGVuZF9kYXRlOiBEYXRlLnRvZGF5LmVuZF9vZl9kYXkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjYWxlcnRzLmVhY2goJjpsb29rdXBfaG9zdF9pbmZvKQo=</text>
+        <text encoding="base64">dWNiX3N1YmRvbWFpbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIyBuZWVkIHRvIHdhaXQgMWhyIHRvIG1ha2Ugc3VyZSBsYXRlc3QgYWlyYmVhcnMvZGhjcC92cG4gZGF0YSBpcyBpbiBzb2NrCg==</text>
+        <text encoding="base64">dWNiX3N1Ym5ldGhoaGhoaGhoaGhocwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmFpbHMubG9nZ2VyLmluZm8oIkZpbmlzaGVkICN7am9iX25hbWV9IikK</text>
+        <text encoding="base64">ICAjYWxlcnRzLmVhY2goJjpsb29rdXBfaG9zdF9pbmZvKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBuZWVkIHRvIHdhaXQgMWhyIHRvIG1ha2Ugc3VyZSBsYXRlc3QgYWlyYmVhcnMvZGhjcC92cG4gZGF0YSBpcyBpbiBzb2NrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UmFpbHMubG9nZ2VyLmluZm8oIi0tRmluaXNoZWQgI3tqb2JfbmFtZX0iKQo=</text>
+        <text encoding="base64">UmFpbHMubG9nZ2VyLmluZm8oIkZpbmlzaGVkICN7am9iX25hbWV9IikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">UmFpbHMubG9nZ2VyLmluZm8oIi0tRmluaXNoZWQgI3tqb2JfbmFtZX0iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0cy5lYWNoKCY6bG9va3VwX2hvc3RfaW5mbykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAubGltaXQoMl8wMDApCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
