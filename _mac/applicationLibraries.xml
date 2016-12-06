@@ -1054,6 +1054,56 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/activerecord-jdbcpostgresql-adapter" />
       </SOURCES>
     </library>
+    <library name="activerecord-jdbc-adapter (v5.0@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-h2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-jtds" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-derby" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-mysql" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-hsqldb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-mariadb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-sqlite3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-firebird" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-postgres" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/rails_generators" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbch2-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcderby-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcmssql-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcmysql-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbchsqldb-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcsqlite3-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcpostgresql-adapter" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-h2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-jtds" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-derby" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-mysql" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-hsqldb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-mariadb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-sqlite3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-firebird" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-postgres" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/rails_generators" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbch2-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcderby-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcmssql-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcmysql-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbchsqldb-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcsqlite3-adapter" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcpostgresql-adapter" />
+      </SOURCES>
+    </library>
     <library name="activerecord-jdbcderby-adapter (v5.0@5216f0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/activerecord-jdbcderby-adapter/lib" />
@@ -1068,6 +1118,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/activerecord-jdbcderby-adapter/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord-jdbcderby-adapter (v5.0@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcderby-adapter/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcderby-adapter/lib" />
       </SOURCES>
     </library>
     <library name="activerecord-jdbch2-adapter (v5.0@5216f0, RVM: ruby-2.2.3) [gem]">
@@ -1086,6 +1144,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/activerecord-jdbch2-adapter/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-jdbch2-adapter (v5.0@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbch2-adapter/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbch2-adapter/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord-jdbchsqldb-adapter (v5.0@5216f0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/activerecord-jdbchsqldb-adapter/lib" />
@@ -1100,6 +1166,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/activerecord-jdbchsqldb-adapter/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord-jdbchsqldb-adapter (v5.0@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbchsqldb-adapter/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbchsqldb-adapter/lib" />
       </SOURCES>
     </library>
     <library name="activerecord-jdbcmssql-adapter (v5.0@5216f0, RVM: ruby-2.2.3) [gem]">
@@ -1118,6 +1192,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/activerecord-jdbcmssql-adapter/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-jdbcmssql-adapter (v5.0@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcmssql-adapter/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcmssql-adapter/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord-jdbcmysql-adapter (v5.0@5216f0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/activerecord-jdbcmysql-adapter/lib" />
@@ -1132,6 +1214,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/activerecord-jdbcmysql-adapter/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord-jdbcmysql-adapter (v5.0@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcmysql-adapter/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcmysql-adapter/lib" />
       </SOURCES>
     </library>
     <library name="activerecord-jdbcpostgresql-adapter (v1.3.19, RVM: jruby-9.0.4.0) [gem]">
@@ -1158,6 +1248,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/activerecord-jdbcpostgresql-adapter/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-jdbcpostgresql-adapter (v5.0@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcpostgresql-adapter/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcpostgresql-adapter/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord-jdbcsqlite3-adapter (v1.3.20, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/activerecord-jdbcsqlite3-adapter-1.3.20/lib" />
@@ -1180,6 +1278,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/activerecord-jdbcsqlite3-adapter/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord-jdbcsqlite3-adapter (v5.0@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcsqlite3-adapter/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/activerecord-jdbcsqlite3-adapter/lib" />
       </SOURCES>
     </library>
     <library name="activerecord-oracle_enhanced-adapter (v1.6.7, RVM: ruby-2.2.3) [gem]">
@@ -1888,6 +1994,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/autoprefixer-rails-6.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/autoprefixer-rails-6.5.3/vendor" />
+      </SOURCES>
+    </library>
+    <library name="autoprefixer-rails (v6.5.3.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/autoprefixer-rails-6.5.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/autoprefixer-rails-6.5.3.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/autoprefixer-rails-6.5.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/autoprefixer-rails-6.5.3.1/vendor" />
       </SOURCES>
     </library>
     <library name="awesome_print (v1.2.0, RVM: ruby-2.2.4) [gem]">
@@ -3606,11 +3722,13 @@
     </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-9.0.6/lib" />
@@ -3956,6 +4074,7 @@
     </library>
     <library name="capybara-webkit (v1.11.1, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/capybara-webkit/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-webkit-1.11.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-webkit-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-webkit-1.11.1/src" />
@@ -3963,6 +4082,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-webkit-1.11.1/templates" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/capybara-webkit/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-webkit-1.11.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-webkit-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-webkit-1.11.1/src" />
@@ -5394,6 +5514,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20161021/tool" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20161129, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20161129/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20161129/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20161129/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20161129/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20161129/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20161129/tool" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.23, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.23/lib" />
@@ -6384,12 +6516,14 @@
     </library>
     <library name="ffi (v1.9.14, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/lib" />
@@ -9002,6 +9136,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-derby/lib" />
       </SOURCES>
     </library>
+    <library name="jdbc-derby (v10.10.2.0@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-derby/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-derby/lib" />
+      </SOURCES>
+    </library>
     <library name="jdbc-firebird (v2.2.4@5216f0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-firebird/lib" />
@@ -9016,6 +9158,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-firebird/lib" />
+      </SOURCES>
+    </library>
+    <library name="jdbc-firebird (v2.2.4@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-firebird/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-firebird/lib" />
       </SOURCES>
     </library>
     <library name="jdbc-h2 (v1.4.178@5216f0, RVM: ruby-2.2.3) [gem]">
@@ -9034,6 +9184,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-h2/lib" />
       </SOURCES>
     </library>
+    <library name="jdbc-h2 (v1.4.178@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-h2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-h2/lib" />
+      </SOURCES>
+    </library>
     <library name="jdbc-hsqldb (v2.3.2@5216f0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-hsqldb/lib" />
@@ -9048,6 +9206,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-hsqldb/lib" />
+      </SOURCES>
+    </library>
+    <library name="jdbc-hsqldb (v2.3.2@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-hsqldb/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-hsqldb/lib" />
       </SOURCES>
     </library>
     <library name="jdbc-jtds (v1.3.1@5216f0, RVM: ruby-2.2.3) [gem]">
@@ -9066,6 +9232,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-jtds/lib" />
       </SOURCES>
     </library>
+    <library name="jdbc-jtds (v1.3.1@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-jtds/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-jtds/lib" />
+      </SOURCES>
+    </library>
     <library name="jdbc-mariadb (v1.1.7@5216f0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-mariadb/lib" />
@@ -9080,6 +9254,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-mariadb/lib" />
+      </SOURCES>
+    </library>
+    <library name="jdbc-mariadb (v1.1.7@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-mariadb/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-mariadb/lib" />
       </SOURCES>
     </library>
     <library name="jdbc-mysql (v5.1.31@5216f0, RVM: ruby-2.2.3) [gem]">
@@ -9098,6 +9280,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-mysql/lib" />
       </SOURCES>
     </library>
+    <library name="jdbc-mysql (v5.1.31@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-mysql/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-mysql/lib" />
+      </SOURCES>
+    </library>
     <library name="jdbc-postgres (v9.3.1102@5216f0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-postgres/lib" />
@@ -9112,6 +9302,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-postgres/lib" />
+      </SOURCES>
+    </library>
+    <library name="jdbc-postgres (v9.3.1102@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-postgres/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-postgres/lib" />
       </SOURCES>
     </library>
     <library name="jdbc-postgres (v9.4.1204, RVM: jruby-9.0.4.0) [gem]">
@@ -9136,6 +9334,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-5216f0c71a97/jdbc-sqlite3/lib" />
+      </SOURCES>
+    </library>
+    <library name="jdbc-sqlite3 (v3.7.2.1@ee68c1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-sqlite3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/activerecord-jdbc-adapter-ee68c1881a9b/jdbc-sqlite3/lib" />
       </SOURCES>
     </library>
     <library name="jdbc-sqlite3 (v3.8.11.2, RVM: ruby-2.2.3) [gem]">
@@ -10236,6 +10442,7 @@
     </library>
     <library name="json (v2.0.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/2.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.2/data" />
@@ -10246,6 +10453,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.2/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/2.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.2/data" />
@@ -10562,11 +10770,13 @@
     </library>
     <library name="libv8 (v3.16.14.17, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/libv8/3.16.14.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/libv8-3.16.14.17-x86_64-darwin-15/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/libv8-3.16.14.17-x86_64-darwin-15/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/libv8-3.16.14.17-x86_64-darwin-15/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/libv8/3.16.14.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/libv8-3.16.14.17-x86_64-darwin-15/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/libv8-3.16.14.17-x86_64-darwin-15/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/libv8-3.16.14.17-x86_64-darwin-15/vendor" />
@@ -11846,6 +12056,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/minitest-4.7.5/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/minitest-5.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/minitest-5.10.1/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.3.3, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/minitest-5.3.3/lib" />
@@ -12680,11 +12898,13 @@
     </library>
     <library name="nio4r (v1.2.1, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nio4r/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-1.2.1/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nio4r/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-1.2.1/tasks" />
@@ -12948,6 +13168,7 @@
     </library>
     <library name="nokogiri (v1.6.8.1, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.8.1/lib" />
@@ -12956,6 +13177,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.8.1/lib" />
@@ -14724,12 +14946,14 @@
     </library>
     <library name="puma (v3.6.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.6.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.6.2/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.6.2/lib" />
@@ -16566,6 +16790,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-11.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.0.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-12.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-12.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rango (v0.1.2@d9b6fe, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/rango-d9b6feff2782/lib" />
@@ -16658,11 +16894,13 @@
     </library>
     <library name="rb-fsevent (v0.9.8, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/lib" />
@@ -19744,6 +19982,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sidekiq-symbols-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="sidekiq-symbols (v0.1.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sidekiq-symbols-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sidekiq-symbols-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="sigdump (v0.2.4, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sigdump-0.2.4/lib" />
@@ -20906,12 +21152,14 @@
     </library>
     <library name="sqlite3 (v1.3.12, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/sqlite3/1.3.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sqlite3-1.3.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sqlite3-1.3.12/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sqlite3-1.3.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sqlite3-1.3.12/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/sqlite3/1.3.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sqlite3-1.3.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sqlite3-1.3.12/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sqlite3-1.3.12/lib" />
@@ -21492,10 +21740,12 @@
     </library>
     <library name="therubyracer (v0.12.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/therubyracer/0.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/therubyracer-0.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/therubyracer-0.12.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/therubyracer/0.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/therubyracer-0.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/therubyracer-0.12.2/lib" />
       </SOURCES>
@@ -22382,6 +22632,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-3.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="uglifier (v3.0.4, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-3.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-3.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="unf (v0.1.4, RVM: jruby-9.0.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/jruby-9.0.3.0/gems/unf-0.1.4-java/lib" />
@@ -23020,10 +23278,12 @@
     </library>
     <library name="websocket-driver (v0.6.4, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/websocket-driver-0.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/websocket-driver-0.6.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/websocket-driver-0.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/websocket-driver-0.6.4/lib" />
       </SOURCES>
