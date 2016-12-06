@@ -59,6 +59,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/snort_sig_class.rb" timestamp="1481062407018">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/rdm_alert.rb" timestamp="1481060878060">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -181,11 +187,11 @@
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/ids_alert.rb" timestamp="1481059554543">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/ids_alert.rb" timestamp="1481061717049">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step3/index.html.haml" timestamp="1480286352951">
         <mark key="'" line="4" column="42" />
@@ -914,6 +920,12 @@
         <mark key="^" line="85" column="8" />
         <mark key="." line="85" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/rdm_ids_alert.rb" timestamp="1481061650830">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="21" column="10" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/_form.html.haml" timestamp="1479924581570">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="31" />
@@ -1065,12 +1077,12 @@
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="71" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" timestamp="1481061297413">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="61" column="58" />
-        <mark key="]" line="61" column="77" />
-        <mark key="^" line="61" column="77" />
-        <mark key="." line="61" column="77" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" timestamp="1481062046705">
+        <mark key="'" line="101" column="5" />
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="8" />
+        <mark key="^" line="27" column="12" />
+        <mark key="." line="28" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/update_aid_list.rb" timestamp="1481059179245">
         <mark key="[" line="21" column="0" />
@@ -1079,9 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="18" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
-      <jump line="93" column="78" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
-      <jump line="132" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
       <jump line="55" column="23" filename="$USER_HOME$/Development/projects/myaccount/lib/account/cwid_progress.rb" />
       <jump line="7" column="74" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_progress.html.erb" />
       <jump line="37" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_progress.html.erb" />
@@ -1179,46 +1188,49 @@
       <jump line="8" column="38" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
       <jump line="51" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
       <jump line="104" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
+      <jump line="101" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
+      <jump line="37" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
+      <jump line="112" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGlkc19hbGVydD8KICAgICAgICByZXR1cm4gZmFsc2UgaWYgaGFzX3JkbV9pcD8KICAgICAgICByZXR1cm4gdHJ1ZSBpZiAoc25vcnRfcGFyc2VyLm1hdGNoPyAmJiBzbm9ydF9zaWdfY2xhc3MubWF0Y2g/KQogICAgICAgIHJldHVybiB0cnVlIGlmIHJlcHNtX3BhcnNlci5tYXRjaD8KICAgICAgICBmYWxzZQogICAgICBlbmQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>freeze</text>
       </register>
       <register name="/" type="4">
         <text>dhcp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgRXJyb3IgPSBDbGFzcy5uZXcoU3RhbmRhcmRFcnJvcikK</text>
+        <text encoding="base64">ICAgICAgICBzbm9ydF9wYXJzZXIubWF0Y2g/IHx8IGludHJ1c2hpZWxkX3BhcnNlci5tYXRjaD8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGlkc19hbGVydD8KICAgICAgICByZXR1cm4gZmFsc2UgaWYgaGFzX3JkbV9pcD8KICAgICAgICByZXR1cm4gdHJ1ZSBpZiAoc25vcnRfcGFyc2VyLm1hdGNoPyAmJiBzbm9ydF9zaWdfY2xhc3MubWF0Y2g/KQogICAgICAgIHJldHVybiB0cnVlIGlmIHJlcHNtX3BhcnNlci5tYXRjaD8KICAgICAgICBmYWxzZQogICAgICBlbmQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFsZXJ0UGlnOjpJZHNBbGVydC5pbml0X2FsZXJ0KGFsZXJ0X2F0dHJzKS5zYXZlIQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJ1bGVbOnNpZ19jbGFzc10uZG93bmNhc2UgPT0gQGFsZXJ0X2F0dHJzWzpzaWdfY2xhc3NdLnRyeSg6ZG93bmNhc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFsZXJ0UGlnOjpJZHNBbGVydC5pbml0X2FsZXJ0KGFsZXJ0X2F0dHJzKS5zYXZlIQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICBzbm9ydF9wYXJzZXIubWF0Y2g/IHx8IGludHJ1c2hpZWxkX3BhcnNlci5tYXRjaD8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIHVwZGF0ZV9haWRfbGlzdD8K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAcmRtX2V4Y2VwdGlvbl9ydWxlIHx8PSBJZHM6OlJ1bGVzOjpSZG1FeGNlcHRpb24ubmV3KEBhbGVydF9hdHRycywgcnVsZXM6IEByZG1fZXhjZXB0aW9uX3J1bGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBzbm9ydF9wYXJzZXIubWF0Y2g/ICYmIG9zeF9ydWxlLm1hdGNoPwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1268,13 +1280,13 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoRelated</entry>
         <entry>action Run</entry>
-        <entry>action RunClass</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoTest</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>wq</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoTest</entry>
+        <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
