@@ -992,7 +992,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481138656915">
+      <file name="/Dummy.txt" timestamp="1481139236135">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -1228,7 +1228,7 @@
         <text encoding="base64">ICAjICAgICAjIHBlcm1pc3Npb24gPSBBdXRoejo6UGVybWlzc2lvbi5uZXcodGFyZ2V0X2NsYXNzOiAiQXBpOjpJbmNpZGVudHNDb250cm9sbGVyIiwgYWN0aW9uOiAiZm9vYmFyIikK</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action GotoTest</text>
       </register>
     </registers>
     <search>
@@ -1264,7 +1264,6 @@
         <entry>dhcp</entry>
       </history-search>
       <history-cmd>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>e</entry>
         <entry>d</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
@@ -1279,11 +1278,12 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Debug</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
-        <entry>action GotoTest</entry>
         <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
         <entry>action RunClass</entry>
+        <entry>vs</entry>
+        <entry>action GotoTest</entry>
       </history-cmd>
       <history-expr />
       <history-input />
