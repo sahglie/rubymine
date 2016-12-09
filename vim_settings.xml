@@ -86,10 +86,6 @@
         <mark key="." line="2" column="58" />
         <mark key="^" line="2" column="58" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/snort_events.rb" timestamp="1480450248782">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="87" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/osx_out_of_date.rb" timestamp="1481308247195">
         <mark key="[" line="27" column="47" />
         <mark key="]" line="27" column="56" />
@@ -183,10 +179,6 @@
         <mark key="]" line="42" column="62" />
         <mark key="." line="42" column="62" />
         <mark key="^" line="42" column="62" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/_form.html.erb" timestamp="1480356851764">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="74" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/application.js" timestamp="1476130858985">
         <mark key="[" line="21" column="0" />
@@ -307,10 +299,6 @@
         <mark key="]" line="5" column="42" />
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_lease.rb" timestamp="1480447314538">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="28" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/nos_arp_ndp.rb" timestamp="1480445176852">
         <mark key="[" line="8" column="55" />
@@ -468,6 +456,12 @@
         <mark key="." line="21" column="62" />
         <mark key="^" line="21" column="62" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/alert.rb" timestamp="1481311674567">
+        <mark key="[" line="45" column="55" />
+        <mark key="]" line="45" column="55" />
+        <mark key="^" line="45" column="55" />
+        <mark key="." line="45" column="55" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/metrics/ops_reports/notice_spec.rb" timestamp="1476136593892">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="53" />
@@ -557,10 +551,6 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" timestamp="1481059998479">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="40" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/authz/permission_spec.rb" timestamp="1481139124067">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -583,10 +573,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/alert_pig/enrich_alerts.rb" timestamp="1480720150430">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="39" column="42" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/set_password.js.erb" timestamp="1480356822233">
         <mark key="[" line="5" column="44" />
@@ -863,10 +849,6 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/services/cli_exception_notification.rb" timestamp="1480716971538">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="73" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/index.html.haml" timestamp="1479924552856">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="24" />
@@ -894,12 +876,8 @@
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="71" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" timestamp="1481309826612">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="60" column="47" />
-        <mark key="]" line="60" column="47" />
-        <mark key="^" line="71" column="40" />
-        <mark key="." line="60" column="47" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" timestamp="1481311690839">
+        <mark key="'" line="128" column="2" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/update_aid_list.rb" timestamp="1481063822416">
         <mark key="[" line="10" column="55" />
@@ -909,9 +887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_progress.html.erb" />
-      <jump line="6" column="32" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_progress.html.haml" />
-      <jump line="7" column="39" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_progress.html.haml" />
       <jump line="41" column="6" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_progress.html.haml" />
       <jump line="88" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
       <jump line="142" column="2" filename="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid_controller.rb" />
@@ -1009,46 +984,49 @@
       <jump line="49" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
       <jump line="111" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
       <jump line="36" column="33" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
+      <jump line="17" column="28" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
+      <jump line="83" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
+      <jump line="92" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW5zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>dhcp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXR0cmlidXRlKDpkc3RfaXApCg==</text>
+        <text encoding="base64">ICAgICAgICAoYWxlcnRfYXR0cnNbOnR5cGVdID09ICdzbm9ydCcpICYmIElkczo6UnVsZXM6OlNub3J0U2lnQ2xhc3MubmV3KGFsZXJ0X2F0dHJzKS5tYXRjaD8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW5zCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW5zWzpyYXdfYWxlcnRdID0gQGFsZXJ0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW5zWzp0eXBlXSA9ICJmaWRlbGlzIgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZG1fcnVsZXMgPSBTbm9ydDo6UmRtUnVsZS5hbGwudG9fYQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW5zWzpkc3RfcG9ydF0gPSAodG9rZW5zWzpkc3RfcG9ydF0gPT0gIk4vQSIpID8gbmlsIDogdG9rZW5zWzpkc3RfcG9ydF0udG9faQo=</text>
+        <text encoding="base64">ICAgICAgZGVmIHJkbV9leGNlcHRpb24/CiAgICAgICAgSWRzOjpSdWxlczo6UmRtRXhjZXB0aW9uLm5ldyhhbGVydF9hdHRycywgcnVsZXM6IEByZG1fZXhjZXB0aW9uX3J1bGVzKS5tYXRjaD8KICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW5zWzpkc3RfcG9ydF0gPSBtYXRjaF9kYXRhWyJkc3RfcG9ydCJdLnN0cmlwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW5zWzpkc3RfaXBdID0gbmlsIGlmIHRva2Vuc1s6ZHN0X2lwXSA9PSAiTi9BIgo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW5zWzpkc3RfaXBdID0gbWF0Y2hfZGF0YVsiZHN0X2lwIl0uc3RyaXAK</text>
+        <text encoding="base64">ICAgICAgICAoYWxlcnRfYXR0cnNbOnR5cGVdID09ICdzbm9ydCcpICYmIElkczo6UnVsZXM6OlNub3J0U2lnQ2xhc3MubmV3KGFsZXJ0X2F0dHJzKS5tYXRjaD8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIwo=</text>
+        <text encoding="base64">ICAgICAgZGVmIHNub3J0X3NpZ19hY3Rpb25hYmxlPwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1059,7 +1037,7 @@
       <last-offset />
       <last-pattern>dhcp</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>tag</last-substitute>
+      <last-substitute>dhcp</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
