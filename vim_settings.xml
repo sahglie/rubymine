@@ -202,10 +202,11 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/snort_events.json" timestamp="1481138924386">
-        <mark key="[" line="96" column="26" />
-        <mark key="]" line="96" column="27" />
-        <mark key="." line="96" column="27" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/snort_events.json" timestamp="1481327476763">
+        <mark key="[" line="68" column="28" />
+        <mark key="]" line="68" column="29" />
+        <mark key="." line="68" column="29" />
+        <mark key="^" line="69" column="28" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/metrics/ops_reports/index.html.haml" timestamp="1476136405575">
         <mark key="[" line="5" column="53" />
@@ -225,6 +226,7 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/parsers/snort_json.rb" timestamp="1481327635669" />
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2.html.erb" timestamp="1480282353533">
         <mark key="[" line="21" column="79" />
         <mark key="]" line="21" column="79" />
@@ -248,11 +250,6 @@
         <mark key="]" line="25" column="68" />
         <mark key="^" line="25" column="67" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/snort/retry_errors.rb" timestamp="1480976354464">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan.rb" timestamp="1478550115613">
         <mark key="[" line="3" column="25" />
@@ -366,7 +363,7 @@
         <mark key="." line="2" column="94" />
         <mark key="^" line="2" column="94" />
       </file>
-      <file name="/Ruby Console" timestamp="1481326243260">
+      <file name="/Ruby Console" timestamp="1481327675020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="^" line="0" column="46" />
@@ -464,11 +461,6 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/README.md" timestamp="1481138653254">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/snort_sig_class.rb" timestamp="1481325917474">
         <mark key="[" line="14" column="36" />
         <mark key="]" line="14" column="36" />
@@ -481,10 +473,11 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/fidelis.rb" timestamp="1481323797162">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="15" column="9" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/fidelis.rb" timestamp="1481326803298">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="44" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_errors.html.haml" timestamp="1480286753531">
         <mark key="[" line="1" column="73" />
@@ -492,12 +485,12 @@
         <mark key="." line="1" column="73" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/snort.rb" timestamp="1481325949363">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="45" column="41" />
-        <mark key="]" line="45" column="44" />
-        <mark key="." line="45" column="44" />
-        <mark key="^" line="45" column="44" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/snort.rb" timestamp="1481327176741">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="17" column="28" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/aggressive_ips.yml" timestamp="1474408081729">
         <mark key="[" line="5" column="22" />
@@ -580,6 +573,12 @@
         <mark key="]" line="42" column="62" />
         <mark key="." line="42" column="62" />
         <mark key="^" line="42" column="62" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/rules/snort_sig_class_spec.rb" timestamp="1481327801840">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/_form.html.erb" timestamp="1480356851764">
         <mark key="[" line="2" column="27" />
@@ -691,7 +690,7 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="/fragment.rb" timestamp="1481325699413">
+      <file name="/fragment.rb" timestamp="1481327749569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -782,6 +781,12 @@
         <mark key="^" line="25" column="5" />
         <mark key="." line="25" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/snort/signatures.yml" timestamp="1481327564284">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/metrics/ops_reports/nessus.rb" timestamp="1476133283060">
         <mark key="[" line="57" column="60" />
         <mark key="]" line="57" column="79" />
@@ -803,11 +808,6 @@
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" timestamp="1481059998479">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="40" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/authz/permission_spec.rb" timestamp="1481139124067">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/config/routes.rb" timestamp="1480287035202">
         <mark key="[" line="14" column="70" />
@@ -842,11 +842,6 @@
         <mark key="]" line="6" column="2" />
         <mark key="^" line="7" column="2" />
         <mark key="." line="6" column="2" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1480976374646">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap/conn.rb" timestamp="1480275147243">
         <mark key="[" line="41" column="32" />
@@ -938,11 +933,6 @@
         <mark key="." line="23" column="63" />
         <mark key="^" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/base_alert.rb" timestamp="1481322061172">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/base.rb" timestamp="1481325466754">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="22" />
@@ -989,12 +979,12 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" timestamp="1481326500880">
-        <mark key="'" line="101" column="63" />
-        <mark key="[" line="101" column="36" />
-        <mark key="]" line="101" column="39" />
-        <mark key="." line="101" column="39" />
-        <mark key="^" line="101" column="39" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" timestamp="1481327757231">
+        <mark key="'" line="4" column="99" />
+        <mark key="[" line="4" column="81" />
+        <mark key="]" line="4" column="99" />
+        <mark key="." line="4" column="99" />
+        <mark key="^" line="4" column="99" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/set_questions.js.erb" timestamp="1480271371739">
         <mark key="[" line="5" column="0" />
@@ -1029,10 +1019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="17" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2/index.html.haml" />
-      <jump line="12" column="16" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2/index.html.haml" />
-      <jump line="16" column="54" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2/index.html.haml" />
-      <jump line="13" column="42" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step3/index.html.haml" />
       <jump line="4" column="36" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/index.html.haml" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/_header.html.haml" />
       <jump line="24" column="6" filename="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2/index.html.haml" />
@@ -1129,49 +1115,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
       <jump line="113" column="68" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
       <jump line="101" column="63" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
+      <jump line="103" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
+      <jump line="50" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/snort.rb" />
+      <jump line="78" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
+      <jump line="4" column="99" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>syslog</text>
+        <text>ET SCAN Havij SQL Injection Tool User-Agent Outbound</text>
       </register>
       <register name="-" type="4">
-        <text>syslog</text>
+        <text>Outgoing Network Scan</text>
       </register>
       <register name="/" type="4">
         <text>dhcp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXR0cmlidXRlKDpzaWdfbmFtZSkK</text>
+      <register name="0" type="4">
+        <text>ET SCAN Havij SQL Injection Tool User-Agent Outbound</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZG1fcnVsZXMgPSA6OlNub3J0OjpSZG1SdWxlLmFsbC50b19hCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRkLm1hdGNoPwo=</text>
+        <text encoding="base64">ICAgICAgICBAcmRtX3J1bGVzIHx8PSA6OlNub3J0OjpSZG1SdWxlLmFsbC50b19hCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2UgdW5sZXNzIEBhbGVydF9hdHRyc1s6dHlwZV0gPT0gJ3Nub3J0Jwo=</text>
+        <text encoding="base64">ICAgICAgZGVmIHJkbV9ydWxlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVzY3VlIEFjdGl2ZVJlY29yZDo6QWN0aXZlUmVjb3JkRXJyb3IgPT4gZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJhaXNlIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGl0ICJpZ25vcmVzIG5vIgo=</text>
+        <text encoding="base64">ICAgICAgcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -1213,20 +1203,20 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWdDbGFzcw==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVuQ2xhc3M=</entry>
-        <entry>action GotoFile</entry>
         <entry>vs</entry>
         <entry>wA</entry>
         <entry>action GotoTest</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>s</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
-        <entry>action Debug</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Run</entry>
         <entry>action RecentFiles</entry>
-        <entry>action RunClass</entry>
+        <entry>action GotoFile</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
+        <entry>action Debug</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
