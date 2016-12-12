@@ -59,7 +59,7 @@
         <mark key="." line="2" column="58" />
         <mark key="^" line="2" column="58" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/osx_out_of_date.rb" timestamp="1481566632225">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/osx_out_of_date.rb" timestamp="1481567184973">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="20" column="10" />
         <mark key="]" line="20" column="10" />
@@ -420,7 +420,7 @@
         <mark key="." line="2" column="94" />
         <mark key="^" line="2" column="94" />
       </file>
-      <file name="/Ruby Console" timestamp="1481327675020">
+      <file name="/Ruby Console" timestamp="1481567186801">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="^" line="0" column="46" />
@@ -563,14 +563,14 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/snort.rb" timestamp="1481566616486">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/snort.rb" timestamp="1481567139133">
         <mark key="a" line="41" column="34" />
         <mark key="'" line="50" column="8" />
         <mark key="i" line="41" column="34" />
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="31" column="56" />
-        <mark key="^" line="37" column="63" />
-        <mark key="." line="31" column="56" />
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="37" column="54" />
+        <mark key="^" line="37" column="54" />
+        <mark key="." line="37" column="54" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/aggressive_ips.yml" timestamp="1474408081729">
         <mark key="[" line="5" column="22" />
@@ -820,11 +820,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="/fragment.rb" timestamp="1481327749569">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
+      <file name="/fragment.rb" timestamp="1481567260001">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/_change_form.html.erb" timestamp="1479941243481">
         <mark key="[" line="7" column="107" />
@@ -1315,10 +1315,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
@@ -1354,7 +1354,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2lnX25hbWU6ICJQT0xJQ1kgVW5zdXBwb3J0ZWQgT1MgTWFjIDEwLjcgKFVDQiBDdXN0b20gUnVsZSkiIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1390,7 +1390,6 @@
         <entry>alert</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoRelated</entry>
         <entry>action GotoAction</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWdDbGFzcw==</entry>
@@ -1401,15 +1400,16 @@
         <entry>s</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoFile</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
-        <entry>action Debug</entry>
         <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>%s/alert/sig_name/gc</entry>
         <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry>action GotoTest</entry>
+        <entry>w</entry>
+        <entry>action Debug</entry>
         <entry>action RunClass</entry>
+        <entry>action DebugClass</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
