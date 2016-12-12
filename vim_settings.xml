@@ -586,14 +586,14 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/snort.rb" timestamp="1481567139133">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/snort.rb" timestamp="1481572824503">
         <mark key="a" line="41" column="34" />
-        <mark key="'" line="50" column="8" />
+        <mark key="'" line="49" column="8" />
         <mark key="i" line="41" column="34" />
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="54" />
+        <mark key="[" line="45" column="41" />
+        <mark key="]" line="45" column="41" />
         <mark key="^" line="37" column="54" />
-        <mark key="." line="37" column="54" />
+        <mark key="." line="45" column="41" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/aggressive_ips.yml" timestamp="1474408081729">
         <mark key="[" line="5" column="22" />
@@ -1345,10 +1345,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Snort</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Snort</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>@alert_attrs\[:\(\w*\)\]</text>
@@ -1357,31 +1357,31 @@
         <text encoding="base64">ICAgIG5vdGlmeV9leGNlcHRpb24oZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQHJkbV9ydWxlcyA9IFNub3J0OjpSZG1SdWxlLmFsbC50b19hCg==</text>
+        <text encoding="base64">ICAgICAgICByZG1fcnVsZXMgPSA6OlNub3J0OjpSZG1SdWxlLmFsbC50b19hCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRzdGRlcnIucHV0cyhbZS5tZXNzYWdlLCBlLmJhY2t0cmFjZV0uam9pbigiXG4iKSkK</text>
+        <text encoding="base64">ICAgICAgQHJkbV9ydWxlcyA9IFNub3J0OjpSZG1SdWxlLmFsbC50b19hCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJZHM6OlByb2Nlc3NvcnM6Oklkc0FsZXJ0Lm5ldygqKmFyZ3MpLigpCg==</text>
+        <text encoding="base64">ICAgICRzdGRlcnIucHV0cyhbZS5tZXNzYWdlLCBlLmJhY2t0cmFjZV0uam9pbigiXG4iKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJZHM6OlByb2Nlc3NvcnM6Oklkc0FsZXJ0Lm5ldygqKmFyZ3MpLigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtzeXNsb2c6IGpzb25bIm1lc3NhZ2UiXX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB7anNvbjoganNvbn0K</text>
+        <text encoding="base64">ICAgICAgICAgIHtzeXNsb2c6IGpzb25bIm1lc3NhZ2UiXX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB7c3lzbG9nOiBqc29uWyJtZXNzYWdlIl19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB7anNvbjoganNvbn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RkZXJyLnB1dHMoW2UubWVzc2FnZSwgZS5iYWNrdHJhY2VdLmpvaW4oIlxuIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB7c3lzbG9nOiBqc29uWyJtZXNzYWdlIl19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RkZXJyLnB1dHMoW2UubWVzc2FnZSwgZS5iYWNrdHJhY2VdLmpvaW4oIlxuIikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
