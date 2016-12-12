@@ -526,7 +526,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481572870776">
+      <file name="/Dummy.txt" timestamp="1481581082511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="64" />
@@ -570,11 +570,11 @@
         <mark key="^" line="1077" column="10" />
         <mark key="." line="1077" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/osx_alert.rb" timestamp="1481325763944">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="19" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="27" column="23" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/osx_alert.rb" timestamp="1481581446011">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="132" column="53" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/README.md" timestamp="1481138653254">
         <mark key="[" line="2" column="0" />
@@ -1283,7 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/repl/commands/compromise.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/010_nos_arp_ndp.sql" />
       <jump line="7" column="22" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/nos_data/nos_arp_ndp_aggregate.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/nos_data/nos_arp_ndp_aggregate.yml" />
@@ -1383,46 +1382,47 @@
       <jump line="0" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/jobs/snort_packet.rb" />
       <jump line="29" column="45" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/processors/event.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/processors/event.rb" />
+      <jump line="90" column="25" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/osx_alert.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>@alert_attrs\[:\(\w*\)\]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhdXRvY2xvc2UgPSBSdFF1ZXVlLmZpbmRfYnkobmFtZTogIkF1dG9DbG9zZSIpCgogIEluY2lkZW50Lm9wZW4udGlja2V0X3N0YXR1cygiQ1JFQVRFRCIpLnJ0X3F1ZXVlKGF1dG9jbG9zZSkuZWFjaCBkbyB8aW5jaWRlbnR8CiAgICB0aWNrZXQgPSBpbmNpZGVudC50aWNrZXQuZmluZCB8fCBuZXh0CiAgICAjIG5lZWQgdGhpcyBjaGVjayBiZWNhdXNlIHNvbWV0aW1lcyBSVCBhbmQgU09DSyBiZWNvbWUgb3V0IG9mIHN5bmMKICAgIG5leHQgdW5sZXNzIHRpY2tldC5mZXRjaCgicXVldWUiKSA9PSAiQXV0b0Nsb3NlIgoKICAgIGxhc3RfYWN0aXZpdHkgPSBUaW1lLnBhcnNlKHRpY2tldC5mZXRjaCgibGFzdHVwZGF0ZWQiKSkKICAgIHN0YXR1cyA9IHRpY2tldC5mZXRjaCgic3RhdHVzIikuZG93bmNhc2UKICAgIHRpY2tldF9pZCA9IGluY2lkZW50LnRpY2tldF9pZAoKICAgIGlmIFsic3RhbGxlZCIsICJuZXciXS5pbmNsdWRlPyhzdGF0dXMpICYmIChsYXN0X2FjdGl2aXR5IDw9IDMwLmRheXMuYWdvKQogICAgICBSYWlscy5sb2dnZXIuaW5mbygiYXV0byBjbG9zaW5nIGluY2lkZW50OiB7aW5jaWRlbnRfaWQ6ICN7aW5jaWRlbnQuaWR9LCB0aWNrZXRfaWQ6ICN7dGlja2V0X2lkfSwgdGlja2V0X3N0YXR1czogI3t0aWNrZXRbInN0YXR1cyJdfSIpCiAgICAgIGluY2lkZW50LmNsb3NlIQogICAgZW5kCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgdXBkYXRlX2F0dHJpYnV0ZXMhKHByb2Nlc3NlZF90czogVGltZS5ub3cpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW5jaWRlbnQuY2xvc2UhCg==</text>
+        <text encoding="base64">ICAgICAgdXBkYXRlX2F0dHJpYnV0ZXMhKDogVGltZS5ub3cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmluZm8oImF1dG8gY2xvc2luZyBpbmNpZGVudDoge2luY2lkZW50X2lkOiAje2luY2lkZW50LmlkfSwgdGlja2V0X2lkOiAje3RpY2tldF9pZH0sIHRpY2tldF9zdGF0dXM6ICN7dGlja2V0WyJzdGF0dXMiXX0iKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBjb21wbGV0ZWQhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIFsic3RhbGxlZCIsICJuZXciXS5pbmNsdWRlPyhzdGF0dXMpICYmIChsYXN0X2FjdGl2aXR5IDw9IDMwLmRheXMuYWdvKQo=</text>
+        <text encoding="base64">ICAgICAgICBob3N0X2luZm9fc3RhdHVzOiAiQ09NUExFVEVEIgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpY2tldF9pZCA9IGluY2lkZW50LnRpY2tldF9pZAo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9IHRpY2tldC5mZXRjaCgic3RhdHVzIikuZG93bmNhc2UK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxhc3RfYWN0aXZpdHkgPSBUaW1lLnBhcnNlKHRpY2tldC5mZXRjaCgibGFzdHVwZGF0ZWQiKSkK</text>
+        <text encoding="base64">ICAgICAgaW5jaWRlbnQuY2xvc2UhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1461,7 +1461,6 @@
         <entry>@alert_attrs\[:\(\w*\)\]</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/@alert_attrs\[:/@alert\./gc</entry>
         <entry>%s/@alert_attrs\[:(\w)\]/@alert\.\\1/gc</entry>
         <entry>%s/@alert_attrs\[:(\w)\]/@alert\.\1/gc</entry>
         <entry>%s/@alert_attrs\[:(\w)\]/@alert\./gc</entry>
@@ -1478,8 +1477,9 @@
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
         <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
