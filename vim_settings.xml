@@ -526,11 +526,10 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481669108800">
+      <file name="/Dummy.txt" timestamp="1481669425931">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="39" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/verify_password.js.erb" timestamp="1476235761997">
         <mark key="[" line="12" column="17" />
@@ -812,11 +811,11 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/monkey_patches/sidekiq/exception_handler.rb" timestamp="1481668574850">
-        <mark key="[" line="11" column="77" />
-        <mark key="]" line="12" column="12" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="12" column="12" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/monkey_patches/sidekiq/exception_handler.rb" timestamp="1481669410744">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="54" />
+        <mark key="." line="6" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/verify_email.rb" timestamp="1475696273345">
@@ -1374,8 +1373,8 @@
       <jump line="90" column="25" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/osx_alert.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IwlhcHAvbW9kZWxzL3Nub3J0L2V2ZW50LnJiCg==</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -1387,31 +1386,31 @@
         <text encoding="base64">ICAgICAgdXBkYXRlX2F0dHJpYnV0ZXMhKHByb2Nlc3NlZF90czogVGltZS5ub3cpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wbWVudAo=</text>
+        <text encoding="base64">IwlhcHAvbW9kZWxzL3Nub3J0L2V2ZW50LnJiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">IyBDb25mbGljdHM6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBhZGRfcGFja2V0IShwYWNrZXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ZGRkZGRNZXJnZSBicmFuY2ggJ2RldmVsb3BtZW50JyBpbnRvIHJkbV9ydWxlc19wZXJmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTaWRla2lxLmVycm9yX2hhbmRsZXJzIDw8IFsgU2lkZWtpcTo6RXhjZXB0aW9uSGFuZGxlcjo6U29ja0xvZ2dlci5uZXcgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnNhdmUhCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wbWVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZSEK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgIGRlZiBhZGRfcGFja2V0IShwYWNrZXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
