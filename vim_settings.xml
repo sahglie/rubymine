@@ -265,6 +265,12 @@
         <mark key="^" line="3" column="52" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sidekiq/sock_error_handler.rb" timestamp="1481667261980">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/metrics/ops_reports/index.html.haml" timestamp="1476136405575">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="52" />
@@ -477,17 +483,17 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/snort/event_spec.rb" timestamp="1480976475886">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step5/index.html.erb" timestamp="1480287082082">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sidekiq/exception_handler/sock_logger.rb" timestamp="1481667563706">
+        <mark key="[" line="11" column="77" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid/base_controller.rb" timestamp="1480286970704">
         <mark key="[" line="6" column="0" />
@@ -520,7 +526,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481654828531">
+      <file name="/Dummy.txt" timestamp="1481668686623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -752,11 +758,11 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/sidekiq.rb" timestamp="1481654822315">
-        <mark key="[" line="17" column="1" />
-        <mark key="]" line="17" column="45" />
-        <mark key="." line="17" column="45" />
-        <mark key="^" line="17" column="45" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/sidekiq.rb" timestamp="1481668695577">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="29" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/update.js.erb" timestamp="1480288213390">
         <mark key="[" line="2" column="22" />
@@ -806,6 +812,13 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/monkey_patches/sidekiq/exception_handler.rb" timestamp="1481668574850">
+        <mark key="[" line="11" column="77" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="o" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/verify_email.rb" timestamp="1475696273345">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="42" />
@@ -850,12 +863,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/rules/rdm_exception_spec.rb" timestamp="1481569208380">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1481567260001">
         <mark key="[" line="0" column="9" />
@@ -1232,12 +1239,6 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/snort_spec.rb" timestamp="1480976496710">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/set_questions.js.erb" timestamp="1480271371739">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="66" />
@@ -1373,11 +1374,11 @@
       <jump line="90" column="25" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/osx_alert.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBTaWRla2lxLmVycm9yX2hhbmRsZXJzIDw8IFsgU2lkZWtpcTo6RXhjZXB0aW9uSGFuZGxlcjo6U29ja0xvZ2dlci5uZXcgXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>@alert_attrs\[:\(\w*\)\]</text>
@@ -1386,31 +1387,31 @@
         <text encoding="base64">ICAgICAgdXBkYXRlX2F0dHJpYnV0ZXMhKHByb2Nlc3NlZF90czogVGltZS5ub3cpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnNhdmUhCg==</text>
+        <text encoding="base64">ICBTaWRla2lxLmVycm9yX2hhbmRsZXJzIDw8IFsgU2lkZWtpcTo6RXhjZXB0aW9uSGFuZGxlcjo6U29ja0xvZ2dlci5uZXcgXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZSEK</text>
+        <text encoding="base64">ICAgIGV2ZW50LnNhdmUhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgc2F2ZSEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHJpZXMgPSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlZ2luCg==</text>
+        <text encoding="base64">ICAgIHJldHJpZXMgPSAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0cmllcyA9PSA1ID8gcmFpc2UoZSkgOiByZXRyeQo=</text>
+        <text encoding="base64">ICAgIGJlZ2luCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0cmllcyArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgcmV0cmllcyA9PSA1ID8gcmFpc2UoZSkgOiByZXRyeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc2N1ZSBBY3RpdmVSZWNvcmQ6OlN0YWxlT2JqZWN0RXJyb3IgPT4gZQo=</text>
+        <text encoding="base64">ICAgICAgcmV0cmllcyArPSAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1465,9 +1466,9 @@
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
         <entry>action Run</entry>
+        <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
