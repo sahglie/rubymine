@@ -545,11 +545,11 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481676140537">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-        <mark key="^" line="0" column="32" />
+      <file name="/Dummy.txt" timestamp="1481676493470">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/verify_password.js.erb" timestamp="1476235761997">
         <mark key="[" line="12" column="17" />
@@ -1426,11 +1426,11 @@
       <jump line="69" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIElkczo6Sm9iczo6RW5yaWNoQWxlcnQ6OkVucmljaG1lbnRQZW5kaW5nLAo=</text>
+      <register name="&quot;" type="4">
+        <text>long</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text>ip</text>
