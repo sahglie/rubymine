@@ -179,12 +179,6 @@
         <mark key="^" line="10" column="77" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/rdm_exception.rb" timestamp="1481675395722">
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="15" />
-        <mark key="^" line="35" column="34" />
-        <mark key="." line="43" column="15" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/parsers/alert.rb" timestamp="1481324783767">
         <mark key="[" line="26" column="43" />
         <mark key="]" line="26" column="46" />
@@ -551,7 +545,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481675401351">
+      <file name="/Dummy.txt" timestamp="1481675902774">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -851,13 +845,6 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/monkey_patches/sidekiq/exception_handler.rb" timestamp="1481670958042">
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="5" column="47" />
-        <mark key="^" line="5" column="47" />
-        <mark key="." line="5" column="47" />
-        <mark key="o" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/verify_email.rb" timestamp="1475696273345">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="42" />
@@ -928,7 +915,8 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_event_worker.rb" timestamp="1481571671754">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_event_worker.rb" timestamp="1481675931855">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="27" />
         <mark key="]" line="19" column="31" />
         <mark key="." line="19" column="31" />
@@ -1084,11 +1072,11 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" timestamp="1481571636911">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="43" column="1" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" timestamp="1481676085266">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="62" column="1" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/authz/permission_spec.rb" timestamp="1481139124067">
         <mark key="[" line="33" column="0" />
@@ -1264,12 +1252,6 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/snort.rb" timestamp="1481571272952">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/verify_cwid_email.js.erb" timestamp="1480283206968">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1325,10 +1307,6 @@
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" timestamp="1481326292307">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="51" column="12" />
-        <mark key="." line="51" column="12" />
-        <mark key="^" line="51" column="12" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/update_aid_list.rb" timestamp="1481063822416">
         <mark key="[" line="10" column="55" />
@@ -1338,12 +1316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
-      <jump line="69" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
-      <jump line="74" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
-      <jump line="101" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
-      <jump line="144" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
-      <jump line="160" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
       <jump line="41" column="12" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
       <jump line="86" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
       <jump line="38" column="57" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
@@ -1438,10 +1410,16 @@
       <jump line="155" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" />
       <jump line="31" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/app/services/network_session/host_type.rb" />
       <jump line="27" column="38" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_dynamic_ip.rb" />
+      <jump line="19" column="31" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_event_worker.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_event_worker.rb" />
+      <jump line="34" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
+      <jump line="54" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
+      <jump line="69" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgoKY2xhc3MgSWRzQWxlcnRXb3JrZXIKICBhdHRyX2FjY2Vzc29yKDpjb25uX3BhcmFtcywgOnF1ZXVlX25hbWUpCgogIGRlZiBpbml0aWFsaXplKGNvbm5fcGFyYW1zOiwgcXVldWVfbmFtZTopCiAgICBAY29ubl9wYXJhbXMgPSBjb25uX3BhcmFtcwogICAgQHF1ZXVlX25hbWUgPSBxdWV1ZV9uYW1lCiAgICBAY29ubiA9IEJ1bm55Lm5ldyhjb25uX3BhcmFtcykKICBlbmQKCiAgZGVmIHJ1bihlbmRfdGltZT01Lm1pbnV0ZXMuZnJvbV9ub3cpCiAgICBAY29ubi5zdGFydAoKICAgIGNoYW5uZWwgPSBAY29ubi5jcmVhdGVfY2hhbm5lbChuaWwsIDEpCiAgICBxdWV1ZSA9IGNoYW5uZWwucXVldWUocXVldWVfbmFtZSwgcGFzc2l2ZTogdHJ1ZSkKICAgIGNoYW5uZWwucHJlZmV0Y2goMTAwKQoKICAgIHF1ZXVlLnN1YnNjcmliZShibG9jazogZmFsc2UsIG1hbnVhbF9hY2s6IHRydWUpIGRvIHxpbmZvLCBfLCBwYXlsb2FkfAogICAgICBiZWdpbgogICAgICAgIGpzb24gPSBKU09OLnBhcnNlKHBheWxvYWQpCgogICAgICAgIGlmIGpzb24uaGFzX2tleT8oIm1lc3NhZ2UiKQogICAgICAgICAgSWRzOjpQcm9jZXNzb3JzOjpJZHNBbGVydC5uZXcoc3lzbG9nOiBqc29uWyJtZXNzYWdlIl0pLigpCiAgICAgICAgZWxzZQogICAgICAgICAgSWRzOjpQcm9jZXNzb3JzOjpJZHNBbGVydC5uZXcoanNvbjoganNvbikuKCkKICAgICAgICBlbmQKICAgICAgcmVzY3VlIFN0YW5kYXJkRXJyb3IgPT4gZQogICAgICAgIG5vdGlmeV9leGNlcHRpb24oZSwganNvbikKICAgICAgZW5zdXJlCiAgICAgICAgY2hhbm5lbC5hY2soaW5mby5kZWxpdmVyeV90YWcpCiAgICAgIGVuZAogICAgZW5kCgogICAgbG9vcCBkbwogICAgICBzbGVlcCA2MAogICAgICByYWlzZSBJbnRlcnJ1cHQgaWYgdGltZV90b19xdWl0PyhlbmRfdGltZSkgIyBtdXN0IHVzZSBJbnRlcnJ1cHQgdG8gZXhpdAogICAgZW5kCiAgcmVzY3VlIEludGVycnVwdAogICAgIyBub29wCiAgcmVzY3VlIFN0YW5kYXJkRXJyb3IgPT4gZQogICAgbm90aWZ5X2V4Y2VwdGlvbihlKQogIGVuZAoKICBwcml2YXRlCgogIGRlZiBub3RpZnlfZXhjZXB0aW9uKGUsIGpzb249bmlsKQogICAgaWYganNvbi5uaWw/CiAgICAgIEV4Y2VwdGlvbk5vdGlmaWVyLm5vdGlmeV9leGNlcHRpb24oZSkKICAgIGVsc2UKICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihlLCA6ZGF0YSA9PiB7ZGF0YToganNvbn0pCiAgICBlbmQKICBlbmQKCiAgZGVmIHRpbWVfdG9fcXVpdD8oZW5kX3RpbWUpCiAgICByZXR1cm4gZmFsc2UgaWYgZW5kX3RpbWUubmlsPwogICAgVGltZS5ub3cgPiBlbmRfdGltZQogIGVuZAplbmQK</text>
       </register>
       <register name="-" type="4">
         <text>?</text>
@@ -1450,28 +1428,28 @@
         <text>ip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdXBkYXRlX2F0dHJpYnV0ZXMhKHByb2Nlc3NlZF90czogVGltZS5ub3cpCg==</text>
+        <text encoding="base64">ICAgIG5vdGlmeV9leGNlcHRpb24oZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHJkbV9leGNlcHRpb25fcnVsZQogICAgICBlbmQKCg==</text>
+        <text encoding="base64">CgoKY2xhc3MgSWRzQWxlcnRXb3JrZXIKICBhdHRyX2FjY2Vzc29yKDpjb25uX3BhcmFtcywgOnF1ZXVlX25hbWUpCgogIGRlZiBpbml0aWFsaXplKGNvbm5fcGFyYW1zOiwgcXVldWVfbmFtZTopCiAgICBAY29ubl9wYXJhbXMgPSBjb25uX3BhcmFtcwogICAgQHF1ZXVlX25hbWUgPSBxdWV1ZV9uYW1lCiAgICBAY29ubiA9IEJ1bm55Lm5ldyhjb25uX3BhcmFtcykKICBlbmQKCiAgZGVmIHJ1bihlbmRfdGltZT01Lm1pbnV0ZXMuZnJvbV9ub3cpCiAgICBAY29ubi5zdGFydAoKICAgIGNoYW5uZWwgPSBAY29ubi5jcmVhdGVfY2hhbm5lbChuaWwsIDEpCiAgICBxdWV1ZSA9IGNoYW5uZWwucXVldWUocXVldWVfbmFtZSwgcGFzc2l2ZTogdHJ1ZSkKICAgIGNoYW5uZWwucHJlZmV0Y2goMTAwKQoKICAgIHF1ZXVlLnN1YnNjcmliZShibG9jazogZmFsc2UsIG1hbnVhbF9hY2s6IHRydWUpIGRvIHxpbmZvLCBfLCBwYXlsb2FkfAogICAgICBiZWdpbgogICAgICAgIGpzb24gPSBKU09OLnBhcnNlKHBheWxvYWQpCgogICAgICAgIGlmIGpzb24uaGFzX2tleT8oIm1lc3NhZ2UiKQogICAgICAgICAgSWRzOjpQcm9jZXNzb3JzOjpJZHNBbGVydC5uZXcoc3lzbG9nOiBqc29uWyJtZXNzYWdlIl0pLigpCiAgICAgICAgZWxzZQogICAgICAgICAgSWRzOjpQcm9jZXNzb3JzOjpJZHNBbGVydC5uZXcoanNvbjoganNvbikuKCkKICAgICAgICBlbmQKICAgICAgcmVzY3VlIFN0YW5kYXJkRXJyb3IgPT4gZQogICAgICAgIG5vdGlmeV9leGNlcHRpb24oZSwganNvbikKICAgICAgZW5zdXJlCiAgICAgICAgY2hhbm5lbC5hY2soaW5mby5kZWxpdmVyeV90YWcpCiAgICAgIGVuZAogICAgZW5kCgogICAgbG9vcCBkbwogICAgICBzbGVlcCA2MAogICAgICByYWlzZSBJbnRlcnJ1cHQgaWYgdGltZV90b19xdWl0PyhlbmRfdGltZSkgIyBtdXN0IHVzZSBJbnRlcnJ1cHQgdG8gZXhpdAogICAgZW5kCiAgcmVzY3VlIEludGVycnVwdAogICAgIyBub29wCiAgcmVzY3VlIFN0YW5kYXJkRXJyb3IgPT4gZQogICAgbm90aWZ5X2V4Y2VwdGlvbihlKQogIGVuZAoKICBwcml2YXRlCgogIGRlZiBub3RpZnlfZXhjZXB0aW9uKGUsIGpzb249bmlsKQogICAgaWYganNvbi5uaWw/CiAgICAgIEV4Y2VwdGlvbk5vdGlmaWVyLm5vdGlmeV9leGNlcHRpb24oZSkKICAgIGVsc2UKICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihlLCA6ZGF0YSA9PiB7ZGF0YToganNvbn0pCiAgICBlbmQKICBlbmQKCiAgZGVmIHRpbWVfdG9fcXVpdD8oZW5kX3RpbWUpCiAgICByZXR1cm4gZmFsc2UgaWYgZW5kX3RpbWUubmlsPwogICAgVGltZS5ub3cgPiBlbmRfdGltZQogIGVuZAplbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZG1fZXhjZXB0aW9uX3J1bGUuYmxhbms/Cg==</text>
+        <text encoding="base64">ICAgICRzdGRlcnIucHV0cyhbZS5tZXNzYWdlLCBlLmJhY2t0cmFjZV0uam9pbigiXG4iKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJZHM6OlJ1bGVzOjpSZG1FeGNlcHRpb24ubmV3KHNlbGYpLm1hdGNoPwo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RkZXJyLnB1dHMoW2UubWVzc2FnZSwgZS5iYWNrdHJhY2VdLmpvaW4oIlxuIikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgZGVmIHJkbV9leGNlcHRpb25fcnVsZQogICAgICBlbmQKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZG1fZXhjZXB0aW9uX3J1bGUuYmxhbms/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgTmV0VXRpbHMK</text>
+        <text encoding="base64">ICAgICAgICBJZHM6OlJ1bGVzOjpSZG1FeGNlcHRpb24ubmV3KHNlbGYpLm1hdGNoPwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGQK</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
