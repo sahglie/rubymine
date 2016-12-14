@@ -179,6 +179,12 @@
         <mark key="^" line="10" column="77" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/rdm_exception.rb" timestamp="1481675395722">
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="15" />
+        <mark key="^" line="35" column="34" />
+        <mark key="." line="43" column="15" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/parsers/alert.rb" timestamp="1481324783767">
         <mark key="[" line="26" column="43" />
         <mark key="]" line="26" column="46" />
@@ -545,7 +551,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481674087936">
+      <file name="/Dummy.txt" timestamp="1481675401351">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -639,6 +645,14 @@
         <mark key="]" line="4" column="32" />
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/snort.rb" timestamp="1481675227229">
+        <mark key="a" line="40" column="34" />
+        <mark key="i" line="40" column="34" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/aggressive_ips.yml" timestamp="1474408081729">
         <mark key="[" line="5" column="22" />
@@ -1129,6 +1143,12 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" timestamp="1481674479839">
+        <mark key="[" line="156" column="4" />
+        <mark key="]" line="157" column="3" />
+        <mark key="^" line="157" column="3" />
+        <mark key="." line="157" column="3" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap/conn.rb" timestamp="1480275147243">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="39" />
@@ -1421,10 +1441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>ip</text>
@@ -1433,31 +1453,31 @@
         <text encoding="base64">ICAgICAgdXBkYXRlX2F0dHJpYnV0ZXMhKHByb2Nlc3NlZF90czogVGltZS5ub3cpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIHJkbV9leGNlcHRpb25fcnVsZQogICAgICBlbmQKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgTmV0VXRpbHMK</text>
+        <text encoding="base64">ICAgICAgICByZG1fZXhjZXB0aW9uX3J1bGUuYmxhbms/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGQK</text>
+        <text encoding="base64">ICAgICAgICBJZHM6OlJ1bGVzOjpSZG1FeGNlcHRpb24ubmV3KHNlbGYpLm1hdGNoPwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgTmV0VXRpbHMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgYWlyYmVhcnMgZG9lc24ndCBjdXJyZW50IHNhdmUgaXB2NiBmb3Igc2Vzc2lvbiBsb29rdXAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGluY2x1ZGUgTmV0VXRpbHMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZGQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIE5ldFV0aWxzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXAgPSBwYXJzZV9pcChpcCkK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUgTmV0VXRpbHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
