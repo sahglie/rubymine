@@ -544,11 +544,11 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481676493470">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1481911192714">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/verify_password.js.erb" timestamp="1476235761997">
         <mark key="[" line="12" column="17" />
@@ -685,11 +685,11 @@
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" timestamp="1480978667158">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" timestamp="1481911164152">
         <mark key="'" line="218" column="0" />
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="2" />
+        <mark key="." line="7" column="2" />
         <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/spec/rails_helper.rb" timestamp="1478904649050">
@@ -1431,11 +1431,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_job_count.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JHN0ZG91dC5wdXRzKGpvYl9jb3VudCkK</text>
+      <register name="&quot;" type="4">
+        <text>hhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>q</text>
+        <text>hhhhhhhhhhh</text>
       </register>
       <register name="/" type="4">
         <text>ip</text>
