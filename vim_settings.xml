@@ -416,6 +416,12 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="61" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_job_count.rb" timestamp="1481910993663">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/aggressive_ip_ignore.rb" timestamp="1479925753264">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1034,6 +1040,11 @@
         <mark key="^" line="19" column="6" />
         <mark key="." line="19" column="6" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/apply_enrichment.rb" timestamp="1481910351793">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="2" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_packet_worker.rb" timestamp="1480712348447">
         <mark key="[" line="24" column="35" />
         <mark key="]" line="25" column="5" />
@@ -1271,6 +1282,13 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_names.rb" timestamp="1481911015241">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/index.html.haml" timestamp="1479924552856">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="24" />
@@ -1311,11 +1329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="12" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
-      <jump line="86" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
-      <jump line="38" column="57" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
-      <jump line="46" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/event.rb" />
-      <jump line="19" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
       <jump line="74" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
       <jump line="90" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
       <jump line="7" column="26" filename="$USER_HOME$/Development/projects/sock_rails5/app/jobs/snort_packet_job.rb" />
@@ -1411,43 +1424,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
       <jump line="54" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
       <jump line="69" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sock/apply_enrichment.rb" />
+      <jump line="8" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_names.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_names.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_names.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_job_count.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>long</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JHN0ZG91dC5wdXRzKGpvYl9jb3VudCkK</text>
       </register>
       <register name="-" type="4">
-        <text>long</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>ip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIElkczo6Sm9iczo6RW5yaWNoQWxlcnQ6OkVucmljaG1lbnRQZW5kaW5nLAo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcnVieQpyZXF1aXJlX3JlbGF0aXZlICIuLi9jb25maWcvZW52aXJvbm1lbnQiCnJlcXVpcmUgJ3NpZGVraXEvYXBpJwoKIyBFeGl0IGNsZWFubHkgZnJvbSBhbiBlYXJseSBpbnRlcnJ1cHQKU2lnbmFsLnRyYXAoIklOVCIpIHsgZXhpdCAxIH0KCmlmIChxdWV1ZV9uYW1lID0gQVJHVlswXSkubmlsPwogIGFib3J0KCJVc2FnZTogcXVldWVfam9iX2NvdW50LnJiIDxxdWV1ZV9uYW1lPiIpCmVuZAoKam9iX2NvdW50ID0gU2lkZWtpcTo6UXVldWUubmV3KHF1ZXVlX25hbWUpLnNpemUKJHN0ZG91dC5wdXRzKGpvYl9jb3VudCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIElkczo6Sm9iczo6RW5yaWNoT3N4QWxlcnQ6OkVucmljaG1lbnRQZW5kaW5nLAo=</text>
+        <text encoding="base64">JHN0ZG91dC5wdXRzKGpvYl9jb3VudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgoKY2xhc3MgSWRzQWxlcnRXb3JrZXIKICBhdHRyX2FjY2Vzc29yKDpjb25uX3BhcmFtcywgOnF1ZXVlX25hbWUpCgogIGRlZiBpbml0aWFsaXplKGNvbm5fcGFyYW1zOiwgcXVldWVfbmFtZTopCiAgICBAY29ubl9wYXJhbXMgPSBjb25uX3BhcmFtcwogICAgQHF1ZXVlX25hbWUgPSBxdWV1ZV9uYW1lCiAgICBAY29ubiA9IEJ1bm55Lm5ldyhjb25uX3BhcmFtcykKICBlbmQKCiAgZGVmIHJ1bihlbmRfdGltZT01Lm1pbnV0ZXMuZnJvbV9ub3cpCiAgICBAY29ubi5zdGFydAoKICAgIGNoYW5uZWwgPSBAY29ubi5jcmVhdGVfY2hhbm5lbChuaWwsIDEpCiAgICBxdWV1ZSA9IGNoYW5uZWwucXVldWUocXVldWVfbmFtZSwgcGFzc2l2ZTogdHJ1ZSkKICAgIGNoYW5uZWwucHJlZmV0Y2goMTAwKQoKICAgIHF1ZXVlLnN1YnNjcmliZShibG9jazogZmFsc2UsIG1hbnVhbF9hY2s6IHRydWUpIGRvIHxpbmZvLCBfLCBwYXlsb2FkfAogICAgICBiZWdpbgogICAgICAgIGpzb24gPSBKU09OLnBhcnNlKHBheWxvYWQpCgogICAgICAgIGlmIGpzb24uaGFzX2tleT8oIm1lc3NhZ2UiKQogICAgICAgICAgSWRzOjpQcm9jZXNzb3JzOjpJZHNBbGVydC5uZXcoc3lzbG9nOiBqc29uWyJtZXNzYWdlIl0pLigpCiAgICAgICAgZWxzZQogICAgICAgICAgSWRzOjpQcm9jZXNzb3JzOjpJZHNBbGVydC5uZXcoanNvbjoganNvbikuKCkKICAgICAgICBlbmQKICAgICAgcmVzY3VlIFN0YW5kYXJkRXJyb3IgPT4gZQogICAgICAgIG5vdGlmeV9leGNlcHRpb24oZSwganNvbikKICAgICAgZW5zdXJlCiAgICAgICAgY2hhbm5lbC5hY2soaW5mby5kZWxpdmVyeV90YWcpCiAgICAgIGVuZAogICAgZW5kCgogICAgbG9vcCBkbwogICAgICBzbGVlcCA2MAogICAgICByYWlzZSBJbnRlcnJ1cHQgaWYgdGltZV90b19xdWl0PyhlbmRfdGltZSkgIyBtdXN0IHVzZSBJbnRlcnJ1cHQgdG8gZXhpdAogICAgZW5kCiAgcmVzY3VlIEludGVycnVwdAogICAgIyBub29wCiAgcmVzY3VlIFN0YW5kYXJkRXJyb3IgPT4gZQogICAgbm90aWZ5X2V4Y2VwdGlvbihlKQogIGVuZAoKICBwcml2YXRlCgogIGRlZiBub3RpZnlfZXhjZXB0aW9uKGUsIGpzb249bmlsKQogICAgaWYganNvbi5uaWw/CiAgICAgIEV4Y2VwdGlvbk5vdGlmaWVyLm5vdGlmeV9leGNlcHRpb24oZSkKICAgIGVsc2UKICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihlLCA6ZGF0YSA9PiB7ZGF0YToganNvbn0pCiAgICBlbmQKICBlbmQKCiAgZGVmIHRpbWVfdG9fcXVpdD8oZW5kX3RpbWUpCiAgICByZXR1cm4gZmFsc2UgaWYgZW5kX3RpbWUubmlsPwogICAgVGltZS5ub3cgPiBlbmRfdGltZQogIGVuZAplbmQK</text>
+        <text encoding="base64">am9iX2NvdW50ID0gU2lkZWtpcTo6UXVldWUubmV3KHF1ZXVlX25hbWUpLnNpemUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRzdGRlcnIucHV0cyhbZS5tZXNzYWdlLCBlLmJhY2t0cmFjZV0uam9pbigiXG4iKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RkZXJyLnB1dHMoW2UubWVzc2FnZSwgZS5iYWNrdHJhY2VdLmpvaW4oIlxuIikpCg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHJkbV9leGNlcHRpb25fcnVsZQogICAgICBlbmQKCg==</text>
+        <text encoding="base64">ICBhYm9ydCgiVXNhZ2U6IHF1ZXVlX2pvYl9jb3VudC5yYiA8cXVldWVfbmFtZT4iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZG1fZXhjZXB0aW9uX3J1bGUuYmxhbms/Cg==</text>
+        <text encoding="base64">aWYgKHF1ZXVlX25hbWUgPSBBUkdWWzBdKS5uaWw/Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJZHM6OlJ1bGVzOjpSZG1FeGNlcHRpb24ubmV3KHNlbGYpLm1hdGNoPwo=</text>
+        <text encoding="base64">ICBleGl0KDEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">U2lkZWtpcTo6UXVldWUuYWxsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
