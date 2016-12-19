@@ -1302,11 +1302,11 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" timestamp="1482165966513">
-        <mark key="[" line="6" column="47" />
-        <mark key="]" line="6" column="47" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="6" column="47" />
+      <file name="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" timestamp="1482166294798">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="6" column="64" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/fidelis.rb" timestamp="1481326803298">
         <mark key="[" line="15" column="41" />
@@ -1449,47 +1449,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_job_count.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>get</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb21wYW55SWQ6ICJDMDAwMDI3NDY5MlQxIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ip</text>
       </register>
       <register name="0" type="4">
-        <text>C0000274692T1</text>
+        <text>C0000274692T1&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW55SWQ6ICJDMDAwMDI3NDY5MlQxIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChmYWxzZSkudG8gZXEodHJ1ZSkK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCAiZG9lcyBzb21ldGhpbmcgdXNlZnVsIiBkbwo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChmYWxzZSkudG8gZXEodHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpdCAiZG9lcyBzb21ldGhpbmcgdXNlZnVsIiBkbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JHN0ZG91dC5wdXRzKGpvYl9jb3VudCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">am9iX2NvdW50ID0gU2lkZWtpcTo6UXVldWUubmV3KHF1ZXVlX25hbWUpLnNpemUK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">JHN0ZG91dC5wdXRzKGpvYl9jb3VudCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">am9iX2NvdW50ID0gU2lkZWtpcTo6UXVldWUubmV3KHF1ZXVlX25hbWUpLnNpemUK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhYm9ydCgiVXNhZ2U6IHF1ZXVlX2pvYl9jb3VudC5yYiA8cXVldWVfbmFtZT4iKQo=</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -1542,9 +1542,9 @@
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
-        <entry>action RunClass</entry>
         <entry>action Debug</entry>
         <entry>w</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
