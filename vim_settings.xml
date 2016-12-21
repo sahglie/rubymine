@@ -617,7 +617,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482352455798">
+      <file name="/Dummy.txt" timestamp="1482352679734">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -1143,10 +1143,10 @@
         <mark key="." line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" timestamp="1481676085266">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="62" column="1" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="51" column="1" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/authz/permission_spec.rb" timestamp="1482351449256">
         <mark key="[" line="8" column="62" />
@@ -1556,7 +1556,7 @@
         <text encoding="base64">ICBkZWZhdWx0KGZyb206ICdhcHBfc29ja0Bzb2NrLnNlY3VyaXR5LmJlcmtlbGV5LmVkdScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -1592,7 +1592,6 @@
         <entry>ip</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/@alert_attrs\[:\(src_ip\)\]/@alert\./gc</entry>
         <entry>%s/@alert_attrs\[:\(src_ip\)\]/@alert\.\1/gc</entry>
         <entry>%s/@alert_attrs\[:\(.\)\]/@alert\.\1/gc</entry>
         <entry>%s/@alert_attrs\[:\(\.+\)\]/@alert\.\1/gc</entry>
@@ -1612,6 +1611,7 @@
         <entry>action Run</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
