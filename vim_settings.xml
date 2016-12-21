@@ -1161,6 +1161,11 @@
         <mark key="^" line="62" column="1" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/authz/permission_spec.rb" timestamp="1482351449256">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/config/routes.rb" timestamp="1480287035202">
         <mark key="[" line="14" column="70" />
         <mark key="]" line="14" column="74" />
@@ -1563,7 +1568,7 @@
         <text encoding="base64">ICBkZWZhdWx0KGZyb206ICdhcHBfc29ja0Bzb2NrLnNlY3VyaXR5LmJlcmtlbGV5LmVkdScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1609,7 +1614,6 @@
         <entry>%s/@alert_attrs\[:\([a-z_]+\)\]/@alert\.\1/gc</entry>
         <entry>%s/@alert_attrs\[:\(\w*\)\]/@alert\.\1/gc</entry>
         <entry>action GotoTest</entry>
-        <entry>action Run</entry>
         <entry>vs</entry>
         <entry>action GotoAction</entry>
         <entry>ws</entry>
@@ -1619,6 +1623,7 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
