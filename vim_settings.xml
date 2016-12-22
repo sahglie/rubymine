@@ -1387,12 +1387,12 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" timestamp="1482178518531">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="28" />
+      <file name="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" timestamp="1482429954888">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="45" column="61" />
+        <mark key="]" line="48" column="3" />
+        <mark key="." line="48" column="3" />
+        <mark key="^" line="48" column="3" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/fidelis.rb" timestamp="1482354964445">
         <mark key="[" line="15" column="41" />
@@ -1433,8 +1433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="9" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/snort_packet.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/aid_job.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/osx_out_of_date_job.rb" />
       <jump line="93" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
       <jump line="86" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
@@ -1533,13 +1531,15 @@
       <jump line="94" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/snort_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/snort_spec.rb" />
       <jump line="86" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/snort/processors/event_spec.rb" />
+      <jump line="53" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Ids</text>
+        <text>company_id</text>
       </register>
       <register name="-" type="4">
-        <text>Ids</text>
+        <text>company_id</text>
       </register>
       <register name="/" type="4">
         <text>Ids::Processors::Snort</text>
@@ -1575,7 +1575,7 @@
         <text encoding="base64">ICBkZWZhdWx0KGZyb206ICdhcHBfc29ja0Bzb2NrLnNlY3VyaXR5LmJlcmtlbGV5LmVkdScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -1626,11 +1626,11 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action Run</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>%s/Ids::Processors::Snort/Snort::Processors::Event/gc</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
         <entry>action RunClass</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
