@@ -1658,6 +1658,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activesupport-5.0.0.rc2/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.0.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/activesupport-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/activesupport-5.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.3.6, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/addressable-2.3.6/lib" />
@@ -15368,6 +15376,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/packetfu-1.1.11/bench" />
       </SOURCES>
     </library>
+    <library name="paint (v1.0.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paint-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paint-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="paranoia (v2.0.2, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/paranoia-2.0.2/lib" />
@@ -20066,6 +20082,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rest-client-2.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rest-client-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="restclient (v0.14.3, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/restclient-0.14.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/restclient-0.14.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/restclient-0.14.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/restclient-0.14.3/lib" />
       </SOURCES>
     </library>
     <library name="rouge (v1.10.1, RVM: ruby-2.2.4) [gem]">
