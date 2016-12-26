@@ -10952,6 +10952,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/jruby-9.0.3.0/gems/jrjackson-0.3.6/profiling" />
       </SOURCES>
     </library>
+    <library name="jruby-jars (v9.1.6.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/jruby-jars-9.1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/jruby-jars-9.1.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jruby-launcher (v1.1.1, RVM: jruby-1.7.22) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/jruby-1.7.22@global/gems/jruby-launcher-1.1.1-java/inc" />
@@ -11030,6 +11038,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jruby-openssl-0.9.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="jruby-rack (v1.1.20, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/jruby-rack-1.1.20/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/jruby-rack-1.1.20/lib" />
       </SOURCES>
     </library>
     <library name="json (v1.8.1, RVM: ruby-2.1.4) [gem]">
@@ -26170,6 +26186,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/w3c_validators-1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="warbler (v2.0.4, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/warbler-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/warbler-2.0.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/warbler-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/warbler-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/warbler-2.0.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/warbler-2.0.4/lib" />
       </SOURCES>
     </library>
     <library name="wasabi (v3.5.0, RVM: jruby-9.0.4.0) [gem]">
