@@ -1633,9 +1633,6 @@
         <entry>new_connection</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/@alert_attrs\[:\(.*\)\]/@alert\.\1/gc</entry>
-        <entry>%s/@alert_attrs\[:\([a-z_]\)\]/@alert\.\1/gc</entry>
-        <entry>%s/@alert_attrs\[:\([a-z_]+\)\]/@alert\.\1/gc</entry>
         <entry>%s/@alert_attrs\[:\(\w*\)\]/@alert\.\1/gc</entry>
         <entry>vs</entry>
         <entry>ws</entry>
@@ -1653,6 +1650,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoClass</entry>
+        <entry>actionList Recent</entry>
+        <entry>action list recent</entry>
+        <entry>action recent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
