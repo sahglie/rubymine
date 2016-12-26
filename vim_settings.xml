@@ -442,11 +442,11 @@
         <mark key="^" line="1077" column="10" />
         <mark key="." line="1077" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/projects/ruby_test_odata/ruby_test_odata.gemspec" timestamp="1482433066297">
-        <mark key="[" line="37" column="44" />
-        <mark key="]" line="37" column="44" />
-        <mark key="." line="37" column="44" />
-        <mark key="^" line="36" column="49" />
+      <file name="$USER_HOME$/Development/projects/ruby_test_odata/ruby_test_odata.gemspec" timestamp="1482689869645">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+        <mark key="^" line="39" column="30" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/notify_failed_ip_blocks.rb" timestamp="1482345821827">
         <mark key="[" line="8" column="31" />
@@ -526,6 +526,9 @@
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="79" />
+      </file>
+      <file name="/Ruby Console" timestamp="1482690511427">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/infoblox/repos/roaming_host_spec.rb" timestamp="1475090432753">
         <mark key="[" line="2" column="61" />
@@ -968,7 +971,7 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="33" column="53" />
       </file>
-      <file name="/fragment.rb" timestamp="1482525031727">
+      <file name="/fragment.rb" timestamp="1482690548680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1005,6 +1008,7 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby_odata-0.1.6/lib/ruby_odata/class_builder.rb" timestamp="1482690456857" />
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/utils/ip_addr.rb" timestamp="1481672295182">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="6" column="25" />
@@ -1406,12 +1410,11 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" timestamp="1482432901713">
-        <mark key="'" line="18" column="35" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
+      <file name="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" timestamp="1482690131956">
+        <mark key="'" line="4" column="16" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/fidelis.rb" timestamp="1482354964445">
         <mark key="[" line="15" column="41" />
@@ -1452,11 +1455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/rules/osx_out_of_date_spec.rb" />
-      <jump line="45" column="26" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
-      <jump line="45" column="37" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
-      <jump line="39" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/rdm_exception.rb" />
-      <jump line="54" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
       <jump line="127" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
       <jump line="74" column="3" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
       <jump line="39" column="9" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/processors/snort.rb" />
@@ -1519,7 +1517,6 @@
       <jump line="45" column="10" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
       <jump line="51" column="42" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
       <jump line="47" column="35" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
       <jump line="49" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
       <jump line="11" column="11" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
       <jump line="48" column="9" filename="$USER_HOME$/Development/projects/ruby_test_odata/Gemfile.lock" />
@@ -1552,49 +1549,55 @@
       <jump line="520" column="42" filename="$USER_HOME$/Development/projects/ruby-net-ldap/lib/net/ldap.rb" />
       <jump line="1310" column="0" filename="$USER_HOME$/Development/projects/ruby-net-ldap/lib/net/ldap.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/ruby-net-ldap/lib/net/ldap.rb" />
+      <jump line="56" column="5" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
+      <jump line="59" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
+      <jump line="55" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
+      <jump line="4" column="16" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NvciA9IFNub3J0OjpQcm9jZXNzb3JzOjpFdmVudC5uZXcoZXZlbnRfanNvbjogZXZlbnQpCiAgICBwcm9jZXNzb3IuKCkK</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>new_connection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NvciA9IFNub3J0OjpQcm9jZXNzb3JzOjpFdmVudC5uZXcoZXZlbnRfanNvbjogZXZlbnQpCiAgICBwcm9jZXNzb3IuKCkK</text>
+        <text encoding="base64">ICBzcGVjLmFkZF9kZXBlbmRlbmN5ICJyZXN0LWNsaWVudCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFsZXJ0IHRjcCAkRVhURVJOQUxfTkVUIGFueSAtPiAkSE9NRV9ORVQgMjIgKG1zZzpcIkVUIFNDQU4gU1NIIEJydXRlRm9yY2UgVG9vbCB3aXRoIGZha2UgUFVUVFkgdmVyc2lvblwiOyBmbG93OmVzdGFibGlzaGVkLHRvX3NlcnZlcjsgY29udGVudDpcIlNTSC0yLjAtUFVUVFlcIjsgZGVwdGg6MTM7IHRocmVzaG9sZDogdHlwZSBsaW1pdCwgdHJhY2sgYnlfc3JjLCBjb3VudCAxLCBzZWNvbmRzIDMwOyBjbGFzc3R5cGU6bmV0d29yay1zY2FuOyBzaWQ6MjAxOTg3NjsgcmV2OjI7KSIsCiAgICAgICAgInJ1bGVfc291cmNlX2ZpbGUiID0+ICIvZGF0YS9zbm9ydC9zbm9ydC9ydWxlcy9lbWVyZ2luZ3RocmVhdHMucnVsZXMiLAogICAgICAgICJydWxlX3NvdXJjZV9maWxlX2xpbmVfbnVtYmVyIiA9PiAxMTc1LAogICAgICAgICJzZW5zb3JfaG9zdG5hbWUiID0+ICJmc2ItMDQuYmVya2VsZXkuZWR1IiwKICAgICAgICAic2Vuc29yX2lkIiA9PiAwLAogICAgICAgICJzZW5zb3JfaW50ZXJmYWNlIiA9PiAiZXRoMC0wIiwKICAgICAgICAic2lnbmF0dXJlIiA9PiAiRVQgU0NBTiBTU0ggQnJ1dGVGb3JjZSBUb29sIHdpdGggZmFrZSBQVVRUWSB2ZXJzaW9uIiwKICAgICAgICAic2lnbmF0dXJlX2lkIiA9PiAyOTg4MywKICAgICAgICAic2lnbmF0dXJlX3JldmlzaW9uIiA9PiAyLAogICAgICAgICJzb3VyY2UiID0+CiAgICAgICAgICAgICIvZGF0YS9zbm9ydC9zbm9ydC9sb2dzL2V0aDAtMC9kYXRhL3Nub3J0L3Nub3J0L2xvZ3MvZXRoMC0wL21lcmdlZC5sb2cuMTQ4MjQ4NjQxNiIsCiAgICAgICAgInNvdXJjZV9vZmZzZXQiID0+IDYyODYyNTksCiAgICAgICAgInNwb3J0IiA9PiA0MDc5MSwKICAgICAgICAic3JjX2NvdW50cnlfY29kZSIgPT4gIkNOIiwKICAgICAgICAic3JjX2lwIiA9PiAiMTE2LjMxLjExNi4zMyIsCiAgICAgICAgInNyY19pcHY0IiA9PiAiMTE2LjMxLjExNi4zMyIsCiAgICAgICAgInNyY19sb2NhdGlvbiIgPT4gIjIzLjExNjcwMCwgMTEzLjI1MDAwMCIsCiAgICAgICAgInR5cGUiID0+ICJldmVudCIsCiAgICAgICAgInZsYW5faWQiID0+IDAsCiAgICAgICAgIkB2ZXJzaW9uIiA9PiAiMSIsCiAgICAgICAgImhvc3QiID0+ICJmc2ItMDQuYmVya2VsZXkuZWR1IiwKICAgICAgICAidGFncyIgPT4gWyJiZWF0c19pbnB1dF9yYXdfZXZlbnQiLCAiZnJvbV9wcm9kIl0sCiAgICAgICAgImRhdGVzdGFtcCIgPT4gIjIwMTYtMTItMjIiLAogICAgICAgICJyb3V0aW5nX2tleSIgPT4gInNub3J0X2V2ZW50cyIKICAgIH0K</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAicnVsZV9yYXciID0+Cg==</text>
+        <text encoding="base64">ICAgIHNlcnZpY2UgPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAicmVjb3JkX3R5cGUiID0+ICJldmVudCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAicHJvdG9jb2wiID0+IDYsCg==</text>
+        <text encoding="base64">ICAgIHBwIGNyZWRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAicHJpb3JpdHkiID0+IDMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFsZXJ0IHRjcCAkRVhURVJOQUxfTkVUIGFueSAtPiAkSE9NRV9ORVQgMjIgKG1zZzpcIkVUIFNDQU4gU1NIIEJydXRlRm9yY2UgVG9vbCB3aXRoIGZha2UgUFVUVFkgdmVyc2lvblwiOyBmbG93OmVzdGFibGlzaGVkLHRvX3NlcnZlcjsgY29udGVudDpcIlNTSC0yLjAtUFVUVFlcIjsgZGVwdGg6MTM7IHRocmVzaG9sZDogdHlwZSBsaW1pdCwgdHJhY2sgYnlfc3JjLCBjb3VudCAxLCBzZWNvbmRzIDMwOyBjbGFzc3R5cGU6bmV0d29yay1zY2FuOyBzaWQ6MjAxOTg3NjsgcmV2OjI7KSIsCiAgICAgICAgInJ1bGVfc291cmNlX2ZpbGUiID0+ICIvZGF0YS9zbm9ydC9zbm9ydC9ydWxlcy9lbWVyZ2luZ3RocmVhdHMucnVsZXMiLAogICAgICAgICJydWxlX3NvdXJjZV9maWxlX2xpbmVfbnVtYmVyIiA9PiAxMTc1LAogICAgICAgICJzZW5zb3JfaG9zdG5hbWUiID0+ICJmc2ItMDQuYmVya2VsZXkuZWR1IiwKICAgICAgICAic2Vuc29yX2lkIiA9PiAwLAogICAgICAgICJzZW5zb3JfaW50ZXJmYWNlIiA9PiAiZXRoMC0wIiwKICAgICAgICAic2lnbmF0dXJlIiA9PiAiRVQgU0NBTiBTU0ggQnJ1dGVGb3JjZSBUb29sIHdpdGggZmFrZSBQVVRUWSB2ZXJzaW9uIiwKICAgICAgICAic2lnbmF0dXJlX2lkIiA9PiAyOTg4MywKICAgICAgICAic2lnbmF0dXJlX3JldmlzaW9uIiA9PiAyLAogICAgICAgICJzb3VyY2UiID0+CiAgICAgICAgICAgICIvZGF0YS9zbm9ydC9zbm9ydC9sb2dzL2V0aDAtMC9kYXRhL3Nub3J0L3Nub3J0L2xvZ3MvZXRoMC0wL21lcmdlZC5sb2cuMTQ4MjQ4NjQxNiIsCiAgICAgICAgInNvdXJjZV9vZmZzZXQiID0+IDYyODYyNTksCiAgICAgICAgInNwb3J0IiA9PiA0MDc5MSwKICAgICAgICAic3JjX2NvdW50cnlfY29kZSIgPT4gIkNOIiwKICAgICAgICAic3JjX2lwIiA9PiAiMTE2LjMxLjExNi4zMyIsCiAgICAgICAgInNyY19pcHY0IiA9PiAiMTE2LjMxLjExNi4zMyIsCiAgICAgICAgInNyY19sb2NhdGlvbiIgPT4gIjIzLjExNjcwMCwgMTEzLjI1MDAwMCIsCiAgICAgICAgInR5cGUiID0+ICJldmVudCIsCiAgICAgICAgInZsYW5faWQiID0+IDAsCiAgICAgICAgIkB2ZXJzaW9uIiA9PiAiMSIsCiAgICAgICAgImhvc3QiID0+ICJmc2ItMDQuYmVya2VsZXkuZWR1IiwKICAgICAgICAidGFncyIgPT4gWyJiZWF0c19pbnB1dF9yYXdfZXZlbnQiLCAiZnJvbV9wcm9kIl0sCiAgICAgICAgImRhdGVzdGFtcCIgPT4gIjIwMTYtMTItMjIiLAogICAgICAgICJyb3V0aW5nX2tleSIgPT4gInNub3J0X2V2ZW50cyIKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAibXBsc19sYWJlbCIgPT4gMCwK</text>
+        <text encoding="base64">ICAgICAgICAicnVsZV9yYXciID0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiaW5wdXRfdHlwZSIgPT4gInVuaWZpZWQyIiwK</text>
+        <text encoding="base64">ICAgICAgICAicmVjb3JkX3R5cGUiID0+ICJldmVudCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiaW5kZXhlZF9hdCIgPT4gIjIwMTYtMTItMjNUMTc6NDc6MTYuNTE2WiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAicHJvdG9jb2wiID0+IDYsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiaW1wYWN0X2ZsYWciID0+IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAicHJpb3JpdHkiID0+IDMsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -1630,9 +1633,6 @@
         <entry>new_connection</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/@alert_attrs\[:\(.\)\]/@alert\.\1/gc</entry>
-        <entry>%s/@alert_attrs\[:\(\.+\)\]/@alert\.\1/gc</entry>
-        <entry>%s/@alert_attrs\[:\(\.\)\]/@alert\.\1/gc</entry>
         <entry>%s/@alert_attrs\[:\(.*\)\]/@alert\.\1/gc</entry>
         <entry>%s/@alert_attrs\[:\([a-z_]\)\]/@alert\.\1/gc</entry>
         <entry>%s/@alert_attrs\[:\([a-z_]+\)\]/@alert\.\1/gc</entry>
@@ -1643,13 +1643,16 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action Run</entry>
-        <entry>action RunClass</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoTest</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
+        <entry>w</entry>
+        <entry>action RunClass</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
+        <entry>action DebugClass</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
