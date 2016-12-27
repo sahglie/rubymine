@@ -316,7 +316,7 @@
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/config/initializers/monkey_patches/sidekiq/exception_handler.rb" timestamp="1482522575774">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/config/initializers/monkey_patches/sidekiq/exception_handler.rb" timestamp="1482872308674">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -1083,12 +1083,12 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/config/database.yml" timestamp="1482525491476">
-        <mark key="'" line="19" column="9" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="10" />
-        <mark key="." line="49" column="10" />
-        <mark key="^" line="49" column="10" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/config/database.yml" timestamp="1482872996285">
+        <mark key="'" line="49" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/sidekiq.rb" timestamp="1481668695577">
         <mark key="[" line="17" column="0" />
@@ -1133,12 +1133,25 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/ids/rules/rdm_exception.rb" timestamp="1482872852859">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="47" />
+        <mark key="." line="53" column="18" />
+        <mark key="^" line="53" column="18" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid/step4_controller.rb" timestamp="1480356699075">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="63" />
         <mark key="]" line="14" column="67" />
         <mark key="^" line="14" column="67" />
         <mark key="." line="14" column="67" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" timestamp="1482872953654">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="150" column="48" />
+        <mark key="]" line="150" column="63" />
+        <mark key="." line="150" column="63" />
+        <mark key="^" line="150" column="63" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/intrushield.rb" timestamp="1481326340676">
         <mark key="[" line="13" column="27" />
@@ -1447,18 +1460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
-      <jump line="74" column="3" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
-      <jump line="39" column="9" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/processors/snort.rb" />
-      <jump line="9" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/jobs/snort_packet.rb" />
-      <jump line="0" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/jobs/snort_packet.rb" />
-      <jump line="29" column="45" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/processors/event.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/processors/event.rb" />
-      <jump line="90" column="25" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/osx_alert.rb" />
-      <jump line="75" column="15" filename="$USER_HOME$/Development/projects/sock_rails5/app/services/network_session/finder.rb" />
-      <jump line="92" column="37" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_lease.rb" />
-      <jump line="35" column="27" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" />
-      <jump line="29" column="46" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/calvisitor_session.rb" />
       <jump line="73" column="31" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/calvisitor_session.rb" />
       <jump line="80" column="32" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/calvisitor_session.rb" />
       <jump line="81" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/calvisitor_session.rb" />
@@ -1547,49 +1548,61 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
       <jump line="55" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
       <jump line="4" column="16" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
+      <jump line="139" column="26" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
+      <jump line="157" column="40" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
+      <jump line="156" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
+      <jump line="18" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
+      <jump line="183" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
+      <jump line="152" column="8" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
+      <jump line="184" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
+      <jump line="26" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
+      <jump line="135" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
+      <jump line="35" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
+      <jump line="49" column="9" filename="$USER_HOME$/Development/projects/sock-rails5/config/database.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+      <register name="&quot;" type="4">
+        <text>development</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
         <text>new_connection</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBzcGVjLmFkZF9kZXBlbmRlbmN5ICJyZXN0LWNsaWVudCIK</text>
+      <register name="0" type="4">
+        <text>128.32.30.66</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgcHAgTm9zRGF0YTo6VWNiTmV0d29yay5jYW1wdXNfaXA/KCIxMjguMzIuMzAuNjYiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2UgPQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBleHBlY3QocnVsZSkudG8gYmVfbmlsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBwIGNyZWRzCg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFsZXJ0IHRjcCAkRVhURVJOQUxfTkVUIGFueSAtPiAkSE9NRV9ORVQgMjIgKG1zZzpcIkVUIFNDQU4gU1NIIEJydXRlRm9yY2UgVG9vbCB3aXRoIGZha2UgUFVUVFkgdmVyc2lvblwiOyBmbG93OmVzdGFibGlzaGVkLHRvX3NlcnZlcjsgY29udGVudDpcIlNTSC0yLjAtUFVUVFlcIjsgZGVwdGg6MTM7IHRocmVzaG9sZDogdHlwZSBsaW1pdCwgdHJhY2sgYnlfc3JjLCBjb3VudCAxLCBzZWNvbmRzIDMwOyBjbGFzc3R5cGU6bmV0d29yay1zY2FuOyBzaWQ6MjAxOTg3NjsgcmV2OjI7KSIsCiAgICAgICAgInJ1bGVfc291cmNlX2ZpbGUiID0+ICIvZGF0YS9zbm9ydC9zbm9ydC9ydWxlcy9lbWVyZ2luZ3RocmVhdHMucnVsZXMiLAogICAgICAgICJydWxlX3NvdXJjZV9maWxlX2xpbmVfbnVtYmVyIiA9PiAxMTc1LAogICAgICAgICJzZW5zb3JfaG9zdG5hbWUiID0+ICJmc2ItMDQuYmVya2VsZXkuZWR1IiwKICAgICAgICAic2Vuc29yX2lkIiA9PiAwLAogICAgICAgICJzZW5zb3JfaW50ZXJmYWNlIiA9PiAiZXRoMC0wIiwKICAgICAgICAic2lnbmF0dXJlIiA9PiAiRVQgU0NBTiBTU0ggQnJ1dGVGb3JjZSBUb29sIHdpdGggZmFrZSBQVVRUWSB2ZXJzaW9uIiwKICAgICAgICAic2lnbmF0dXJlX2lkIiA9PiAyOTg4MywKICAgICAgICAic2lnbmF0dXJlX3JldmlzaW9uIiA9PiAyLAogICAgICAgICJzb3VyY2UiID0+CiAgICAgICAgICAgICIvZGF0YS9zbm9ydC9zbm9ydC9sb2dzL2V0aDAtMC9kYXRhL3Nub3J0L3Nub3J0L2xvZ3MvZXRoMC0wL21lcmdlZC5sb2cuMTQ4MjQ4NjQxNiIsCiAgICAgICAgInNvdXJjZV9vZmZzZXQiID0+IDYyODYyNTksCiAgICAgICAgInNwb3J0IiA9PiA0MDc5MSwKICAgICAgICAic3JjX2NvdW50cnlfY29kZSIgPT4gIkNOIiwKICAgICAgICAic3JjX2lwIiA9PiAiMTE2LjMxLjExNi4zMyIsCiAgICAgICAgInNyY19pcHY0IiA9PiAiMTE2LjMxLjExNi4zMyIsCiAgICAgICAgInNyY19sb2NhdGlvbiIgPT4gIjIzLjExNjcwMCwgMTEzLjI1MDAwMCIsCiAgICAgICAgInR5cGUiID0+ICJldmVudCIsCiAgICAgICAgInZsYW5faWQiID0+IDAsCiAgICAgICAgIkB2ZXJzaW9uIiA9PiAiMSIsCiAgICAgICAgImhvc3QiID0+ICJmc2ItMDQuYmVya2VsZXkuZWR1IiwKICAgICAgICAidGFncyIgPT4gWyJiZWF0c19pbnB1dF9yYXdfZXZlbnQiLCAiZnJvbV9wcm9kIl0sCiAgICAgICAgImRhdGVzdGFtcCIgPT4gIjIwMTYtMTItMjIiLAogICAgICAgICJyb3V0aW5nX2tleSIgPT4gInNub3J0X2V2ZW50cyIKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgZHN0X3BvcnQ6IDEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAicnVsZV9yYXciID0+Cg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgZHN0X2lwOiAnMS4xLjEuMScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAicmVjb3JkX3R5cGUiID0+ICJldmVudCIsCg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgc3JjX3BvcnQ6IDEsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAicHJvdG9jb2wiID0+IDYsCg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgc3JjX2lwOiAnMTY5LjIyOS4yMTcuMTYwJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAicHJpb3JpdHkiID0+IDMsCg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgc2lnX2NsYXNzOiAnRENFUlBDJywK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action QuickList.Ruby/Rails</text>
       </register>
     </registers>
     <search>
@@ -1625,26 +1638,26 @@
         <entry>new_connection</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/@alert_attrs\[:\(\w*\)\]/@alert\.\1/gc</entry>
         <entry>vs</entry>
         <entry>ws</entry>
         <entry>%s/Ids::Processors::Snort/Snort::Processors::Event/gc</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Run</entry>
-        <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoTest</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
-        <entry>w</entry>
-        <entry>action RunClass</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
         <entry>action DebugClass</entry>
         <entry>action GotoClass</entry>
         <entry>actionList Recent</entry>
         <entry>action list recent</entry>
         <entry>action recent</entry>
+        <entry>action Run</entry>
+        <entry>action GotoTest</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LlJ1YnkvUmFpbHM=</entry>
+        <entry>action RunClass</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
+        <entry>action QuickList.Ruby/Rails</entry>
       </history-cmd>
       <history-expr />
       <history-input />
