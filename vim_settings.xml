@@ -789,12 +789,11 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/processors/radius.rb" timestamp="1483477984920">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="40" />
-        <mark key="^" line="35" column="40" />
-        <mark key="." line="35" column="40" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/processors/radius.rb" timestamp="1483479214902">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/cwid_progress.rb" timestamp="1480283584367">
         <mark key="'" line="59" column="23" />
@@ -1543,11 +1542,11 @@
       <jump line="23" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Ids::Processors::Snort</text>
@@ -1556,31 +1555,31 @@
         <text encoding="base64">ICAgICAgZGVmIGlwdjZfYWRkcl9saXN0CiAgICAgICAgQGF0dHJzWyJGcmFtZWQtSVB2Ni1BZGRyZXNzIl0ucmVqZWN0IHsgfGlwfCBsaW5rX2xvY2FsPyhpcCkgfQogICAgICBlbmQKCiAgICAgIGRlZiBsaW5rX2xvY2FsPyhpcCkKICAgICAgICBpcC5kb3duY2FzZS5zdGFydF93aXRoPygiZmU4MCIpCiAgICAgIGVuZAoKICAgICAgZGVmIGFjY3Rfc3RhdHVzX2NvZGUKICAgICAgICBTVEFUVVNfQ09ERVMuZmV0Y2goQGF0dHJzWyJBY2N0LVN0YXR1cy1UeXBlIl0uZG93bmNhc2UpCiAgICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBOb3NEYXRhOjpJbnZhbGlkUmFkaXVzTG9nLmNyZWF0ZSEoQGF0dHJzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTVEFUVVNfQ09ERVMuZmV0Y2goQGF0dHJzWyJBY2N0LVN0YXR1cy1UeXBlIl0uZG93bmNhc2UpCg==</text>
+        <text encoding="base64">ICAgICAgZGVmIGxvZ19lcnJvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGFjY3Rfc3RhdHVzX2NvZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRXJyb3IgPSBDbGFzcy5uZXcoU3RhbmRhcmRFcnJvcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpcC5kb3duY2FzZS5zdGFydF93aXRoPygiZmU4MCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJpbnRlcmltLXVwZGF0ZSIgPT4gMwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGxpbmtfbG9jYWw/KGlwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICJzdG9wIiA9PiAyLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJzdGFydCIgPT4gMSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
