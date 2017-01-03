@@ -665,11 +665,11 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/calvisitor.rb" timestamp="1483477299958">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="8" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="2" column="19" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/calvisitor.rb" timestamp="1483481613045">
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="54" />
+        <mark key="." line="26" column="54" />
+        <mark key="^" line="26" column="54" />
       </file>
       <file name="$USER_HOME$/.rvm/rubies/ruby-2.2.4/lib/ruby/2.2.0/net/imap.rb" timestamp="1475183174888">
         <mark key="[" line="1077" column="11" />
@@ -715,11 +715,15 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/vpn.rb" timestamp="1483477290541">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="8" />
-        <mark key="." line="4" column="7" />
-        <mark key="^" line="4" column="7" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/snort.rb" timestamp="1483480884555">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="66" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/vpn.rb" timestamp="1483481729452">
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="42" column="27" />
+        <mark key="^" line="42" column="27" />
+        <mark key="." line="42" column="27" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/aggressive_ips.yml" timestamp="1474408081729">
         <mark key="[" line="5" column="22" />
@@ -789,11 +793,12 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/processors/radius.rb" timestamp="1483479214902">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/processors/radius.rb" timestamp="1483480459981">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/cwid_progress.rb" timestamp="1480283584367">
         <mark key="'" line="59" column="23" />
@@ -1364,12 +1369,11 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" timestamp="1483477400941">
-        <mark key="'" line="23" column="5" />
-        <mark key="[" line="48" column="6" />
-        <mark key="]" line="49" column="5" />
-        <mark key="." line="49" column="5" />
-        <mark key="^" line="49" column="5" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" timestamp="1483481632497">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="77" column="2" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/verify_cwid_email.js.erb" timestamp="1480283206968">
         <mark key="[" line="13" column="0" />
@@ -1408,6 +1412,19 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/eduroam.rb" timestamp="1483481695949">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="77" column="2" />
+        <mark key="." line="42" column="31" />
+        <mark key="^" line="42" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/processors/radius_log.rb" timestamp="1483480602292">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+        <mark key="^" line="25" column="25" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/set_questions.js.erb" timestamp="1480271371739">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="66" />
@@ -1440,14 +1457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/alerts/snort.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/alerts/snort.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/alerts/snort.rb" />
-      <jump line="3" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/alerts/repsm.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/alerts/repsm.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/alerts/repsm.rb" />
-      <jump line="35" column="52" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
-      <jump line="4" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/snort.rb" />
       <jump line="25" column="7" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
       <jump line="17" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/processors/ids_alert.rb" />
@@ -1537,49 +1546,57 @@
       <jump line="130" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
       <jump line="49" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/processors/radius.rb" />
       <jump line="23" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
+      <jump line="49" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
+      <jump line="59" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
+      <jump line="78" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/calvisitor.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
+      <jump line="78" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/eduroam.rb" />
+      <jump line="42" column="31" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/eduroam.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/eduroam.rb" />
+      <jump line="2" column="12" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/vpn.rb" />
+      <jump line="78" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/vpn.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>Eduroam</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Eduroam</text>
       </register>
       <register name="/" type="4">
         <text>Ids::Processors::Snort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGlwdjZfYWRkcl9saXN0CiAgICAgICAgQGF0dHJzWyJGcmFtZWQtSVB2Ni1BZGRyZXNzIl0ucmVqZWN0IHsgfGlwfCBsaW5rX2xvY2FsPyhpcCkgfQogICAgICBlbmQKCiAgICAgIGRlZiBsaW5rX2xvY2FsPyhpcCkKICAgICAgICBpcC5kb3duY2FzZS5zdGFydF93aXRoPygiZmU4MCIpCiAgICAgIGVuZAoKICAgICAgZGVmIGFjY3Rfc3RhdHVzX2NvZGUKICAgICAgICBTVEFUVVNfQ09ERVMuZmV0Y2goQGF0dHJzWyJBY2N0LVN0YXR1cy1UeXBlIl0uZG93bmNhc2UpCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">bW9kdWxlIE5vc0RhdGEKICBtb2R1bGUgUmFkaXVzTG9ncwogICAgY2xhc3MgRWR1cm9hbQogICAgICBTVEFUVVNfQ09ERVMgPSB7CiAgICAgICAgICAic3RhcnQiID0+IDEsCiAgICAgICAgICAic3RvcCIgPT4gMiwKICAgICAgICAgICJpbnRlcmltLXVwZGF0ZSIgPT4gMwogICAgICB9CgogICAgICAjIEV4YW1wbGUgb2YgOmF0dHJzCiAgICAgICMKICAgICAgIyB7CiAgICAgICMgICAiZGF0ZXN0YW1wIj0+IjIwMTYtMTAtMTIiLAogICAgICAjICAgIlVzZXItTmFtZSI9PiJhaXJiZWFycy5kdWRlIiwKICAgICAgIyAgICJGcmFtZWQtSVAtQWRkcmVzcyI9PiIxMzYuMTUyLjIyOC4xNjYiLAogICAgICAjICAgIkZyYW1lZC1JUHY2LUFkZHJlc3MiPT5bCiAgICAgICMgICAgICIyNjA3OmYxNDA6MTAwMDpiOjU5ZGU6MWQ5Njo2MTAzOmYxZjMiLAogICAgICAjICAgICAiMjYwNzpmMTQwOjEwMDA6YjpiZDBhOjY3NDc6MzIzZTpmMWY3IiwKICAgICAgIyAgICAgImZlODA6OjU5ZGU6MWQ5Njo2MTAzOmYxZjMiCiAgICAgICMgICBdLAogICAgICAjICAgIkFjY3QtU2Vzc2lvbi1JZCI9PiI1N2ZkNGVhMC9jMDozMzo1ZTpkZTplMjo0My83MjM1IiwKICAgICAgIyAgICJDaXNjby1BVlBhaXIiPT4iYXVkaXQtc2Vzc2lvbi1pZD0wYWZmZjFmYTAwMDAwZWY3NTdmZDRlYTAiLAogICAgICAjICAgIkV2ZW50LVRpbWVzdGFtcCI9PiJPY3QgMTIgMjAxNiAwMDowMzoyNSBQRFQiLAogICAgICAjICAgIkFjY3QtU3RhdHVzLVR5cGUiPT4iSW50ZXJpbS1VcGRhdGUiLAogICAgICAjICAgIkFjY3QtT3V0cHV0LVBhY2tldHMiPT4iMTUyOTYiLAogICAgICAjICAgIkNhbGxpbmctU3RhdGlvbi1JZCI9PiJjMDMzNWVkZWUyNDMiLAogICAgICAjICAgIkNhbGxlZC1TdGF0aW9uLUlkIj0+IjAwYTI4OTFkMjk0MDplZHVyb2FtIiwKICAgICAgIyAgICJBY2N0LURlbGF5LVRpbWUiPT4iMCIsCiAgICAgICMgICAiTkFTLUlQLUFkZHJlc3MiPT4iMTY5LjIyOS4yMDMuNSIsCiAgICAgICMgICAiQWNjdC1VbmlxdWUtU2Vzc2lvbi1JZCI9PiJiOWI1ODljY2JjODcwODU1IiwKICAgICAgIyAgICJUaW1lc3RhbXAiPT4iMTQ3NjI1NTgwNSIsCiAgICAgICMgfQogICAgICBkZWYgaW5pdGlhbGl6ZShhdHRycykKICAgICAgICBAYXR0cnMgPSBhdHRycwogICAgICBlbmQKCiAgICAgIGRlZiBwcm9jZXNzCiAgICAgICAgYXR0cnMgPSBhdHRyc19mb3JfaXAoaXB2NF9hZGRyKQogICAgICAgIE5vc0RhdGE6OkpvYnM6OkVkdXJvYW0ucGVyZm9ybShhdHRycykKCiAgICAgICAgaXB2Nl9hZGRyX2xpc3QuZWFjaCBkbyB8aXB2Nl9hZGRyfAogICAgICAgICAgYXR0cnMgPSBhdHRyc19mb3JfaXAoaXB2Nl9hZGRyKQogICAgICAgICAgTm9zRGF0YTo6Sm9iczo6RWR1cm9hbS5wZXJmb3JtKGF0dHJzKQogICAgICAgIGVuZAogICAgICBlbmQKCiAgICAgIGRlZiBhdHRyc19mb3JfaXAoaXApCiAgICAgICAgeyBmcmFtZWRfaXBfYWRkcmVzczogaXAsCiAgICAgICAgICB1c2VybmFtZTogQGF0dHJzWyJVc2VyLU5hbWUiXSwKICAgICAgICAgIGNhbGxpbmdfc3RhdGlvbl9pZDogQGF0dHJzWyJDYWxsaW5nLVN0YXRpb24tSWQiXSwKICAgICAgICAgIGNhbGxlZF9zdGF0aW9uX2lkOiBAYXR0cnNbIkNhbGxlZC1TdGF0aW9uLUlkIl0sCiAgICAgICAgICBhY2N0X3N0YXR1c190eXBlOiBhY2N0X3N0YXR1c19jb2RlLAogICAgICAgICAgYWNjdF9zZXNzaW9uX3RpbWU6IEBhdHRyc1siQWNjdC1TZXNzaW9uLVRpbWUiXSwKICAgICAgICAgIGFjY3Rfc2Vzc2lvbl9pZDogQGF0dHJzWyJBY2N0LVNlc3Npb24tSWQiXSwKICAgICAgICAgIHRpbWVzdGFtcDogVGltZS5hdChAYXR0cnNbIlRpbWVzdGFtcCJdLnRvX2kpLAogICAgICAgICAgcmVjb3JkX3RpbWVzdGFtcDogVGltZS5ub3csCiAgICAgICAgICByYXdfYWxlcnQ6IEBhdHRyc1sibWVzc2FnZSJdCiAgICAgICAgfQogICAgICBlbmQKCiAgICAgIGRlZiBpcHY0X2FkZHIKICAgICAgICBAYXR0cnNbIkZyYW1lZC1JUC1BZGRyZXNzIl0KICAgICAgZW5kCgogICAgICBkZWYgaXB2Nl9hZGRyX2xpc3QKICAgICAgICAoQGF0dHJzWyJGcmFtZWQtSVB2Ni1BZGRyZXNzIl0gfHwgW10pLnJlamVjdCB7IHxpcHwgbGlua19sb2NhbD8oaXApIH0KICAgICAgZW5kCgogICAgICBkZWYgbGlua19sb2NhbD8oaXApCiAgICAgICAgaXAuZG93bmNhc2Uuc3RhcnRfd2l0aD8oImZlODAiKQogICAgICBlbmQKCiAgICAgIGRlZiBhY2N0X3N0YXR1c19jb2RlCiAgICAgICAgU1RBVFVTX0NPREVTLmZldGNoKEBhdHRyc1siQWNjdC1TdGF0dXMtVHlwZSJdLmRvd25jYXNlKQogICAgICBlbmQKICAgIGVuZAogIGVuZAplbmQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBOb3NEYXRhOjpJbnZhbGlkUmFkaXVzTG9nLmNyZWF0ZSEoQGF0dHJzKQo=</text>
+        <text encoding="base64">ICAgICAgICBTVEFUVVNfQ09ERVMuZmV0Y2goQGF0dHJzWyJBY2N0LVN0YXR1cy1UeXBlIl0uZG93bmNhc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGxvZ19lcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgZGVmIGFjY3Rfc3RhdHVzX2NvZGUK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRXJyb3IgPSBDbGFzcy5uZXcoU3RhbmRhcmRFcnJvcikK</text>
+        <text encoding="base64">cAoKcHBwcAoKCm1vZHVsZSBOb3NEYXRhCiAgbW9kdWxlIFJhZGl1c0xvZ3MKICAgIGNsYXNzIFZwbgogICAgICBkZWYgaW5pdGlhbGl6ZShhdHRycykKCiAgICAgIGVuZAogICAgZW5kCiAgZW5kCmVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJpbnRlcmltLXVwZGF0ZSIgPT4gMwo=</text>
+        <text encoding="base64">bW9kdWxlIE5vc0RhdGEKICBtb2R1bGUgUmFkaXVzTG9ncwogICAgY2xhc3MgRWR1cm9hbQogICAgICBTVEFUVVNfQ09ERVMgPSB7CiAgICAgICAgICAic3RhcnQiID0+IDEsCiAgICAgICAgICAic3RvcCIgPT4gMiwKICAgICAgICAgICJpbnRlcmltLXVwZGF0ZSIgPT4gMwogICAgICB9CgogICAgICBkZWYgaW5pdGlhbGl6ZShhdHRycykKICAgICAgICBAYXR0cnMgPSBhdHRycwogICAgICBlbmQKCiAgICAgIGRlZiBpcHY0X2F0dHJzCiAgICAgICAgeyB1c2VybmFtZTogQGF0dHJzWyJVc2VyLU5hbWUiXSwKICAgICAgICAgIGZyYW1lZF9pcF9hZGRyZXNzOiBAYXR0cnNbIkZyYW1lZC1JUC1BZGRyZXNzIl0sCiAgICAgICAgICBjYWxsaW5nX3N0YXRpb25faWQ6IEBhdHRyc1siQ2FsbGluZy1TdGF0aW9uLUlkIl0sCiAgICAgICAgICBjYWxsZWRfc3RhdGlvbl9pZDogQGF0dHJzWyJDYWxsZWQtU3RhdGlvbi1JZCJdLAogICAgICAgICAgYWNjdF9zdGF0dXNfdHlwZTogYWNjdF9zdGF0dXNfY29kZSwKICAgICAgICAgIGFjY3Rfc2Vzc2lvbl90aW1lOiBAYXR0cnNbIkFjY3QtU2Vzc2lvbi1UaW1lIl0sCiAgICAgICAgICBhY2N0X3Nlc3Npb25faWQ6IEBhdHRyc1siQWNjdC1TZXNzaW9uLUlkIl0sCiAgICAgICAgICB0aW1lc3RhbXA6IFRpbWUuYXQoQGF0dHJzWyJUaW1lc3RhbXAiXS50b19pKSwKICAgICAgICAgIHJlY29yZF90aW1lc3RhbXA6IFRpbWUubm93CiAgICAgICAgfQogICAgICBlbmQKCiAgICAgIGRlZiBpcHY2X2FkZHJfbGlzdAogICAgICAgIEBhdHRyc1siRnJhbWVkLUlQdjYtQWRkcmVzcyJdLnJlamVjdCB7IHxpcHwgbGlua19sb2NhbD8oaXApIH0KICAgICAgZW5kCgogICAgICBkZWYgbGlua19sb2NhbD8oaXApCiAgICAgICAgaXAuZG93bmNhc2Uuc3RhcnRfd2l0aD8oImZlODAiKQogICAgICBlbmQKCiAgICAgIGRlZiBhY2N0X3N0YXR1c19jb2RlCiAgICAgICAgU1RBVFVTX0NPREVTLmZldGNoKEBhdHRyc1siQWNjdC1TdGF0dXMtVHlwZSJdLmRvd25jYXNlKQogICAgICBlbmQKICAgIGVuZAogIGVuZAplbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICJzdG9wIiA9PiAyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJzdGFydCIgPT4gMSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
