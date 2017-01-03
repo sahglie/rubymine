@@ -474,6 +474,11 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="61" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/application_mailer/mailer.html.erb" timestamp="1482348059489">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_job_count.rb" timestamp="1481910993663">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -539,6 +544,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/application_mailer/mailer.txt.erb" timestamp="1482348084456">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/metrics/ops_reports/arcsight.rb" timestamp="1476133303537">
         <mark key="[" line="8" column="87" />
@@ -786,6 +796,11 @@
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
         <mark key="^" line="3" column="91" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/processors/radius.rb" timestamp="1483473508444">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/cwid_progress.rb" timestamp="1480283584367">
         <mark key="'" line="59" column="23" />
@@ -1169,6 +1184,16 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" timestamp="1481676085266">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/authz/permission_spec.rb" timestamp="1482351449256">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/config/routes.rb" timestamp="1480287035202">
         <mark key="[" line="14" column="70" />
         <mark key="]" line="14" column="74" />
@@ -1537,11 +1562,11 @@
       <jump line="130" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>s)</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>Ids::Processors::Snort</text>
