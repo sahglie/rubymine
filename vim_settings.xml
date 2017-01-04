@@ -707,12 +707,12 @@
         <mark key="^" line="1077" column="10" />
         <mark key="." line="1077" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/calvisitor_session.rb" timestamp="1481672943649">
-        <mark key="'" line="150" column="13" />
-        <mark key="[" line="150" column="13" />
-        <mark key="]" line="150" column="17" />
-        <mark key="^" line="150" column="17" />
-        <mark key="." line="150" column="17" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/calvisitor_session.rb" timestamp="1483567521741">
+        <mark key="'" line="179" column="13" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/snort_sig_class.rb" timestamp="1481565386685">
         <mark key="[" line="22" column="27" />
@@ -1298,11 +1298,11 @@
         <mark key="^" line="50" column="77" />
         <mark key="." line="50" column="77" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" timestamp="1483566460896">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="29" />
-        <mark key="^" line="30" column="20" />
-        <mark key="." line="20" column="29" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" timestamp="1483567478068">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="41" column="1" />
+        <mark key="^" line="41" column="1" />
+        <mark key="." line="41" column="1" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap/conn.rb" timestamp="1480275147243">
         <mark key="[" line="41" column="32" />
@@ -1643,14 +1643,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>after</text>
       </register>
       <register name="/" type="4">
         <text>@attrs</text>
@@ -1675,28 +1675,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYuc3RhcnRfdHMgPD0gc3RhcnRfdHMiXSkgJiYgKHNlc3Npb24udXBkYXRlZF90cyA+PSBhdHRyc1sic3RhcnRfdHMiXSkK</text>
+        <text encoding="base64">ICBzZWxmLnRhYmxlX25hbWUgPSAibm9zX2RhdGEuY2FsdmlzaXRvcl9zZXNzaW9ucyIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvbi5zdGFydF90cyA9IGF0dHJzWyJzdGFydF90cyJdIGlmIChhdHRyc1sic3RhcnRfdHMiXSA8IHNlc3Npb24uc3RhcnRfdHMpCg==</text>
+        <text encoding="base64">YWZ0ZXIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZAo=</text>
+        <text encoding="base64">ICAgIHNlbGYuc3RhcnRfdHMgPD0gc3RhcnRfdHMiXSkgJiYgKHNlc3Npb24udXBkYXRlZF90cyA+PSBhdHRyc1sic3RhcnRfdHMiXSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2Vzc2lvbi5zdGFydF90cyA9IGF0dHJzWyJzdGFydF90cyJdIGlmIChhdHRyc1sic3RhcnRfdHMiXSA8IHNlc3Npb24uc3RhcnRfdHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRycy5kZWxldGUoInJhd19sb2ciKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
