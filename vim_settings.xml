@@ -707,12 +707,12 @@
         <mark key="^" line="1077" column="10" />
         <mark key="." line="1077" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/calvisitor_session.rb" timestamp="1483567521741">
-        <mark key="'" line="179" column="13" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/calvisitor_session.rb" timestamp="1483568265487">
+        <mark key="'" line="189" column="13" />
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="81" column="1" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/snort_sig_class.rb" timestamp="1481565386685">
         <mark key="[" line="22" column="27" />
@@ -966,11 +966,11 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears2.rb" timestamp="1483565423878">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="9" column="49" />
-        <mark key="^" line="9" column="49" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears2.rb" timestamp="1483568318791">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="49" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/verify_email.rb" timestamp="1475696273345">
         <mark key="[" line="5" column="34" />
@@ -1162,12 +1162,12 @@
         <mark key="." line="6" column="53" />
         <mark key="^" line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/calvisitor.rb" timestamp="1483490225924">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/calvisitor.rb" timestamp="1483568399792">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="29" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="4" column="29" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/aggressive_ip_tag.rb" timestamp="1479926920368">
         <mark key="[" line="4" column="26" />
@@ -1298,11 +1298,11 @@
         <mark key="^" line="50" column="77" />
         <mark key="." line="50" column="77" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" timestamp="1483567478068">
-        <mark key="[" line="40" column="5" />
-        <mark key="]" line="41" column="1" />
-        <mark key="^" line="41" column="1" />
-        <mark key="." line="41" column="1" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" timestamp="1483568287908">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="105" column="4" />
+        <mark key="." line="15" column="27" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap/conn.rb" timestamp="1480275147243">
         <mark key="[" line="41" column="32" />
@@ -1644,22 +1644,22 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRycy5kZWxldGUoInVzZXJuYW1lIikK</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>after</text>
+        <text>timestamp</text>
       </register>
       <register name="/" type="4">
         <text>@attrs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGlmIChzZXNzaW9uLnN0YXJ0X3RzIDw9IGF0dHJzWyJzdGFydF90cyJdKSAmJiAoc2Vzc2lvbi51cGRhdGVkX3RzID49IGF0dHJzWyJzdGFydF90cyJdKSkK</text>
+        <text encoding="base64">ICAjIwogICMgYWlyYmVhcnMyX3Nlc3Npb25zIHRhYmxlIGlzIHBhcnRpdGlvbmVkIGJ5IG1vbnRoLCBjaGFpbmluZyB0aGlzIGV4cHJlc3Npb24KICAjIG9udG8geW91ciBxdWVyeSBlbnN1cmVzIHRoYXQgcG9zdGdyZXMgY2FuIGlzb2xhdGUgeW91ciBxdWVyeSB0byB0aGUgY29ycmVjdAogICMgcGFydGl0aW9uLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRycy5kZWxldGUoInVzZXJuYW1lIikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1675,28 +1675,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZWxmLnRhYmxlX25hbWUgPSAibm9zX2RhdGEuY2FsdmlzaXRvcl9zZXNzaW9ucyIK</text>
+        <text encoding="base64">ICAgICAgICBhdHRyc1sic3RhcnRfdHMiXSA9IGF0dHJzLmRlbGV0ZSgiZXZlbnRfdHMiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRyc1sicmVjb3JkX3RpbWVzdGFtcCJdID0gVGltZS5ub3cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWZ0ZXIK</text>
+        <text encoding="base64">ICAgICAgICBhdHRyc1sicHJpdmF0ZV9pcCJdID0gYXR0cnMuZGVsZXRlKCJpcCIpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGYuc3RhcnRfdHMgPD0gc3RhcnRfdHMiXSkgJiYgKHNlc3Npb24udXBkYXRlZF90cyA+PSBhdHRyc1sic3RhcnRfdHMiXSkK</text>
+        <text encoding="base64">ICAjIwogICMgdGFibGUgaXMgcGFydGl0aW9uZWQgYnkgbW9udGgsIGNoYWluaW5nIHRoaXMgZXhwcmVzc2lvbiBvbnRvIHlvdXIgcXVlcnkgZW5zdXJlcwogICMgdGhhdCBwb3N0Z3JlcyBjYW4gaXNvbGF0ZSB5b3VyIHF1ZXJ5IHRvIHRoZSBjb3JyZWN0IHBhcnRpdGlvbi4KICBkZWYgc2VsZi5pbl9tb250aGx5X3BhcnRpdGlvbih0aW1lKQogICAgd2hlcmUoJ3N0YXJ0X3RzID49ID8gYW5kIHN0YXJ0X3RzIDw9ID8nLCB0aW1lLmJlZ2lubmluZ19vZl9tb250aCwgdGltZS5lbmRfb2ZfbW9udGgpCiAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIGFjY3Rfc3RhdHVzX3R5cGU6ICAxPXN0YXJ0LCAyPXN0b3AsIDM9aW50ZXJpbS11cGRhdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvbi5zdGFydF90cyA9IGF0dHJzWyJzdGFydF90cyJdIGlmIChhdHRyc1sic3RhcnRfdHMiXSA8IHNlc3Npb24uc3RhcnRfdHMpCg==</text>
+        <text encoding="base64">ICAjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZXJlKCdzdGFydF90cyA+PSA/IGFuZCBzdGFydF90cyA8PSA/JywgdGltZS5iZWdpbm5pbmdfb2ZfbW9udGgsIHRpbWUuZW5kX29mX21vbnRoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
