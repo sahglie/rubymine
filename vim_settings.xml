@@ -208,12 +208,6 @@
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/023_airbears2_sessions.sql" timestamp="1483557970121">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="76" />
-        <mark key="." line="24" column="73" />
-        <mark key="^" line="24" column="73" />
-      </file>
       <file name="$USER_HOME$/Development/projects/infohub/spec/lib/ldap/repos/spa_member_spec.rb" timestamp="1473961396694">
         <mark key="[" line="24" column="11" />
         <mark key="]" line="24" column="11" />
@@ -508,7 +502,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483572533144">
+      <file name="/Dummy.txt" timestamp="1483573144620">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -629,12 +623,6 @@
         <mark key="]" line="17" column="7" />
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/vpn_session.rb" timestamp="1483556688380">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/spec/rails_helper.rb" timestamp="1478904649050">
         <mark key="[" line="36" column="0" />
@@ -768,12 +756,6 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears2.rb" timestamp="1483570061582">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="12" column="33" />
-        <mark key="^" line="12" column="33" />
-        <mark key="." line="12" column="33" />
-      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/verify_email.rb" timestamp="1475696273345">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="42" />
@@ -856,11 +838,11 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/wireless.rb" timestamp="1483565281124">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="10" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="10" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/wireless.rb" timestamp="1483573092578">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="16" />
+        <mark key="^" line="30" column="16" />
       </file>
       <file name="$USER_HOME$/Development/projects/infohub/config/config.yml" timestamp="1473958370811">
         <mark key="[" line="23" column="4" />
@@ -1000,12 +982,6 @@
         <mark key="]" line="6" column="2" />
         <mark key="^" line="7" column="2" />
         <mark key="." line="6" column="2" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" timestamp="1483570317470">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="86" column="4" />
-        <mark key="^" line="85" column="27" />
-        <mark key="." line="85" column="27" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap/conn.rb" timestamp="1480275147243">
         <mark key="[" line="41" column="32" />
@@ -1182,12 +1158,6 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/snort/001_events.sql" timestamp="1483557486971">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="25" column="19" />
-        <mark key="^" line="25" column="19" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/processors/radius_log.rb" timestamp="1483571373693">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="18" />
@@ -1336,13 +1306,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>@attrs</text>
@@ -1351,7 +1321,7 @@
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcnVieQpyZXF1aXJlX3JlbGF0aXZlICIuLi8uLi9jb25maWcvZW52aXJvbm1lbnQiCgpTaWduYWwudHJhcCgiSU5UIikgeyBleGl0IDEgfSAjIEV4aXQgY2xlYW5seSBmcm9tIGVhcmx5IGludGVycnVwdApTaWduYWwudHJhcCgiVEVSTSIpIHsgZXhpdCAxIH0gIyBFeGl0IGNsZWFubHkgZnJvbSBraWxsCgpSYWlscy5sb2dnZXIgPSBMb2dnZXIubmV3KFNURE9VVCkgaWYgQVJHVlswXSA9PSAiLS1sb2ctc3Rkb3V0IgpSYWlscy5sb2dnZXIuaW5mbygiLS0tLS1TdGFydGluZyB3b3JrZXJzL2lkc19hbGVydC5yYiIpCgoKd29ya2VyX2NvbmZpZyA9IFNvY2s6OlV0aWxzOjpRdWV1ZVdvcmtlckNvbmZpZy5uZXcoInNvY2siKQp3b3JrZXJfY291bnQgPSB3b3JrZXJfY29uZmlnLndvcmtlcl9jb3VudCgiaWRzX2FsZXJ0c19xdWV1ZSIpCm1zZ19jb3VudCA9IHdvcmtlcl9jb25maWcubWVzc2FnZV9jb3VudCgiaWRzX2FsZXJ0c19xdWV1ZSIpCgpSYWlscy5sb2dnZXIuaW5mbygiQ3VycmVudGx5ICN7bXNnX2NvdW50fSBpbiB0aGUgcXVldWUsIHVzaW5nICN7d29ya2VyX2NvdW50fSB3b3JrZXJzIikKCmNvbm5fcGFyYW1zID0gU29ja1JhaWxzLmNvbmZpZy5yYWJiaXRtcQp4ID0gY29ubl9wYXJhbXMuZmV0Y2goOndvcmtlcl90aW1lb3V0X2luX21pbnV0ZXMpLnRvX2kKCndvcmtlcl9jb3VudC50aW1lcyBkbwogIGZvcmsgZG8KICAgIHdvcmtlciA9IElkc0FsZXJ0V29ya2VyLm5ldygKICAgICAgICBjb25uX3BhcmFtczogY29ubl9wYXJhbXMsCiAgICAgICAgcXVldWVfbmFtZTogImlkc19hbGVydHNfcXVldWUiLAogICAgKQogICAgd29ya2VyLnJ1bih4Lm1pbnV0ZXMuZnJvbV9ub3cpCiAgZW5kCmVuZAoKUHJvY2Vzcy53YWl0YWxsCgpSYWlscy5sb2dnZXIuaW5mbygiLS1GaW5pc2hlZCB3b3JrZXJzL2lkc19hbGVydC5yYiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1367,28 +1337,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJvY2Vzc29yID0gbmlsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRzdGRlcnIucHV0cyhlLm1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgcHJvY2Vzc29yID0gbmlsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRzdGRlcnIucHV0cyhlLmJhY2t0cmFjZSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICRzdGRlcnIucHV0cyhlLm1lc3NhZ2UpCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICRzdGRlcnIucHV0cyhlLmJhY2t0cmFjZSkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RkZXJyLnB1dHMoZS5tZXNzYWdlKQo=</text>
+        <text encoding="base64">ICAgICRzdGRlcnIucHV0cyhlLm1lc3NhZ2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RkZXJyLnB1dHMoZS5iYWNrdHJhY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RkZXJyLnB1dHMoZS5tZXNzYWdlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzdGRlcnIucHV0cygiRXJyb3Igd2hlbiBwcm9jZXNzaW5nOiAje2pzb259IikgdW5sZXNzIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RkZXJyLnB1dHMoZS5iYWNrdHJhY2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICRzdGRlcnIucHV0cygiRXJyb3Igd2hlbiBwcm9jZXNzaW5nOiAje2pzb259IikgdW5sZXNzIHJlc3VsdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
