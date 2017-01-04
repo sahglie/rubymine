@@ -141,12 +141,12 @@
         <mark key="^" line="0" column="61" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" timestamp="1483490382135">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" timestamp="1483490774049">
         <mark key="'" line="100" column="6" />
-        <mark key="[" line="103" column="6" />
-        <mark key="]" line="103" column="5" />
-        <mark key="^" line="103" column="5" />
-        <mark key="." line="103" column="5" />
+        <mark key="[" line="125" column="38" />
+        <mark key="]" line="125" column="38" />
+        <mark key="^" line="125" column="36" />
+        <mark key="." line="125" column="38" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/_email_form.html.haml" timestamp="1482349521699">
         <mark key="[" line="1" column="38" />
@@ -719,11 +719,12 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/vpn.rb" timestamp="1483489117565">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/vpn.rb" timestamp="1483490910324">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="34" />
+        <mark key="^" line="33" column="34" />
+        <mark key="." line="33" column="34" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/aggressive_ips.yml" timestamp="1474408081729">
         <mark key="[" line="5" column="22" />
@@ -863,11 +864,11 @@
         <mark key="^" line="33" column="5" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/vpn_usage.rb" timestamp="1483490134065">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="37" />
-        <mark key="^" line="22" column="37" />
-        <mark key="." line="22" column="37" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/vpn_usage.rb" timestamp="1483491004826">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="18" column="10" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/ids_alert.rb" timestamp="1481310195148">
         <mark key="[" line="16" column="0" />
@@ -949,11 +950,11 @@
         <mark key="^" line="14" column="67" />
         <mark key="." line="14" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/vpn.rb" timestamp="1483490208407">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/vpn.rb" timestamp="1483491045923">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/nos_arp_ndp.rb" timestamp="1481672631420">
         <mark key="[" line="7" column="20" />
@@ -1069,11 +1070,11 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/wireless.rb" timestamp="1483487280757">
-        <mark key="[" line="30" column="10" />
-        <mark key="]" line="30" column="17" />
-        <mark key="^" line="30" column="17" />
-        <mark key="." line="30" column="17" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/wireless.rb" timestamp="1483490969738">
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="25" column="36" />
+        <mark key="^" line="25" column="36" />
+        <mark key="." line="48" column="33" />
       </file>
       <file name="$USER_HOME$/Development/projects/infohub/config/config.yml" timestamp="1473958370811">
         <mark key="[" line="23" column="4" />
@@ -1496,8 +1497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/rules/rdm_exception_spec.rb" />
-      <jump line="127" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
       <jump line="74" column="3" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/processors/ids_alert_spec.rb" />
       <jump line="39" column="9" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/processors/snort.rb" />
       <jump line="9" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/jobs/snort_packet.rb" />
@@ -1596,6 +1595,8 @@
       <jump line="9" column="31" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears2.rb" />
       <jump line="114" column="52" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
       <jump line="100" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
+      <jump line="14" column="26" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/vpn.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/vpn.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1605,61 +1606,75 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>event_ts</text>
+      </register>
+      <register name="j" type="4">
+        <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>event_ts</text>
       </register>
       <register name="/" type="4">
-        <text>Ids::Processors::Snort</text>
+        <text>@attrs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCg6YXR0cnMpIGRvCiAgICAgIHsgIlVzZXItTmFtZSIgICAgICAgICAgICAgID0+ICJ3YW5nZUB1Y2xhLmVkdSIsCiAgICAgICAgIkZyYW1lZC1JUC1BZGRyZXNzIiAgICAgID0+ICIxMC4xNDIuNDkuMTE2IiwKICAgICAgICAiRnJhbWVkLUlQdjYtQWRkcmVzcyIgID0+IFsKICAgICAgICAgICAgImZlODA6OjRlNjY6NDFmZjpmZTJmOjU0YTciLAogICAgICAgICAgICAiMjYwNzpmMTQwOjYwMDA6YTozMWE3OmNmZjU6N2Y0NjpmNzVhIiwKICAgICAgICAgICAgIjI2MDc6ZjE0MDo2MDAwOmE6NGU2Njo0MWZmOmZlMmY6NTRhNyIKICAgICAgICBdLAogICAgICAgICJBY2N0LVNlc3Npb24tSWQiICAgICAgICA9PiAiNTdmZDRlYTAvYzA6MzM6NWU6ZGU6ZTI6NDMvNzIzNSIsCiAgICAgICAgIkFjY3QtU3RhdHVzLVR5cGUiICAgICAgID0+ICJJbnRlcmltLVVwZGF0ZSIsCiAgICAgICAgIkNhbGxpbmctU3RhdGlvbi1JZCIgICAgID0+ICJjMDMzNWVkZWUyNDMiLAogICAgICAgICJDYWxsZWQtU3RhdGlvbi1JZCIgICAgICA9PiAiMDBhMjg5MWQyOTQwOmVkdXJvYW0iLAogICAgICAgICJBY2N0LVNlc3Npb24tVGltZSIgICAgICA9PiAiMTUiLAogICAgICAgICJUaW1lc3RhbXAiICAgICAgICAgICAgICA9PiAiMTQ3NjI1NTgwNSIgfQogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRyc1sidGltZV9zdGFtcCJdID0gYXR0cnMuZGVsZXRlKCJldmVudF90cyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0ICJzaG91bGQgc2F2ZSBJUHY2IGVudHJpZXMiCg==</text>
+        <text encoding="base64">ICAgICAgICAiVGltZXN0YW1wIiAgICAgICAgICAgICAgPT4gIjE0NzYyNTU4MDUiIH0K</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAiQWNjdC1TZXNzaW9uLVRpbWUiICAgICAgPT4gIjE1IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzYWdlID0gbmV3KGF0dHJzKQo=</text>
+        <text encoding="base64">ICAgICAgICAiQ2FsbGVkLVN0YXRpb24tSWQiICAgICAgPT4gIjAwYTI4OTFkMjk0MDplZHVyb2FtIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyB7ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAiQ2FsbGluZy1TdGF0aW9uLUlkIiAgICAgPT4gImMwMzM1ZWRlZTI0MyIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIwo=</text>
+        <text encoding="base64">ICAgICAgICAiQWNjdC1TdGF0dXMtVHlwZSIgICAgICAgPT4gIkludGVyaW0tVXBkYXRlIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyBFeGFtcGxlIG9mIDphdHRycwo=</text>
+        <text encoding="base64">ICAgICAgICAiQWNjdC1TZXNzaW9uLUlkIiAgICAgICAgPT4gIjU3ZmQ0ZWEwL2MwOjMzOjVlOmRlOmUyOjQzLzcyMzUiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiQWNjdC1VbmlxdWUtU2Vzc2lvbi1JZCIgPT4gImI5YjU4OWNjYmM4NzA4NTUiLAo=</text>
+        <text encoding="base64">ICAgICAgICBdLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiTkFTLUlQLUFkZHJlc3MiICAgICAgICAgPT4gIjE2OS4yMjkuMjAzLjUiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIjI2MDc6ZjE0MDo2MDAwOmE6NGU2Njo0MWZmOmZlMmY6NTRhNyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiQWNjdC1EZWxheS1UaW1lIiAgICAgICAgPT4gIjAiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIjI2MDc6ZjE0MDo2MDAwOmE6MzFhNzpjZmY1OjdmNDY6Zjc1YSIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
-      <last-search>Ids::Processors::Snort</last-search>
+      <last-search>@attrs</last-search>
       <last-offset />
-      <last-pattern>Ids::Processors::Snort</last-pattern>
-      <last-replace>Snort::Processors::Event</last-replace>
-      <last-substitute>Ids::Processors::Snort</last-substitute>
+      <last-pattern>@attrs</last-pattern>
+      <last-replace>@radius_attrs</last-replace>
+      <last-substitute>@attrs</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sinatra</entry>
-        <entry>rack</entry>
         <entry encoding="base64">XDxwXD4=</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
         <entry>dhcp</entry>
@@ -1678,10 +1693,10 @@
         <entry>@alert_attrs\[:\(\w*\)\]</entry>
         <entry>ip</entry>
         <entry>Ids::Processors::Snort</entry>
+        <entry>attrs</entry>
+        <entry>@attrs</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/@alert_attrs\[:\(.*\)\]/@alert\.\1/gc</entry>
-        <entry>%s/@alert_attrs\[:\([a-z_]\)\]/@alert\.\1/gc</entry>
         <entry>%s/@alert_attrs\[:\([a-z_]+\)\]/@alert\.\1/gc</entry>
         <entry>%s/@alert_attrs\[:\(\w*\)\]/@alert\.\1/gc</entry>
         <entry>vs</entry>
@@ -1694,12 +1709,14 @@
         <entry>action Debug</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Run</entry>
-        <entry>action RunClass</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoTest</entry>
+        <entry>%s/attrs/@attrs/gc</entry>
+        <entry>%s/@attrs/@radius_attrs/gc</entry>
+        <entry>action RunClass</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
