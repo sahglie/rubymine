@@ -966,12 +966,11 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears2.rb" timestamp="1483557292802">
-        <mark key="'" line="10" column="31" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="22" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears2.rb" timestamp="1483565423878">
+        <mark key="[" line="9" column="42" />
+        <mark key="]" line="9" column="49" />
+        <mark key="." line="9" column="49" />
+        <mark key="^" line="9" column="49" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/verify_email.rb" timestamp="1475696273345">
         <mark key="[" line="5" column="34" />
@@ -1100,11 +1099,11 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/wireless.rb" timestamp="1483490969738">
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="25" column="36" />
-        <mark key="^" line="25" column="36" />
-        <mark key="." line="48" column="33" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/wireless.rb" timestamp="1483565281124">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="16" column="10" />
       </file>
       <file name="$USER_HOME$/Development/projects/infohub/config/config.yml" timestamp="1473958370811">
         <mark key="[" line="23" column="4" />
@@ -1299,12 +1298,12 @@
         <mark key="^" line="50" column="77" />
         <mark key="." line="50" column="77" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" timestamp="1483469952939">
-        <mark key="'" line="130" column="2" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" timestamp="1483565532905">
+        <mark key="'" line="145" column="2" />
+        <mark key="[" line="21" column="75" />
+        <mark key="]" line="21" column="82" />
+        <mark key="^" line="21" column="82" />
+        <mark key="." line="21" column="82" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap/conn.rb" timestamp="1480275147243">
         <mark key="[" line="41" column="32" />
@@ -1646,19 +1645,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>updated_ts</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>updated_ts</text>
       </register>
       <register name="/" type="4">
         <text>@attrs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFVOSVFVRSBJTkRFWCBPTiBub3NfZGF0YS5haXJiZWFyczJfc2Vzc2lvbnMgKHByaXZhdGVfaXAsIHNlc3Npb25faWQpOwo=</text>
+        <text encoding="base64">ICAgICAgc2Vzc2lvbi51cGRhdGVkX3RzID0gYXR0cnNbInN0YXJ0X3RzIl0gaWYgKGF0dHJzWyJzdGFydF90cyJdID4gc2Vzc2lvbi51cGRhdGVkX3RzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1677,31 +1676,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU1RBVFVTX0NPREVTID0geyJzdGFydCIgPT4gMSwgInN0b3AiID0+IDIsICJpbnRlcmltLXVwZGF0ZSIgPT4gM30K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGF0dHJzCiAgICAgICAge2ZyYW1lZF9pcF9hZGRyZXNzOiBAcmFkaXVzX2F0dHJzWyJGcmFtZWQtSVAtQWRkcmVzcyJdLAogICAgICAgICB1c2VybmFtZTogQHJhZGl1c19hdHRyc1siVXNlci1OYW1lIl0sCiAgICAgICAgIG5hc19wb3J0OiBAcmFkaXVzX2F0dHJzWyJOQVMtUG9ydCJdLAogICAgICAgICBjYWxsaW5nX3N0YXRpb25faWQ6IEByYWRpdXNfYXR0cnNbIkNhbGxpbmctU3RhdGlvbi1JZCJdLAogICAgICAgICBhY2N0X3Nlc3Npb25faWQ6IEByYWRpdXNfYXR0cnNbIkFjY3QtU2Vzc2lvbi1JZCJdLAogICAgICAgICBuYXNfaXBhZGRyZXNzOiBAcmFkaXVzX2F0dHJzWyJOQVMtSVAtQWRkcmVzcyJdLAogICAgICAgICBvY3RldGluOiBAcmFkaXVzX2F0dHJzWyJBY2N0LUlucHV0LU9jdGV0cyJdLAogICAgICAgICBvY3RldG91dDogQHJhZGl1c19hdHRyc1siQWNjdC1PdXRwdXQtT2N0ZXRzIl0sCiAgICAgICAgIGFjY3RzZXNzaW9udGltZTogQHJhZGl1c19hdHRyc1siQWNjdC1TZXNzaW9uLVRpbWUiXSwKICAgICAgICAgcGFja2V0aW46IEByYWRpdXNfYXR0cnNbIkFjY3QtSW5wdXQtUGFja2V0cyJdLAogICAgICAgICBwYWNrZXRvdXQ6IEByYWRpdXNfYXR0cnNbIkFjY3QtT3V0cHV0LVBhY2tldHMiXSwKICAgICAgICAgdGVybWNhdXNlOiBAcmFkaXVzX2F0dHJzWyJBY2N0LVRlcm1pbmF0ZS1DYXVzZSJdLAogICAgICAgICBldmVudF90czogVGltZS5hdChAcmFkaXVzX2F0dHJzWyJUaW1lc3RhbXAiXSksCiAgICAgICAgIHJhd19sb2c6IEByYWRpdXNfYXR0cnNbIm1lc3NhZ2UiXQogICAgICAgIH0KICAgICAgZW5kCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhdHRycy5kZWxldGUoInJhd19sb2ciKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>update_attributes(
-          packet_in: usage.packet_in + attrs[&quot;packet_in&quot;],
-          packet_out: usage.packet_out + attrs[&quot;packet_out&quot;]
-      )</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhdHRycyA9IGF0dHJzLm1lcmdlKHByaXZhdGVfaXA6IHByaXZhdGVfaXAsIHN0YXJ0X3RzOiBzdGFydF90cykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGF0dHJzLm1lcmdlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdXNhZ2UuYWNjdW1fcGFja2V0X2NvdW50cyhhdHRycyl1cGRhdGVfYXR0cmlidXRlcygKICAgICAgICAgIHBhY2tldF9pbjogdXNhZ2UucGFja2V0X2luICsgYXR0cnNbInBhY2tldF9pbiJdLAogICAgICAgICAgcGFja2V0X291dDogdXNhZ2UucGFja2V0X291dCArIGF0dHJzWyJwYWNrZXRfb3V0Il0KICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFydF90cyA9IGF0dHJzLmRlbGV0ZSgiZXZlbnRfdHMiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXNhZ2UudXBkYXRlX2F0dHJpYnV0ZXMocGFja2V0X2luOiB1c2FnZS5wYWNrZXRfaW4gKyBhdHRyc1sicGFja2V0X2luIl0pCg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRycy5kZWxldGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXR0cnMgCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1754,11 +1750,11 @@
         <entry>%s/@attrs/@radius_attrs/gc</entry>
         <entry>action GotoTest</entry>
         <entry>action Run</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action RunClass</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
