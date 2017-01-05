@@ -147,10 +147,10 @@
         <mark key="^" line="0" column="61" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" timestamp="1483577347413">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="119" column="13" />
-        <mark key="]" line="119" column="18" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" timestamp="1483642118390">
+        <mark key="'" line="111" column="35" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="40" />
         <mark key="." line="119" column="18" />
         <mark key="^" line="119" column="18" />
       </file>
@@ -467,11 +467,13 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" timestamp="1483640794874">
-        <mark key="[" line="159" column="34" />
-        <mark key="]" line="159" column="8" />
-        <mark key="." line="159" column="8" />
-        <mark key="^" line="159" column="8" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" timestamp="1483643110632">
+        <mark key="'" line="2" column="0" />
+        <mark key="j" line="66" column="62" />
+        <mark key="[" line="109" column="62" />
+        <mark key="]" line="109" column="63" />
+        <mark key="." line="109" column="63" />
+        <mark key="^" line="109" column="68" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/index.html.haml" timestamp="1480288289891">
         <mark key="[" line="10" column="0" />
@@ -1602,12 +1604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/calvisitor_session.rb" />
-      <jump line="155" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" />
-      <jump line="31" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/app/services/network_session/host_type.rb" />
-      <jump line="27" column="38" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_dynamic_ip.rb" />
-      <jump line="19" column="31" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_event_worker.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_event_worker.rb" />
       <jump line="34" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
       <jump line="54" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
@@ -1702,6 +1698,12 @@
       <jump line="11" column="38" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/031_radius_log_errors.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/031_radius_log_errors.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session_error.rb" />
+      <jump line="162" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
+      <jump line="81" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
+      <jump line="87" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
+      <jump line="111" column="35" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
+      <jump line="91" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1711,22 +1713,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>T</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>@attrs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICJBY2N0LUlucHV0LVBhY2tldHMiID0+ICIxIiwK</text>
+        <text encoding="base64">ICAgIGV4cGVjdChzZXNzaW9uLnByaXZhdGVfaXAudG9fcykudG8gZXFsKCIxMC4xNDIuMTQuNjIiKQogICAgZXhwZWN0KHNlc3Npb24uc2Vzc2lvbl9pZCkudG8gZXFsKCI1ODVhZTdlZi9kYzo4NTpkZTo0NDozZjozZS8xMTEwMDM5MyIpCiAgICBleHBlY3Qoc2Vzc2lvbi5zdGFydF90cy50b19zKS50byBlcWwoIjIwMTYtMTItMjEgMTI6Mzc6MTQgLTA4MDAiKQogICAgZXhwZWN0KHNlc3Npb24udXBkYXRlZF90cy50b19zKS50byBlcWwoIjIwMTYtMTItMjEgMTk6NDk6MDkgLTA4MDAiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFdlZCBEZWMgMjEgMjM6NTk6NTQgMjAxNgo=</text>
+        <text encoding="base64">ICBOb3NEYXRhOjpBaXJiZWFyczJTZXNzaW9uLmRlbGV0ZV9hbGwgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1742,28 +1744,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRzIC1jdXJyZW50SG9zdCB3cml0ZSBjb20uYXBwbGUuSW1hZ2VDYXB0dXJlIGRpc2FibGVIb3RQbHVnIC1ib29sIFlFU3BJbnB1dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d3JpdGUgcmFkaXVzIGVycm9ycyB0byBlcnJvciB0YWJsZSBhbmQgbGhvZyBmaXJzdCAxMCBlcnJvcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBlcnJvciArPSAxCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAZXJyb3JfY291bnQgKz0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihlLCA6ZGF0YSA9PiB7ZGF0YTogZXZlbnR9KQo=</text>
+        <text encoding="base64">ICAgIHsgIlVzZXItTmFtZSIgPT4gImVsbGlvdHRtY29sbGlucyIsICJGcmFtZWQtSVAtQWRkcmVzcyIgPT4gIjEwLjE0Mi4xNC42MiIsICJGcmFtZWQtSVB2Ni1BZGRyZXNzIiA9PiBbCiAgICAgICAgImZlODA6OmMwODM6OTUwNTphMzE1OjU0ZGEiLCAiMjYwNzpmMTQwOjQwMDphMDAzOmVkMGY6NjQwODpkNWQ6NWYzYiIsCiAgICBdLCAiQWNjdC1TZXNzaW9uLUlkIiA9PiAiNTg1YjU2N2UvZGM6ODU6ZGU6NDQ6M2Y6M2UvMTExMTU4NjEiLCAiVGltZXN0YW1wIiA9PiAxNDgyMzkzNTk0IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVzZXItTmFtZSA9ICJlbGxpb3R0bWNvbGxpbnMiCiAgICBGcmFtZWQtSVAtQWRkcmVzcyA9IDEwLjE0Mi4xMDkuMTczCiAgICBGcmFtZWQtSVB2Ni1BZGRyZXNzID0gZmU4MDo6Y2UzYTo2MWZmOmZlMDU6MjIwZAogICAgQWNjdC1TZXNzaW9uLUlkID0gIjU4NWI1NTY3L2NjOjNhOjYxOjA1OjIyOjBkLzExMTE1ODA0IgogICAgVGltZXN0YW1wID0gMTQ4MjM4MDY0OAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1815,12 +1817,12 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
-        <entry>action RecentFiles</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action Run</entry>
-        <entry>action GotoTest</entry>
-        <entry>action RunClass</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoTest</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action Run</entry>
+        <entry>action RunClass</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
