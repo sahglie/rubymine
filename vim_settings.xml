@@ -467,13 +467,13 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" timestamp="1483655254735">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" timestamp="1483658237372">
         <mark key="'" line="0" column="0" />
         <mark key="j" line="66" column="62" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="180" column="2" />
-        <mark key="." line="176" column="25" />
-        <mark key="^" line="176" column="25" />
+        <mark key="[" line="163" column="39" />
+        <mark key="]" line="163" column="39" />
+        <mark key="." line="163" column="39" />
+        <mark key="^" line="163" column="39" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/index.html.haml" timestamp="1480288289891">
         <mark key="[" line="10" column="0" />
@@ -596,7 +596,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/Ruby Console" timestamp="1483573712440">
+      <file name="/Ruby Console" timestamp="1483657584519">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
         <mark key="^" line="0" column="55" />
@@ -891,6 +891,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="47" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/calvisitor_spec.rb" timestamp="1483659488089">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+        <mark key="." line="33" column="21" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/nos_data/ucb_subnets.yml" timestamp="1475006090709">
         <mark key="[" line="78" column="15" />
@@ -1348,11 +1355,11 @@
         <mark key="^" line="50" column="77" />
         <mark key="." line="50" column="77" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" timestamp="1483570317470">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="86" column="4" />
-        <mark key="^" line="85" column="27" />
-        <mark key="." line="85" column="27" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" timestamp="1483658302736">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap/conn.rb" timestamp="1480275147243">
         <mark key="[" line="41" column="32" />
@@ -1360,11 +1367,12 @@
         <mark key="." line="41" column="39" />
         <mark key="^" line="41" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/eduroam_spec.rb" timestamp="1483657179852">
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="42" column="7" />
-        <mark key="^" line="42" column="7" />
-        <mark key="." line="42" column="7" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/eduroam_spec.rb" timestamp="1483658196838">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="94" column="19" />
+        <mark key="]" line="94" column="25" />
+        <mark key="^" line="94" column="25" />
+        <mark key="." line="94" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/forgot_password_controller.rb" timestamp="1479939165947">
         <mark key="[" line="25" column="0" />
@@ -1420,12 +1428,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/vpn_spec.rb" timestamp="1483656567686">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/vpn_spec.rb" timestamp="1483658820026">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="54" column="2" />
-        <mark key="^" line="44" column="30" />
-        <mark key="." line="44" column="30" />
+        <mark key="^" line="28" column="54" />
+        <mark key="." line="28" column="54" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/new.html.haml" timestamp="1479924308317">
         <mark key="[" line="7" column="33" />
@@ -1617,15 +1625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="14" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
-      <jump line="30" column="0" filename="$USER_HOME$/Development/projects/ruby_test_odata/spec/ruby_test_odata_spec.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/version.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/block_sync/ip.rb" />
-      <jump line="79" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/environments/production.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/myaccount/app/mailers/temporary_password_mailer.rb" />
-      <jump line="67" column="52" filename="$USER_HOME$/Development/projects/myaccount/config/environments/production.rb" />
-      <jump line="12" column="0" filename="$USER_HOME$/Development/projects/myaccount/config/environments/production.rb" />
       <jump line="47" column="25" filename="$USER_HOME$/Development/projects/myaccount/config/environments/development.rb" />
       <jump line="74" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" />
       <jump line="39" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/processors/event.rb" />
@@ -1716,7 +1715,16 @@
       <jump line="176" column="25" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
       <jump line="44" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/vpn_spec.rb" />
+      <jump line="90" column="3" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/eduroam_spec.rb" />
+      <jump line="65" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/eduroam_spec.rb" />
+      <jump line="25" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/eduroam_spec.rb" />
+      <jump line="102" column="38" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/eduroam_spec.rb" />
+      <jump line="45" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/eduroam_spec.rb" />
+      <jump line="41" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/vpn_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/vpn_spec.rb" />
+      <jump line="34" column="48" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/calvisitor_spec.rb" />
+      <jump line="11" column="7" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/calvisitor_spec.rb" />
+      <jump line="44" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/calvisitor_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1726,7 +1734,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFjY3QtVW5pcXVlLVNlc3Npb24tSWQgPSAiZTVlMGIwNWQyN2VjOGI3YiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
@@ -1738,10 +1746,10 @@
         <text>@attrs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEZyYW1lZC1JUHY2LUFkZHJlc3MgPSAyNjA3OmYxNDA6NDAwOmEwMTY6YTUyMzoxNzM6M2QyYzpjMDgyCg==</text>
+        <text encoding="base64">ICAgIEZyYW1lZC1JUC1BZGRyZXNzID0gMTAuMTA1LjE2MC4xNTIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFjY3QtVW5pcXVlLVNlc3Npb24tSWQgPSAiZTVlMGIwNWQyN2VjOGI3YiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1757,28 +1765,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE5BUy1JUC1BZGRyZXNzID0gMTI4LjMyLjEzNi43Ngo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFjY3QtRGVsYXktVGltZSA9IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENhbGxlZC1TdGF0aW9uLUlkID0gIjAwYTJlZTQzZThhMDplZHVyb2FtIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENhbGxpbmctU3RhdGlvbi1JZCA9ICJjMDFhZGFhODZiZDMiCg==</text>
+        <text encoding="base64">ICAgIEFjY3QtVW5pcXVlLVNlc3Npb24tSWQgPSAiYjJkMTM3ZTc4NmJkZWUyZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFjY3QtU2Vzc2lvbi1UaW1lID0gMTA3Nwo=</text>
+        <text encoding="base64">ICAgIE5BUy1JUC1BZGRyZXNzID0gMTI4LjMyLjEzNi43NAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFjY3QtU3RhdHVzLVR5cGUgPSBJbnRlcmltLVVwZGF0ZQo=</text>
+        <text encoding="base64">ICAgIEFjY3QtRGVsYXktVGltZSA9IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEV2ZW50LVRpbWVzdGFtcCA9ICJEZWMgMjEgMjAxNiAxMTowNDo1NiBQU1QiCg==</text>
+        <text encoding="base64">ICAgIENhbGxlZC1TdGF0aW9uLUlkID0gImY4YzI4OGZjOTc0MDpDYWxWaXNpdG9yIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENpc2NvLUFWUGFpciA9ICJhdWRpdC1zZXNzaW9uLWlkPTBhZmZmMDVjMDBkN2EwNGI1ODVhY2UyMSIK</text>
+        <text encoding="base64">ICAgIENhbGxpbmctU3RhdGlvbi1JZCA9ICI3MDNlYWM1M2QwMzciCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1817,8 +1825,6 @@
         <entry>@attrs</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/@alert_attrs\[:\([a-z_]+\)\]/@alert\.\1/gc</entry>
-        <entry>%s/@alert_attrs\[:\(\w*\)\]/@alert\.\1/gc</entry>
         <entry>vs</entry>
         <entry>action GotoAction</entry>
         <entry>ws</entry>
@@ -1831,10 +1837,12 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoTest</entry>
-        <entry>action Run</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoRelated</entry>
+        <entry>action DebugClass</entry>
+        <entry>action Run</entry>
+        <entry>action GotoTest</entry>
+        <entry>action RecentFiles</entry>
         <entry>action RunClass</entry>
         <entry>w</entry>
       </history-cmd>
