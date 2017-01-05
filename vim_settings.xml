@@ -467,13 +467,13 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" timestamp="1483643110632">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" timestamp="1483643885719">
+        <mark key="'" line="92" column="0" />
         <mark key="j" line="66" column="62" />
-        <mark key="[" line="109" column="62" />
-        <mark key="]" line="109" column="63" />
-        <mark key="." line="109" column="63" />
-        <mark key="^" line="109" column="68" />
+        <mark key="[" line="176" column="19" />
+        <mark key="]" line="176" column="25" />
+        <mark key="." line="176" column="25" />
+        <mark key="^" line="176" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/index.html.haml" timestamp="1480288289891">
         <mark key="[" line="10" column="0" />
@@ -1604,11 +1604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
-      <jump line="54" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
-      <jump line="69" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/workers/ids_alert_worker.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sock/apply_enrichment.rb" />
       <jump line="8" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_names.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_names.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_names.rb" />
@@ -1704,6 +1699,11 @@
       <jump line="111" column="35" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
       <jump line="91" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
+      <jump line="97" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
+      <jump line="166" column="71" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
+      <jump line="93" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
+      <jump line="165" column="78" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
+      <jump line="92" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1713,22 +1713,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>reverse</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>reverse</text>
       </register>
       <register name="/" type="4">
         <text>@attrs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChzZXNzaW9uLnByaXZhdGVfaXAudG9fcykudG8gZXFsKCIxMC4xNDIuMTQuNjIiKQogICAgZXhwZWN0KHNlc3Npb24uc2Vzc2lvbl9pZCkudG8gZXFsKCI1ODVhZTdlZi9kYzo4NTpkZTo0NDozZjozZS8xMTEwMDM5MyIpCiAgICBleHBlY3Qoc2Vzc2lvbi5zdGFydF90cy50b19zKS50byBlcWwoIjIwMTYtMTItMjEgMTI6Mzc6MTQgLTA4MDAiKQogICAgZXhwZWN0KHNlc3Npb24udXBkYXRlZF90cy50b19zKS50byBlcWwoIjIwMTYtMTItMjEgMTk6NDk6MDkgLTA4MDAiKQo=</text>
+        <text encoding="base64">ICBpdCAiY3JlYXRlcyBhaXJiZWFyczJfc2Vzc2lvbnMgZnJvbSByZXZlcnNlLWNyb25vbG9naWNhbCByYWRpdXMgZW50cmllcyIgZG8KICAgIHJhZGl1c19lbnRyaWVzLnJldmVyc2UuZWFjaCB7IHxlbnRyeXwgTm9zRGF0YTo6UmFkaXVzTG9nczo6QWlyYmVhcnMyLm5ldyhlbnRyeSkucHJvY2VzcyB9CiAgICBzZXNzaW9uX2xpc3QgPSBOb3NEYXRhOjpBaXJiZWFyczJTZXNzaW9uLm9yZGVyKCdzdGFydF90cywgcHJpdmF0ZV9pcCcpCiAgICBhc3NlcnRfc2Vzc2lvbnMoc2Vzc2lvbl9saXN0KQogIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBOb3NEYXRhOjpBaXJiZWFyczJTZXNzaW9uLmRlbGV0ZV9hbGwgfQo=</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1747,28 +1747,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb25fbGlzdCA9IHNlc3Npb25fbGlzdC50b19hCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhZGl1c19lbnRyaWVzLmVhY2ggeyB8ZW50cnl8IE5vc0RhdGE6OlJhZGl1c0xvZ3M6OkFpcmJlYXJzMi5uZXcoZW50cnkpLnByb2Nlc3MgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsgIlVzZXItTmFtZSIgPT4gImVsbGlvdHRtY29sbGlucyIsICJGcmFtZWQtSVAtQWRkcmVzcyIgPT4gIjEwLjE0Mi4xNC42MiIsICJGcmFtZWQtSVB2Ni1BZGRyZXNzIiA9PiBbCiAgICAgICAgImZlODA6OmMwODM6OTUwNTphMzE1OjU0ZGEiLCAiMjYwNzpmMTQwOjQwMDphMDAzOmVkMGY6NjQwODpkNWQ6NWYzYiIsCiAgICBdLCAiQWNjdC1TZXNzaW9uLUlkIiA9PiAiNTg1YjU2N2UvZGM6ODU6ZGU6NDQ6M2Y6M2UvMTExMTU4NjEiLCAiVGltZXN0YW1wIiA9PiAxNDgyMzkzNTk0IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFVzZXItTmFtZSA9ICJlbGxpb3R0bWNvbGxpbnMiCiAgICBGcmFtZWQtSVAtQWRkcmVzcyA9IDEwLjE0Mi4xMDkuMTczCiAgICBGcmFtZWQtSVB2Ni1BZGRyZXNzID0gZmU4MDo6Y2UzYTo2MWZmOmZlMDU6MjIwZAogICAgQWNjdC1TZXNzaW9uLUlkID0gIjU4NWI1NTY3L2NjOjNhOjYxOjA1OjIyOjBkLzExMTE1ODA0IgogICAgVGltZXN0YW1wID0gMTQ4MjM4MDY0OAo=</text>
+        <text encoding="base64">ICAgIHNlc3Npb25fbGlzdCA9IE5vc0RhdGE6OkFpcmJlYXJzMlNlc3Npb24ub3JkZXIoJ3N0YXJ0X3RzLCBwcml2YXRlX2lwJykudG9fYQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -1822,8 +1822,8 @@
         <entry>action GotoTest</entry>
         <entry>action RecentFiles</entry>
         <entry>action Run</entry>
-        <entry>action RunClass</entry>
         <entry>w</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
