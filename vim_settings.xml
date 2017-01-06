@@ -9,12 +9,12 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid/step1_controller.rb" timestamp="1480287168688">
-        <mark key="'" line="32" column="2" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid/step1_controller.rb" timestamp="1483742705127">
+        <mark key="'" line="36" column="2" />
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="24" column="9" />
+        <mark key="^" line="24" column="9" />
+        <mark key="." line="24" column="9" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/start.html.erb" timestamp="1475697467518">
         <mark key="[" line="0" column="0" />
@@ -701,7 +701,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483740906935">
+      <file name="/Dummy.txt" timestamp="1483742864636">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -1379,12 +1379,12 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/lib/account/forms/verify_email.rb" timestamp="1483731438015">
+      <file name="$USER_HOME$/Development/projects/myaccount/lib/account/forms/verify_email.rb" timestamp="1483742962738">
         <mark key="'" line="23" column="31" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="12" />
-        <mark key="^" line="30" column="12" />
-        <mark key="." line="30" column="12" />
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="23" column="42" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="42" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1482352675796">
         <mark key="'" line="75" column="0" />
@@ -1782,14 +1782,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlY29yZF90eXBlOiByZWNvcmQuY2xhc3MudG9fcywK</text>
+      <register name="&quot;" type="4">
+        <text>(email)</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>(email)</text>
       </register>
       <register name="/" type="4">
         <text>@attrs</text>
@@ -1838,7 +1838,7 @@
         <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1889,11 +1889,11 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action ManageRecentProjects</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
+        <entry>action ManageRecentProjects</entry>
+        <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
