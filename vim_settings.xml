@@ -53,11 +53,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/027_calvisitor_sessions.sql" timestamp="1483557998342">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="23" column="40" />
-        <mark key="^" line="12" column="22" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/027_calvisitor_sessions.sql" timestamp="1483745328636">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="82" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="82" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/utils/ip_addr.rb" timestamp="1481672295182">
         <mark key="[" line="5" column="28" />
@@ -294,11 +294,11 @@
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/023_airbears2_sessions.sql" timestamp="1483557970121">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/023_airbears2_sessions.sql" timestamp="1483745307092">
         <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="76" />
-        <mark key="." line="24" column="73" />
-        <mark key="^" line="24" column="73" />
+        <mark key="]" line="25" column="81" />
+        <mark key="." line="24" column="58" />
+        <mark key="^" line="24" column="58" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/layouts/_sidenav.html.erb" timestamp="1483732046094">
         <mark key="[" line="9" column="0" />
@@ -694,12 +694,12 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/030_vpn_sessions.sql" timestamp="1483575702599">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="22" column="86" />
-        <mark key="^" line="8" column="8" />
-        <mark key="." line="20" column="33" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/030_vpn_sessions.sql" timestamp="1483745337401">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="67" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/aggressive_ip_ignores_controller.rb" timestamp="1479924376376">
         <mark key="[" line="26" column="57" />
@@ -1794,8 +1794,8 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyogQ1JFQVRFIFVOSVFVRSBJTkRFWCBPTiBub3NfZGF0YS5jYWx2aXNpdG9yX3Nlc3Npb25zIChwcml2YXRlX2lwLCBzZXNzaW9uX2lkKTsgKi8K</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
@@ -1807,10 +1807,10 @@
         <text>@attrs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdF9zZWVuX3RzOiBhdHRyc1s6c3RhcnRfdHNdLAo=</text>
+        <text encoding="base64">LyogaW5kZXggaXMgb25seSB1c2VkIGluIHByb2Qgd2hlcmUgdGFibGUgaXMgcGFydGl0aW9uZWQgKi8KLyogQ1JFQVRFIFVOSVFVRSBJTkRFWCBPTiBub3NfZGF0YS5jYWx2aXNpdG9yX3Nlc3Npb25zIChwcml2YXRlX2lwLCBzZXNzaW9uX2lkKTsgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogQ1JFQVRFIFVOSVFVRSBJTkRFWCBPTiBub3NfZGF0YS5jYWx2aXNpdG9yX3Nlc3Npb25zIChwcml2YXRlX2lwLCBzZXNzaW9uX2lkKTsgKi8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1826,28 +1826,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlX2ZpeGVkX2xlYXNlIShhdHRycykK</text>
+        <text encoding="base64">LyogQ1JFQVRFIFVOSVFVRSBJTkRFWCBPTiBub3NfZGF0YS5haXJiZWFyczJfc2Vzc2lvbnMgKHByaXZhdGVfaXAsIHNlc3Npb25faWQpOyAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlY29yZF90eXBlOiByZWNvcmQuY2xhc3MudG9fcywK</text>
+        <text encoding="base64">Q1JFQVRFIFVOSVFVRSBJTkRFWCBPTiBub3NfZGF0YS5haXJiZWFyczJfc2Vzc2lvbnMgKHByaXZhdGVfaXAsIHNlc3Npb25faWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBUT0RPOiByZW1vdmUgYWZ0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlX2ZpeGVkX2xlYXNlIShhdHRycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIzphdXRoZW50aWNhdGlvbiAgICAgICA9PiAicGxhaW4iLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlY29yZF90eXBlOiByZWNvcmQuY2xhc3MudG9fcywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIzpwYXNzd29yZCAgICAgICAgICAgICA9PiAnJywK</text>
+        <text encoding="base64">IyBUT0RPOiByZW1vdmUgYWZ0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIzp1c2VyX25hbWUgICAgICAgICAgICA9PiAnJywK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIz0gZi5pbnB1dCg6ZnV6emVkX2VtYWlscywgYXM6IDphcnJheSwgbGFiZWw6ICJPYnNjdXJlZCBFbWFpbCIpCg==</text>
+        <text encoding="base64">ICAgICAgIzphdXRoZW50aWNhdGlvbiAgICAgICA9PiAicGxhaW4iLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action QuickList.Ruby/Rails</text>
@@ -1903,8 +1903,8 @@
         <entry>action ManageRecentProjects</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
         <entry>action QuickList.Ruby/Rails</entry>
       </history-cmd>
       <history-expr />
