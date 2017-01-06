@@ -1838,7 +1838,7 @@
         <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1892,8 +1892,8 @@
         <entry>action RecentFiles</entry>
         <entry>action ManageRecentProjects</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
