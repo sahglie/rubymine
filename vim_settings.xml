@@ -154,11 +154,11 @@
         <mark key="." line="98" column="28" />
         <mark key="^" line="98" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/_email_form.html.haml" timestamp="1483733045279">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/_email_form.html.haml" timestamp="1483733653186">
+        <mark key="[" line="4" column="143" />
+        <mark key="]" line="4" column="150" />
+        <mark key="." line="4" column="150" />
+        <mark key="^" line="4" column="150" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_cli/sock_cli.gemspec" timestamp="1482186800922">
         <mark key="[" line="31" column="0" />
@@ -1771,14 +1771,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>@attrs</text>
