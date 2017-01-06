@@ -154,11 +154,11 @@
         <mark key="." line="98" column="28" />
         <mark key="^" line="98" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/_email_form.html.haml" timestamp="1482349521699">
-        <mark key="[" line="1" column="38" />
-        <mark key="]" line="1" column="61" />
-        <mark key="^" line="1" column="61" />
-        <mark key="." line="1" column="61" />
+      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/_email_form.html.haml" timestamp="1483725820342">
+        <mark key="[" line="0" column="89" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_cli/sock_cli.gemspec" timestamp="1482186800922">
         <mark key="[" line="31" column="0" />
@@ -676,7 +676,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483660454041">
+      <file name="/Dummy.txt" timestamp="1483725737746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -1228,12 +1228,11 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/lib/account/user.rb" timestamp="1480278845076">
-        <mark key="'" line="27" column="45" />
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="31" column="38" />
-        <mark key="." line="31" column="38" />
-        <mark key="^" line="41" column="57" />
+      <file name="$USER_HOME$/Development/projects/myaccount/lib/account/user.rb" timestamp="1483725683734">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+        <mark key="^" line="13" column="53" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" timestamp="1480712124940">
         <mark key="'" line="90" column="0" />
@@ -1339,12 +1338,12 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/lib/account/forms/verify_email.rb" timestamp="1480276943913">
+      <file name="$USER_HOME$/Development/projects/myaccount/lib/account/forms/verify_email.rb" timestamp="1483725878586">
         <mark key="'" line="23" column="31" />
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="63" />
-        <mark key="." line="24" column="63" />
-        <mark key="^" line="24" column="63" />
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="51" />
+        <mark key="^" line="15" column="51" />
+        <mark key="." line="15" column="51" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1482352675796">
         <mark key="'" line="75" column="0" />
@@ -1732,22 +1731,22 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIzphdXRoZW50aWNhdGlvbiAgICAgICA9PiAicGxhaW4iLAo=</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlKDplbWFpbCkK</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>@attrs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCAiY3JlYXRlcyBjYWx2aXNpdG9yIHNlc3Npb25zIGZyb20gcmV2ZXJzZS1jaHJvbm9sb2dpY2FsbHkgb3JkZXJlZCByYWRpdXMgZW50cmllcyIgZG8KICAgIHJhZGl1c19lbnRyaWVzLnJldmVyc2UuZWFjaCB7IHxlbnRyeXwgTm9zRGF0YTo6UmFkaXVzTG9nczo6Q2FsdmlzaXRvci5uZXcoZW50cnkpLnByb2Nlc3MgfQogICAgc2Vzc2lvbl9saXN0ID0gTm9zRGF0YTo6Q2FsdmlzaXRvclNlc3Npb24ub3JkZXIoJ3N0YXJ0X3RzLCBwcml2YXRlX2lwJykKICAgIGV4cGVjdChzZXNzaW9uX2xpc3QuY291bnQpLnRvIGVxbCg2KQogICAgYXNzZXJ0X3Nlc3Npb25zKHNlc3Npb25fbGlzdCkKICBlbmQK</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlKDplbWFpbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIzphdXRoZW50aWNhdGlvbiAgICAgICA9PiAicGxhaW4iLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1763,31 +1762,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIzpwYXNzd29yZCAgICAgICAgICAgICA9PiAnJywK</text>
+        <text encoding="base64">ICAgIGRlZiBlbWFpbHMKICAgICAgQGVtYWlscyB8fD0gTGRhcDo6RWQuZmluZF9jd2lkX2VtYWlscyhjd2lkKQogICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIzp1c2VyX25hbWUgICAgICAgICAgICA9PiAnJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZXhwZWN0KHNlc3Npb24udXBkYXRlZF90cy50b19zKS50byBlcWwoIjIwMTYtMTItMjEgMTI6Mjc6MjQgLTA4MDAiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZXhwZWN0KHNlc3Npb24uc3RhcnRfdHMudG9fcykudG8gZXFsKCIyMDE2LTEyLTIxIDEwOjQ2OjA1IC0wODAwIikK</text>
+        <text encoding="base64">ICAgIGRlZiBlbWFpbHMKICAgICAgQGVtYWlscyB8fD0gKGxkYXBfZW50cnkudHJ5KDptYWlsKSB8fCBbXSkubWFwKCY6dG9fcykKICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZXhwZWN0KHNlc3Npb24uc2Vzc2lvbl9pZCkudG8gZXFsKCI5QzEzNzFBQyIpCg==</text>
+        <text encoding="base64">ICAgICAgIzphdXRoZW50aWNhdGlvbiAgICAgICA9PiAicGxhaW4iLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZXhwZWN0KHNlc3Npb24udXNlcm5hbWUpLnRvIGVxbCgibmVpbC5jcmF3Zm9yZCIpCg==</text>
+        <text encoding="base64">ICAgICAgIzpwYXNzd29yZCAgICAgICAgICAgICA9PiAnJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZXhwZWN0KHNlc3Npb24uaXAudG9fcykudG8gZXFsKCIxMC4xMzYuMC4zMiIpCg==</text>
+        <text encoding="base64">ICAgICAgIzp1c2VyX25hbWUgICAgICAgICAgICA9PiAnJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc2Vzc2lvbiA9IHNlc3Npb25fbGlzdC5maXJzdAo=</text>
+        <text encoding="base64">ICAgICMgZXhwZWN0KHNlc3Npb24udXBkYXRlZF90cy50b19zKS50byBlcWwoIjIwMTYtMTItMjEgMTI6Mjc6MjQgLTA4MDAiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1825,13 +1824,10 @@
       <history-cmd>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoRelated</entry>
         <entry>action DebugClass</entry>
-        <entry>action GotoTest</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LlJ1YnkvUmFpbHM=</entry>
-        <entry>action RunClass</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action showall</entry>
         <entry>action Recent</entry>
@@ -1839,10 +1835,13 @@
         <entry>actionlist Open</entry>
         <entry>actionlist Recent</entry>
         <entry>action ManageRecentProjects</entry>
-        <entry>action RecentFiles</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoTest</entry>
+        <entry>action RunClass</entry>
+        <entry>w</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
