@@ -1786,7 +1786,7 @@
         <text encoding="base64">ICAgICMgZXhwZWN0KHNlc3Npb24udXBkYXRlZF90cy50b19zKS50byBlcWwoIjIwMTYtMTItMjEgMTI6Mjc6MjQgLTA4MDAiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ManageRecentProjects</text>
       </register>
     </registers>
     <search>
@@ -1834,7 +1834,6 @@
         <entry>actionlist recent</entry>
         <entry>actionlist Open</entry>
         <entry>actionlist Recent</entry>
-        <entry>action ManageRecentProjects</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoTest</entry>
@@ -1842,6 +1841,7 @@
         <entry>w</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ManageRecentProjects</entry>
       </history-cmd>
       <history-expr />
       <history-input />
