@@ -147,12 +147,12 @@
         <mark key="^" line="0" column="61" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" timestamp="1483642118390">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" timestamp="1483724421575">
         <mark key="'" line="111" column="35" />
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="119" column="18" />
-        <mark key="^" line="119" column="18" />
+        <mark key="[" line="98" column="29" />
+        <mark key="]" line="98" column="28" />
+        <mark key="." line="98" column="28" />
+        <mark key="^" line="98" column="28" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/_email_form.html.haml" timestamp="1482349521699">
         <mark key="[" line="1" column="38" />
@@ -1734,13 +1734,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>reverse</text>
+        <text>o</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>reverse</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>@attrs</text>
@@ -1789,7 +1789,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>actionlist Recent</text>
       </register>
     </registers>
     <search>
@@ -1825,16 +1825,8 @@
         <entry>@attrs</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoAction</entry>
-        <entry>ws</entry>
-        <entry>%s/Ids::Processors::Snort/Snort::Processors::Event/gc</entry>
-        <entry>set paste!</entry>
-        <entry>action Debug</entry>
-        <entry>%s/attrs/@attrs/gc</entry>
-        <entry>%s/@attrs/@radius_attrs/gc</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoRelated</entry>
@@ -1843,8 +1835,16 @@
         <entry>action Run</entry>
         <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LlJ1YnkvUmFpbHM=</entry>
-        <entry>w</entry>
         <entry>action RunClass</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action showall</entry>
+        <entry>action Recent</entry>
+        <entry>actionlist recent</entry>
+        <entry>action ManageRecentProjects</entry>
+        <entry>actionlist Open</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>w</entry>
+        <entry>actionlist Recent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
