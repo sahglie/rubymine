@@ -22,7 +22,7 @@
         <mark key="^" line="40" column="5" />
         <mark key="." line="40" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1483990679457">
+      <file name="/a.dummy" timestamp="1483999370078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -52,11 +52,6 @@
         <mark key="]" line="28" column="32" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="3" column="23" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/027_calvisitor_sessions.sql" timestamp="1483745328636">
-        <mark key="]" line="21" column="82" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="82" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/utils/ip_addr.rb" timestamp="1481672295182">
         <mark key="[" line="5" column="28" />
@@ -435,6 +430,13 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="31" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_botnet_drone.yml" timestamp="1484000162619">
+        <mark key="'" line="52" column="24" />
+        <mark key="[" line="137" column="17" />
+        <mark key="]" line="137" column="24" />
+        <mark key="." line="137" column="24" />
+        <mark key="^" line="137" column="24" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/jobs/snort_packet_job.rb" timestamp="1481656847291">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="10" />
@@ -539,6 +541,13 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="61" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/raises_an_error_if_case_does_not_have_a_meta_event.yml" timestamp="1483999414900">
+        <mark key="'" line="4" column="90" />
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="24" />
+        <mark key="." line="52" column="24" />
+        <mark key="^" line="52" column="24" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/aggressive_ip_ignore.rb" timestamp="1479925753264">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -610,6 +619,13 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
         <mark key="^" line="2" column="94" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/extracts_case_data_from_meta_event.yml" timestamp="1483999387987">
+        <mark key="'" line="52" column="24" />
+        <mark key="[" line="139" column="17" />
+        <mark key="]" line="139" column="24" />
+        <mark key="." line="139" column="24" />
+        <mark key="^" line="139" column="24" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/application_mailer/failed_block_sync.text.erb" timestamp="1482348950105">
         <mark key="[" line="1" column="28" />
@@ -699,7 +715,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483999047334">
+      <file name="/Dummy.txt" timestamp="1484000522745">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -1315,6 +1331,13 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="37" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/raises_error_if_case_has_no_events.yml" timestamp="1484000130995">
+        <mark key="'" line="12" column="20" />
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="24" />
+        <mark key="." line="52" column="24" />
+        <mark key="^" line="52" column="24" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_step1_confirm_email_form.html.haml" timestamp="1480277155639">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="37" />
@@ -1376,6 +1399,13 @@
         <mark key="]" line="74" column="0" />
         <mark key="^" line="50" column="77" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" timestamp="1484000356483">
+        <mark key="'" line="138" column="4" />
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap/conn.rb" timestamp="1480275147243">
         <mark key="[" line="41" column="32" />
@@ -1665,17 +1695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_usage.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" />
-      <jump line="131" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" />
-      <jump line="130" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
-      <jump line="49" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/processors/radius.rb" />
-      <jump line="23" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
-      <jump line="49" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" />
-      <jump line="78" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/calvisitor.rb" />
-      <jump line="78" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/eduroam.rb" />
       <jump line="42" column="31" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/eduroam.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/eduroam.rb" />
       <jump line="2" column="12" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/vpn.rb" />
@@ -1765,6 +1784,17 @@
       <jump line="44" column="9" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
       <jump line="7469" column="76" filename="$USER_HOME$/Development/projects/sock_rails5/config/arcsight/group_service2.wsdl" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/arcsight/group_service2.wsdl" />
+      <jump line="4" column="90" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/extracts_case_data_from_meta_event.yml" />
+      <jump line="52" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/extracts_case_data_from_meta_event.yml" />
+      <jump line="4" column="90" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/raises_an_error_if_case_does_not_have_a_meta_event.yml" />
+      <jump line="12" column="20" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/raises_error_if_case_has_no_events.yml" />
+      <jump line="4" column="90" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_botnet_drone.yml" />
+      <jump line="52" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_botnet_drone.yml" />
+      <jump line="4" column="90" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
+      <jump line="52" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
+      <jump line="16" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
+      <jump line="51" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
+      <jump line="138" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1774,16 +1804,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>get</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
-        <text>copyResourceIntoGroup</text>
+        <text encoding="base64">bWV0aG9kOiA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhc3N3b3JkOiA5MDg3My1vdmVyY3J1c3QK</text>
@@ -1833,9 +1863,9 @@
       </register>
     </registers>
     <search>
-      <last-search>copyResourceIntoGroup</last-search>
+      <last-search encoding="base64">bWV0aG9kOiA=</last-search>
       <last-offset />
-      <last-pattern>copyResourceIntoGroup</last-pattern>
+      <last-pattern encoding="base64">bWV0aG9kOiA=</last-pattern>
       <last-replace>arcsight</last-replace>
       <last-substitute>pbr</last-substitute>
       <last-dir>1</last-dir>
@@ -1843,7 +1873,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alert</entry>
         <entry>@alert_attrs[:/@alert./gc</entry>
         <entry>@alert_attrs\[:</entry>
         <entry>@alert_attrs\[:(\w)\]</entry>
@@ -1861,8 +1890,9 @@
         <entry>attrs</entry>
         <entry>@attrs</entry>
         <entry>%s</entry>
-        <entry>pbr</entry>
         <entry>copyResourceIntoGroup</entry>
+        <entry>pbr</entry>
+        <entry encoding="base64">bWV0aG9kOiA=</entry>
       </history-search>
       <history-cmd>
         <entry>action Refactorings.QuickListPopupAction</entry>
