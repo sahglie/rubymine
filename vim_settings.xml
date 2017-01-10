@@ -1859,7 +1859,7 @@
         <text encoding="base64">ICAgICAgIyAgICAgICAgICAgbG9naW46IEBhdXRoLmZldGNoKDp1c2VybmFtZSksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -1909,12 +1909,12 @@
         <entry>wq</entry>
         <entry>set paste!</entry>
         <entry>action GotoTest</entry>
-        <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
