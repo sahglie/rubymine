@@ -65,7 +65,7 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/api/snort_events_controller.rb" timestamp="1484175788108">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/api/snort_events_controller.rb" timestamp="1484176768939">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="22" />
         <mark key="^" line="33" column="22" />
@@ -577,12 +577,8 @@
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/requests/api/snort_events_controller_spec.rb" timestamp="1484176391596">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="28" column="54" />
-        <mark key="]" line="28" column="69" />
-        <mark key="." line="28" column="69" />
-        <mark key="^" line="28" column="69" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/requests/api/snort_events_controller_spec.rb" timestamp="1484176717739">
+        <mark key="'" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/inet_bug/app/models/event.rb" timestamp="1479748245426">
         <mark key="[" line="1" column="33" />
@@ -644,7 +640,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/Ruby Console" timestamp="1484176111602">
+      <file name="/Ruby Console" timestamp="1484176770973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
         <mark key="^" line="0" column="55" />
@@ -1153,10 +1149,10 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/fragment.rb" timestamp="1484176000179">
+      <file name="/fragment.rb" timestamp="1484176704045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/_change_form.html.erb" timestamp="1479941243481">
@@ -1614,6 +1610,11 @@
         <mark key="." line="1" column="64" />
         <mark key="^" line="1" column="64" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/incidents/018_api_keys.sql" timestamp="1484177064803">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/forgot_password/index.html.erb" timestamp="1480288799541">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="6" />
@@ -1697,7 +1698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="34" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" />
       <jump line="27" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session.rb" />
       <jump line="126" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/workers/ids_alert.rb" />
@@ -1797,6 +1797,7 @@
       <jump line="147" column="36" filename="$USER_HOME$/Development/projects/sock_rails5/spec/requests/api/snort_events_controller_spec.rb" />
       <jump line="11" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/event_service.rb" />
       <jump line="32" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/requests/api/snort_events_controller_spec.rb" />
+      <jump line="36" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/requests/api/snort_events_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1805,8 +1806,8 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzZXJ2aWNlX3VzZXJfaWQgVVVJRCwK</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
@@ -1821,7 +1822,7 @@
         <text encoding="base64">ICAgIHBhcmFtZXRlcig6cGFnZSwgImN1cnJlbnQgcGFnZSBvZiByZXN1bHRzIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cXVlcnlfcGFyYW1zWzpsaW1pdEBzZWFyY2hfcGFyYW1zIHx8PSBdCg==</text>
+        <text encoding="base64">ICBzZXJ2aWNlX3VzZXJfaWQgVVVJRCwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1837,31 +1838,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cXVlcnlfcGFyYW1zWzpsaW1pdEBzZWFyY2hfcGFyYW1zIHx8PSBdCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEB0b3RhbF9jb3VudCA9IEBldmVudHMuY291bnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZAo=</text>
+        <text encoding="base64">ICAgIEB0b3RhbF9jb3VudCA9IEBldmVudHMuY291bnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwYWdlID0gc2VhcmNoX3BhcmFtc1s6XQo=</text>
+        <text encoding="base64">ICBkZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHAgcmVzcG9uc2VfYm9keQo=</text>
+        <text encoding="base64">ICAgIEBwYWdlID0gc2VhcmNoX3BhcmFtc1s6XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBwYXlsb2FkX2Zvcm1hdCA9IHNlYXJjaF9wYXJhbXNbOnBheWxvYWRfZm9ybWF0XSB8fCAiYmFzZTY0Igo=</text>
+        <text encoding="base64">ICAgICAgcHAgcmVzcG9uc2VfYm9keQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBldmVudHMgPSBTbm9ydDo6RXZlbnRTZXJ2aWNlLnNlYXJjaChzZWFyY2hfcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgIEBwYXlsb2FkX2Zvcm1hdCA9IHNlYXJjaF9wYXJhbXNbOnBheWxvYWRfZm9ybWF0XSB8fCAiYmFzZTY0Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action QuickList.Ruby/Rails</text>
       </register>
     </registers>
     <search>
@@ -1907,16 +1908,16 @@
         <entry>%s/PBR\.security\.berkeley\.edu/ARCSIGHT\.security\.berkeley\.edu/cg</entry>
         <entry>%s/PBR\.security\.berkeley\.edu/ARCSIGHT\.security\.berkeley\.edu/g</entry>
         <entry>action Run</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
         <entry>action Debug</entry>
         <entry>wq</entry>
         <entry>action RecentFiles</entry>
-        <entry>action QuickList.Ruby/Rails</entry>
-        <entry>action RunClass</entry>
         <entry>action GotoClass</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
+        <entry>action RunClass</entry>
         <entry>w</entry>
+        <entry>action QuickList.Ruby/Rails</entry>
       </history-cmd>
       <history-expr />
       <history-input />
