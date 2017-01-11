@@ -39,12 +39,6 @@
         <mark key="." line="31" column="23" />
         <mark key="^" line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/027_calvisitor_sessions.sql" timestamp="1484173174745">
-        <mark key="[" line="22" column="80" />
-        <mark key="]" line="22" column="82" />
-        <mark key="." line="22" column="82" />
-        <mark key="^" line="22" column="82" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/utils/ip_addr.rb" timestamp="1481672295182">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="6" column="25" />
@@ -57,11 +51,11 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/api/snort_events_controller.rb" timestamp="1484172346590">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="4" column="13" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/api/snort_events_controller.rb" timestamp="1484174208602">
+        <mark key="[" line="8" column="52" />
+        <mark key="]" line="8" column="56" />
+        <mark key="^" line="8" column="56" />
+        <mark key="." line="8" column="56" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/infoblox/repos/range_spec.rb" timestamp="1475090441397">
         <mark key="[" line="2" column="55" />
@@ -307,11 +301,11 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/api/snort_events/index.json.jbuilder" timestamp="1484172290034">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/api/snort_events/index.json.jbuilder" timestamp="1484173744021">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan/search.rb" timestamp="1478550798737">
         <mark key="[" line="16" column="35" />
@@ -436,11 +430,12 @@
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/requests/api/snort_events_controller_spec.rb" timestamp="1484172527865">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/requests/api/snort_events_controller_spec.rb" timestamp="1484173551270">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="44" />
+        <mark key="." line="27" column="44" />
+        <mark key="^" line="27" column="44" />
       </file>
       <file name="$USER_HOME$/Development/projects/inet_bug/app/models/event.rb" timestamp="1479748245426">
         <mark key="[" line="1" column="33" />
@@ -563,7 +558,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484173103826">
+      <file name="/Dummy.txt" timestamp="1484174408768">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -1387,22 +1382,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>page</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text>snort_events</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBldmVudHMgPSBTbm9ydDo6RXZlbnRTZXJ2aWNlLnNlYXJjaChzZWFyY2hfcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgIHBhcmFtZXRlcig6cGF5bG9hZF9mb3JtYXQsICJ2YWx1ZXMgYXJlOiBhc2NpaSwgYmFzZTY0LCBoZXgiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHAgcmVzcG9uc2VfYm9keQo=</text>
+        <text encoding="base64">ICBkZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1418,31 +1413,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBwYXlsb2FkX2Zvcm1hdCA9IHNlYXJjaF9wYXJhbXNbOnBheWxvYWRfZm9ybWF0XSB8fCAiYmFzZTY0Igo=</text>
+        <text encoding="base64">ICAgIEBwYWdlID0gc2VhcmNoX3BhcmFtc1s6XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBldmVudHMgPSBTbm9ydDo6RXZlbnRTZXJ2aWNlLnNlYXJjaChzZWFyY2hfcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgcHAgcmVzcG9uc2VfYm9keQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwYXlsb2FkX2Zvcm1hdCA9IHNlYXJjaF9wYXJhbXNbOnBheWxvYWRfZm9ybWF0XSB8fCAiYmFzZTY0Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBldmVudHMgPSBTbm9ydDo6RXZlbnRTZXJ2aWNlLnNlYXJjaChzZWFyY2hfcGFyYW1zKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlYXJjaF9wYXJhbXMubWVyZ2UhKAogICAgICAgIHNvcnRfb3JkZXI6ICJhc2MiLAogICAgICAgIG9mZnNldDogc2VhcmNoX3BhcmFtc1s6b2Zmc2V0XSB8fCAwLAogICAgICAgIGxpbWl0OiBzZWFyY2hfcGFyYW1zWzpsaW1pdF0gfHwgNTAwCiAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwYXlsb2FkX2Zvcm1hdCA9IHNlYXJjaF9wYXJhbXNbOnBheWxvYWRfZm9ybWF0XSB8fCAiYmFzZTY0Igo=</text>
+        <text encoding="base64">ICAgIHNlYXJjaF9wYXJhbXMubWVyZ2UhKAogICAgICAgIHNvcnRfb3JkZXI6ICJhc2MiLAogICAgICAgIG9mZnNldDogc2VhcmNoX3BhcmFtc1s6b2Zmc2V0XSB8fCAwLAogICAgICAgIGxpbWl0OiBzZWFyY2hfcGFyYW1zWzpsaW1pdF0gfHwgNTAwCiAgICApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1495,9 +1490,9 @@
         <entry>wq</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action RunClass</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
