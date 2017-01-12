@@ -65,11 +65,11 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/api/snort_events_controller.rb" timestamp="1484179984690">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="42" column="99" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/api/snort_events_controller.rb" timestamp="1484180359246">
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="29" column="45" />
+        <mark key="^" line="23" column="32" />
+        <mark key="." line="29" column="45" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/infoblox/repos/range_spec.rb" timestamp="1475090441397">
         <mark key="[" line="2" column="55" />
@@ -719,11 +719,11 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484176401169">
+      <file name="/Dummy.txt" timestamp="1484180373065">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
+        <mark key="]" line="0" column="47" />
+        <mark key="." line="0" column="47" />
+        <mark key="^" line="0" column="47" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/verify_password.js.erb" timestamp="1476235761997">
         <mark key="[" line="12" column="17" />
@@ -1801,14 +1801,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>snort_events</text>
