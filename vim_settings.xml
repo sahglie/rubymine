@@ -731,7 +731,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484182996477">
+      <file name="/Dummy.txt" timestamp="1484260523159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -1420,6 +1420,12 @@
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="42" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1484260615363">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap/conn.rb" timestamp="1480275147243">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="39" />
@@ -1841,7 +1847,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGRhdGEgPSBkYXRhCg==</text>
+        <text encoding="base64">IDAgICAgICogICAgKiAgICogICAqICBhcHBfc29jayBSQUlMU19FTlY9JEVOViAkQUxFUlRfUElHL2VucmljaF9hbGVydHMucmIK</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
@@ -1856,7 +1862,7 @@
         <text encoding="base64">ICAgICAgICAgIFNub3J0OjpSZW5kZXJlcnM6Okpzb24ubmV3KGRhdGEpLnJlbmRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGRhdGEgPSBkYXRhCg==</text>
+        <text encoding="base64">IDAgICAgICogICAgKiAgICogICAqICBhcHBfc29jayBSQUlMU19FTlY9JEVOViAkQUxFUlRfUElHL2VucmljaF9hbGVydHMucmIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1872,28 +1878,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgwKQo=</text>
+        <text encoding="base64">Ki81ICAgICogICAgKiAgICogICAqICBhcHBfc29jayBSQUlMU19FTlY9JEVOViAkQUxFUlRfUElHL2VucmljaF9vc3hfYWxlcnRzLnJiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGRhdGEgPSBkYXRhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGRhdGEgPSBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgwKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGRhdGEgPSBkYXRhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zLmVtcHR5PyA/IGRlZmF1bHRfb3B0aW9ucyA6IG9wdGlvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGluaXRfb3B0aW9ucyhvcHRpb25zKQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4aXQoMCkK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zLmVtcHR5PyA/IGRlZmF1bHRfb3B0aW9ucyA6IG9wdGlvbnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1947,10 +1953,10 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
-        <entry>action RecentFiles</entry>
         <entry>%s/@opts/@options/g</entry>
         <entry>%s/@req_opts/@required_options/g</entry>
         <entry>action QuickList.Ruby/Rails</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
