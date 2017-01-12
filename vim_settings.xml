@@ -1134,12 +1134,11 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484182184947">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="123" column="8" />
-        <mark key="]" line="123" column="8" />
-        <mark key="^" line="122" column="19" />
-        <mark key="." line="123" column="8" />
+      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484184315330">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/osx_out_of_date_job.rb" timestamp="1481058854631">
         <mark key="'" line="2" column="0" />
@@ -1809,23 +1808,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>packet_ts</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>packet_ts</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>snort_events</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGpzb24ucGFja2V0X3RzKHBhY2tldC5wYWNrZXRfdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbmFsX2RhdGFbOmV2ZW50c10uY29uY2F0KHBhZ2VfZGF0YVsnZXZlbnRzJ10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZSA6c3JjX2lwCiAgICBhdHRyaWJ1dGUgOmRzdF9pcAogICAgYXR0cmlidXRlIDpzZW5zb3IK</text>
+        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1841,28 +1840,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgIGJyZWFrIGlmICFhbGxfcmVjb3JkcyB8fCBwYWdlX2RhdGFbJ2V2ZW50cyddLnNpemUgPCBwYWdlX2RhdGFbJ3Blcl9wYWdlJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2VtICd5YWpsJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRvdGFsX2RhdGFbJ3RvdGFsX2NvdW50J10gPSBwYWdlX2RhdGFbJ3RvdGFsX2NvdW50J10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZ2UgPCAxID8gMSA6IHBhZ2UK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gYXBpLmZldGNoKEBvcHRzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBlcl9wYWdlID4gNTAwID8gNTAwIDogcGVyX3BhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlX3VzZXJfaWQgVVVJRCwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YSB1bmxlc3MgYWxsX3JlY29yZHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
