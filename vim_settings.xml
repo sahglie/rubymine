@@ -247,6 +247,13 @@
         <mark key="." line="12" column="38" />
         <mark key="^" line="12" column="38" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/option_parser.rb" timestamp="1484247586602">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/layouts/application.html.erb" timestamp="1478902712486">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="36" />
@@ -363,6 +370,12 @@
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/api_request.rb" timestamp="1484247021244">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="56" />
+        <mark key="^" line="25" column="56" />
+        <mark key="." line="25" column="56" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/snort/jobs/packet_correlation.rb" timestamp="1483469360219">
         <mark key="'" line="0" column="0" />
@@ -645,13 +658,6 @@
         <mark key="." line="9" column="61" />
         <mark key="^" line="9" column="79" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1484094987960">
-        <mark key="'" line="202" column="6" />
-        <mark key="[" line="190" column="4" />
-        <mark key="]" line="190" column="4" />
-        <mark key="." line="190" column="4" />
-        <mark key="^" line="190" column="4" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/rdm_ids_alert.rb" timestamp="1481063465984">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="79" />
@@ -893,13 +899,6 @@
         <mark key="." line="18" column="55" />
         <mark key="^" line="18" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" timestamp="1484172569008">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="214" column="13" />
-        <mark key="]" line="214" column="14" />
-        <mark key="." line="214" column="14" />
-        <mark key="^" line="200" column="16" />
-      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/spec/rails_helper.rb" timestamp="1478904649050">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -1135,12 +1134,12 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484245382586">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="135" column="41" />
-        <mark key="]" line="135" column="42" />
-        <mark key="." line="135" column="42" />
-        <mark key="^" line="135" column="47" />
+      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484247505645">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/osx_out_of_date_job.rb" timestamp="1481058854631">
         <mark key="'" line="2" column="0" />
@@ -1412,6 +1411,13 @@
         <mark key="]" line="41" column="39" />
         <mark key="." line="41" column="39" />
         <mark key="^" line="41" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/options.rb" timestamp="1484247483426">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/eduroam_spec.rb" timestamp="1483659993924">
         <mark key="'" line="45" column="0" />
@@ -1702,24 +1708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
-      <jump line="20" column="52" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
-      <jump line="127" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/snort/003_errors.sql" />
-      <jump line="13" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/030_vpn_sessions.sql" />
-      <jump line="22" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/030_vpn_sessions.sql" />
-      <jump line="11" column="38" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/031_radius_log_errors.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/031_radius_log_errors.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/airbears2_session_error.rb" />
-      <jump line="162" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
-      <jump line="81" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
-      <jump line="87" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
-      <jump line="111" column="35" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
-      <jump line="91" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
-      <jump line="97" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
-      <jump line="166" column="71" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
       <jump line="93" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
       <jump line="165" column="78" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
       <jump line="92" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/radius_logs/airbears2_spec.rb" />
@@ -1802,6 +1790,24 @@
       <jump line="124" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
       <jump line="86" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/snort/processors/event_spec.rb" />
       <jump line="8" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
+      <jump line="5" column="24" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/options.rb" />
+      <jump line="96" column="8" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/options.rb" />
+      <jump line="33" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
+      <jump line="61" column="8" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
+      <jump line="49" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/options.rb" />
+      <jump line="94" column="15" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/options.rb" />
+      <jump line="11" column="32" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/options.rb" />
+      <jump line="92" column="12" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/options.rb" />
+      <jump line="44" column="16" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/options.rb" />
+      <jump line="101" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/options.rb" />
+      <jump line="25" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/option_parser.rb" />
+      <jump line="91" column="12" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/option_parser.rb" />
+      <jump line="105" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/option_parser.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/option_parser.rb" />
+      <jump line="55" column="14" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/option_parser.rb" />
+      <jump line="26" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/option_parser.rb" />
+      <jump line="104" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/option_parser.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1811,22 +1817,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>s</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>snort_events</text>
+        <text>@req_opts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzcGVjLmFkZF9kZXZlbG9wbWVudF9kZXBlbmRlbmN5ICJ3ZWJtb2NrIiwgIn4+IDEuMjQuMiIK</text>
+        <text encoding="base64">ICAgICAgICBAb3B0aW9ucyA9IE9wdGlvblBhcnNlci5uZXcgZG8gfHh8CiAgICAgICAgICB4LmJhbm5lciA9ICJVc2FnZTogc29jayBzbm9ydCBbb3B0aW9uc10iCgogICAgICAgICAgeC5zZXBhcmF0b3IgIiIKICAgICAgICAgIHguc2VwYXJhdG9yICJSZXF1aXJlZCBvcHRpb25zIChhdCBsZWFzdCBvbmUgaXMgcmVxdWlyZWQpOiIKCiAgICAgICAgICB4Lm9uKCItaSBJUCIsIFN0cmluZywgInNvdXJjZSBvciBkZXN0aW5hdGlvbiBpcCB3L29wdGlvbmFsIHBvcnQiKSBkbyB8aXBfc3RyfAogICAgICAgICAgICBleHRyYWN0X2lwX2FuZF9wb3J0KGlwX3N0ciwgOmlwLCA6cG9ydCkKICAgICAgICAgIGVuZAoKICAgICAgICAgIHgub24oIi1zIFNSQ19JUCIsIFN0cmluZywgInNvdXJjZSBpcCB3L29wdGlvbmFsIHBvcnQiKSBkbyB8aXBfc3RyfAogICAgICAgICAgICBleHRyYWN0X2lwX2FuZF9wb3J0KGlwX3N0ciwgOnNyY19pcCwgOnNyY19wb3J0KQogICAgICAgICAgZW5kCgogICAgICAgICAgeC5vbigiLWQgRFNUX0lQIiwgU3RyaW5nLCAiZGVzdGluYXRpb24gaXAgdy9vcHRpb25hbCBwb3J0IikgZG8gfGlwX3N0cnwKICAgICAgICAgICAgZXh0cmFjdF9pcF9hbmRfcG9ydChpcF9zdHIsIDpkc3RfaXAsIDpkc3RfcG9ydCkKICAgICAgICAgIGVuZAoKICAgICAgICAgIHgub24oIi1tIERVTVBfU1RSIiwgU3RyaW5nLCAiZHVtcCBzdHJpbmc6IFwic3JjX2lwOnNyY19wb3J0IC0+IGRzdF9pcDpkc3RfcG9ydFwiIikgZG8gfGlwc19zdHJ8CiAgICAgICAgICAgIHNyY19pcF9zdHIsIGRzdF9pcF9zdHIgPSBpcHNfc3RyLnNwbGl0KCItPiIpCiAgICAgICAgICAgIGV4dHJhY3RfaXBfYW5kX3BvcnQoc3JjX2lwX3N0ciwgOnNyY19pcCwgOnNyY19wb3J0KQogICAgICAgICAgICBleHRyYWN0X2lwX2FuZF9wb3J0KGRzdF9pcF9zdHIsIDpkc3RfaXAsIDpkc3RfcG9ydCkKICAgICAgICAgIGVuZAoKICAgICAgICAgIHgub24oIi10IERBVEUiLCBTdHJpbmcsICJkYXRlICh5eXl5LW1tLWRkKSAtIGRlZmF1bHQgaXMgY3VycmVudCBkYXkiKSBkbyB8ZGF0ZXwKICAgICAgICAgICAgQG9wdHMuZGVsZXRlKDpzdGFydF9yYW5nZV90cykgIyBkZWxldGUgZGVmYXVsdCBpZiBkYXRlIHdhcyBzcGVjaWZpZWQKCiAgICAgICAgICAgIGlmIGRhdGUuaW5jbHVkZT8oIjoiKQogICAgICAgICAgICAgIEByZXFfb3B0c1s6c3RhcnRfcmFuZ2VfdHNdLCBAcmVxX29wdHNbOnN0b3BfcmFuZ2VfdHNdID0gZGF0ZS5zcGxpdCgiOiIpCiAgICAgICAgICAgICAgaWYgQHJlcV9vcHRzWzpzdGFydF9yYW5nZV90c10gPT0gQHJlcV9vcHRzWzpzdG9wX3JhbmdlX3RzXQogICAgICAgICAgICAgICAgQHJlcV9vcHRzWzpkYXRlXSA9IEByZXFfb3B0c1s6c3RhcnRfcmFuZ2VfdHNdCiAgICAgICAgICAgICAgICBAcmVxX29wdHMuZGVsZXRlKDpzdGFydF9yYW5nZV90cykKICAgICAgICAgICAgICAgIEByZXFfb3B0cy5kZWxldGUoOnN0b3BfcmFuZ2VfdHMpCiAgICAgICAgICAgICAgZW5kCiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICBAcmVxX29wdHNbOmRhdGVdID0gZGF0ZQogICAgICAgICAgICBlbmQKCiAgICAgICAgICAgIEBvcHRzLmRlbGV0ZSg6c3RhcnRfcmFuZ2VfdHMpIGlmIEBvcHRzWzpzdGFydF9yYW5nZV90c10uYmxhbms/CiAgICAgICAgICAgIEBvcHRzLmRlbGV0ZSg6c3RvcF9yYW5nZV90cykgaWYgQG9wdHNbOnN0b3BfcmFuZ2VfdHNdLmJsYW5rPwogICAgICAgICAgZW5kCgogICAgICAgICAgeC5zZXBhcmF0b3IgIiIKICAgICAgICAgIHguc2VwYXJhdG9yICJBZGRpdGlvbmFsIG9wdGlvbnM6IgoKICAgICAgICAgIHgub24oIi1sIExJTUlUIiwgSW50ZWdlciwgImxpbWl0IG51bWJlciBvZiByZXR1cm5lZCByZWNvcmRzIikgZG8gfGx8CiAgICAgICAgICAgIEBvcHRzWzpsaW1pdF0gPSBsCiAgICAgICAgICBlbmQKCiAgICAgICAgICB4Lm9uKCItQSIsIFRydWVDbGFzcywgInJldHVybiBhbGwgcmVjb3JkcyIpIGRvIHxsfAogICAgICAgICAgICBAb3B0c1s6YWxsX3JlY29yZHNdID0gdHJ1ZQogICAgICAgICAgZW5kCgogICAgICAgICAgeC5vbigiLXAgUENBUF9GSUxFIiwgU3RyaW5nLCAicGF0aCB0byBwY2FwIGZpbGUiKSBkbyB8bHwKICAgICAgICAgICAgQG9wdHNbOnBjYXBfZmlsZV0gPSBsCiAgICAgICAgICAgIEBvcHRzWzpqc29uXSA9IHRydWUKICAgICAgICAgIGVuZAoKICAgICAgICAgIHgub24oIi1qIiwgVHJ1ZUNsYXNzLCAib3V0cHV0IHJlc3VsdHMgaW4ganNvbiIpIGRvIHxsfAogICAgICAgICAgICBAb3B0c1s6anNvbl0gPSB0cnVlCiAgICAgICAgICBlbmQKCiAgICAgICAgICB4Lm9uKCItZyIsIFRydWVDbGFzcywgImluY2x1ZGUgc2lnbmF0dXJlIG5hbWUgZm9yIHRoaXMgZXZlbnQiKSBkbwogICAgICAgICAgICBAb3B0c1s6c2lnbmF0dXJlXSA9IHRydWUKICAgICAgICAgIGVuZAoKICAgICAgICAgIHgub24oIi14IiwgVHJ1ZUNsYXNzLCAicHJpbnQgcGFja2V0IGRhdGEgaW4gaGV4IikgZG8KICAgICAgICAgICAgQG9wdHNbOnBheWxvYWRfZm9ybWF0XSA9IDpoZXgKICAgICAgICAgIGVuZAoKICAgICAgICAgIHgub24oIi1DIiwgVHJ1ZUNsYXNzLCAib25seSBwcmludCBudW1iZXIgb2YgcmVjb3JkcyBmb3VuZCIpIGRvCiAgICAgICAgICAgIEBvcHRzWzpjb3VudF0gPSB0cnVlCiAgICAgICAgICBlbmQKCiAgICAgICAgICB4Lm9uKCItaCIsICJTaG93IHRoaXMgbWVzc2FnZSIpIGRvCiAgICAgICAgICAgICRzdGRvdXQucHV0cyh4KTsgZXhpdAogICAgICAgICAgZW5kCgogICAgICAgICAgeC5vbigiLUgiLCAiU2hvdyBtYW4gcGFnZSIpIGRvCiAgICAgICAgICAgICRzdGRvdXQucHV0cyhGaWxlLnJlYWQoIiN7OjpTb2NrQ2xpLnJvb3R9L2RvY3Mvc25vcnQuMS50eHQiKSk7IGV4aXQKICAgICAgICAgIGVuZAogICAgICAgIGVuZAoKCiAgICAgICAgQG9wdGlvbnMucGFyc2UhKGFyZ3YpCiAgICAgICAgQHJlcV9vcHRzLmVtcHR5PyA/IHJhaXNlKE9wdGlvbnNFcnJvcikgOiBAb3B0cy5tZXJnZSEoQHJlcV9vcHRzKQogICAgICByZXNjdWUgT3B0aW9uUGFyc2VyOjpQYXJzZUVycm9yLCBPcHRpb25zRXJyb3IgPT4gZXJyCiAgICAgICAgcmFpc2UgT3B0aW9uUGFyc2VyOjpJbnZhbGlkT3B0aW9uLm5ldyhAb3B0aW9ucykgaWYgZXJyLmlzX2E/KE9wdGlvbnNFcnJvcikKICAgICAgICByYWlzZSBPcHRpb25QYXJzZXI6OkludmFsaWRPcHRpb24ubmV3KGVycikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1842,46 +1848,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJyZWFrIGlmICFhbGxfcmVjb3JkcyB8fCBwYWdlX2RhdGFbJ2V2ZW50cyddLnNpemUgPCBwYWdlX2RhdGFbJ3Blcl9wYWdlJ10K</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE9wdGlvblBhcnNlci5uZXcgZG8gfHh8CiAgICAgICAgICAgIHguYmFubmVyID0gIlVzYWdlOiBzb2NrIHNub3J0IFtvcHRpb25zXSIKCiAgICAgICAgICAgIHguc2VwYXJhdG9yICIiCiAgICAgICAgICAgIHguc2VwYXJhdG9yICJSZXF1aXJlZCBvcHRpb25zIChhdCBsZWFzdCBvbmUgaXMgcmVxdWlyZWQpOiIKCiAgICAgICAgICAgIHgub24oIi1pIElQIiwgU3RyaW5nLCAic291cmNlIG9yIGRlc3RpbmF0aW9uIGlwIHcvb3B0aW9uYWwgcG9ydCIpIGRvIHxpcF9zdHJ8CiAgICAgICAgICAgICAgZXh0cmFjdF9pcF9hbmRfcG9ydChpcF9zdHIsIDppcCwgOnBvcnQpCiAgICAgICAgICAgIGVuZAoKICAgICAgICAgICAgeC5vbigiLXMgU1JDX0lQIiwgU3RyaW5nLCAic291cmNlIGlwIHcvb3B0aW9uYWwgcG9ydCIpIGRvIHxpcF9zdHJ8CiAgICAgICAgICAgICAgZXh0cmFjdF9pcF9hbmRfcG9ydChpcF9zdHIsIDpzcmNfaXAsIDpzcmNfcG9ydCkKICAgICAgICAgICAgZW5kCgogICAgICAgICAgICB4Lm9uKCItZCBEU1RfSVAiLCBTdHJpbmcsICJkZXN0aW5hdGlvbiBpcCB3L29wdGlvbmFsIHBvcnQiKSBkbyB8aXBfc3RyfAogICAgICAgICAgICAgIGV4dHJhY3RfaXBfYW5kX3BvcnQoaXBfc3RyLCA6ZHN0X2lwLCA6ZHN0X3BvcnQpCiAgICAgICAgICAgIGVuZAoKICAgICAgICAgICAgeC5vbigiLW0gRFVNUF9TVFIiLCBTdHJpbmcsICJkdW1wIHN0cmluZzogXCJzcmNfaXA6c3JjX3BvcnQgLT4gZHN0X2lwOmRzdF9wb3J0XCIiKSBkbyB8aXBzX3N0cnwKICAgICAgICAgICAgICBzcmNfaXBfc3RyLCBkc3RfaXBfc3RyID0gaXBzX3N0ci5zcGxpdCgiLT4iKQogICAgICAgICAgICAgIGV4dHJhY3RfaXBfYW5kX3BvcnQoc3JjX2lwX3N0ciwgOnNyY19pcCwgOnNyY19wb3J0KQogICAgICAgICAgICAgIGV4dHJhY3RfaXBfYW5kX3BvcnQoZHN0X2lwX3N0ciwgOmRzdF9pcCwgOmRzdF9wb3J0KQogICAgICAgICAgICBlbmQKCiAgICAgICAgICAgIHgub24oIi10IERBVEUiLCBTdHJpbmcsICJkYXRlICh5eXl5LW1tLWRkKSAtIGRlZmF1bHQgaXMgY3VycmVudCBkYXkiKSBkbyB8ZGF0ZXwKICAgICAgICAgICAgICBAb3B0cy5kZWxldGUoOnN0YXJ0X3JhbmdlX3RzKSAjIGRlbGV0ZSBkZWZhdWx0IGlmIGRhdGUgd2FzIHNwZWNpZmllZAoKICAgICAgICAgICAgICBpZiBkYXRlLmluY2x1ZGU/KCI6IikKICAgICAgICAgICAgICAgIEByZXFfb3B0c1s6c3RhcnRfcmFuZ2VfdHNdLCBAcmVxX29wdHNbOnN0b3BfcmFuZ2VfdHNdID0gZGF0ZS5zcGxpdCgiOiIpCiAgICAgICAgICAgICAgICBpZiBAcmVxX29wdHNbOnN0YXJ0X3JhbmdlX3RzXSA9PSBAcmVxX29wdHNbOnN0b3BfcmFuZ2VfdHNdCiAgICAgICAgICAgICAgICAgIEByZXFfb3B0c1s6ZGF0ZV0gPSBAcmVxX29wdHNbOnN0YXJ0X3JhbmdlX3RzXQogICAgICAgICAgICAgICAgICBAcmVxX29wdHMuZGVsZXRlKDpzdGFydF9yYW5nZV90cykKICAgICAgICAgICAgICAgICAgQHJlcV9vcHRzLmRlbGV0ZSg6c3RvcF9yYW5nZV90cykKICAgICAgICAgICAgICAgIGVuZAogICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIEByZXFfb3B0c1s6ZGF0ZV0gPSBkYXRlCiAgICAgICAgICAgICAgZW5kCgogICAgICAgICAgICAgIEBvcHRzLmRlbGV0ZSg6c3RhcnRfcmFuZ2VfdHMpIGlmIEBvcHRzWzpzdGFydF9yYW5nZV90c10uYmxhbms/CiAgICAgICAgICAgICAgQG9wdHMuZGVsZXRlKDpzdG9wX3JhbmdlX3RzKSBpZiBAb3B0c1s6c3RvcF9yYW5nZV90c10uYmxhbms/CiAgICAgICAgICAgIGVuZAoKICAgICAgICAgICAgeC5zZXBhcmF0b3IgIiIKICAgICAgICAgICAgeC5zZXBhcmF0b3IgIkFkZGl0aW9uYWwgb3B0aW9uczoiCgogICAgICAgICAgICB4Lm9uKCItbCBMSU1JVCIsIEludGVnZXIsICJsaW1pdCBudW1iZXIgb2YgcmV0dXJuZWQgcmVjb3JkcyIpIGRvIHxsfAogICAgICAgICAgICAgIEBvcHRzWzpsaW1pdF0gPSBsCiAgICAgICAgICAgIGVuZAoKICAgICAgICAgICAgeC5vbigiLUEiLCBUcnVlQ2xhc3MsICJyZXR1cm4gYWxsIHJlY29yZHMiKSBkbyB8bHwKICAgICAgICAgICAgICBAb3B0c1s6YWxsX3JlY29yZHNdID0gdHJ1ZQogICAgICAgICAgICBlbmQKCiAgICAgICAgICAgIHgub24oIi1wIFBDQVBfRklMRSIsIFN0cmluZywgInBhdGggdG8gcGNhcCBmaWxlIikgZG8gfGx8CiAgICAgICAgICAgICAgQG9wdHNbOnBjYXBfZmlsZV0gPSBsCiAgICAgICAgICAgICAgQG9wdHNbOmpzb25dID0gdHJ1ZQogICAgICAgICAgICBlbmQKCiAgICAgICAgICAgIHgub24oIi1qIiwgVHJ1ZUNsYXNzLCAib3V0cHV0IHJlc3VsdHMgaW4ganNvbiIpIGRvIHxsfAogICAgICAgICAgICAgIEBvcHRzWzpqc29uXSA9IHRydWUKICAgICAgICAgICAgZW5kCgogICAgICAgICAgICB4Lm9uKCItZyIsIFRydWVDbGFzcywgImluY2x1ZGUgc2lnbmF0dXJlIG5hbWUgZm9yIHRoaXMgZXZlbnQiKSBkbwogICAgICAgICAgICAgIEBvcHRzWzpzaWduYXR1cmVdID0gdHJ1ZQogICAgICAgICAgICBlbmQKCiAgICAgICAgICAgIHgub24oIi14IiwgVHJ1ZUNsYXNzLCAicHJpbnQgcGFja2V0IGRhdGEgaW4gaGV4IikgZG8KICAgICAgICAgICAgICBAb3B0c1s6cGF5bG9hZF9mb3JtYXRdID0gOmhleAogICAgICAgICAgICBlbmQKCiAgICAgICAgICAgIHgub24oIi1DIiwgVHJ1ZUNsYXNzLCAib25seSBwcmludCBudW1iZXIgb2YgcmVjb3JkcyBmb3VuZCIpIGRvCiAgICAgICAgICAgICAgQG9wdHNbOmNvdW50XSA9IHRydWUKICAgICAgICAgICAgZW5kCgogICAgICAgICAgICB4Lm9uKCItaCIsICJTaG93IHRoaXMgbWVzc2FnZSIpIGRvCiAgICAgICAgICAgICAgJHN0ZG91dC5wdXRzKHgpOyBleGl0CiAgICAgICAgICAgIGVuZAoKICAgICAgICAgICAgeC5vbigiLUgiLCAiU2hvdyBtYW4gcGFnZSIpIGRvCiAgICAgICAgICAgICAgJHN0ZG91dC5wdXRzKEZpbGUucmVhZCgiI3s6OlNvY2tDbGkucm9vdH0vZG9jcy9zbm9ydC4xLnR4dCIpKTsgZXhpdAogICAgICAgICAgICBlbmQKICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBhcmd2ID0gYXJndgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRvdGFsX2RhdGFbJ3RvdGFsX2NvdW50J10gPSBwYWdlX2RhdGFbJ3RvdGFsX2NvdW50J10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gYXBpLmZldGNoKEBvcHRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJhaXNlIE9wdGlvblBhcnNlcjo6SW52YWxpZE9wdGlvbi5uZXcoZXJyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>snort_events</last-search>
+      <last-search>@req_opts</last-search>
       <last-offset />
-      <last-pattern>snort_events</last-pattern>
-      <last-replace>ARCSIGHT\.security\.berkeley\.edu</last-replace>
-      <last-substitute>PBR\.security\.berkeley\.edu</last-substitute>
+      <last-pattern>@req_opts</last-pattern>
+      <last-replace>@required_options</last-replace>
+      <last-substitute>@req_opts</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>@alert_attrs\[:\(src_ip\)\]</entry>
-        <entry>@alert_attrs\[:\(.\)\]</entry>
         <entry>@alert_attrs\[:\(\.+\)\]</entry>
         <entry>@alert_attrs\[:\(\.\)\]</entry>
         <entry>@alert_attrs\[:\(.*\)\]</entry>
@@ -1900,10 +1904,10 @@
         <entry>PBR</entry>
         <entry>pbr</entry>
         <entry>snort_events</entry>
+        <entry>@opts</entry>
+        <entry>@req_opts</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/pbr/arcsight/gc</entry>
-        <entry>%s/pbr/arcsight/cg</entry>
         <entry>set paste!</entry>
         <entry>action GotoTest</entry>
         <entry>/PBR.security</entry>
@@ -1915,12 +1919,14 @@
         <entry>action GotoClass</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWc=</entry>
         <entry>action QuickList.Ruby/Rails</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RunClass</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
+        <entry>action RecentFiles</entry>
+        <entry>%s/@opts/@options/g</entry>
+        <entry>%s/@req_opts/@required_options/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
