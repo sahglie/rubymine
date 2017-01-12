@@ -166,12 +166,6 @@
         <mark key="." line="4" column="150" />
         <mark key="^" line="4" column="150" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/sock_cli.gemspec" timestamp="1484244221658">
-        <mark key="[" line="35" column="42" />
-        <mark key="]" line="35" column="42" />
-        <mark key="^" line="35" column="42" />
-        <mark key="." line="35" column="42" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/rules/osx_out_of_date_spec.rb" timestamp="1481566641382">
         <mark key="'" line="15" column="16" />
         <mark key="[" line="15" column="16" />
@@ -322,6 +316,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="83" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_cli/.gitignore" timestamp="1484263345658">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/arcsight/security_event_service2.wsdl" timestamp="1483995949640">
         <mark key="[" line="990" column="30" />
         <mark key="]" line="990" column="30" />
@@ -386,9 +386,6 @@
       </file>
       <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/api_request.rb" timestamp="1484263180302">
         <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="56" />
-        <mark key="^" line="25" column="56" />
-        <mark key="." line="25" column="56" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/snort/jobs/packet_correlation.rb" timestamp="1483469360219">
         <mark key="'" line="0" column="0" />
@@ -1051,7 +1048,7 @@
         <mark key="^" line="31" column="38" />
         <mark key="." line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/.ruby-version" timestamp="1484244239378">
+      <file name="$USER_HOME$/Development/projects/sock_cli/.ruby-version" timestamp="1484263336954">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -1185,12 +1182,11 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484263211547">
-        <mark key="'" line="168" column="416" />
-        <mark key="[" line="168" column="8" />
-        <mark key="]" line="168" column="49" />
-        <mark key="." line="168" column="49" />
-        <mark key="^" line="162" column="10" />
+      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484263453200">
+        <mark key="[" line="98" column="37" />
+        <mark key="]" line="98" column="37" />
+        <mark key="^" line="98" column="37" />
+        <mark key="." line="98" column="37" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/osx_out_of_date_job.rb" timestamp="1481058854631">
         <mark key="'" line="2" column="0" />
@@ -1678,7 +1674,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-        <mark key="^" line="11" column="42" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/config/initializers/assets.rb" timestamp="1476234485675">
         <mark key="[" line="12" column="29" />
@@ -1697,12 +1692,6 @@
         <mark key="]" line="39" column="12" />
         <mark key="^" line="39" column="12" />
         <mark key="." line="39" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/exe/sock" timestamp="1484250716950">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="2" />
-        <mark key="^" line="15" column="2" />
-        <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step3/_error.html.erb" timestamp="1480285939872">
         <mark key="[" line="1" column="74" />
@@ -1907,13 +1896,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>@req_opts</text>
@@ -1962,7 +1951,7 @@
         <text encoding="base64">ICAgICAgICBAb3B0aW9ucy5tZXJnZShAcGFyc2VyLm9wdGlvbnMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -1999,7 +1988,6 @@
       </history-search>
       <history-cmd>
         <entry>set paste!</entry>
-        <entry>action GotoTest</entry>
         <entry>/PBR.security</entry>
         <entry>%s/PBR\.security\.berkeley\.edu/ARCSIGHT\.security\.berkeley\.edu/cg</entry>
         <entry>%s/PBR\.security\.berkeley\.edu/ARCSIGHT\.security\.berkeley\.edu/g</entry>
@@ -2016,8 +2004,9 @@
         <entry>action RecentFiles</entry>
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action RunClass</entry>
         <entry>w</entry>
+        <entry>action GotoTest</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
