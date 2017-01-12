@@ -719,7 +719,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484180373065">
+      <file name="/Dummy.txt" timestamp="1484182996477">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -854,8 +854,8 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1484180966682">
-        <mark key="'" line="44" column="9" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1484183068852">
+        <mark key="'" line="8" column="10" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="16" />
         <mark key="." line="37" column="16" />
@@ -1701,7 +1701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
       <jump line="20" column="52" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
       <jump line="127" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nos_data/processors/radius_log_spec.rb" />
@@ -1801,6 +1800,7 @@
       <jump line="139" column="36" filename="$USER_HOME$/Development/projects/sock_rails5/spec/requests/api/snort_events_controller_spec.rb" />
       <jump line="124" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
       <jump line="86" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/snort/processors/event_spec.rb" />
+      <jump line="8" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1901,7 +1901,6 @@
         <entry>snort_events</entry>
       </history-search>
       <history-cmd>
-        <entry>action ManageRecentProjects</entry>
         <entry>%s/pbr/arcsight/gc</entry>
         <entry>%s/pbr/arcsight/cg</entry>
         <entry>set paste!</entry>
@@ -1917,9 +1916,10 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
         <entry>action RunClass</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
