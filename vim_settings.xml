@@ -1182,11 +1182,12 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484263453200">
-        <mark key="[" line="98" column="37" />
-        <mark key="]" line="98" column="37" />
-        <mark key="^" line="98" column="37" />
-        <mark key="." line="98" column="37" />
+      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484264777019">
+        <mark key="'" line="51" column="49" />
+        <mark key="[" line="110" column="42" />
+        <mark key="]" line="110" column="42" />
+        <mark key="^" line="110" column="42" />
+        <mark key="." line="110" column="42" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/osx_out_of_date_job.rb" timestamp="1481058854631">
         <mark key="'" line="2" column="0" />
@@ -1670,10 +1671,11 @@
         <mark key="^" line="8" column="67" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli.rb" timestamp="1484263082200">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli.rb" timestamp="1484263848680">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="11" column="41" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/config/initializers/assets.rb" timestamp="1476234485675">
         <mark key="[" line="12" column="29" />
@@ -1692,6 +1694,12 @@
         <mark key="]" line="39" column="12" />
         <mark key="^" line="39" column="12" />
         <mark key="." line="39" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_cli/exe/sock" timestamp="1484263935881">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step3/_error.html.erb" timestamp="1480285939872">
         <mark key="[" line="1" column="74" />
@@ -1787,10 +1795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="9" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
-      <jump line="7469" column="76" filename="$USER_HOME$/Development/projects/sock_rails5/config/arcsight/group_service2.wsdl" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/arcsight/group_service2.wsdl" />
-      <jump line="52" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/extracts_case_data_from_meta_event.yml" />
       <jump line="12" column="20" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/raises_error_if_case_has_no_events.yml" />
       <jump line="52" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_botnet_drone.yml" />
       <jump line="4" column="90" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
@@ -1885,8 +1889,12 @@
       <jump line="1" column="2" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/renderers/snort/pcap.rb" />
       <jump line="31" column="25" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
       <jump line="171" column="9" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
-      <jump line="177" column="6" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
       <jump line="168" column="416" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
+      <jump line="177" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
+      <jump line="9" column="16" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
+      <jump line="161" column="10" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
+      <jump line="80" column="14" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
+      <jump line="51" column="49" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1896,22 +1904,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e.to_i</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e.to_i</text>
       </register>
       <register name="/" type="4">
-        <text>@req_opts</text>
+        <text>@req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGV4dHJhY3RfaXBfYW5kX3BvcnQoaXBfc3RyKQogICAgICAgIGlwLCBwb3J0ID0gZXh0cmFjdF9pcHY0X2FuZF9wb3J0KGlwX3N0cikKICAgICAgICByZXR1cm4gW2lwLCBwb3J0XSBpZiBpcAoKICAgICAgICBpcCwgcG9ydCA9IGV4dHJhY3RfaXB2Nl9hbmRfcG9ydChpcF9zdHIpCiAgICAgICAgcmV0dXJuIFtpcCwgcG9ydF0gaWYgaXAKCiAgICAgICAgW10KICAgICAgZW5kCgogICAgICBkZWYgZXh0cmFjdF9pcHY0X2FuZF9wb3J0KGlwX3N0cikKICAgICAgICBtYXRjaF9kYXRhID0gaXBfc3RyLm1hdGNoKC8oI3tTb2NrQ2xpOjpVdGlsczo6SXBBZGRyOjpJcHY0OjpSZWdleH0pOj8oXGQrKT8vKQogICAgICAgIG1hdGNoX2RhdGEgPyBtYXRjaF9kYXRhLmNhcHR1cmVzLmNvbXBhY3QgOiBbXQogICAgICBlbmQKCiAgICAgIGRlZiBleHRyYWN0X2lwdjZfYW5kX3BvcnQoaXBfc3RyKQogICAgICAgIG1hdGNoX2RhdGEgPSBpcF9zdHIubWF0Y2goLygje1NvY2tDbGk6OlV0aWxzOjpJcEFkZHI6OklwdjY6OlJlZ2V4fSlccyooXGQrKT8vKQogICAgICAgIG1hdGNoX2RhdGEgPyBtYXRjaF9kYXRhLmNhcHR1cmVzLmNvbXBhY3QgOiBbXQogICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIHgub24oIi1QIFBBR0UiLCBTdHJpbmcsICJkaXNwbGF5IHBhZ2UgUEFHRSBvZiByZXN1bHRzIikgZG8gfHBhZ2V8CiAgICAgICAgICAgIEBvcHRpb25zWzpwYWdlXSA9IHBhZ2UudG9faQogICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAic29ja19jbGkvc25vcnQvb3B0aW9uX3BhcnNlciIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQG9wdGlvbnNbOm91dHB1dF9qc29uXSA9IHRydWUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1927,46 +1935,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZShTdGFuZGFyZEVycm9yLCBAb3B0aW9ucy50b19zKSBpZiBAb3B0aW9ucy5lbXB0eT8K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZHVsZSBSZW5kZXJlcnMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZHVsZSBSZW5kZXJlcnMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vZHVsZSBSZW5kZXJlcnMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZHVsZSBSZW5kZXJlcnMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vZHVsZSBSZW5kZXJlcnMK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZGVmIHdyaXRlX3BjYXBfZmlsZShmaWxlX3BhdGgsIGpzb24pCiAgICAgICAgcGNhcF9wYWNrZXRzID0gOjpQYWNrZXRGdTo6UGNhcFBhY2tldHMubmV3CgogICAgICAgIGpzb25bImV2ZW50cyJdLmVhY2ggZG8gfGV2ZW50fAogICAgICAgICAgZXZlbnRbInBhY2tldHMiXS5lYWNoIGRvIHxwYWNrZXR8CiAgICAgICAgICAgIGFzY2lpID0gQmFzZTY0LnN0cmljdF9kZWNvZGU2NChwYWNrZXRbImRhdGEiXSkKICAgICAgICAgICAgcGNhcF9wYWNrZXRzIDw8IDo6UGFja2V0RnU6OlBhY2tldC5wYXJzZShhc2NpaSkKICAgICAgICAgIGVuZAogICAgICAgIGVuZAoKICAgICAgICBwY2FwX2ZpbGUgPSA6OlBhY2tldEZ1OjpQY2FwRmlsZS5uZXcKICAgICAgICBwY2FwX2ZpbGUuYXJyYXlfdG9fZmlsZShmaWxlbmFtZTogZmlsZV9wYXRoLCBhcnJheTogcGNhcF9wYWNrZXRzKQogICAgICAgIGV4aXQoMCkKICAgICAgZW5kCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdF9pcF9hbmRfcG9ydChkc3RfaXBfc3RyLCA6ZHN0X2lwLCA6ZHN0X3BvcnQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdF9pcF9hbmRfcG9ydChzcmNfaXBfc3RyLCA6c3JjX2lwLCA6c3JjX3BvcnQpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdF9pcF9hbmRfcG9ydChpcF9zdHIsIDpkc3RfaXAsIDpkc3RfcG9ydCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdF9pcF9hbmRfcG9ydChpcF9zdHIsIDpzcmNfaXAsIDpzcmNfcG9ydCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAb3B0aW9ucy5tZXJnZShAcGFyc2VyLm9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW2lwLCBwb3J0XSBpZiBpcAogICAgICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>@req_opts</last-search>
+      <last-search>@req</last-search>
       <last-offset />
-      <last-pattern>@req_opts</last-pattern>
-      <last-replace>@required_options</last-replace>
-      <last-substitute>@req_opts</last-substitute>
+      <last-pattern>@req</last-pattern>
+      <last-replace>@required</last-replace>
+      <last-substitute>@req</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>@alert_attrs\[:\(\.+\)\]</entry>
-        <entry>@alert_attrs\[:\(\.\)\]</entry>
         <entry>@alert_attrs\[:\(.*\)\]</entry>
         <entry>@alert_attrs\[:\([a-z_]\)\]</entry>
         <entry>@alert_attrs\[:\([a-z_]+\)\]</entry>
@@ -1978,17 +1984,17 @@
         <entry>copyResourceIntoGroup</entry>
         <entry encoding="base64">bWV0aG9kOiA=</entry>
         <entry>PBR.security</entry>
-        <entry>%s</entry>
         <entry>PBR\.security\.berkeley\.edu</entry>
         <entry>PBR</entry>
         <entry>pbr</entry>
         <entry>snort_events</entry>
         <entry>@opts</entry>
         <entry>@req_opts</entry>
+        <entry>opts</entry>
+        <entry>%s</entry>
+        <entry>@req</entry>
       </history-search>
       <history-cmd>
-        <entry>set paste!</entry>
-        <entry>/PBR.security</entry>
         <entry>%s/PBR\.security\.berkeley\.edu/ARCSIGHT\.security\.berkeley\.edu/cg</entry>
         <entry>%s/PBR\.security\.berkeley\.edu/ARCSIGHT\.security\.berkeley\.edu/g</entry>
         <entry>action Debug</entry>
@@ -2004,9 +2010,11 @@
         <entry>action RecentFiles</entry>
         <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
+        <entry>%s/opts/options/g</entry>
+        <entry>%s/@req/@required/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
