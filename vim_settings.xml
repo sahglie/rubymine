@@ -160,11 +160,11 @@
         <mark key="." line="4" column="150" />
         <mark key="^" line="4" column="150" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/sock_cli.gemspec" timestamp="1482186800922">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_cli/sock_cli.gemspec" timestamp="1484244221658">
+        <mark key="[" line="35" column="42" />
+        <mark key="]" line="35" column="42" />
+        <mark key="^" line="35" column="42" />
+        <mark key="." line="35" column="42" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/rules/osx_out_of_date_spec.rb" timestamp="1481566641382">
         <mark key="'" line="15" column="16" />
@@ -172,10 +172,6 @@
         <mark key="]" line="15" column="16" />
         <mark key="." line="15" column="16" />
         <mark key="^" line="12" column="66" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/serializers/snort/event_serializer.rb" timestamp="1484171126080">
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="64" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/nos_data/ucb_subnet_spec.rb" timestamp="1475006158166">
         <mark key="[" line="5" column="40" />
@@ -1011,6 +1007,11 @@
         <mark key="^" line="31" column="38" />
         <mark key="." line="31" column="38" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_cli/.ruby-version" timestamp="1484244239378">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/ids_alert.rb" timestamp="1481310195148">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1134,11 +1135,12 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484184315330">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484245382586">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="135" column="41" />
+        <mark key="]" line="135" column="42" />
+        <mark key="." line="135" column="42" />
+        <mark key="^" line="135" column="47" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/osx_out_of_date_job.rb" timestamp="1481058854631">
         <mark key="'" line="2" column="0" />
@@ -1808,20 +1810,20 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>snort_events</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbmFsX2RhdGFbOmV2ZW50c10uY29uY2F0KHBhZ2VfZGF0YVsnZXZlbnRzJ10pCg==</text>
+        <text encoding="base64">ICBzcGVjLmFkZF9kZXZlbG9wbWVudF9kZXBlbmRlbmN5ICJ3ZWJtb2NrIiwgIn4+IDEuMjQuMiIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBieWVidWcK</text>
@@ -1840,28 +1842,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJyZWFrIGlmICFhbGxfcmVjb3JkcyB8fCBwYWdlX2RhdGFbJ2V2ZW50cyddLnNpemUgPCBwYWdlX2RhdGFbJ3Blcl9wYWdlJ10K</text>
+        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJyZWFrIGlmICFhbGxfcmVjb3JkcyB8fCBwYWdlX2RhdGFbJ2V2ZW50cyddLnNpemUgPCBwYWdlX2RhdGFbJ3Blcl9wYWdlJ10K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGVuZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRvdGFsX2RhdGFbJ3RvdGFsX2NvdW50J10gPSBwYWdlX2RhdGFbJ3RvdGFsX2NvdW50J10K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gYXBpLmZldGNoKEBvcHRzKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGVuZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRvdGFsX2RhdGFbJ3RvdGFsX2NvdW50J10gPSBwYWdlX2RhdGFbJ3RvdGFsX2NvdW50J10K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhID0gYXBpLmZldGNoKEBvcHRzKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YSB1bmxlc3MgYWxsX3JlY29yZHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1915,10 +1917,10 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoAction</entry>
         <entry>action RunClass</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
