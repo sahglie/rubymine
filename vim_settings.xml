@@ -160,12 +160,6 @@
         <mark key="." line="98" column="28" />
         <mark key="^" line="98" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/_email_form.html.haml" timestamp="1483733653186">
-        <mark key="[" line="4" column="143" />
-        <mark key="]" line="4" column="150" />
-        <mark key="." line="4" column="150" />
-        <mark key="^" line="4" column="150" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/rules/osx_out_of_date_spec.rb" timestamp="1481566641382">
         <mark key="'" line="15" column="16" />
         <mark key="[" line="15" column="16" />
@@ -208,14 +202,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="10" column="77" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort/renderers/json.rb" timestamp="1484251629642">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-        <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/031_radius_log_errors.sql" timestamp="1483575778663">
         <mark key="'" line="0" column="0" />
@@ -501,7 +487,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/verify_cwid_email.js.erb" timestamp="1483732414001">
+      <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/verify_cwid_email.js.erb" timestamp="1484678460458">
         <mark key="[" line="8" column="50" />
         <mark key="]" line="8" column="53" />
         <mark key="." line="8" column="53" />
@@ -1247,7 +1233,7 @@
         <mark key="^" line="43" column="19" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step2/index.html.haml" timestamp="1483732378324">
-        <mark key="'" line="19" column="6" />
+        <mark key="'" line="15" column="6" />
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="36" />
         <mark key="^" line="8" column="36" />
@@ -1426,7 +1412,7 @@
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="8" />
         <mark key="." line="3" column="8" />
-        <mark key="^" line="28" column="6" />
+        <mark key="^" line="30" column="6" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step1/step1.html.erb" timestamp="1480268570419">
         <mark key="[" line="0" column="0" />
@@ -1958,7 +1944,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdF9pcF9hbmRfcG9ydChkc3RfaXBfc3RyLCA6ZHN0X2lwLCA6ZHN0X3BvcnQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -1994,7 +1980,6 @@
         <entry>@req</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/PBR\.security\.berkeley\.edu/ARCSIGHT\.security\.berkeley\.edu/cg</entry>
         <entry>%s/PBR\.security\.berkeley\.edu/ARCSIGHT\.security\.berkeley\.edu/g</entry>
         <entry>action Debug</entry>
         <entry>wq</entry>
@@ -2014,6 +1999,7 @@
         <entry>%s/@req/@required/g</entry>
         <entry>w</entry>
         <entry>action RunClass</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
