@@ -555,11 +555,11 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484687467246">
+      <file name="/Dummy.txt" timestamp="1484687602841">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-        <mark key="^" line="0" column="23" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="58" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/verify_password.js.erb" timestamp="1476235761997">
         <mark key="[" line="12" column="17" />
@@ -1415,13 +1415,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>empty</text>
+        <text>don't run under 'account' cause it breaks developmentblank</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>empty</text>
+        <text>don't run under 'account' cause it breaks developmentblank</text>
       </register>
       <register name="/" type="4">
         <text>@req</text>
