@@ -27,12 +27,6 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/snort/renderers/standard.rb" timestamp="1484261475041">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/aggressive_ip.rb" timestamp="1479926929706">
         <mark key="[" line="23" column="54" />
         <mark key="]" line="23" column="5" />
@@ -315,11 +309,11 @@
         <mark key="^" line="29" column="44" />
         <mark key="." line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan/search.rb" timestamp="1478550798737">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="40" />
-        <mark key="^" line="16" column="40" />
-        <mark key="." line="16" column="40" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan/search.rb" timestamp="1484770391984">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/cases/anomalous_behaviour.rb" timestamp="1475602463417">
         <mark key="[" line="25" column="0" />
@@ -501,11 +495,11 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/Ruby Console" timestamp="1484769150442">
-        <mark key="[" line="0" column="44" />
-        <mark key="]" line="0" column="41" />
-        <mark key="^" line="0" column="41" />
-        <mark key="." line="0" column="41" />
+      <file name="/Ruby Console" timestamp="1484770781857">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/process_shodan_telnet.rb" timestamp="1478640549358">
         <mark key="[" line="9" column="61" />
@@ -561,7 +555,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484687602841">
+      <file name="/Dummy.txt" timestamp="1484769887596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -620,12 +614,6 @@
         <mark key="]" line="1077" column="10" />
         <mark key="^" line="1077" column="10" />
         <mark key="." line="1077" column="10" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/renderers/snort/json.rb" timestamp="1484262896018">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/snort_sig_class.rb" timestamp="1481565386685">
         <mark key="[" line="22" column="27" />
@@ -771,12 +759,6 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/renderers/snort/pcap.rb" timestamp="1484262906413">
-        <mark key="'" line="1" column="2" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/sidekiq.rb" timestamp="1481668695577">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -873,19 +855,13 @@
         <mark key="." line="58" column="65" />
         <mark key="^" line="58" column="65" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484265155085">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/audit_event_syslog.rb" timestamp="1483572461347">
         <mark key="[" line="16" column="11" />
         <mark key="]" line="16" column="21" />
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/fragment.rb" timestamp="1484179939537">
+      <file name="/fragment.rb" timestamp="1484770444203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1425,23 +1401,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>don't run under 'account' cause it breaks developmentblank</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZWxmLm9wZW5fcG9ydHMobmV0d29ya3M6IFtdLCBwb3J0czogW10sIGxvZ2dlcjogUmFpbHMubG9nZ2VyKQogICAgICBhcGlfa2V5ID0gVWNiU2hvZGFuLmFwaV9rZXkKICAgICAgY2xpZW50ID0gOjpTaG9kYW46OlNob2Rhbi5uZXcoYXBpX2tleSkKCiAgICAgIGlmIG5ldHdvcmtzLmVtcHR5PwogICAgICAgIG5ldHdvcmtzID0gTm9zRGF0YTo6VWNiTmV0d29yay5wdWJsaWNfbmV0d29ya3MucGx1Y2soOm5ldHdvcmspCiAgICAgIGVuZAoKICAgICAgbWF0Y2hlcyA9IFtdCiAgICAgIG5ldHdvcmtzLm1hcCgmOmNpZHIpLmVhY2ggZG8gfG5ldHwKICAgICAgICBwb3J0cy5lYWNoIGRvIHxwb3J0fAogICAgICAgICAgcXVlcnkgPSAibmV0OiN7bmV0fSBwb3J0OiN7cG9ydH0iCiAgICAgICAgICB0cmllcyA9IDAKICAgICAgICAgIGJlZ2luCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiVHJ5ICN7dHJpZXN9IGZvciAje3F1ZXJ5fSIpCiAgICAgICAgICAgIHJlc3BvbnNlID0gY2xpZW50LnNlYXJjaChxdWVyeSkKICAgICAgICAgICAgaWYgcmVzcG9uc2VbInRvdGFsIl0gPiAwCiAgICAgICAgICAgICAgbWF0Y2hlcy5jb25jYXQocmVzcG9uc2VbIm1hdGNoZXMiXSkKICAgICAgICAgICAgZW5kCiAgICAgICAgICAgIHNsZWVwIDEKICAgICAgICAgIHJlc2N1ZSA9PiBlCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhlLm1lc3NhZ2UpCiAgICAgICAgICAgIHRyaWVzICs9IDEKICAgICAgICAgICAgcmV0cnkgaWYgdHJpZXMgPCA1CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiI3txdWVyeX0gZmFpbGVkIikKICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgICBlbmQKCiAgICAgIG1hdGNoZXMudW5pcQogICAgZW5kCgo=</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>don't run under 'account' cause it breaks developmentblank</text>
+        <text>(logger: Rails.logger)</text>
       </register>
       <register name="/" type="4">
         <text>@req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc2N1ZSBIaXRhY2hpOjpDbGllbnQ6OkVycm9yID0+IGUKICAgICAgQGhpdGFjaGlfZXJyb3IgPSBlLm1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgaWYgbmV0d29ya3MuZW1wdHk/CiAgICAgICAgbmV0d29ya3MgPSBOb3NEYXRhOjpVY2JOZXR3b3JrLnB1YmxpY19uZXR3b3Jrcy5wbHVjayg6bmV0d29yaykKICAgICAgZW5kCgogICAgICBwb3J0cyA9ICV3KDIzIDEwMjMgMjMyMykgaWYgcG9ydHMuZW1wdHk/Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgZm9ybUhhc0Vycm9ycyA9ICI8JT0gQHBhc3N3b3JkX2NoYW5nZS5pbnZhbGlkPyAlPiI7Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZWxmLm9wZW5fcG9ydHMobmV0d29ya3M6IFtdLCBwb3J0czogW10sIGxvZ2dlcjogUmFpbHMubG9nZ2VyKQogICAgICBhcGlfa2V5ID0gVWNiU2hvZGFuLmFwaV9rZXkKICAgICAgY2xpZW50ID0gOjpTaG9kYW46OlNob2Rhbi5uZXcoYXBpX2tleSkKCiAgICAgIGlmIG5ldHdvcmtzLmVtcHR5PwogICAgICAgIG5ldHdvcmtzID0gTm9zRGF0YTo6VWNiTmV0d29yay5wdWJsaWNfbmV0d29ya3MucGx1Y2soOm5ldHdvcmspCiAgICAgIGVuZAoKICAgICAgbWF0Y2hlcyA9IFtdCiAgICAgIG5ldHdvcmtzLm1hcCgmOmNpZHIpLmVhY2ggZG8gfG5ldHwKICAgICAgICBwb3J0cy5lYWNoIGRvIHxwb3J0fAogICAgICAgICAgcXVlcnkgPSAibmV0OiN7bmV0fSBwb3J0OiN7cG9ydH0iCiAgICAgICAgICB0cmllcyA9IDAKICAgICAgICAgIGJlZ2luCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiVHJ5ICN7dHJpZXN9IGZvciAje3F1ZXJ5fSIpCiAgICAgICAgICAgIHJlc3BvbnNlID0gY2xpZW50LnNlYXJjaChxdWVyeSkKICAgICAgICAgICAgaWYgcmVzcG9uc2VbInRvdGFsIl0gPiAwCiAgICAgICAgICAgICAgbWF0Y2hlcy5jb25jYXQocmVzcG9uc2VbIm1hdGNoZXMiXSkKICAgICAgICAgICAgZW5kCiAgICAgICAgICAgIHNsZWVwIDEKICAgICAgICAgIHJlc2N1ZSA9PiBlCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhlLm1lc3NhZ2UpCiAgICAgICAgICAgIHRyaWVzICs9IDEKICAgICAgICAgICAgcmV0cnkgaWYgdHJpZXMgPCA1CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiI3txdWVyeX0gZmFpbGVkIikKICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgICBlbmQKCiAgICAgIG1hdGNoZXMudW5pcQogICAgZW5kCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1457,31 +1433,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFwICcvYWNjb3VudCcgZG8KICBydW4gUmFpbHMuYXBwbGljYXRpb24KZW5kCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBlbmQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyAgIHJ1biBSYWlscy5hcHBsaWNhdGlvbgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBtYXAgJy9hY2NvdW50JyBkbwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAic29ja19jbGkvcmVuZGVyZXJzL3Nub3J0L2pzb24iCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaWYgbmV0d29ya3MuZW1wdHk/Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcG9ydHMgPSAldygyMyAxMDIzIDIzMjMpIGlmIHBvcnRzLmVtcHR5Pwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBuZXR3b3JrcyA9IE5vc0RhdGE6OlVjYk5ldHdvcmsucHVibGljX25ldHdvcmtzLnBsdWNrKDpuZXR3b3JrKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgaWYgbmV0d29ya3MuZW1wdHk/Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.Ruby/Rails</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1533,10 +1509,10 @@
         <entry>%s/@req/@required/g</entry>
         <entry>action RunClass</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry>action QuickList.Ruby/Rails</entry>
+        <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
