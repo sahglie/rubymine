@@ -492,8 +492,8 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/Ruby Console" timestamp="1484770781857">
-        <mark key="[" line="0" column="42" />
+      <file name="/Ruby Console" timestamp="1484780821966">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
@@ -510,7 +510,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1484777459093" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1484780172448">
+        <mark key="[" line="194" column="5" />
+        <mark key="]" line="194" column="5" />
+        <mark key="." line="194" column="5" />
+        <mark key="^" line="194" column="5" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step5/index.html.erb" timestamp="1480287082082">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="45" />
@@ -553,7 +558,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484776043516">
+      <file name="/Dummy.txt" timestamp="1484779887655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -571,7 +576,7 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/reshall_dhcp_lease.rb" timestamp="1484092880394">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/reshall_dhcp_lease.rb" timestamp="1484780613652">
         <mark key="[" line="7" column="53" />
         <mark key="]" line="7" column="53" />
         <mark key="." line="7" column="53" />
@@ -649,11 +654,11 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1484775670263">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1484780069090">
         <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="9" />
-        <mark key="." line="51" column="9" />
-        <mark key="^" line="51" column="9" />
+        <mark key="]" line="51" column="10" />
+        <mark key="." line="51" column="10" />
+        <mark key="^" line="51" column="10" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan/client.rb" timestamp="1478549942145">
         <mark key="[" line="1" column="8" />
@@ -805,11 +810,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/dhcp_syslog.rb" timestamp="1484095028799">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="25" />
-        <mark key="^" line="24" column="25" />
-        <mark key="." line="24" column="25" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/dhcp_syslog.rb" timestamp="1484780389422">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/enrich_ids_alert.rb" timestamp="1481063225162">
         <mark key="[" line="7" column="30" />
@@ -859,7 +864,7 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/fragment.rb" timestamp="1484770444203">
+      <file name="/fragment.rb" timestamp="1484780833157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1200,7 +1205,7 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/dhcp_syslog_worker.rb" timestamp="1483743175073">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/dhcp_syslog_worker.rb" timestamp="1484780824464">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="5" />
         <mark key="." line="8" column="5" />
@@ -1394,20 +1399,20 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>worker_config.message_count(&quot;dhcp_logs_queue&quot;)</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>worker_config.message_count(&quot;dhcp_logs_queue&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>@req</text>
       </register>
-      <register name="0" type="4">
-        <text>rescomp_dhcp_leases</text>
+      <register name="0" type="2">
+        <text encoding="base64">d29ya2VyX2NvdW50ID0gd29ya2VyX2NvbmZpZy53b3JrZXJfY291bnQoImRoY3BfbG9nc19xdWV1ZSIpCm1zZ19jb3VudCA9IHdvcmtlcl9jb25maWcubWVzc2FnZV9jb3VudCgiZGhjcF9sb2dzX3F1ZXVlIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1450,7 +1455,7 @@
         <text encoding="base64">Ki8xMCAgICogICAgKiAgICogICAqICAgYXBwX3NvY2sgUkFJTFNfRU5WPSRFTlYgJE5PU19EQVRBL2FpcmJlYXJzMl91c2FnZS5yYgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1499,13 +1504,13 @@
         <entry>action GotoTest</entry>
         <entry>%s/opts/options/g</entry>
         <entry>%s/@req/@required/g</entry>
-        <entry>action RunClass</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action ManageRecentProjects</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action RunClass</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
