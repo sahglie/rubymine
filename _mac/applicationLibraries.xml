@@ -9386,6 +9386,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/libv8-5.3.332.38.3-x86_64-darwin-15/vendor" />
       </SOURCES>
     </library>
+    <library name="libv8-3.16.14.17-x86_64-darwin (v3.16.14.17, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libv8-3.16.14.17-x86_64-darwin-16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libv8-3.16.14.17-x86_64-darwin-16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libv8-3.16.14.17-x86_64-darwin-16/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libv8-3.16.14.17-x86_64-darwin-16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libv8-3.16.14.17-x86_64-darwin-16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libv8-3.16.14.17-x86_64-darwin-16/vendor" />
+      </SOURCES>
+    </library>
     <library name="libxml-ruby (v2.9.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/libxml-ruby/2.9.0" />
