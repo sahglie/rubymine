@@ -651,6 +651,12 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1484775670263">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="9" />
+        <mark key="." line="51" column="9" />
+        <mark key="^" line="51" column="9" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan/client.rb" timestamp="1478549942145">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="12" />
@@ -849,11 +855,11 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_quality_assurance" timestamp="1484760792395">
-        <mark key="[" line="58" column="55" />
-        <mark key="]" line="58" column="65" />
-        <mark key="." line="58" column="65" />
-        <mark key="^" line="58" column="65" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_quality_assurance" timestamp="1484775642071">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="55" column="65" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/audit_event_syslog.rb" timestamp="1483572461347">
         <mark key="[" line="16" column="11" />
@@ -1035,11 +1041,11 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1484260615363">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1484775633937">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
         <mark key="^" line="80" column="61" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_cli/spec/sock_cli/commands/snort_spec.rb" timestamp="1484265502021">
@@ -1401,14 +1407,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxmLm9wZW5fcG9ydHMobmV0d29ya3M6IFtdLCBwb3J0czogW10sIGxvZ2dlcjogUmFpbHMubG9nZ2VyKQogICAgICBhcGlfa2V5ID0gVWNiU2hvZGFuLmFwaV9rZXkKICAgICAgY2xpZW50ID0gOjpTaG9kYW46OlNob2Rhbi5uZXcoYXBpX2tleSkKCiAgICAgIGlmIG5ldHdvcmtzLmVtcHR5PwogICAgICAgIG5ldHdvcmtzID0gTm9zRGF0YTo6VWNiTmV0d29yay5wdWJsaWNfbmV0d29ya3MucGx1Y2soOm5ldHdvcmspCiAgICAgIGVuZAoKICAgICAgbWF0Y2hlcyA9IFtdCiAgICAgIG5ldHdvcmtzLm1hcCgmOmNpZHIpLmVhY2ggZG8gfG5ldHwKICAgICAgICBwb3J0cy5lYWNoIGRvIHxwb3J0fAogICAgICAgICAgcXVlcnkgPSAibmV0OiN7bmV0fSBwb3J0OiN7cG9ydH0iCiAgICAgICAgICB0cmllcyA9IDAKICAgICAgICAgIGJlZ2luCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiVHJ5ICN7dHJpZXN9IGZvciAje3F1ZXJ5fSIpCiAgICAgICAgICAgIHJlc3BvbnNlID0gY2xpZW50LnNlYXJjaChxdWVyeSkKICAgICAgICAgICAgaWYgcmVzcG9uc2VbInRvdGFsIl0gPiAwCiAgICAgICAgICAgICAgbWF0Y2hlcy5jb25jYXQocmVzcG9uc2VbIm1hdGNoZXMiXSkKICAgICAgICAgICAgZW5kCiAgICAgICAgICAgIHNsZWVwIDEKICAgICAgICAgIHJlc2N1ZSA9PiBlCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhlLm1lc3NhZ2UpCiAgICAgICAgICAgIHRyaWVzICs9IDEKICAgICAgICAgICAgcmV0cnkgaWYgdHJpZXMgPCA1CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiI3txdWVyeX0gZmFpbGVkIikKICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgICBlbmQKCiAgICAgIG1hdGNoZXMudW5pcQogICAgZW5kCgo=</text>
+      <register name="&quot;" type="4">
+        <text>development</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>(logger: Rails.logger)</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
         <text>@req</text>
@@ -1417,7 +1423,7 @@
         <text encoding="base64">ICAgICAgaWYgbmV0d29ya3MuZW1wdHk/CiAgICAgICAgbmV0d29ya3MgPSBOb3NEYXRhOjpVY2JOZXR3b3JrLnB1YmxpY19uZXR3b3Jrcy5wbHVjayg6bmV0d29yaykKICAgICAgZW5kCgogICAgICBwb3J0cyA9ICV3KDIzIDEwMjMgMjMyMykgaWYgcG9ydHMuZW1wdHk/Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxmLm9wZW5fcG9ydHMobmV0d29ya3M6IFtdLCBwb3J0czogW10sIGxvZ2dlcjogUmFpbHMubG9nZ2VyKQogICAgICBhcGlfa2V5ID0gVWNiU2hvZGFuLmFwaV9rZXkKICAgICAgY2xpZW50ID0gOjpTaG9kYW46OlNob2Rhbi5uZXcoYXBpX2tleSkKCiAgICAgIGlmIG5ldHdvcmtzLmVtcHR5PwogICAgICAgIG5ldHdvcmtzID0gTm9zRGF0YTo6VWNiTmV0d29yay5wdWJsaWNfbmV0d29ya3MucGx1Y2soOm5ldHdvcmspCiAgICAgIGVuZAoKICAgICAgbWF0Y2hlcyA9IFtdCiAgICAgIG5ldHdvcmtzLm1hcCgmOmNpZHIpLmVhY2ggZG8gfG5ldHwKICAgICAgICBwb3J0cy5lYWNoIGRvIHxwb3J0fAogICAgICAgICAgcXVlcnkgPSAibmV0OiN7bmV0fSBwb3J0OiN7cG9ydH0iCiAgICAgICAgICB0cmllcyA9IDAKICAgICAgICAgIGJlZ2luCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiVHJ5ICN7dHJpZXN9IGZvciAje3F1ZXJ5fSIpCiAgICAgICAgICAgIHJlc3BvbnNlID0gY2xpZW50LnNlYXJjaChxdWVyeSkKICAgICAgICAgICAgaWYgcmVzcG9uc2VbInRvdGFsIl0gPiAwCiAgICAgICAgICAgICAgbWF0Y2hlcy5jb25jYXQocmVzcG9uc2VbIm1hdGNoZXMiXSkKICAgICAgICAgICAgZW5kCiAgICAgICAgICAgIHNsZWVwIDEKICAgICAgICAgIHJlc2N1ZSA9PiBlCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhlLm1lc3NhZ2UpCiAgICAgICAgICAgIHRyaWVzICs9IDEKICAgICAgICAgICAgcmV0cnkgaWYgdHJpZXMgPCA1CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiI3txdWVyeX0gZmFpbGVkIikKICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgICBlbmQKCiAgICAgIG1hdGNoZXMudW5pcQogICAgZW5kCgo=</text>
+        <text encoding="base64">Ki8xNSAgICogICAgKiAgICogICAqICAgYXBwX3NvY2sgUkFJTFNfRU5WPSRFTlYgJE5PU19EQVRBL2NhbHZpc2l0b3Jfc2Vzc2lvbnMucmIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1433,31 +1439,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ki8xNSAgICogICAgKiAgICogICAqICAgYXBwX3NvY2sgUkFJTFNfRU5WPSRFTlYgJE5PU19EQVRBL2FpcmJlYXJzMl9zZXNzaW9ucy5yYgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Ki8xNSAgICogICAgKiAgICogICAqICAgYXBwX3NvY2sgUkFJTFNfRU5WPSRFTlYgJE5PU19EQVRBL2FpcmJlYXJzMl91c2FnZS5yYgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgbmV0d29ya3MuZW1wdHk/Cg==</text>
+        <text encoding="base64">Ki8xMCAgICogICAgKiAgICogICAqICAgYXBwX3NvY2sgUkFJTFNfRU5WPSRFTlYgJE5PU19EQVRBL2NhbHZpc2l0b3Jfc2Vzc2lvbnMucmIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcG9ydHMgPSAldygyMyAxMDIzIDIzMjMpIGlmIHBvcnRzLmVtcHR5Pwo=</text>
+        <text encoding="base64">Ki8xMCAgICogICAgKiAgICogICAqICAgYXBwX3NvY2sgUkFJTFNfRU5WPSRFTlYgJE5PU19EQVRBL2FpcmJlYXJzMl9zZXNzaW9ucy5yYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Ki8xMCAgICogICAgKiAgICogICAqICAgYXBwX3NvY2sgUkFJTFNfRU5WPSRFTlYgJE5PU19EQVRBL2FpcmJlYXJzMl91c2FnZS5yYgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXR3b3JrcyA9IE5vc0RhdGE6OlVjYk5ldHdvcmsucHVibGljX25ldHdvcmtzLnBsdWNrKDpuZXR3b3JrKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBzZWxmLm9wZW5fcG9ydHMobmV0d29ya3M6IFtdLCBwb3J0czogW10sIGxvZ2dlcjogUmFpbHMubG9nZ2VyKQogICAgICBhcGlfa2V5ID0gVWNiU2hvZGFuLmFwaV9rZXkKICAgICAgY2xpZW50ID0gOjpTaG9kYW46OlNob2Rhbi5uZXcoYXBpX2tleSkKCiAgICAgIGlmIG5ldHdvcmtzLmVtcHR5PwogICAgICAgIG5ldHdvcmtzID0gTm9zRGF0YTo6VWNiTmV0d29yay5wdWJsaWNfbmV0d29ya3MucGx1Y2soOm5ldHdvcmspCiAgICAgIGVuZAoKICAgICAgbWF0Y2hlcyA9IFtdCiAgICAgIG5ldHdvcmtzLm1hcCgmOmNpZHIpLmVhY2ggZG8gfG5ldHwKICAgICAgICBwb3J0cy5lYWNoIGRvIHxwb3J0fAogICAgICAgICAgcXVlcnkgPSAibmV0OiN7bmV0fSBwb3J0OiN7cG9ydH0iCiAgICAgICAgICB0cmllcyA9IDAKICAgICAgICAgIGJlZ2luCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiVHJ5ICN7dHJpZXN9IGZvciAje3F1ZXJ5fSIpCiAgICAgICAgICAgIHJlc3BvbnNlID0gY2xpZW50LnNlYXJjaChxdWVyeSkKICAgICAgICAgICAgaWYgcmVzcG9uc2VbInRvdGFsIl0gPiAwCiAgICAgICAgICAgICAgbWF0Y2hlcy5jb25jYXQocmVzcG9uc2VbIm1hdGNoZXMiXSkKICAgICAgICAgICAgZW5kCiAgICAgICAgICAgIHNsZWVwIDEKICAgICAgICAgIHJlc2N1ZSA9PiBlCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhlLm1lc3NhZ2UpCiAgICAgICAgICAgIHRyaWVzICs9IDEKICAgICAgICAgICAgcmV0cnkgaWYgdHJpZXMgPCA1CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiI3txdWVyeX0gZmFpbGVkIikKICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgICBlbmQKCiAgICAgIG1hdGNoZXMudW5pcQogICAgZW5kCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgbmV0d29ya3MuZW1wdHk/Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1510,9 +1516,9 @@
         <entry>action RunClass</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action QuickList.Ruby/Rails</entry>
-        <entry>w</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
