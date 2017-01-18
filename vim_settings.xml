@@ -510,11 +510,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1484780172448">
-        <mark key="[" line="194" column="5" />
-        <mark key="]" line="194" column="5" />
-        <mark key="." line="194" column="5" />
-        <mark key="^" line="194" column="5" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1484782358154">
+        <mark key="[" line="196" column="4" />
+        <mark key="]" line="196" column="4" />
+        <mark key="." line="196" column="4" />
+        <mark key="^" line="196" column="4" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step5/index.html.erb" timestamp="1480287082082">
         <mark key="[" line="0" column="43" />
@@ -558,7 +558,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484779887655">
+      <file name="/Dummy.txt" timestamp="1484782303947">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -654,11 +654,11 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1484780069090">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1484782366693">
         <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="10" />
-        <mark key="." line="51" column="10" />
-        <mark key="^" line="51" column="10" />
+        <mark key="]" line="51" column="9" />
+        <mark key="." line="51" column="9" />
+        <mark key="^" line="51" column="9" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan/client.rb" timestamp="1478549942145">
         <mark key="[" line="1" column="8" />
@@ -1400,13 +1400,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>worker_config.message_count(&quot;dhcp_logs_queue&quot;)</text>
+        <text>development</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>worker_config.message_count(&quot;dhcp_logs_queue&quot;)</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
         <text>@req</text>
@@ -1507,9 +1507,9 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action ManageRecentProjects</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RunClass</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
