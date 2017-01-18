@@ -1450,7 +1450,7 @@
         <text encoding="base64">Ki8xMCAgICogICAgKiAgICogICAqICAgYXBwX3NvY2sgUkFJTFNfRU5WPSRFTlYgJE5PU19EQVRBL2FpcmJlYXJzMl91c2FnZS5yYgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1502,10 +1502,10 @@
         <entry>action RunClass</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action QuickList.Ruby/Rails</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action ManageRecentProjects</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
