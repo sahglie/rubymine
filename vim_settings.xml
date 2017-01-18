@@ -27,12 +27,6 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/snort/renderers/standard.rb" timestamp="1484261475041">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/aggressive_ip.rb" timestamp="1479926929706">
         <mark key="[" line="23" column="54" />
         <mark key="]" line="23" column="5" />
@@ -182,6 +176,12 @@
         <mark key="]" line="7" column="36" />
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears2_usage.rb" timestamp="1484760651024">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/event_source.rb" timestamp="1478552403201">
         <mark key="[" line="8" column="15" />
@@ -555,7 +555,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484687602841">
+      <file name="/Dummy.txt" timestamp="1484760774481">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -614,12 +614,6 @@
         <mark key="]" line="1077" column="10" />
         <mark key="^" line="1077" column="10" />
         <mark key="." line="1077" column="10" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/renderers/snort/json.rb" timestamp="1484262896018">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/snort_sig_class.rb" timestamp="1481565386685">
         <mark key="[" line="22" column="27" />
@@ -765,12 +759,6 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/renderers/snort/pcap.rb" timestamp="1484262906413">
-        <mark key="'" line="1" column="2" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/sidekiq.rb" timestamp="1481668695577">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -837,9 +825,10 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears2.rb" timestamp="1483570061582">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="12" column="33" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears2.rb" timestamp="1484760635601">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="2" />
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
@@ -867,11 +856,11 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" timestamp="1484265155085">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_quality_assurance" timestamp="1484760792395">
+        <mark key="[" line="58" column="55" />
+        <mark key="]" line="58" column="65" />
+        <mark key="." line="58" column="65" />
+        <mark key="^" line="58" column="65" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/audit_event_syslog.rb" timestamp="1483572461347">
         <mark key="[" line="16" column="11" />
@@ -1053,11 +1042,12 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1484260615363">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1484760765292">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+        <mark key="[" line="80" column="51" />
+        <mark key="]" line="80" column="61" />
+        <mark key="." line="80" column="61" />
+        <mark key="^" line="80" column="61" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_cli/spec/sock_cli/commands/snort_spec.rb" timestamp="1484265502021">
         <mark key="[" line="146" column="40" />
@@ -1202,6 +1192,9 @@
         <mark key="^" line="6742" column="55" />
         <mark key="." line="6736" column="55" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" timestamp="1484760610739">
+        <mark key="^" line="8" column="38" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/verify_cwid_email.js.erb" timestamp="1480283206968">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1306,8 +1299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_botnet_drone.yml" />
-      <jump line="4" column="90" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="52" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="16" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="51" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
@@ -1406,6 +1397,8 @@
       <jump line="80" column="14" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
       <jump line="51" column="49" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
       <jump line="137" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
+      <jump line="7" column="49" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears2.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears2.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1415,22 +1408,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>don't run under 'account' cause it breaks developmentblank</text>
+        <text>snort_events</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>don't run under 'account' cause it breaks developmentblank</text>
+        <text>snort_events</text>
       </register>
       <register name="/" type="4">
         <text>@req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc2N1ZSBIaXRhY2hpOjpDbGllbnQ6OkVycm9yID0+IGUKICAgICAgQGhpdGFjaGlfZXJyb3IgPSBlLm1lc3NhZ2UK</text>
+        <text encoding="base64">Ki8xMCAgICogICAqICAgKiAgICogIGFwcF9zb2NrIFJBSUxTX0VOVj0kRU5WICRXT1JLRVJTL3Nub3J0X2V2ZW50cy5yYgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgZm9ybUhhc0Vycm9ycyA9ICI8JT0gQHBhc3N3b3JkX2NoYW5nZS5pbnZhbGlkPyAlPiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE5vc0RhdGE6OkpvYnM6OkFpcmJlYXJzMlVzYWdlLnBlcmZvcm1fYXN5bmMoYXR0cnMpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1446,28 +1439,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFwICcvYWNjb3VudCcgZG8KICBydW4gUmFpbHMuYXBwbGljYXRpb24KZW5kCg==</text>
+        <text encoding="base64">ICB2YXIgZm9ybUhhc0Vycm9ycyA9ICI8JT0gQHBhc3N3b3JkX2NoYW5nZS5pbnZhbGlkPyAlPiI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBlbmQK</text>
+        <text encoding="base64">bWFwICcvYWNjb3VudCcgZG8KICBydW4gUmFpbHMuYXBwbGljYXRpb24KZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgIHJ1biBSYWlscy5hcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">IyBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBtYXAgJy9hY2NvdW50JyBkbwo=</text>
+        <text encoding="base64">IyAgIHJ1biBSYWlscy5hcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAic29ja19jbGkvcmVuZGVyZXJzL3Nub3J0L2pzb24iCg==</text>
+        <text encoding="base64">IyBtYXAgJy9hY2NvdW50JyBkbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAic29ja19jbGkvcmVuZGVyZXJzL3Nub3J0L2pzb24iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1522,8 +1515,8 @@
         <entry>%s/@req/@required/g</entry>
         <entry>action RunClass</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action QuickList.Ruby/Rails</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
