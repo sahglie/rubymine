@@ -555,7 +555,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484769887596">
+      <file name="/Dummy.txt" timestamp="1484775893728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -861,6 +861,9 @@
         <mark key="^" line="55" column="65" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/infohub/config/infohub_crontab_production" timestamp="1484775976767">
+        <mark key="'" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/audit_event_syslog.rb" timestamp="1483572461347">
         <mark key="[" line="16" column="11" />
         <mark key="]" line="16" column="21" />
@@ -1156,11 +1159,6 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/projects/myaccount/config.ru" timestamp="1484681888926">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/_form.html.haml" timestamp="1479924581570">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="31" />
@@ -1299,7 +1297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="51" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="138" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="52" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/raises_error_if_case_has_no_events.yml" />
@@ -1399,6 +1396,7 @@
       <jump line="8" column="41" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli.rb" />
       <jump line="70" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli.rb" />
+      <jump line="46" column="0" filename="$USER_HOME$/Development/projects/infohub/config/infohub_crontab_production" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1463,7 +1461,7 @@
         <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ManageRecentProjects</text>
       </register>
     </registers>
     <search>
@@ -1499,7 +1497,6 @@
         <entry>@req</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/PBR\.security\.berkeley\.edu/ARCSIGHT\.security\.berkeley\.edu/g</entry>
         <entry>action Debug</entry>
         <entry>wq</entry>
         <entry>action GotoClass</entry>
@@ -1519,6 +1516,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action ManageRecentProjects</entry>
       </history-cmd>
       <history-expr />
       <history-input />
