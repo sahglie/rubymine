@@ -651,6 +651,7 @@
         <mark key="." line="1" column="73" />
         <mark key="^" line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/vpn.rb" timestamp="1484852958726" />
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/aggressive_ips.yml" timestamp="1474408081729">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="28" />
@@ -909,9 +910,9 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/wireless.rb" timestamp="1483573092578">
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="16" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/wireless.rb" timestamp="1484852948230">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="35" column="8" />
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
@@ -1192,7 +1193,9 @@
         <mark key="^" line="6742" column="55" />
         <mark key="." line="6736" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" timestamp="1484760610739">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/radius_logs/airbears2.rb" timestamp="1484852924896">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="14" column="8" />
         <mark key="^" line="8" column="38" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/verify_cwid_email.js.erb" timestamp="1480283206968">
@@ -1268,6 +1271,7 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/processors/radius_log.rb" timestamp="1484853673157" />
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/set_questions.js.erb" timestamp="1480271371739">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="66" />
@@ -1408,8 +1412,8 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>don't run under 'account' cause it breaks developmentblank</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZGVmIGF0dHJzX2Zvcl9pcChpcCkKICAgICAgICB7IGlwOiBpcCwKICAgICAgICAgIHVzZXJuYW1lOiByYWRpdXNfYXR0cnNbIlVzZXItTmFtZSJdLAogICAgICAgICAgc2Vzc2lvbl9pZDogcmFkaXVzX2F0dHJzWyJBY2N0LVNlc3Npb24tSWQiXSwKICAgICAgICAgIGV2ZW50X3RzOiBUaW1lLmF0KHJhZGl1c19hdHRyc1siVGltZXN0YW1wIl0udG9faSksCiAgICAgICAgICByYXdfbG9nOiByYWRpdXNfYXR0cnNbIm1lc3NhZ2UiXQogICAgICAgIH0KICAgICAgZW5kCgogICAgICBkZWYgaXB2NF9hZGRyCiAgICAgICAgcmFkaXVzX2F0dHJzWyJGcmFtZWQtSVAtQWRkcmVzcyJdCiAgICAgIGVuZAoKICAgICAgZGVmIGlwdjZfYWRkcl9saXN0CiAgICAgICAgYWRkcl9saXN0ID0gW3JhZGl1c19hdHRyc1siRnJhbWVkLUlQdjYtQWRkcmVzcyJdXS5mbGF0dGVuLmNvbXBhY3QKICAgICAgICBhZGRyX2xpc3QucmVqZWN0IHsgfGlwfCBsaW5rX2xvY2FsPyhpcCkgfQogICAgICBlbmQKCiAgICAgIGRlZiBsaW5rX2xvY2FsPyhpcCkKICAgICAgICBpcC5kb3duY2FzZS5zdGFydF93aXRoPygiZmU4MCIpCiAgICAgIGVuZAo=</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
@@ -1421,10 +1425,10 @@
         <text>@req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc2N1ZSBIaXRhY2hpOjpDbGllbnQ6OkVycm9yID0+IGUKICAgICAgQGhpdGFjaGlfZXJyb3IgPSBlLm1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgZGVmIGF0dHJzX2Zvcl9pcChpcCkKICAgICAgICB7IGlwOiBpcCwKICAgICAgICAgIHVzZXJuYW1lOiByYWRpdXNfYXR0cnNbIlVzZXItTmFtZSJdLAogICAgICAgICAgc2Vzc2lvbl9pZDogcmFkaXVzX2F0dHJzWyJBY2N0LVNlc3Npb24tSWQiXSwKICAgICAgICAgIGV2ZW50X3RzOiBUaW1lLmF0KHJhZGl1c19hdHRyc1siVGltZXN0YW1wIl0udG9faSksCiAgICAgICAgICByYXdfbG9nOiByYWRpdXNfYXR0cnNbIm1lc3NhZ2UiXQogICAgICAgIH0KICAgICAgZW5kCgogICAgICBkZWYgaXB2NF9hZGRyCiAgICAgICAgcmFkaXVzX2F0dHJzWyJGcmFtZWQtSVAtQWRkcmVzcyJdCiAgICAgIGVuZAoKICAgICAgZGVmIGlwdjZfYWRkcl9saXN0CiAgICAgICAgYWRkcl9saXN0ID0gW3JhZGl1c19hdHRyc1siRnJhbWVkLUlQdjYtQWRkcmVzcyJdXS5mbGF0dGVuLmNvbXBhY3QKICAgICAgICBhZGRyX2xpc3QucmVqZWN0IHsgfGlwfCBsaW5rX2xvY2FsPyhpcCkgfQogICAgICBlbmQKCiAgICAgIGRlZiBsaW5rX2xvY2FsPyhpcCkKICAgICAgICBpcC5kb3duY2FzZS5zdGFydF93aXRoPygiZmU4MCIpCiAgICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgZm9ybUhhc0Vycm9ycyA9ICI8JT0gQHBhc3N3b3JkX2NoYW5nZS5pbnZhbGlkPyAlPiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1440,31 +1444,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFwICcvYWNjb3VudCcgZG8KICBydW4gUmFpbHMuYXBwbGljYXRpb24KZW5kCg==</text>
+        <text encoding="base64">ICB2YXIgZm9ybUhhc0Vycm9ycyA9ICI8JT0gQHBhc3N3b3JkX2NoYW5nZS5pbnZhbGlkPyAlPiI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBlbmQK</text>
+        <text encoding="base64">bWFwICcvYWNjb3VudCcgZG8KICBydW4gUmFpbHMuYXBwbGljYXRpb24KZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgIHJ1biBSYWlscy5hcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">IyBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBtYXAgJy9hY2NvdW50JyBkbwo=</text>
+        <text encoding="base64">IyAgIHJ1biBSYWlscy5hcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAic29ja19jbGkvcmVuZGVyZXJzL3Nub3J0L2pzb24iCg==</text>
+        <text encoding="base64">IyBtYXAgJy9hY2NvdW50JyBkbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAic29ja19jbGkvcmVuZGVyZXJzL3Nub3J0L2pzb24iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1512,7 +1516,6 @@
         <entry>%s/opts/options/g</entry>
         <entry>%s/@req/@required/g</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
@@ -1520,6 +1523,7 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action RunClass</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
