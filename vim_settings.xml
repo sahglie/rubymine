@@ -39,6 +39,9 @@
         <mark key="." line="31" column="23" />
         <mark key="^" line="16" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/services/network_session/host_type_spec.rb" timestamp="1484944134420">
+        <mark key="'" line="30" column="30" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/utils/ip_addr.rb" timestamp="1481672295182">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="6" column="25" />
@@ -567,7 +570,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484687602841">
+      <file name="/Dummy.txt" timestamp="1484944715613">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -585,11 +588,12 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/reshall_dhcp_lease.rb" timestamp="1484092880394">
-        <mark key="[" line="7" column="53" />
-        <mark key="]" line="7" column="53" />
-        <mark key="." line="7" column="53" />
-        <mark key="^" line="7" column="53" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/reshall_dhcp_lease.rb" timestamp="1484944733633">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="18" column="54" />
+        <mark key="." line="18" column="54" />
+        <mark key="^" line="18" column="35" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/radius_log_worker.rb" timestamp="1483576294340">
         <mark key="[" line="44" column="7" />
@@ -664,7 +668,8 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1484782366693">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1484943797396">
+        <mark key="'" line="51" column="9" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="9" />
         <mark key="." line="51" column="9" />
@@ -736,7 +741,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/nos_data/ucb_subnets.yml" timestamp="1475006090709">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/nos_data/ucb_subnets.yml" timestamp="1484943657307">
+        <mark key="'" line="8" column="0" />
         <mark key="[" line="78" column="15" />
         <mark key="]" line="78" column="18" />
         <mark key="." line="78" column="18" />
@@ -855,6 +861,13 @@
         <mark key="]" line="7" column="24" />
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_lease.rb" timestamp="1484944675829">
+        <mark key="'" line="40" column="25" />
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="40" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/metrics/ops_reports/show.html.erb" timestamp="1476226674040">
         <mark key="[" line="29" column="9" />
@@ -1066,6 +1079,9 @@
         <mark key="]" line="41" column="39" />
         <mark key="." line="41" column="39" />
         <mark key="^" line="41" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/environments/test.rb" timestamp="1484944081330">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/forgot_password_controller.rb" timestamp="1484687434296">
         <mark key="[" line="41" column="0" />
@@ -1304,17 +1320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
-      <jump line="51" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
-      <jump line="138" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
-      <jump line="52" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/raises_error_if_case_has_no_events.yml" />
-      <jump line="131" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/raises_error_if_case_has_no_events.yml" />
-      <jump line="137" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_botnet_drone.yml" />
-      <jump line="5" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
-      <jump line="47" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
-      <jump line="93" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
-      <jump line="1" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
-      <jump line="40" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="94" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="182" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="186" column="8141" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
@@ -1404,6 +1409,17 @@
       <jump line="8" column="41" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli.rb" />
       <jump line="70" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli.rb" />
+      <jump line="19" column="41" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/reshall_dhcp_lease.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/reshall_dhcp_lease.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/nos_data/ucb_subnets.yml" />
+      <jump line="51" column="9" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
+      <jump line="9" column="36" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_lease.rb" />
+      <jump line="67" column="41" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_lease.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_lease.rb" />
+      <jump line="35" column="32" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_lease.rb" />
+      <jump line="40" column="25" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_lease.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/environments/test.rb" />
+      <jump line="30" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/spec/services/network_session/host_type_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1412,23 +1428,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGF0dHJzX2Zvcl9pcChpcCkKICAgICAgICB7IGlwOiBpcCwKICAgICAgICAgIHVzZXJuYW1lOiByYWRpdXNfYXR0cnNbIlVzZXItTmFtZSJdLAogICAgICAgICAgc2Vzc2lvbl9pZDogcmFkaXVzX2F0dHJzWyJBY2N0LVNlc3Npb24tSWQiXSwKICAgICAgICAgIGV2ZW50X3RzOiBUaW1lLmF0KHJhZGl1c19hdHRyc1siVGltZXN0YW1wIl0udG9faSksCiAgICAgICAgICByYXdfbG9nOiByYWRpdXNfYXR0cnNbIm1lc3NhZ2UiXQogICAgICAgIH0KICAgICAgZW5kCgogICAgICBkZWYgaXB2NF9hZGRyCiAgICAgICAgcmFkaXVzX2F0dHJzWyJGcmFtZWQtSVAtQWRkcmVzcyJdCiAgICAgIGVuZAoKICAgICAgZGVmIGlwdjZfYWRkcl9saXN0CiAgICAgICAgYWRkcl9saXN0ID0gW3JhZGl1c19hdHRyc1siRnJhbWVkLUlQdjYtQWRkcmVzcyJdXS5mbGF0dGVuLmNvbXBhY3QKICAgICAgICBhZGRyX2xpc3QucmVqZWN0IHsgfGlwfCBsaW5rX2xvY2FsPyhpcCkgfQogICAgICBlbmQKCiAgICAgIGRlZiBsaW5rX2xvY2FsPyhpcCkKICAgICAgICBpcC5kb3duY2FzZS5zdGFydF93aXRoPygiZmU4MCIpCiAgICAgIGVuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>don't run under 'account' cause it breaks developmentblank</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>@req</text>
+        <text>for_month</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGF0dHJzX2Zvcl9pcChpcCkKICAgICAgICB7IGlwOiBpcCwKICAgICAgICAgIHVzZXJuYW1lOiByYWRpdXNfYXR0cnNbIlVzZXItTmFtZSJdLAogICAgICAgICAgc2Vzc2lvbl9pZDogcmFkaXVzX2F0dHJzWyJBY2N0LVNlc3Npb24tSWQiXSwKICAgICAgICAgIGV2ZW50X3RzOiBUaW1lLmF0KHJhZGl1c19hdHRyc1siVGltZXN0YW1wIl0udG9faSksCiAgICAgICAgICByYXdfbG9nOiByYWRpdXNfYXR0cnNbIm1lc3NhZ2UiXQogICAgICAgIH0KICAgICAgZW5kCgogICAgICBkZWYgaXB2NF9hZGRyCiAgICAgICAgcmFkaXVzX2F0dHJzWyJGcmFtZWQtSVAtQWRkcmVzcyJdCiAgICAgIGVuZAoKICAgICAgZGVmIGlwdjZfYWRkcl9saXN0CiAgICAgICAgYWRkcl9saXN0ID0gW3JhZGl1c19hdHRyc1siRnJhbWVkLUlQdjYtQWRkcmVzcyJdXS5mbGF0dGVuLmNvbXBhY3QKICAgICAgICBhZGRyX2xpc3QucmVqZWN0IHsgfGlwfCBsaW5rX2xvY2FsPyhpcCkgfQogICAgICBlbmQKCiAgICAgIGRlZiBsaW5rX2xvY2FsPyhpcCkKICAgICAgICBpcC5kb3duY2FzZS5zdGFydF93aXRoPygiZmU4MCIpCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgdHMgPSB0cy5pc19hPyhTdHJpbmcpID8gVGltZS5wYXJzZSh0cykgOiB0cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRzID0gVGltZS5wYXJzZSh0cy50b19zKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1444,37 +1460,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgZm9ybUhhc0Vycm9ycyA9ICI8JT0gQHBhc3N3b3JkX2NoYW5nZS5pbnZhbGlkPyAlPiI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">bWFwICcvYWNjb3VudCcgZG8KICBydW4gUmFpbHMuYXBwbGljYXRpb24KZW5kCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBlbmQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyAgIHJ1biBSYWlscy5hcHBsaWNhdGlvbgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBtYXAgJy9hY2NvdW50JyBkbwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAic29ja19jbGkvcmVuZGVyZXJzL3Nub3J0L2pzb24iCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgZGVmIHNlbGYucHJvY2Vzc19zeXNsb2c/KHN5c2xvZykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZWxmLmZvcl9tYWMobWFjKQogICAgICB3aGVyZShtYWM6IG1hYykKICAgIGVuZAoKICAgIGRlZiBzZWxmLmZvcl91c2VyKGNhbG5ldF91aWQpCiAgICAgIHdoZXJlKGNhbG5ldF91aWQ6IGNhbG5ldF91aWQpCiAgICBlbmQKICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc2Vzc2lvbi5saW1pdCgxKS5maXJzdAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgc2Vzc2lvbiA9IHNlc3Npb24ubWVyZ2UoaW5fcGFydGl0aW9uKHRzKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgc2Vzc2lvbiA9IHdoZXJlKCJpcCA9ID8gYW5kID8gYmV0d2VlbiBmaXJzdF9zZWVuX3RzIGFuZCBsYXN0X3NlZW5fdHMiLCBpcCwgdHMudG9fcyg6eW1kKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdHMgPSB0cy5ibGFuaz8gPyBUaW1lLm5vdyA6IFRpbWUucGFyc2UodHMudG9fcykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search>@req</last-search>
+      <last-search>for_month</last-search>
       <last-offset />
-      <last-pattern>@req</last-pattern>
+      <last-pattern>for_month</last-pattern>
       <last-replace>@required</last-replace>
       <last-substitute>@req</last-substitute>
       <last-dir>1</last-dir>
@@ -1482,7 +1498,6 @@
     </search>
     <history>
       <history-search>
-        <entry>@alert_attrs\[:\(.*\)\]</entry>
         <entry>@alert_attrs\[:\([a-z_]\)\]</entry>
         <entry>@alert_attrs\[:\([a-z_]+\)\]</entry>
         <entry>@alert_attrs\[:\(\w*\)\]</entry>
@@ -1502,6 +1517,7 @@
         <entry>opts</entry>
         <entry>%s</entry>
         <entry>@req</entry>
+        <entry>for_month</entry>
       </history-search>
       <history-cmd>
         <entry>action Debug</entry>
@@ -1510,20 +1526,20 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>%s/@opts/@options/g</entry>
         <entry>%s/@req_opts/@required_options/g</entry>
-        <entry>action RecentFiles</entry>
         <entry>action Run</entry>
         <entry>action GotoTest</entry>
         <entry>%s/opts/options/g</entry>
         <entry>%s/@req/@required/g</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>wq</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
         <entry>action ManageRecentProjects</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action QuickList.Ruby/Rails</entry>
-        <entry>action RunClass</entry>
+        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action RunClass</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
