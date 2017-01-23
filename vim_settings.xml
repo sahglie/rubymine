@@ -506,7 +506,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/Ruby Console" timestamp="1484945137151">
+      <file name="/Ruby Console" timestamp="1485200248004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="130" />
         <mark key="^" line="0" column="130" />
@@ -572,7 +572,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485199900951">
+      <file name="/Dummy.txt" timestamp="1485199973936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -590,7 +590,7 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/reshall_dhcp_lease.rb" timestamp="1485199972009">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/reshall_dhcp_lease.rb" timestamp="1485200295421">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="81" column="13" />
         <mark key="]" line="81" column="27" />
@@ -891,11 +891,11 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/fragment.rb" timestamp="1484945165183">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="70" />
-        <mark key="." line="0" column="70" />
-        <mark key="^" line="0" column="70" />
+      <file name="/fragment.rb" timestamp="1485200324876">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+        <mark key="^" line="0" column="45" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/_change_form.html.erb" timestamp="1479941243481">
         <mark key="[" line="7" column="107" />
@@ -1481,7 +1481,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -1534,9 +1534,9 @@
         <entry>action RunClass</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
