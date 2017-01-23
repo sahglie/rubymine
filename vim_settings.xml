@@ -90,6 +90,9 @@
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/services/network_session/finder.rb" timestamp="1485199518984">
+        <mark key="'" line="118" column="45" />
+      </file>
       <file name="$USER_HOME$/Development/projects/inet_bug/config/initializers/local/monkey_patches/ip_addr.rb" timestamp="1479756170203">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="20" column="60" />
@@ -569,7 +572,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484944841130">
+      <file name="/Dummy.txt" timestamp="1485199529990">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -587,18 +590,18 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/reshall_dhcp_lease.rb" timestamp="1484945240261">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/reshall_dhcp_lease.rb" timestamp="1485199483917">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="54" />
-        <mark key="]" line="18" column="54" />
-        <mark key="." line="18" column="54" />
-        <mark key="^" line="18" column="35" />
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/radius_log_worker.rb" timestamp="1483576294340">
-        <mark key="[" line="44" column="7" />
-        <mark key="]" line="44" column="10" />
-        <mark key="." line="44" column="10" />
-        <mark key="^" line="44" column="10" />
+        <mark key="[" line="46" column="7" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="46" column="10" />
+        <mark key="^" line="46" column="10" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/radius_logs.rb" timestamp="1483572420452">
         <mark key="[" line="25" column="15" />
@@ -667,11 +670,7 @@
         <mark key="." line="4" column="36" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1484945134120">
-        <mark key="'" line="51" column="9" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="10" />
-        <mark key="." line="37" column="10" />
-        <mark key="^" line="37" column="10" />
+        <mark key="'" line="37" column="9" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan/client.rb" timestamp="1478549942145">
         <mark key="[" line="1" column="8" />
@@ -758,11 +757,11 @@
         <mark key="^" line="61" column="24" />
         <mark key="." line="61" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/nos_data/reshall_dhcp_lease_spec.rb" timestamp="1484092943432">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="35" />
-        <mark key="." line="22" column="35" />
-        <mark key="^" line="22" column="35" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/nos_data/reshall_dhcp_lease_spec.rb" timestamp="1485199594135">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="66" />
+        <mark key="." line="15" column="66" />
+        <mark key="^" line="15" column="66" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/application.js" timestamp="1476130858985">
         <mark key="[" line="21" column="0" />
@@ -1238,12 +1237,6 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/dhcp_syslog_worker.rb" timestamp="1483743175073">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="8" column="5" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/models/nos_data/calvisitor_session_spec.rb" timestamp="1483570772151">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="39" column="12" />
@@ -1324,7 +1317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="182" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="186" column="8141" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
       <jump line="188" column="9950" filename="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/returns_a_case_object_for_credential_exposure.yml" />
@@ -1424,6 +1416,7 @@
       <jump line="40" column="25" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/dhcp_lease.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/environments/test.rb" />
       <jump line="30" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/spec/services/network_session/host_type_spec.rb" />
+      <jump line="118" column="45" filename="$USER_HOME$/Development/projects/sock_rails5/app/services/network_session/finder.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1433,13 +1426,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>quality_assurance</text>
+        <text>individual_for_mac</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
       </register>
       <register name="-" type="4">
-        <text>quality_assurance</text>
+        <text>individual_for_mac</text>
       </register>
       <register name="/" type="4">
         <text>for_month</text>
@@ -1538,10 +1531,10 @@
         <entry>action GotoAction</entry>
         <entry>action ManageRecentProjects</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RunClass</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.Ruby/Rails</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
