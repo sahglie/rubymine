@@ -969,6 +969,7 @@
         <mark key="." line="6" column="53" />
         <mark key="^" line="6" column="53" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/netreg/stored_procs/contacts_for_mac.rb" timestamp="1485201055537" />
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/aggressive_ip_tag.rb" timestamp="1479926920368">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="30" />
@@ -1481,7 +1482,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1535,8 +1536,8 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
