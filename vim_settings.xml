@@ -1699,7 +1699,7 @@
         <text encoding="base64">ICAgICAgcmRtLmVhY2goJjpzYXZlISkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1751,10 +1751,10 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoFile</entry>
         <entry>action RunClass</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
