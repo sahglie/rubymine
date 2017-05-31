@@ -1656,7 +1656,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -1708,10 +1708,10 @@
         <entry>vs</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
