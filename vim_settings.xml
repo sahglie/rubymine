@@ -340,11 +340,6 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/nos_data/refresh_dhcp_fixed_ips.rb" timestamp="1495651535352">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/metrics/ops_reports/index.html.haml" timestamp="1476136405575">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="52" />
@@ -1637,7 +1632,7 @@
         <text encoding="base64">ICAgICAgTWVzc2FnZS5jcmVhdGUhKG5hbWU6ICJPcGVuIFRlbG5ldCIsIHN1YmplY3RfcHJlZml4OiAidGVsbmV0IiwgYm9keTogIm9wZW4gdGVsbmV0IikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -1686,13 +1681,13 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVmNzLlF1aWNrTGlzdFBvcHVwQWN0aW9u</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
