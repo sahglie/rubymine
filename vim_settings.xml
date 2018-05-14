@@ -595,7 +595,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/Ruby Console" timestamp="1495651604520">
+      <file name="/Ruby Console" timestamp="1526334677140">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="130" />
         <mark key="^" line="0" column="130" />
@@ -929,6 +929,7 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/rt/ticket_block_spec.rb" timestamp="1526334691935" />
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/forgot_password/update.js.erb" timestamp="1484687175904">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="57" />
@@ -1146,6 +1147,12 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="37" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt/client.rb" timestamp="1526334548146">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="351" column="0" />
+        <mark key="]" line="351" column="0" />
+        <mark key="." line="351" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_step1_confirm_email_form.html.haml" timestamp="1480277155639">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="37" />
@@ -1352,6 +1359,9 @@
         <mark key="." line="23" column="63" />
         <mark key="^" line="34" column="15" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/BigfixMachineInfo.vue" timestamp="1526334356784">
+        <mark key="'" line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/base.rb" timestamp="1481325466754">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="22" />
@@ -1480,9 +1490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/renderers/snort/json.rb" />
-      <jump line="1" column="2" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/renderers/snort/pcap.rb" />
-      <jump line="31" column="25" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
       <jump line="171" column="9" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
       <jump line="168" column="416" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
       <jump line="177" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
@@ -1580,6 +1587,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SecurityContacts.vue" />
       <jump line="76" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SecurityContacts.vue" />
+      <jump line="18" column="38" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/BigfixMachineInfo.vue" />
+      <jump line="108" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/BigfixMachineInfo.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/client.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1589,7 +1599,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHV0cyBSYWlscy5lbnYK</text>
+        <text encoding="base64">ICAgICAgYnllYnVnCg==</text>
       </register>
       <register name="j" type="4">
         <text>jhhhhhhhhhhhhhhhhhhhh</text>
@@ -1598,13 +1608,13 @@
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>def call_notifier</text>
+        <text>byebug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTWVzc2FnZS5jcmVhdGUhKG5hbWU6ICJPcGVuIFRlbG5ldCIsIHN1YmplY3RfcHJlZml4OiAidGVsbmV0IiwgYm9keTogIm9wZW4gdGVsbmV0IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHV0cyBSYWlscy5lbnYK</text>
+        <text encoding="base64">ICAgICAgYnllYnVnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1620,37 +1630,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">cHV0cyBSYWlscy5lbnYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJ3N0cmVhbS1ncmlkJzogU3RyZWFtR3JpZCwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SW5jaWRlbmVudF90SW5jaWRlbnQuYWxsLnRvX2EubWFwKCY6YXR0cmlidXRlcyl0LmFsbC50b19hLm1hcCgmOmF0dHJpYnV0ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgJ3N0cmVhbS1ncmlkJzogU3RyZWFtR3JpZCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeS5vcGVuLmV4aXN0cz8gfHwgcXVlcnkuY2xvc2VkX21vcmVfdGhhbigyLndlZWtzLmFnbykuZXhpc3RzPwo=</text>
+        <text encoding="base64">SW5jaWRlbmVudF90SW5jaWRlbnQuYWxsLnRvX2EubWFwKCY6YXR0cmlidXRlcyl0LmFsbC50b19hLm1hcCgmOmF0dHJpYnV0ZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5vcGVuLmV4aXN0cz8gfHwgcXVlcnkuY2xvc2VkX21vcmVfdGhhbigyLndlZWtzLmFnbykuZXhpc3RzPwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHAgaW5jaWRlbnQuYXR0cmlidXRlcwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcHAgaW5jaWRlbnQuYXR0cmlidXRlcwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgTWVzc2FnZS5jcmVhdGUhKG5hbWU6ICJPcGVuIFRlbG5ldCIsIHN1YmplY3RfcHJlZml4OiAidGVsbmV0IiwgYm9keTogIm9wZW4gdGVsbmV0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
-      <last-search>def call_notifier</last-search>
+      <last-search>byebug</last-search>
       <last-offset />
-      <last-pattern>def call_notifier</last-pattern>
+      <last-pattern>byebug</last-pattern>
       <last-replace>@required</last-replace>
       <last-substitute>@req</last-substitute>
       <last-dir>1</last-dir>
@@ -1658,7 +1668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>attrs</entry>
         <entry>@attrs</entry>
         <entry>copyResourceIntoGroup</entry>
         <entry encoding="base64">bWV0aG9kOiA=</entry>
@@ -1678,6 +1687,7 @@
         <entry>more_than</entry>
         <entry>call_notifier</entry>
         <entry>def call_notifier</entry>
+        <entry>byebug</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -1694,12 +1704,12 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVmNzLlF1aWNrTGlzdFBvcHVwQWN0aW9u</entry>
         <entry>action Run</entry>
-        <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
