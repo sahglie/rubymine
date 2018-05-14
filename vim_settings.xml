@@ -581,7 +581,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/Ruby Console" timestamp="1526335155267">
+      <file name="/Ruby Console" timestamp="1526336782478">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="130" />
         <mark key="^" line="0" column="130" />
@@ -647,8 +647,8 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/request.rb" timestamp="1526335478527">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/request.rb" timestamp="1526336400803">
+        <mark key="'" line="144" column="45" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/aggressive_ip_ignores_controller.rb" timestamp="1479924376376">
         <mark key="[" line="26" column="57" />
@@ -963,6 +963,7 @@
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/sock/services/shodan_spec.rb" timestamp="1486060687093">
         <mark key="^" line="17" column="1" />
       </file>
+      <file name="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/resource.rb" timestamp="1526336801121" />
       <file name="$USER_HOME$/Development/projects/infohub/spec/lib/infohub/services/spa_account_spec.rb" timestamp="1473962707620">
         <mark key="[" line="5" column="67" />
         <mark key="]" line="5" column="67" />
@@ -981,11 +982,11 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/fragment.rb" timestamp="1495651482515">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="/fragment.rb" timestamp="1526336969181">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/_change_form.html.erb" timestamp="1479941243481">
         <mark key="[" line="7" column="107" />
@@ -1052,6 +1053,9 @@
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="79" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_block.rb" timestamp="1526335751065">
+        <mark key="'" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/progress.html.erb" timestamp="1475701912977">
         <mark key="[" line="21" column="62" />
@@ -1132,7 +1136,7 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt/client.rb" timestamp="1526334548146">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt/client.rb" timestamp="1526335779347">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="351" column="0" />
         <mark key="]" line="351" column="0" />
@@ -1407,6 +1411,7 @@
         <mark key="^" line="8" column="64" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient.rb" timestamp="1526336706054" />
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/index.html.haml" timestamp="1479924552856">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="24" />
@@ -1475,10 +1480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="49" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
-      <jump line="137" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
-      <jump line="8" column="41" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli.rb" />
-      <jump line="70" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli.rb" />
       <jump line="19" column="41" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/reshall_dhcp_lease.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/nos_data/ucb_subnets.yml" />
@@ -1572,9 +1573,13 @@
       <jump line="10" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
       <jump line="696" column="10" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/request.rb" />
       <jump line="163" column="6" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/request.rb" />
-      <jump line="852" column="0" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/request.rb" />
       <jump line="704" column="0" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/request.rb" />
+      <jump line="792" column="8" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/request.rb" />
+      <jump line="152" column="0" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/request.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/request.rb" />
+      <jump line="852" column="0" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/request.rb" />
+      <jump line="144" column="45" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rest-client-2.0.2/lib/restclient/request.rb" />
+      <jump line="17" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_block.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1584,13 +1589,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>payload</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>payload</text>
       </register>
       <register name="/" type="4">
         <text>byebug</text>
@@ -1690,9 +1695,9 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action Debug</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRGVidWdDbGFzcw==</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action RunClass</entry>
+        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoDeclaration</entry>
       </history-cmd>
