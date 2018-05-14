@@ -74,7 +74,7 @@
         <mark key="^" line="2" column="58" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alert_grouper.rb" timestamp="1495651205417">
-        <mark key="'" line="140" column="0" />
+        <mark key="'" line="141" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -507,6 +507,9 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig.rb" timestamp="1526333969370">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/alert_pig/aggressive_ip_ignore.rb" timestamp="1479925753264">
         <mark key="[" line="4" column="0" />
@@ -1468,8 +1471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="12" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/snort/option_parser.rb" />
-      <jump line="34" column="15" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/snort/option_parser.rb" />
       <jump line="82" column="8" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/commands/snort.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/snort/option_parser.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/Development/projects/sock_cli/lib/sock_cli/renderers/snort/json.rb" />
@@ -1568,6 +1569,8 @@
       <jump line="202" column="6" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/airbrake-ruby-1.8.0/lib/airbrake-ruby.rb" />
       <jump line="223" column="6" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/airbrake-ruby-1.8.0/lib/airbrake-ruby.rb" />
       <jump line="176" column="4" filename="$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/airbrake-ruby-1.8.0/lib/airbrake-ruby.rb" />
+      <jump line="9" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1632,7 +1635,7 @@
         <text encoding="base64">ICAgICAgTWVzc2FnZS5jcmVhdGUhKG5hbWU6ICJPcGVuIFRlbG5ldCIsIHN1YmplY3RfcHJlZml4OiAidGVsbmV0IiwgYm9keTogIm9wZW4gdGVsbmV0IikK</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1681,13 +1684,13 @@
         <entry>action QuickList.Ruby/Rails</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVmNzLlF1aWNrTGlzdFBvcHVwQWN0aW9u</entry>
-        <entry>action GotoFile</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
