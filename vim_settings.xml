@@ -1630,7 +1630,7 @@
         <text encoding="base64">ICBSU3BlYy5kZXNjcmliZShSdDo6VGlja2V0QmxvY2ssIHZjcjogdmNyX29wdGlvbnMpICBkbwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1680,12 +1680,12 @@
         <entry>action RunClass</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoFile</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action GotoClass</entry>
         <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5QmxvY2tDb21tZW50</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
