@@ -347,6 +347,12 @@
         <mark key="^" line="29" column="44" />
         <mark key="." line="29" column="44" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt.rb" timestamp="1527193926790">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan/search.rb" timestamp="1478550798737">
         <mark key="[" line="16" column="35" />
         <mark key="]" line="16" column="40" />
@@ -568,7 +574,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/Ruby Console" timestamp="1527191318927">
+      <file name="/Ruby Console" timestamp="1527193144320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
@@ -610,6 +616,9 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_creator.rb" timestamp="1527193900858">
+        <mark key="'" line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/ids/alert_group/calnet_uid.rb" timestamp="1485989990125">
         <mark key="[" line="10" column="68" />
         <mark key="]" line="10" column="70" />
@@ -643,7 +652,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526334752765">
+      <file name="/Dummy.txt" timestamp="1527193597449">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/verify_password.js.erb" timestamp="1476235761997">
@@ -1485,7 +1494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="60" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/nos_data/airbears2_session_spec.rb" />
       <jump line="51" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/nos_data/calvisitor_session_spec.rb" />
       <jump line="75" column="34" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/nos_data/calvisitor_session_spec.rb" />
       <jump line="43" column="1" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/nos_data/calvisitor_session_spec.rb" />
@@ -1585,6 +1593,7 @@
       <jump line="16" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/ticket.rb" />
       <jump line="81" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/ticket.rb" />
       <jump line="148" column="34" filename="$USER_HOME$/Development/projects/rt-client/rt_client.rb" />
+      <jump line="106" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_creator.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1593,14 +1602,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>rt-client</text>
