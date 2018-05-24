@@ -3688,6 +3688,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20170404/lib" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20180417, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/lib" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.23, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.23/lib" />
@@ -11030,12 +11038,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rt-client-1.0.0" />
       </SOURCES>
     </library>
+    <library name="rt-client (v1.0.1@0a8277, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/rt-client-0a8277b81b84" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/rt-client-0a8277b81b84" />
+      </SOURCES>
+    </library>
     <library name="rt-client (v1.0.2, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rt-client-1.0.2" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rt-client-1.0.2" />
+      </SOURCES>
+    </library>
+    <library name="rt-client (v1.0.2@40dd5a, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/rt-client-40dd5ad5d5d1" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/rt-client-40dd5ad5d5d1" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta2, RVM: ruby-2.2.3) [gem]">
