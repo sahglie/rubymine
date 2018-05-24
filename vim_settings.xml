@@ -728,6 +728,12 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/incidents/032_rt_tickets.sql" timestamp="1527197044708">
+        <mark key="[" line="12" column="74" />
+        <mark key="]" line="12" column="80" />
+        <mark key="^" line="12" column="80" />
+        <mark key="." line="12" column="80" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_errors.html.haml" timestamp="1480286753531">
         <mark key="[" line="1" column="73" />
         <mark key="]" line="1" column="73" />
@@ -1188,6 +1194,11 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/incidents/031_shodan_rules.sql" timestamp="1527196767388">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="98" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/find_cwid.js.erb" timestamp="1480277124604">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="76" />
@@ -1494,7 +1505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/nos_data/calvisitor_session_spec.rb" />
       <jump line="75" column="34" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/nos_data/calvisitor_session_spec.rb" />
       <jump line="43" column="1" filename="$USER_HOME$/Development/projects/sock_rails5/spec/models/nos_data/calvisitor_session_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/nos_data/009_get_calvisitor_session.sql" />
@@ -1594,6 +1604,7 @@
       <jump line="81" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/ticket.rb" />
       <jump line="148" column="34" filename="$USER_HOME$/Development/projects/rt-client/rt_client.rb" />
       <jump line="106" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_creator.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/incidents/031_shodan_rules.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1603,22 +1614,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>RESTRICT</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>RESTRICT</text>
       </register>
       <register name="/" type="4">
         <text>rt-client</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHNlbGYuaGlzdG9yeSh0aWNrZXRfaWQpCiAgICAgICAgc2VsZi5uZXcodGlja2V0X2lkKS5oaXN0b3J5CiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICBtZXNzYWdlX2JvZHkgICAgIFZBUkNIQVIgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICBVTklRVUUgKG5hbWUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1634,28 +1645,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVubGVzcyByZXNwLmlzX2E/KFN0cmluZykK</text>
+        <text encoding="base64">ICBDSEVDSyAoIHNldmVyaXR5IElOICgxLCAyLCAzKSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDSEVDSyAoIGNhcmRpbmFsaXR5KHBvcnRzKSA+IDAgKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAocnRfcXVldWVfaWQpIFJFRkVSRU5DRVMgaW5jaWRlbnRzLnJ0X3F1ZXVlcyAoaWQpIE9OIERFTEVURSBSRVNUUklDVCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyBkZWYgY2xpZW50KG9wZW5fdGltZW91dDogMzAsIHJlYWRfdGltZW91dDogMTIwLCB2ZXJpZnlfc3NsOiBPcGVuU1NMOjpTU0w6OlZFUklGWV9OT05FKQogICAgICAjICAgcmV0dXJuIEBjbGllbnQgaWYgQGNsaWVudAogICAgICAjCiAgICAgICMgICBAY2xpZW50IHx8PSBSZXN0Q2xpZW50OjpSZXNvdXJjZS5uZXcoCiAgICAgICMgICAgICAgY29uZmlnKDpob3N0KSwKICAgICAgIyAgICAgICBvcGVuX3RpbWVvdXQ6IG9wZW5fdGltZW91dCwKICAgICAgIyAgICAgICB0aW1lb3V0OiByZWFkX3RpbWVvdXQsCiAgICAgICMgICAgICAgdmVyaWZ5X3NzbDogdmVyaWZ5X3NzbCwKICAgICAgIyAgICAgICB1c2VyOiBjb25maWcoOnVzZXJuYW1lKSwKICAgICAgIyAgICAgICBwYXNzd29yZDogY29uZmlnKDpwYXNzd29yZCksCiAgICAgICMgICAgICAgaGVhZGVyczogewogICAgICAjICAgICAgICAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICAjICAgICAgICAgICAiYWNjZXB0IjogImFwcGxpY2F0aW9uL2pzb24iCiAgICAgICMgICAgICAgfQogICAgICAjICAgKQogICAgICAjIGVuZAo=</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAobWVzc2FnZSkgUkVGRVJFTkNFUyBpbmNpZGVudHMubWVzc2FnZXMgKGlkKSBPTiBERUxFVEUgUkVTVFJJQ1QsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNsaWVudC5oaXN0b3J5KHRpY2tldF9pZCwgImxvbmciKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNsaWVudC5oaXN0b3J5KHRpY2tldF9pZCwgInNob3J0IikK</text>
+        <text encoding="base64">ICBzdWJqZWN0ICAgICAgICAgIFZBUkNIQVIgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtcy5tYXAgeyB8aXwgaVsidHlwZSJdIH0K</text>
+        <text encoding="base64">ICBtZXNzYWdlICAgICAgICAgIFZBUkNIQVIgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Q09NTUVOVCBPTiBDT0xVTU4gaW5jaWRlbnRzLnNob2Rhbl9ydWxlcy5uYW1lIElTICdOYW1lIG9mIHRoZSBydWxlJzsKQ09NTUVOVCBPTiBDT0xVTU4gaW5jaWRlbnRzLnNob2Rhbl9ydWxlcy5wb3J0cyBJUyAnTGlzdCBvZiBwb3J0cyBmcm9tIHdoaWNoIHNob2RhbiBzaG91bGQgcHVsbCByZXN1bHRzJzsKQ09NTUVOVCBPTiBDT0xVTU4gaW5jaWRlbnRzLnNob2Rhbl9ydWxlcy5ldmVudF90eXBlIElTICdFdmVudCB0eXBlIG9mIGluY2lkZW50JzsKQ09NTUVOVCBPTiBDT0xVTU4gaW5jaWRlbnRzLnNob2Rhbl9ydWxlcy5zZXZlcml0eSBJUyAnU2V2ZXJpdHkgbGV2ZWwgZm9yIGluY2lkZW50JzsKQ09NTUVOVCBPTiBDT0xVTU4gaW5jaWRlbnRzLnNob2Rhbl9ydWxlcy5ydF9xdWV1ZV9pZCBJUyAnUlQgUXVldWUgdG8gdXNlIHdoZW4gY3JlYXRpbmcgaW5jaWRlbnQnOwpDT01NRU5UIE9OIENPTFVNTiBpbmNpZGVudHMuc2hvZGFuX3J1bGVzLm1lc3NhZ2VfaWQgSVMgJ01lc3NhZ2UgZmlsZSB0byB1c2Ugd2hlbiBjcmVhdGluZyBpbmNpZGVudCc7CkNPTU1FTlQgT04gQ09MVU1OIGluY2lkZW50cy5zaG9kYW5fcnVsZXMuZGFpbHlfbGltaXQgSVMgJ01heCBudW1iZXIgb2YgaW5jaWRlbnRzIHRvIGNyZWF0ZSBwZXIgZGF5JzsKQ09NTUVOVCBPTiBDT0xVTU4gaW5jaWRlbnRzLnNob2Rhbl9ydWxlcy5hY3RpdmUgSVMgJ09ubHkgYWN0aXZlIHJ1bGVzIHdpbGwgYmUgdXNlZCB0byBjcmVhdGUgaW5jaWRlbnRzJzsKQ09NTUVOVCBPTiBDT0xVTU4gaW5jaWRlbnRzLnNob2Rhbl9ydWxlcy5yZXN1bHRzX2pzb24gSVMgJ1Nob2RhbiByZXN1bHRzIHRoYXQgbWF0Y2ggdGhlIHJ1bGVcJ3MgcG9ydHMnOwpDT01NRU5UIE9OIENPTFVNTiBpbmNpZGVudHMuc2hvZGFuX3J1bGVzLnJlc3VsdHNfdHMgSVMgJ1RpbWUgdGhhdCByZXN1bHRzX2pzb24gd2FzIGxhc3QgdXBkYXRlZCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1710,9 +1721,9 @@
         <entry>action Run</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action RunAnything</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
