@@ -324,11 +324,7 @@
         <mark key="^" line="3" column="5" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/ticket.rb" timestamp="1527190679574">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="38" column="5" />
-        <mark key="." line="33" column="0" />
+        <mark key="'" line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/set_password.js.erb" timestamp="1479150212111">
         <mark key="[" line="8" column="56" />
@@ -587,7 +583,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/Ruby Console" timestamp="1527193144320">
+      <file name="/Ruby Console" timestamp="1527204442411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
@@ -743,9 +739,6 @@
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/incidents/032_rt_tickets.sql" timestamp="1527198251786">
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="7" column="52" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="1" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/_errors.html.haml" timestamp="1480286753531">
         <mark key="[" line="1" column="73" />
@@ -1687,7 +1680,7 @@
         <text encoding="base64">ICBhbGlhc19hdHRyaWJ1dGUoOmV2ZW50X2lwLCA6aXApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RunAnything</text>
       </register>
     </registers>
     <search>
@@ -1738,11 +1731,11 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
-        <entry>action RunAnything</entry>
         <entry>action RecentFiles</entry>
         <entry>action</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>w</entry>
+        <entry>action RunAnything</entry>
       </history-cmd>
       <history-expr />
       <history-input />
