@@ -1,5 +1,9 @@
 <keymap version="1" name="sahglie vim" parent="Mac OS X 10.5+">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
   <action id="AceJumpAction" />
+  <action id="AceLineAction" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
@@ -33,6 +37,10 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="meta alt divide" />
@@ -44,9 +52,13 @@
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="DashLauncherAction" />
   <action id="Debug">
@@ -58,6 +70,7 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
+  <action id="EditorStartNewLine" />
   <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
@@ -72,6 +85,10 @@
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl e" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="ExportToTextFile" />
   <action id="Find" />
@@ -126,15 +143,12 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
+  <action id="OpenElementInNewWindow" />
   <action id="OverrideMethods" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl 9" />
-  </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
   </action>
   <action id="ReplaceInPath" />
   <action id="RerunTests">
@@ -150,6 +164,10 @@
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowProjectStructureSettings" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="ctrl meta s" />
@@ -183,11 +201,15 @@
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="shift meta f8" />
     <keyboard-shortcut first-keystroke="ctrl meta v" />
+  </action>
+  <action id="WelcomeScreen.OpenSelected">
+    <keyboard-shortcut first-keystroke="shift enter" />
   </action>
 </keymap>
