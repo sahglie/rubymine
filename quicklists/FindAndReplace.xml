@@ -1,0 +1,10 @@
+<list display="FindAndReplace" description="Find and replace options">
+  <action id="Find" />
+  <action id="FindInPath" />
+  <action id="FindUsages" />
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
+  <action id="StructuralSearchPlugin.StructuralReplaceAction" />
+  <action id="SelectAllOccurrences" />
+  <action id="FindWordAtCaret" />
+</list>
