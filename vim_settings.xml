@@ -1706,7 +1706,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gKiB0aWNrZXRfbnVtYmVyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1758,10 +1758,10 @@
         <entry>action Debug</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>vs</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
