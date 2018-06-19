@@ -1074,6 +1074,9 @@
         <mark key="." line="29" column="38" />
         <mark key="^" line="29" column="38" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/mac_blocks_feature_spec.rb" timestamp="1529429648448">
+        <mark key="'" line="22" column="32" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ids/alert_progress/index.html.haml" timestamp="1485984717847">
         <mark key="[" line="18" column="42" />
         <mark key="]" line="18" column="42" />
@@ -1562,7 +1565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alert_grouper.rb" />
       <jump line="57" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alert_grouper.rb" />
       <jump line="417" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/client.rb" />
       <jump line="106" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/client.rb" />
@@ -1662,6 +1664,7 @@
       <jump line="43" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/admin_incident.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
       <jump line="34" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
+      <jump line="22" column="32" filename="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/mac_blocks_feature_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1726,7 +1729,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gKiB0aWNrZXRfbnVtYmVyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1762,16 +1765,12 @@
         <entry>messageBodies</entry>
       </history-search>
       <history-cmd>
-        <entry>action FileStructurePopup</entry>
-        <entry>action GotoAction</entry>
-        <entry>action</entry>
         <entry>action RunAnything</entry>
         <entry>action GotoClass</entry>
         <entry>.,.+98action Vcs.QuickListPopupAction</entry>
         <entry>action Debug</entry>
         <entry>vs</entry>
         <entry>action QuickList.FindAndReplace</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoRelated</entry>
         <entry>action QuickList.Ruby/Rails</entry>
@@ -1782,6 +1781,10 @@
         <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action GotoTest</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action RunClass</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
