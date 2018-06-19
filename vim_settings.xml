@@ -793,6 +793,12 @@
         <mark key="^" line="1077" column="10" />
         <mark key="." line="1077" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/layouts/admin.html.haml" timestamp="1529444759079">
+        <mark key="[" line="10" column="81" />
+        <mark key="]" line="10" column="81" />
+        <mark key="^" line="10" column="81" />
+        <mark key="." line="10" column="81" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/snort_sig_class.rb" timestamp="1481565386685">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="33" />
@@ -1786,7 +1792,7 @@
         <text encoding="base64">bm93IHVzaW5nIGluZm9ibG94IGZvciB0aGVpciBkaGNwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1829,7 +1835,6 @@
         <entry>action GotoClass</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry>action GotoTest</entry>
         <entry>action Run</entry>
         <entry>action GotoSymbol</entry>
@@ -1837,11 +1842,12 @@
         <entry>action QuickList.CustomNavActions</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoRelated</entry>
-        <entry>action QuickList.CustomFileActions</entry>
         <entry>action QuickList.FindAndReplace</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action QuickList.CustomFileActions</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
