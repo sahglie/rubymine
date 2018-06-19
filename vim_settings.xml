@@ -784,6 +784,9 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/admin_snort_events.js" timestamp="1529443440038">
+        <mark key="'" line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/.rvm/rubies/ruby-2.2.4/lib/ruby/2.2.0/net/imap.rb" timestamp="1475183174888">
         <mark key="[" line="1077" column="11" />
         <mark key="]" line="1077" column="10" />
@@ -1619,7 +1622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/rt/ticket_block_spec.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/rt/ticket_block_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/rt/ticket_block_spec.rb" />
       <jump line="90" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/rt/ticket_block_spec.rb" />
@@ -1719,6 +1721,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/_search.html.erb" />
       <jump line="32" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/_search.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/_search.html.erb" />
+      <jump line="48" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/admin_snort_events.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
