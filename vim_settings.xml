@@ -1006,7 +1006,8 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/layouts/_admin_navigation.html.haml" timestamp="1529432840848">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/layouts/_admin_navigation.html.haml" timestamp="1529435704353">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -1608,8 +1609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/client.rb" />
-      <jump line="131" column="71" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/client.rb" />
       <jump line="63" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/client.rb" />
       <jump line="21" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/rt/ticket_block_spec.rb" />
       <jump line="84" column="36" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/rt/ticket_block_spec.rb" />
@@ -1708,6 +1707,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/dhcp_rescomp.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" />
       <jump line="74" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/alert_files/grouper_spec.rb" />
+      <jump line="44" column="27" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/layouts/_admin_navigation.html.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/layouts/_admin_navigation.html.haml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1726,7 +1727,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dhcp</text>
+        <text>DHCP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBzZWxmLnZwbl9pcD8oaXApCiAgICAgIHdoZXJlKCI/IDw8IHN1Ym5ldCBhbmQgbmV0d29ya191c2UgQD4gQVJSQVlbJ1JBLVZQTiddOjp2YXJjaGFyW10iLCBpcC50b19zKS5leGlzdHM/CiAgICBlbmQK</text>
@@ -1776,9 +1777,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dhcp</last-search>
+      <last-search>DHCP</last-search>
       <last-offset />
-      <last-pattern>dhcp</last-pattern>
+      <last-pattern>DHCP</last-pattern>
       <last-replace>@required</last-replace>
       <last-substitute>@req</last-substitute>
       <last-dir>1</last-dir>
@@ -1786,7 +1787,6 @@
     </search>
     <history>
       <history-search>
-        <entry>snort_events</entry>
         <entry>@opts</entry>
         <entry>@req_opts</entry>
         <entry>opts</entry>
@@ -1806,6 +1806,7 @@
         <entry>messageBodies</entry>
         <entry>reshall_dhcp</entry>
         <entry>dhcp</entry>
+        <entry>DHCP</entry>
       </history-search>
       <history-cmd>
         <entry>action RunAnything</entry>
@@ -1815,7 +1816,6 @@
         <entry>action GotoClass</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action GotoTest</entry>
         <entry>action Run</entry>
@@ -1827,6 +1827,7 @@
         <entry>action GotoRelated</entry>
         <entry>action QuickList.CustomFileActions</entry>
         <entry>action QuickList.FindAndReplace</entry>
+        <entry>action GotoFile</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
