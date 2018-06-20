@@ -1309,11 +1309,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/Gemfile" timestamp="1529468234364">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/Gemfile" timestamp="1529498432337">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
         <mark key="^" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/intrushield.rb" timestamp="1481326340676">
@@ -1815,7 +1815,7 @@
         <text encoding="base64">ICAgICAgICB3aGVuIDpyZXNjb21wCiAgICAgICAgICBOb3NEYXRhOjpKb2JzOjpEaGNwUmVzY29tcC5wZXJmb3JtX2FzeW5jKGF0dHJzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action QuickList.CustomGitActions</text>
       </register>
     </registers>
     <search>
@@ -1867,10 +1867,10 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action QuickList.Grails</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LkN1c3RvbUdpdEFjdGlvbnM=</entry>
-        <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoFile</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>w</entry>
+        <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
