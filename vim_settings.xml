@@ -414,6 +414,7 @@
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="56" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/nos_data/jobs/vpn.rb" timestamp="1529460810231" />
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/snort_sig_class.rb" timestamp="1481565386685">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="33" />
@@ -1072,6 +1073,9 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/incidents/HostExceptions.vue" timestamp="1529460461293">
+        <mark key="'" line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/aggressive_ips.yml" timestamp="1474408081729">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="28" />
@@ -1597,7 +1601,12 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/nos_data/vpn_session.rb" timestamp="1529460252207" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/nos_data/vpn_session.rb" timestamp="1529462847203">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/inet_bug/config/initializers/local/monkey_patches/ip_addr.rb" timestamp="1479756170203">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="20" column="60" />
@@ -1629,9 +1638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/rt/ticket_block_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/rt/ticket_block_spec.rb" />
-      <jump line="90" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/rt/ticket_block_spec.rb" />
       <jump line="7" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/lib/infoblox/client.rb" />
       <jump line="19" column="35" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/ticket.rb" />
       <jump line="39" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
@@ -1729,6 +1735,9 @@
       <jump line="32" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/_search.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/_search.html.erb" />
       <jump line="48" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/admin_snort_events.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/incidents/HostExceptions.vue" />
+      <jump line="23" column="6" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/nos_data/vpn_session.rb" />
+      <jump line="17" column="4" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/nos_data/vpn_session.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1737,8 +1746,8 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBlbmQKCg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
@@ -1753,7 +1762,7 @@
         <text encoding="base64">ICAgIGRlZiBzZWxmLnZwbl9pcD8oaXApCiAgICAgIHdoZXJlKCI/IDw8IHN1Ym5ldCBhbmQgbmV0d29ya191c2UgQD4gQVJSQVlbJ1JBLVZQTiddOjp2YXJjaGFyW10iLCBpcC50b19zKS5leGlzdHM/CiAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHJlc2hhbGxfZGhjcAogICAgICAgIGFsZXJ0X2dyb3VwX2Zvcig6cmVzaGFsbF9kaGNwLCA6bWFjKS5lYWNoX3dpdGhfb2JqZWN0KFtdKSBkbyB8KG1hYywgYWxlcnRzKSwgZmlsZXN8CiAgICAgICAgICBhbGVydF9maWxlID0gQWxlcnRGaWxlOjpNYWNBZGRyZXNzLm5ldyhhbGVydHMsIG1hYywgOnJlc2hhbGxfZGhjcCkKICAgICAgICAgIGZpbGVzLnB1c2goYWxlcnRfZmlsZSkKICAgICAgICBlbmQKICAgICAgZW5kCgo=</text>
+        <text encoding="base64">ICBlbmQKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1769,31 +1778,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICVsaT0gbGlua190bygiREhDUCBSZXNoYWxsIiwgYWRtaW5fbm9zX2RhdGFfZGhjcF9yZXNoYWxsX2luZGV4X3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgZGVmIHJlc2hhbGxfZGhjcAogICAgICAgIGFsZXJ0X2dyb3VwX2Zvcig6cmVzaGFsbF9kaGNwLCA6bWFjKS5lYWNoX3dpdGhfb2JqZWN0KFtdKSBkbyB8KG1hYywgYWxlcnRzKSwgZmlsZXN8CiAgICAgICAgICBhbGVydF9maWxlID0gQWxlcnRGaWxlOjpNYWNBZGRyZXNzLm5ldyhhbGVydHMsIG1hYywgOnJlc2hhbGxfZGhjcCkKICAgICAgICAgIGZpbGVzLnB1c2goYWxlcnRfZmlsZSkKICAgICAgICBlbmQKICAgICAgZW5kCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VzKDpkaGNwX3Jlc2hhbGwsIG9ubHk6IFsiaW5kZXgiXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICVsaT0gbGlua190bygiREhDUCBSZXNoYWxsIiwgYWRtaW5fbm9zX2RhdGFfZGhjcF9yZXNoYWxsX2luZGV4X3BhdGgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">NSwxNSwyNSwzNSw0NSw1NSAgICAqICAgICogICAqICAgKiAgIGFwcF9zb2NrIFJBSUxTX0VOVj0kRU5WICROT1NfREFUQS9hZ2dyX3Jlc2NvbXBfZGhjcF9sb2dzLnJiCg==</text>
+        <text encoding="base64">ICAgICAgcmVzb3VyY2VzKDpkaGNwX3Jlc2hhbGwsIG9ubHk6IFsiaW5kZXgiXSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">NSwxNSwyNSwzNSw0NSw1NSAgICAqICAgICogICAqICAgKiAgIGFwcF9zb2NrIFJBSUxTX0VOVj0kRU5WICROT1NfREFUQS9hZ2dyX3Jlc2NvbXBfZGhjcF9sb2dzLnJiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb250ZXh0KCJwcm9jZXNzaW5nIHJlc2NvbXAgbG9nIikgZG8KICAgIGl0ICJjcmVhdGVzIGEgcmVzY29tcCBkaGNwIGxlYXNlIHJlY29yZCIgZG8KICAgICAgc3lzbG9nID0gIjwzMD5KYW4gMSAwMDowMDowMCBkaGNwMi5yZXNjb21wLmJlcmtlbGV5LmVkdSBkaGNwZDogREhDUEFDSyBvbiAxNjkuMjI5Ljc2LjI1MCB0byA2ODpmNzoyODo3Mjo1YzowNiAoVmFzdS1QQykgdmlhIGV0aDA6MCIKICAgICAgTm9zRGF0YTo6UHJvY2Vzc29yczo6RGhjcExvZy5wcm9jZXNzKHN5c2xvZywgOnJlc2NvbXApCiAgICAgIGV4cGVjdChOb3NEYXRhOjpSZXNjb21wRGhjcExvZy5jb3VudCkudG8gZXFsKDEpCiAgICBlbmQKICBlbmQKCg==</text>
+        <text encoding="base64">NSwxNSwyNSwzNSw0NSw1NSAgICAqICAgICogICAqICAgKiAgIGFwcF9zb2NrIFJBSUxTX0VOVj0kRU5WICROT1NfREFUQS9hZ2dyX3Jlc2NvbXBfZGhjcF9sb2dzLnJiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIDpyZXNjb21wCiAgICAgICAgICBOb3NEYXRhOjpQYXJzZXJzOjpSZXNjb21wRGhjcAo=</text>
+        <text encoding="base64">ICBjb250ZXh0KCJwcm9jZXNzaW5nIHJlc2NvbXAgbG9nIikgZG8KICAgIGl0ICJjcmVhdGVzIGEgcmVzY29tcCBkaGNwIGxlYXNlIHJlY29yZCIgZG8KICAgICAgc3lzbG9nID0gIjwzMD5KYW4gMSAwMDowMDowMCBkaGNwMi5yZXNjb21wLmJlcmtlbGV5LmVkdSBkaGNwZDogREhDUEFDSyBvbiAxNjkuMjI5Ljc2LjI1MCB0byA2ODpmNzoyODo3Mjo1YzowNiAoVmFzdS1QQykgdmlhIGV0aDA6MCIKICAgICAgTm9zRGF0YTo6UHJvY2Vzc29yczo6RGhjcExvZy5wcm9jZXNzKHN5c2xvZywgOnJlc2NvbXApCiAgICAgIGV4cGVjdChOb3NEYXRhOjpSZXNjb21wRGhjcExvZy5jb3VudCkudG8gZXFsKDEpCiAgICBlbmQKICBlbmQKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIDpyZXNjb21wCiAgICAgICAgICBOb3NEYXRhOjpKb2JzOjpEaGNwUmVzY29tcC5wZXJmb3JtX2FzeW5jKGF0dHJzKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIDpyZXNjb21wCiAgICAgICAgICBOb3NEYXRhOjpQYXJzZXJzOjpSZXNjb21wRGhjcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bm93IHVzaW5nIGluZm9ibG94IGZvciB0aGVpciBkaGNwCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIDpyZXNjb21wCiAgICAgICAgICBOb3NEYXRhOjpKb2JzOjpEaGNwUmVzY29tcC5wZXJmb3JtX2FzeW5jKGF0dHJzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -1829,26 +1838,26 @@
         <entry>DHCP</entry>
       </history-search>
       <history-cmd>
-        <entry>action RunAnything</entry>
-        <entry>action GotoAction</entry>
         <entry>actionlist</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LkN1c3RvbU5hdkFjdGlvbnM=</entry>
         <entry>action GotoClass</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoTest</entry>
-        <entry>action Run</entry>
         <entry>action GotoSymbol</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action QuickList.CustomNavActions</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoRelated</entry>
         <entry>action QuickList.FindAndReplace</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action QuickList.CustomFileActions</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action Run</entry>
+        <entry>action QuickList.CustomFileActions</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action SelectAllOccurrences</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
