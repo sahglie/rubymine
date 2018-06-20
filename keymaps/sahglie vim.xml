@@ -80,6 +80,10 @@
     <keyboard-shortcut first-keystroke="shift f9" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
