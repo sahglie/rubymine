@@ -698,8 +698,8 @@
         <mark key="^" line="13" column="66" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529434441449">
-        <mark key="[" line="0" column="43" />
+      <file name="/Dummy.txt" timestamp="1529466726155">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -1606,11 +1606,12 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/nos_data/vpn_session.rb" timestamp="1529462847203">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/nos_data/vpn_session.rb" timestamp="1529465964239">
         <mark key="'" line="17" column="4" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Development/projects/inet_bug/config/initializers/local/monkey_patches/ip_addr.rb" timestamp="1479756170203">
         <mark key="[" line="19" column="27" />
@@ -1752,13 +1753,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:stop_ts, :updated_ts)</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:stop_ts, :updated_ts)</text>
       </register>
       <register name="/" type="4">
         <text>per</text>
@@ -1807,7 +1808,7 @@
         <text encoding="base64">ICAgICAgICB3aGVuIDpyZXNjb21wCiAgICAgICAgICBOb3NEYXRhOjpKb2JzOjpEaGNwUmVzY29tcC5wZXJmb3JtX2FzeW5jKGF0dHJzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1843,26 +1844,26 @@
         <entry>per</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LkN1c3RvbU5hdkFjdGlvbnM=</entry>
-        <entry>action GotoClass</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoTest</entry>
         <entry>action GotoSymbol</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action QuickList.CustomNavActions</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>action GotoRelated</entry>
-        <entry>action QuickList.FindAndReplace</entry>
-        <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Run</entry>
-        <entry>action QuickList.CustomFileActions</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action SelectAllOccurrences</entry>
+        <entry>w</entry>
+        <entry>action QuickList.FindAndReplace</entry>
+        <entry>action QuickList.CustomFileActions</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action Quicklist.GitActions</entry>
+        <entry>action QuickList.CustomNavActions</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action QuickList.Grails</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LkN1c3RvbUdpdEFjdGlvbnM=</entry>
+        <entry>action QuickList.CustomGitActions</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
