@@ -1846,7 +1846,7 @@
         <text encoding="base64">NSwxNSwyNSwzNSw0NSw1NSAgICAqICAgICogICAqICAgKiAgIGFwcF9zb2NrIFJBSUxTX0VOVj0kRU5WICROT1NfREFUQS9hZ2dyX3Jlc2NvbXBfZGhjcF9sb2dzLnJiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action QuickList.CustomGitActions</text>
       </register>
     </registers>
     <search>
@@ -1898,10 +1898,10 @@
         <entry>action QuickList.Grails</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LkN1c3RvbUdpdEFjdGlvbnM=</entry>
         <entry>action QuickList.Ruby/Rails</entry>
-        <entry>action QuickList.CustomGitActions</entry>
         <entry>vs</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
