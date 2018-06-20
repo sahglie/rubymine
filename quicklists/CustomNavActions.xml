@@ -1,0 +1,20 @@
+<list display="CustomNavActions">
+  <action id="GotoClass" />
+  <action id="GotoFile" />
+  <action id="GotoSymbol" />
+  <action id="GotoCustomRegion" />
+  <action id="GotoLine" />
+  <action id="QuickList.$Separator$" />
+  <action id="Back" />
+  <action id="Forward" />
+  <action id="JumpToLastChange" />
+  <action id="JumpToNextChange" />
+  <action id="SelectIn" />
+  <action id="ShowNavBar" />
+  <action id="GotoDeclaration" />
+  <action id="GotoImplementation" />
+  <action id="GotoTypeDeclaration" />
+  <action id="GotoSuperMethod" />
+  <action id="GotoTest" />
+  <action id="GotoRelated" />
+</list>

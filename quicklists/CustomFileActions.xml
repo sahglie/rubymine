@@ -1,0 +1,14 @@
+<list display="CustomFileActions">
+  <action id="NewElement" />
+  <action id="NewScratchFile" />
+  <action id="QuickList.$Separator$" />
+  <action id="RenameElement" />
+  <action id="RenameFile" />
+  <action id="SafeDelete" />
+  <action id="QuickList.$Separator$" />
+  <action id="CreateVueSingleFileComp" />
+  <action id="NewJavaScriptFile" />
+  <action id="NewPackageJsonFile" />
+  <action id="NewStylesheetFile" />
+  <action id="HTTP.Request.NewFile" />
+</list>
