@@ -169,6 +169,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/YottaTable.vue" timestamp="1529625400683">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/admin_incident.js" timestamp="1529607719372">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="14" column="31" />
@@ -431,11 +436,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/application.js" timestamp="1529615353478">
-        <mark key="[" line="14" column="55" />
-        <mark key="]" line="14" column="64" />
-        <mark key="^" line="14" column="64" />
-        <mark key="." line="14" column="64" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/application.js" timestamp="1529625390929">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="17" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt.rb" timestamp="1527198020896">
         <mark key="[" line="12" column="6" />
@@ -741,12 +747,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1529526104447">
-        <mark key="'" line="74" column="46" />
-        <mark key="[" line="196" column="4" />
-        <mark key="]" line="196" column="4" />
-        <mark key="." line="196" column="4" />
-        <mark key="^" line="196" column="4" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1529625155427">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step5/index.html.erb" timestamp="1480287082082">
         <mark key="[" line="0" column="43" />
@@ -805,15 +811,15 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529620198096">
+      <file name="/Dummy.txt" timestamp="1529624211933">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/package.json" timestamp="1529620393930">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="49" column="24" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="48" column="34" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/package.json" timestamp="1529624197263">
+        <mark key="'" line="24" column="22" />
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+        <mark key="^" line="49" column="33" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/verify_password.js.erb" timestamp="1476235761997">
         <mark key="[" line="12" column="17" />
@@ -1817,12 +1823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="20" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/ids/Snort.vue" />
-      <jump line="102" column="18" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/ids/Snort.vue" />
-      <jump line="42" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/utils/api_client.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/YottaTable.vue" />
-      <jump line="367" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/YottaTable.vue" />
-      <jump line="189" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/AppSpinner.vue" />
       <jump line="128" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/YottaTable.vue" />
       <jump line="376" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/YottaTable.vue" />
       <jump line="16" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/AppSpinner.vue" />
@@ -1917,6 +1917,12 @@
       <jump line="1218" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/yarn.lock" />
       <jump line="2388" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/yarn.lock" />
       <jump line="2390" column="52" filename="$USER_HOME$/Development/projects/sock_rails5/yarn.lock" />
+      <jump line="23" column="22" filename="$USER_HOME$/Development/projects/sock_rails5/package.json" />
+      <jump line="58" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/application.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
+      <jump line="18" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
+      <jump line="116" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
+      <jump line="25" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1925,23 +1931,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
-        <text>fsevents</text>
+        <text>errbit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsaWRhdGVzKDppcCwgaXBfYWRkcmVzczogeyBhbGxvd19ibGFuazogdHJ1ZSB9KQo=</text>
+      <register name="0" type="4">
+        <text>decc4b1dc7f53908a1cada613ec5d6b9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJmc2V2ZW50cyI6ICJeMS4yLjQiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1957,37 +1963,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+e3t0aGluZ319PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgPHByZT57eyBhbGVydC5yYXdfYWxlcnQgfX08L3ByZT4K</text>
+        <text encoding="base64">ICBsZXQgYWlyYnJha2UgPSBuZXcgQWlyYnJha2VDbGllbnQoewogICAgcHJvamVjdElkOiAnMScsCiAgICBwcm9qZWN0S2V5OiAnRklYTUUnCiAgfSkKCiAgVnVlLmNvbmZpZy5lcnJvckhhbmRsZXIgPSBmdW5jdGlvbiAoZXJyLCB2bSwgaW5mbykgewogICAgYWlyYnJha2Uubm90aWZ5KHsKICAgICAgZXJyb3I6IGVyciwKICAgICAgcGFyYW1zOiB7aW5mbzogaW5mb30KICAgIH0pOwogIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJmc2V2ZW50cyI6ICJeMS4yLjQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsaWRhdGVzKDpwZXJfcGFnZSwgbnVtZXJpY2FsaXR5OiB7IGs6IHRydWUgfSkK</text>
+        <text encoding="base64">ICAgICJmc2V2ZW50cyI6ICJeMS4yLjQiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcgo=</text>
+        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcgo=</text>
+        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgY29udGV4dCgiRWRpdGluZyB0aGUgZGVmYXVsdCBtZXNzYWdlIikgZG8KICAgIGl0ICJ3b3JrcyIgZG8KICAgICAgd2l0aGluKCJ0YWJsZSNkZWZhdWx0X21lc3NhZ2UiKSB7IGNsaWNrX29uKCJFZGl0IikgfQoKICAgICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoImgxIiwgdGV4dDogIkVkaXQgRGVmYXVsdCBNZXNzYWdlIikKICAgICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoIiNhZG1pbi1iYW5uZXIiKQoKICAgICAgd2l0aGluKCJmb3JtI2VkaXRfI3tNZXNzYWdlLmRlZmF1bHQuZG9tX2lkfSIpIGRvCiAgICAgICAgZmlsbF9pbigiQm9keSIsIHdpdGg6ICJkZWZhdWx0IGJvZHkiKQogICAgICAgIGZpbGxfaW4oIlN1YmplY3QgUHJlZml4Iiwgd2l0aDogImRlZmF1bHQgc3ViamVjdCBwcmVmaXgiKQogICAgICAgIGNsaWNrX29uKCJTdWJtaXQiKQogICAgICBlbmQKCiAgICAgIGV4cGVjdChwYWdlKS50byBoYXZlX3NlbGVjdG9yKCJoMSIsIHRleHQ6ICJNZXNzYWdlcyIpCiAgICAgIGV4cGVjdChwYWdlKS50byBoYXZlX3NlbGVjdG9yKCIjYWRtaW4tYmFubmVyIikKICAgICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoImRpdi5hbGVydC1zdWNjZXNzIikKICAgICAgZXhwZWN0KE1lc3NhZ2UuZGVmYXVsdC5ib2R5KS50byBlcWwoImRlZmF1bHQgYm9keSIpCiAgICAgIGV4cGVjdChNZXNzYWdlLmRlZmF1bHQuc3ViamVjdF9wcmVmaXgpLnRvIGVxbCgiZGVmYXVsdCBzdWJqZWN0IHByZWZpeCIpCiAgICBlbmQKICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgPHByZT57eyBhbGVydC5yYXdfYWxlcnQgfX08L3ByZT4K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fsevents</last-search>
+      <last-search>errbit</last-search>
       <last-offset />
-      <last-pattern>fsevents</last-pattern>
+      <last-pattern>errbit</last-pattern>
       <last-replace>@required</last-replace>
       <last-substitute>@req</last-substitute>
       <last-dir>1</last-dir>
@@ -1995,8 +2001,6 @@
     </search>
     <history>
       <history-search>
-        <entry>more_than</entry>
-        <entry>call_notifier</entry>
         <entry>def call_notifier</entry>
         <entry>byebug</entry>
         <entry>boundary</entry>
@@ -2015,6 +2019,8 @@
         <entry>total</entry>
         <entry>yarn</entry>
         <entry>fsevents</entry>
+        <entry>airbrake</entry>
+        <entry>errbit</entry>
       </history-search>
       <history-cmd>
         <entry>f</entry>
@@ -2031,12 +2037,12 @@
         <entry>.,.+2action QuickList.CustomGitActions</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>action ChooseRunConfiguration</entry>
         <entry>action QuickList.CustomGitActions</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
