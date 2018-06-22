@@ -2009,7 +2009,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.CustomGitActions</text>
+        <text>action QuickList.CustomFileActions</text>
       </register>
     </registers>
     <search>
@@ -2048,14 +2048,12 @@
         <entry>action FileStructurePopup</entry>
         <entry>action SelectAllOccurrences</entry>
         <entry>action QuickList.FindAndReplace</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Quicklist.GitActions</entry>
         <entry>action QuickList.CustomNavActions</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action QuickList.Grails</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LkN1c3RvbUdpdEFjdGlvbnM=</entry>
         <entry>action QuickList.Ruby/Rails</entry>
-        <entry>action QuickList.CustomFileActions</entry>
         <entry>vs</entry>
         <entry>action GotoTest</entry>
         <entry>action EditorAddOrRemoveCaret</entry>
@@ -2065,6 +2063,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
         <entry>action QuickList.CustomGitActions</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action QuickList.CustomFileActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -2141,6 +2141,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed SEMICOLON</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
