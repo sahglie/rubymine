@@ -446,8 +446,11 @@
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/incident.rb" timestamp="1529955530800">
-        <mark key="'" line="332" column="2" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/incident.rb" timestamp="1529955707208">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/snort_sig_class.rb" timestamp="1481565386685">
         <mark key="[" line="22" column="27" />
@@ -1891,7 +1894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/admin_snort_events.js" />
       <jump line="61" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/incidents/HostExceptions.vue" />
       <jump line="23" column="6" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/nos_data/vpn_session.rb" />
       <jump line="17" column="4" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/nos_data/vpn_session.rb" />
@@ -1991,6 +1993,7 @@
       <jump line="23" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/views/layouts/_admin_navigation.html.haml" />
       <jump line="14" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/incident.rb" />
       <jump line="332" column="2" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/incident.rb" />
+      <jump line="28" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/incident.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1999,14 +2002,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcihwbGFpbjogJ2hpJykK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>loadingRows</text>
@@ -2107,9 +2110,9 @@
         <entry>action ChooseRunConfiguration</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoAction</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
         <entry>action CloseActiveTab</entry>
       </history-cmd>
       <history-expr />
