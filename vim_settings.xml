@@ -169,10 +169,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/YottaTable.vue" timestamp="1529625400683">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/YottaTable.vue" timestamp="1529945422543">
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="5" />
+        <mark key="." line="39" column="5" />
+        <mark key="^" line="39" column="5" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/admin_incident.js" timestamp="1529607719372">
         <mark key="'" line="43" column="4" />
@@ -1987,7 +1988,7 @@
         <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgPHByZT57eyBhbGVydC5yYXdfYWxlcnQgfX08L3ByZT4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action QuickList.CustomFileActions</text>
       </register>
     </registers>
     <search>
@@ -2023,26 +2024,26 @@
         <entry>errbit</entry>
       </history-search>
       <history-cmd>
-        <entry>f</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
-        <entry>action QuickActions</entry>
         <entry>action QuickList.Ruby/Rails</entry>
         <entry>ci</entry>
         <entry>git</entry>
         <entry>action RunAnything</entry>
         <entry>action GotoAction</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>actionlist</entry>
         <entry>action RerunFailedTests</entry>
         <entry>.,.+2action QuickList.CustomGitActions</entry>
         <entry>action Run</entry>
         <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
-        <entry>action ChooseRunConfiguration</entry>
-        <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ChooseRunConfiguration</entry>
+        <entry>action QuickList.CustomGitActions</entry>
+        <entry>action QuickList.FindAndReplace</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action QuickList.CustomFileActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
