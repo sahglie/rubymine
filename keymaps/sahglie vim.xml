@@ -47,7 +47,7 @@
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
-    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="meta subtract" />
