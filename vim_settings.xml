@@ -630,6 +630,9 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/sock/services/sync_incident_with_rt_event.rb" timestamp="1529964730846">
+        <mark key="'" line="128" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/metrics/ops_reports/notice_spec.rb" timestamp="1476136593892">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="53" />
@@ -1104,11 +1107,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/ids/Snort.vue" timestamp="1529964223989">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/ids/Snort.vue" timestamp="1529964700174">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="1" column="0" />
+        <mark key="[" line="23" column="31" />
         <mark key="]" line="3" column="29" />
-        <mark key="." line="44" column="0" />
+        <mark key="." line="23" column="6" />
         <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/email_verifier.rb" timestamp="1475696957683">
@@ -1183,11 +1186,11 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/escalate_block_auto_reminder/show.html.erb" timestamp="1529964233923">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="32" column="5" />
-        <mark key="." line="32" column="5" />
-        <mark key="^" line="32" column="5" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/escalate_block_auto_reminder/show.html.erb" timestamp="1529965239322">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/ids_alert.rb" timestamp="1481310195148">
         <mark key="[" line="16" column="0" />
@@ -1903,7 +1906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="25" filename="$USER_HOME$/Development/projects/sock-rails5/Gemfile" />
       <jump line="11" column="17" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/nos_data/AdminAirbears2.vue" />
       <jump line="74" column="4" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/nos_data/AdminAirbears2.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/AlertHostInfo.vue" />
@@ -2003,6 +2005,7 @@
       <jump line="16" column="25" filename="$USER_HOME$/Development/projects/sock-rails5/config/config.yml" />
       <jump line="3" column="40" filename="$USER_HOME$/Development/projects/sock-rails5/app/controllers/admin/escalate_block_auto_reminder_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/incidents/index.html.erb" />
+      <jump line="128" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/sock/services/sync_incident_with_rt_event.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2012,7 +2015,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgPGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtZGVmYXVsdCI+CiAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWJvZHkiPgo=</text>
+        <text encoding="base64">PCU9ICAlPgo=</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
@@ -2027,7 +2030,7 @@
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgPGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtZGVmYXVsdCI+CiAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWJvZHkiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLm1hcCgmOmluY2lkZW50KQo=</text>
+        <text encoding="base64">PCU9ICAlPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2043,28 +2046,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGRpdiBkYXRhLWJlaGF2aW91cj0idnVlIj4KICA8dGFibGUtc2VhcmNoIGZvcm0taWQ9InNlYXJjaCI+CiAgICA8dGVtcGxhdGUgc2xvdD0icmVzZXRMaW5rIj4KICAgICAgPCU9IGxpbmtfdG8oIlJlc2V0IiwgYWRtaW5faW5jaWRlbnRzX3BhdGgpICU+CiAgICA8L3RlbXBsYXRlPgogICAgPHRlbXBsYXRlIHNsb3Q9ImZvcm0iPgogICAgICA8JT0gcmVuZGVyKCJzZWFyY2hfZm9ybSIsIHJlbW90ZV9mbGFnOiB0cnVlKSAlPgogICAgPC90ZW1wbGF0ZT4KICA8L3RhYmxlLXNlYXJjaD4KCiAgPHA+PCU9IHJlbmRlcigibmV3X2luY2lkZW50X2J1dHRvbiIpICU+PC9wPgoKICA8aW5jaWRlbnQtbGlzdAogICAgOnNlYXJjaC10ZXJtcz0iPCU9IEBzZWFyY2gucXVlcnkudG9fanNvbiAlPiIKICAgIDp0b3RhbC1jb3VudD0iPCU9IEB0b3RhbF9jb3VudCAlPiIvPgo8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLm1hcCgmOmluY2lkZW50KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLnN0YXR1cygnbmV3JykK</text>
+        <text encoding="base64">PGRpdiBkYXRhLWJlaGF2aW91cj0idnVlIj4KICA8dGFibGUtc2VhcmNoIGZvcm0taWQ9InNlYXJjaCI+CiAgICA8dGVtcGxhdGUgc2xvdD0icmVzZXRMaW5rIj4KICAgICAgPCU9IGxpbmtfdG8oIlJlc2V0IiwgYWRtaW5faW5jaWRlbnRzX3BhdGgpICU+CiAgICA8L3RlbXBsYXRlPgogICAgPHRlbXBsYXRlIHNsb3Q9ImZvcm0iPgogICAgICA8JT0gcmVuZGVyKCJzZWFyY2hfZm9ybSIsIHJlbW90ZV9mbGFnOiB0cnVlKSAlPgogICAgPC90ZW1wbGF0ZT4KICA8L3RhYmxlLXNlYXJjaD4KCiAgPHA+PCU9IHJlbmRlcigibmV3X2luY2lkZW50X2J1dHRvbiIpICU+PC9wPgoKICA8aW5jaWRlbnQtbGlzdAogICAgOnNlYXJjaC10ZXJtcz0iPCU9IEBzZWFyY2gucXVlcnkudG9fanNvbiAlPiIKICAgIDp0b3RhbC1jb3VudD0iPCU9IEB0b3RhbF9jb3VudCAlPiIvPgo8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLmxhc3RfY29udGFjdF9sdGUoNS5kYXlzLmFnbykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLnN0YXR1cygnbmV3JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLmxhc3RfY29udGFjdF9sdGUoNS5kYXlzLmFnbykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHN5bmNfZGJfdGlja2V0IShpbmNpZGVudCwgcnRfdGlja2V0KQogICAgICAgIGlmIGluY2lkZW50LnJ0X3RpY2tldD8KICAgICAgICAgIHVwZGF0ZV9kYl90aWNrZXQoaW5jaWRlbnQsIHJ0X3RpY2tldCkKICAgICAgICBlbHNlCiAgICAgICAgICBjcmVhdGVfZGJfdGlja2V0IShpbmNpZGVudCwgcnRfdGlja2V0KQogICAgICAgIGVuZAogICAgICByZXNjdWUgQWN0aXZlUmVjb3JkOjpSZWNvcmROb3RVbmlxdWUgPT4gZQogICAgICAgIFJhaWxzLmxvZ2dlci5pbmZvKCJSVCB0aWNrZXQgWyN7aW5jaWRlbnQudGlja2V0X2lkfV0gYWxyZWFkeSBzeW5jZWQiKQogICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIHN5bmNfZGJfdGlja2V0IShpbmNpZGVudCwgcnRfdGlja2V0KQogICAgICAgIGlmIGluY2lkZW50LnJ0X3RpY2tldD8KICAgICAgICAgIHVwZGF0ZV9kYl90aWNrZXQoaW5jaWRlbnQsIHJ0X3RpY2tldCkKICAgICAgICBlbHNlCiAgICAgICAgICBjcmVhdGVfZGJfdGlja2V0IShpbmNpZGVudCwgcnRfdGlja2V0KQogICAgICAgIGVuZAogICAgICByZXNjdWUgQWN0aXZlUmVjb3JkOjpSZWNvcmROb3RVbmlxdWUgPT4gZQogICAgICAgIFJhaWxzLmxvZ2dlci5pbmZvKCJSVCB0aWNrZXQgWyN7aW5jaWRlbnQudGlja2V0X2lkfV0gYWxyZWFkeSBzeW5jZWQiKQogICAgICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jX2RiX3RpY2tldCEoaW5jaWRlbnQsIHJ0X3RpY2tldCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeW5jX2RiX3RpY2tldCEoaW5jaWRlbnQsIHJ0X3RpY2tldCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
