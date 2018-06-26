@@ -1950,7 +1950,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICA8dGQ+PC90ZD4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action QuickList.CustomGitActions</text>
       </register>
     </registers>
     <search>
@@ -1996,7 +1996,6 @@
         <entry>action GotoAction</entry>
         <entry>action ChooseRunConfiguration</entry>
         <entry>action RunAnything</entry>
-        <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoTest</entry>
         <entry>action GotoRelated</entry>
@@ -2006,6 +2005,7 @@
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
         <entry>w</entry>
+        <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
