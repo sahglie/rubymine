@@ -1908,12 +1908,12 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/EscalateBlockReminder.vue" timestamp="1529975921209">
-        <mark key="'" line="14" column="62" />
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="49" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/EscalateBlockReminder.vue" timestamp="1529976599863">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alerts/fidelis.rb" timestamp="1482354964445">
         <mark key="[" line="15" column="41" />
@@ -1982,7 +1982,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/packs/admin_nos_data_calvisitor.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/nos_data/Calvisitor.vue" />
       <jump line="52" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/nos_data/Calvisitor.vue" />
       <jump line="4" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/nos_data/Calvisitor.vue" />
@@ -2082,6 +2081,7 @@
       <jump line="28" column="24" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/EscalateBlockReminder.vue" />
       <jump line="43" column="7" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/EscalateBlockReminder.vue" />
       <jump line="14" column="62" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/EscalateBlockReminder.vue" />
+      <jump line="59" column="4" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/EscalateBlockReminder.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2091,13 +2091,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>ignore_rules</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>ignore_rules</text>
       </register>
       <register name="/" type="4">
         <text>rt</text>
