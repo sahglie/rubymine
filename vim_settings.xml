@@ -2028,7 +2028,7 @@
         <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiMgV29ya2VycwojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKKi8xMCAgICogICAqICAgKiAgKiAgYXBwX3NvY2sgUkFJTFNfRU5WPSRFTlYgJFdPUktFUlMvYXVkaXRfZXZlbnRfc3lzbG9nLnJiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action QuickList.CustomGitActions</text>
       </register>
     </registers>
     <search>
@@ -2082,8 +2082,8 @@
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
         <entry>action ChooseRunConfiguration</entry>
-        <entry>action QuickList.CustomGitActions</entry>
         <entry>w</entry>
+        <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
