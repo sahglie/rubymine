@@ -472,12 +472,12 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationNew.vue" timestamp="1530103951559">
-        <mark key="'" line="40" column="34" />
-        <mark key="[" line="39" column="19" />
-        <mark key="]" line="39" column="43" />
-        <mark key="." line="39" column="43" />
-        <mark key="^" line="39" column="43" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationNew.vue" timestamp="1530105759800">
+        <mark key="'" line="95" column="14" />
+        <mark key="[" line="95" column="14" />
+        <mark key="]" line="95" column="14" />
+        <mark key="." line="95" column="14" />
+        <mark key="^" line="95" column="14" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alert_files/grouper.rb" timestamp="1529433357505">
         <mark key="[" line="17" column="30" />
@@ -936,6 +936,12 @@
         <mark key="]" line="19" column="24" />
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/AutomationActionNotification.vue" timestamp="1530105797628">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="59" />
+        <mark key="." line="4" column="59" />
+        <mark key="^" line="4" column="59" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/alert_pig/014_alert_groups.sql" timestamp="1485992899033">
         <mark key="[" line="2" column="0" />
@@ -2027,9 +2033,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="6" filename="$USER_HOME$/Development/projects/sock-rails5/app/controllers/admin/snort/events_controller.rb" />
-      <jump line="15" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/controllers/admin/snort/events_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/nos_data/forms/airbears2_search.rb" />
       <jump line="3" column="12" filename="$USER_HOME$/Development/projects/sock-rails5/lib/snort/forms/event_search.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/snort/forms/event_search.rb" />
       <jump line="49" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/snort/forms/event_search.rb" />
@@ -2127,6 +2130,9 @@
       <jump line="37" column="28" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/DateCriteria.vue" />
       <jump line="50" column="32" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/DateCriteria.vue" />
       <jump line="40" column="34" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationNew.vue" />
+      <jump line="116" column="22" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationNew.vue" />
+      <jump line="30" column="93" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationNew.vue" />
+      <jump line="95" column="14" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationNew.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2136,22 +2142,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>debounce</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy52YWx1ZSA9ICIiCg==</text>
+        <text encoding="base64">aW1wb3J0IEF1dG9tYXRpb25Dcml0ZXJpYSBmcm9tICcuLi8uLi9jb21wb25lbnRzL0F1dG9tYXRpb25Dcml0ZXJpYScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC01Ij4KICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTUiPgo=</text>
+        <text encoding="base64">ICBuYW1lOiAiQXV0b21hdGlvbkFjdGlvbk5vdGlmaWNhdGlvbiIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2167,28 +2173,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZhbHVlID0gIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPi0tIC0tPC9vcHRpb24+Cg==</text>
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvblRleHQ6ICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC01Ij4KICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTUiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kZW1pdCgnYWRkJywgewogICAgICAgIGZpZWxkOiB0aGlzLm5hbWUsCiAgICAgICAgdmFsdWU6IGAke3RoaXMucXR5fSAke3RoaXMuaW50ZXJ2YWx9YCwKICAgICAgICBvcGVyYXRvcjogIk9sZGVyIFRoYW4iCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnZhbHVlID0gIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPi0tIC0tPC9vcHRpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVnID0gL15cZCskLzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdHdvU2VjID0gMjAwMAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kZW1pdCgnYWRkJywgewogICAgICAgIGZpZWxkOiB0aGlzLm5hbWUsCiAgICAgICAgdmFsdWU6IGAke3RoaXMucXR5fSAke3RoaXMuaW50ZXJ2YWx9YCwKICAgICAgICBvcGVyYXRvcjogIk9sZGVyIFRoYW4iCiAgICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJjbG9zZSIgQGNsaWNrLnByZXZlbnQ9ImhpZGVFcnJvciI+PHNwYW4gYXJpYS1oaWRkZW49InRydWUiPiZ0aW1lczs8L3NwYW4+PC9idXR0b24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
