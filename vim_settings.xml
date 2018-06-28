@@ -1501,13 +1501,6 @@
         <mark key="." line="41" column="39" />
         <mark key="^" line="41" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationNew.vue" timestamp="1530134995497">
-        <mark key="'" line="86" column="23" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="89" column="56" />
-        <mark key="^" line="88" column="43" />
-        <mark key="." line="88" column="43" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/errbit.rb" timestamp="1529949314536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
@@ -1930,14 +1923,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGV0IGNzcmZUb2tlbiA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ21ldGFbbmFtZT0iY3NyZi10b2tlbiJdJykuZ2V0QXR0cmlidXRlKCdjb250ZW50JykKYXhpb3MuZGVmYXVsdHMuaGVhZGVycy5jb21tb25bJ1gtQ1NSRi1Ub2tlbiddID0gY3NyZlRva2VuCg==</text>
+      <register name="&quot;" type="4">
+        <text>event</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>el</text>
+        <text>event</text>
       </register>
       <register name="/" type="4">
         <text>debounce</text>
@@ -2039,8 +2032,8 @@
         <entry>action GotoSymbol</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
         <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
       <history-expr />
