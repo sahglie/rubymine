@@ -417,7 +417,7 @@
         <mark key="^" line="13" column="66" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530214123504">
+      <file name="/Dummy.txt" timestamp="1530246772390">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -2332,7 +2332,7 @@
         <text encoding="base64">ICAgICAgICBtb2RlbCA9IHRhYmxlLmNsYXNzaWZ5LmNvbnN0YW50aXplCiAgICAgICAgYXJlbCA9IG1vZGVsLmFyZWxfdGFibGUK</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.CustomGitActions</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2385,9 +2385,9 @@
         <entry>action RecentFiles</entry>
         <entry>action Run</entry>
         <entry>action GotoTest</entry>
-        <entry>w</entry>
         <entry>action RunClass</entry>
         <entry>action QuickList.CustomGitActions</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
