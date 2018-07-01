@@ -158,12 +158,12 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationEdit.vue" timestamp="1530422902746">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationEdit.vue" timestamp="1530451602476">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="97" column="70" />
-        <mark key="]" line="97" column="79" />
-        <mark key="." line="97" column="79" />
-        <mark key="^" line="97" column="79" />
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="65" column="28" />
+        <mark key="^" line="65" column="31" />
+        <mark key="." line="65" column="28" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/automations/edit.html.erb" timestamp="1530212638008">
         <mark key="[" line="3" column="19" />
@@ -544,12 +544,12 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationNew.vue" timestamp="1530416839140">
-        <mark key="'" line="45" column="11" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="39" column="39" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationNew.vue" timestamp="1530451556064">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+        <mark key="^" line="39" column="30" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/netreg/jobs/save_audit_event.rb" timestamp="1530033821536">
         <mark key="[" line="11" column="0" />
@@ -964,7 +964,7 @@
         <mark key="^" line="13" column="66" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530423277182">
+      <file name="/Dummy.txt" timestamp="1530451370396">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -2175,12 +2175,11 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/AutomationEditor.vue" timestamp="1530416994093">
-        <mark key="'" line="92" column="15" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="^" line="171" column="54" />
-        <mark key="." line="163" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/AutomationEditor.vue" timestamp="1530450577760">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="86" column="3" />
+        <mark key="." line="86" column="3" />
+        <mark key="^" line="86" column="3" />
       </file>
       <file name="$USER_HOME$/Development/projects/inet_bug/config/initializers/local/monkey_patches/ip_addr.rb" timestamp="1479756170203">
         <mark key="[" line="19" column="27" />
@@ -2232,10 +2231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="21" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationNew.vue" />
-      <jump line="28" column="25" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/AutomationEditor.vue" />
-      <jump line="19" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationNew.vue" />
-      <jump line="103" column="23" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/AutomationEditor.vue" />
       <jump line="27" column="42" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/AutomationEditor.vue" />
       <jump line="84" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/AutomationEditor.vue" />
       <jump line="50" column="12" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/AutomationEditor.vue" />
@@ -2332,6 +2327,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationEdit.vue" />
       <jump line="10" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/automations/edit.html.erb" />
       <jump line="9" column="5" filename="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/automations/edit.html.erb" />
+      <jump line="33" column="20" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationNew.vue" />
+      <jump line="73" column="15" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/AutomationEditor.vue" />
+      <jump line="63" column="13" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/AutomationEditor.vue" />
+      <jump line="47" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationNew.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2341,22 +2340,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>criteria</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jaGVja2VkSW5jaWRlbnRzID0ge30K</text>
+        <text encoding="base64">ICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgZm9ybToge30sCiAgICAgIGNyaXRlcmlhOiBbXQogICAgfQogIH0sCgogIGNyZWF0ZWQoKSB7CiAgICB0aGlzLmZvcm0gPSB7Li4udGhpcy5hdXRvbWF0aW9ufQoKICAgIHRoaXMuY3JpdGVyaWEgPSB0aGlzLmF1dG9tYXRpb24uY3JpdGVyaWEubWFwKGMgPT4gewogICAgICByZXR1cm4gewogICAgICAgIGZpZWxkOiBjLmNvbHVtbk5hbWUsCiAgICAgICAgb3BlcmF0b3I6IGMub3BlcmF0b3IsCiAgICAgICAgdmFsdWU6IGMudmFsdWUsCiAgICAgICAgdHlwZTogYy5jcml0ZXJpYVR5cGUKICAgICAgfQogICAgfSkKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CjwhLS08YnIvPi0tPgoKPCEtLTxkaXYgY2xhc3M9InJvdyI+LS0+Cgo8IS0tICA8cHJlIGNsYXNzPSJ3ZWxsIj4tLT4KPCUjPSBAbWF0Y2hpbmdfaW5jaWRlbnRzLnRvX25pY2VxbCAlPgo8IS0tICA8L3ByZT4tLT4KCjwhLS0gIDxkaXYgY2xhc3M9InBhbmVsIHBhbmVsLXByaW1hcnkiIGlkPSJtYXRjaGluZ0luY2lkZW50cyI+LS0+CjwhLS0gICAgPGRpdiBjbGFzcz0ncGFuZWwtaGVhZGluZyc+SW5jaWRlbnRzICg8JSM9IEBtYXRjaGluZ19pbmNpZGVudHMuY291bnQgJT4pIE1hdGNoIENyaXRlcmlhPC9kaXY+LS0+CjwhLS0gICAgPGRpdiBjbGFzcz0ncGFuZWwtYm9keSc+LS0+CjwhLS0gICAgICA8dGFibGUgY2xhc3M9InRhYmxlIHRhYmxlLWhvdmVyIj4tLT4KPCEtLSAgICAgICAgPHRoZWFkPi0tPgo8IS0tICAgICAgICA8dHIgc3R5bGU9ImJvcmRlcjogMXB4IHNvbGlkIGJsYWNrOyI+LS0+CjwhLS0gICAgICAgICAgPHRoIGNvbHNwYW49IjYiIHN0eWxlPSJwYWRkaW5nOiAycHg7IGJvcmRlcjogMXB4IHNvbGlkIGJsYWNrOyB0ZXh0LWFsaWduOiBjZW50ZXI7Ij4tLT4KPCEtLSAgICAgICAgICAgIFJUIFRpY2tldC0tPgo8IS0tICAgICAgICAgIDwvdGg+LS0+CjwhLS0gICAgICAgICAgPHRoIGNvbHNwYW49IjMiIHN0eWxlPSJwYWRkaW5nOiAycHg7IGJvcmRlcjogMXB4IHNvbGlkIGJsYWNrOyB0ZXh0LWFsaWduOiBjZW50ZXI7Ij4tLT4KPCEtLSAgICAgICAgICAgIEluY2lkZW50LS0+CjwhLS0gICAgICAgICAgPC90aD4tLT4KPCEtLSAgICAgICAgPC90cj4tLT4KPCEtLSAgICAgICAgPHRyPi0tPgo8IS0tICAgICAgICAgIDx0aCBzdHlsZT0iYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCBibGFjazsiPlRpY2tldCAjPC90aD4tLT4KPCEtLSAgICAgICAgICA8dGg+U3RhdHVzPC90aD4tLT4KPCEtLSAgICAgICAgICA8dGg+UXVldWU8L3RoPi0tPgo8IS0tICAgICAgICAgIDx0aD5DcmVhdGVkIFRTPC90aD4tLT4KPCEtLSAgICAgICAgICA8dGg+VXBkYXRlZCBUUzwvdGg+LS0+CjwhLS0gICAgICAgICAgPHRoPkxhc3QgQ29udGFjdDwvdGg+LS0+CjwhLS0gICAgICAgICAgPHRoIHN0eWxlPSJib3JkZXItbGVmdDogMXB4IHNvbGlkIGJsYWNrOyI+SG9zdCBUeXBlPC90aD4tLT4KPCEtLSAgICAgICAgICA8dGg+RXZlbnQgVHlwZTwvdGg+LS0+CjwhLS0gICAgICAgICAgPHRoIHN0eWxlPSJib3JkZXItcmlnaHQ6IDFweCBzb2xpZCBibGFjazsiPkV2ZW50IFNvdXJjZTwvdGg+LS0+CjwhLS0gICAgICAgIDwvdHI+LS0+CjwhLS0gICAgICAgIDwvdGhlYWQ+LS0+CjwhLS0gICAgICAgIDx0Ym9keT4tLT4KICAgICAgICA8JSMgQG1hdGNoaW5nX2luY2lkZW50cy5lYWNoIGRvIHxpfCAlPgo8IS0tICAgICAgICAgIDx0cj4tLT4KPCEtLSAgICAgICAgICAgIDx0ZD48JSM9IGkudGlja2V0X2lkICU+PC90ZD4tLT4KPCEtLSAgICAgICAgICAgIDx0ZD48JSM9IGkucnRfdGlja2V0LnN0YXR1cyAlPjwvdGQ+LS0+CjwhLS0gICAgICAgICAgICA8dGQ+PCUjPSBpLnJ0X3RpY2tldC5xdWV1ZSAlPjwvdGQ+LS0+CjwhLS0gICAgICAgICAgICA8dGQ+PCUjPSBpLnJ0X3RpY2tldC5jcmVhdGVkX3RzICU+PC90ZD4tLT4KPCEtLSAgICAgICAgICAgIDx0ZD48JSM9IGkucnRfdGlja2V0LnVwZGF0ZWRfdHMgJT48L3RkPi0tPgo8IS0tICAgICAgICAgICAgPHRkPjwlIz0gaS5ydF90aWNrZXQubGFzdF9jb250YWN0X3RzICU+PC90ZD4tLT4KPCEtLSAgICAgICAgICAgIDx0ZD48JSM9IGkuaG9zdF90eXBlICU+PC90ZD4tLT4KPCEtLSAgICAgICAgICAgIDx0ZD48JSM9IGkuZXZlbnRfdHlwZSAlPjwvdGQ+LS0+CjwhLS0gICAgICAgICAgICA8dGQ+PCUjPSBpLmV2ZW50X3NvdXJjZSAlPjwvdGQ+LS0+CjwhLS0gICAgICAgICAgPC90cj4tLT4KICAgICAgICA8JSMgZW5kICU+CjwhLS0gICAgICAgIDwvdGJvZHk+LS0+CjwhLS0gICAgICA8L3RhYmxlPi0tPgo8IS0tICAgIDwvZGl2Pi0tPgo8IS0tICA8L2Rpdj4tLT4KPCEtLTwvZGl2Pi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2372,31 +2371,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZm9ybSA9IHsuLi50aGlzLmF1dG9tYXRpb259Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnQpCg==</text>
+        <text encoding="base64">CiAgICB0aGlzLmNyaXRlcmlhID0gdGhpcy5hdXRvbWF0aW9uLmNyaXRlcmlhLm1hcChjID0+IHsKICAgICAgcmV0dXJuIHsKICAgICAgICBmaWVsZDogYy5jb2x1bW5OYW1lLAogICAgICAgIG9wZXJhdG9yOiBjLm9wZXJhdG9yLAogICAgICAgIHZhbHVlOiBjLnZhbHVlLAogICAgICAgIHR5cGU6IGMuY3JpdGVyaWFUeXBlCiAgICAgIH0KICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgZm9ybToge30sCiAgICAgIGNyaXRlcmlhOiBbXQogICAgfQogIH0sCgogIGNyZWF0ZWQoKSB7CiAgICB0aGlzLmZvcm0gPSB7Li4udGhpcy5hdXRvbWF0aW9ufQogIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAnL2FkbWluL2F1dG9tYXRpb25zJwo=</text>
+        <text encoding="base64">CiAgICB0aGlzLmNyaXRlcmlhID0gdGhpcy5hdXRvbWF0aW9uLmNyaXRlcmlhLm1hcChjID0+IHsKICAgICAgcmV0dXJuIHsKICAgICAgICBmaWVsZDogYy5jb2x1bW5OYW1lLAogICAgICAgIG9wZXJhdG9yOiBjLm9wZXJhdG9yLAogICAgICAgIHZhbHVlOiBjLnZhbHVlLAogICAgICAgIHR5cGU6IGMuY3JpdGVyaWFUeXBlCiAgICAgIH0KICAgIH0pCiAgfSwKICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgY3JpdGVyaWE6IHRoaXMuYXV0b21hdGlvbi5jcml0ZXJpYQogICAgfQogIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hlY2tlZEtleXMpCg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CjxzdHlsZSBzY29wZWQ+Cgo8L3N0eWxlPgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC02Ij4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gfSkK</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTYiPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.CustomGitActions</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2448,10 +2447,10 @@
         <entry>action GotoAction</entry>
         <entry>action GotoSymbol</entry>
         <entry>action GotoRelated</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
+        <entry>action RecentFiles</entry>
         <entry>action QuickList.CustomGitActions</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
