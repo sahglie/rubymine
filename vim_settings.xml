@@ -121,6 +121,13 @@
         <mark key="." line="60" column="10" />
         <mark key="^" line="60" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/config/initializers/monkey_patches/hash.rb" timestamp="1530411746419">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/alerts/intrushield.rb" timestamp="1481321931854">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="9" column="7" />
@@ -246,10 +253,10 @@
         <mark key="." line="16" column="67" />
         <mark key="^" line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/controllers/admin/automations_controller.rb" timestamp="1530407155968">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/controllers/admin/automations_controller.rb" timestamp="1530412020175">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/metrics/ops_reports/incident_spec.rb" timestamp="1476136773490">
         <mark key="[" line="12" column="38" />
@@ -852,11 +859,11 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="79" />
       </file>
-      <file name="/Ruby Console" timestamp="1530246058324">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
+      <file name="/Ruby Console" timestamp="1530411802760">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/ids/PaloAlto.vue" timestamp="1529557453846">
         <mark key="'" line="73" column="2" />
@@ -1196,9 +1203,9 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/application_record.rb" timestamp="1530403953780">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="7" column="70" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/application_record.rb" timestamp="1530411451009">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="10" column="5" />
         <mark key="." line="7" column="70" />
         <mark key="^" line="7" column="70" />
       </file>
@@ -1386,12 +1393,12 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/automations/index.json.jbuilder" timestamp="1530406778593">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/automations/index.json.jbuilder" timestamp="1530411442872">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="36" />
-        <mark key="^" line="9" column="36" />
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+        <mark key="^" line="5" column="48" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/incidents/013_incidents.sql" timestamp="1530130970661">
         <mark key="[" line="14" column="0" />
@@ -1534,9 +1541,6 @@
         <mark key="]" line="21" column="24" />
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="24" />
-      </file>
-      <file name="/fragment.rb" timestamp="1530244132895">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/jobs/osx_out_of_date.rb" timestamp="1481062829774">
         <mark key="[" line="27" column="26" />
@@ -1822,8 +1826,12 @@
         <mark key="." line="31" column="23" />
         <mark key="^" line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/automation.rb" timestamp="1530403881790">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/automation.rb" timestamp="1530411244503">
         <mark key="'" line="9" column="77" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="36" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="36" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_step1_confirm_email_form.html.haml" timestamp="1480277155639">
         <mark key="[" line="1" column="25" />
@@ -2007,11 +2015,11 @@
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/automations/show.json.jbuilder" timestamp="1530407069359">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
-        <mark key="^" line="7" column="52" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/automations/show.json.jbuilder" timestamp="1530411899475">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+        <mark key="^" line="5" column="58" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/packs/application.js" timestamp="1530232651628">
         <mark key="'" line="75" column="27" />
@@ -2019,9 +2027,6 @@
         <mark key="]" line="91" column="22" />
         <mark key="." line="91" column="22" />
         <mark key="^" line="91" column="22" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1530202243672">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aggressive_ip_ignores/new.html.haml" timestamp="1479924308317">
         <mark key="[" line="7" column="33" />
@@ -2213,7 +2218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="41" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/automations.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/automations.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/incidents/033_rt_comments.sql" />
       <jump line="10" column="39" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/incidents/034_automations.sql" />
@@ -2313,6 +2317,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/automations/index.json.jbuilder" />
       <jump line="10" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationEdit.vue" />
       <jump line="21" column="106" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/AutomationEditor.vue" />
+      <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/config/initializers/monkey_patches/hash.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2321,23 +2326,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAjIGRlZiBzaG93CiAgIyAgIEBhdXRvbWF0aW9uID0gOjpBdXRvbWF0aW9uLmZpbmQocGFyYW1zWzppZF0pCiAgIyAgIEBjcml0ZXJpYV9tYXRjaGVzID0gU29jazo6U2VydmljZXM6OkF1dG9tYXRpb25Dcml0ZXJpYUZpbmRlci5ydW4oQGF1dG9tYXRpb24uY3JpdGVyaWEpCiAgIyBlbmQK</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>rt-dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PCUgYXV0b21hdGlvbl9qc29uID0gSlNPTi5wYXJzZShyZW5kZXIodGVtcGxhdGU6ICcvYWRtaW4vYXV0b21hdGlvbnMvc2hvdy5qc29uLmpidWlsZGVyJykpICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBrLnRvX3MuY2FtZWxpemUoOmxvd2VyKS50b19zeW0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgaWQ6IHRoaXMuYXV0b21hdGlvbi5pZCwKICAgIC8vICAgbmFtZTogdGhpcy5hdXRvbWF0aW9uLm5hbWUsCiAgICAvLyAgIGRlc2NyaXB0aW9uOiB0aGlzLmF1dG9tYXRpb24uZGVzY3JpcHRpb24sCiAgICAvLyAgIGFjdGlvblR5cGU6IHRoaXMuYXV0b21hdGlvbi5hY3Rpb25fdHlwZSwKICAgIC8vICAgYWN0aW9uQ29uZmlnOiB0aGlzLmF1dG9tYXRpb24uYWN0aW9uX2NvbmZpZywKICAgIC8vICAgZW5hYmxlZDogdGhpcy5hdXRvbWF0aW9uLmVuYWJsZWQKICAgIC8vIH0K</text>
+        <text encoding="base64">ICAjIGRlZiBzaG93CiAgIyAgIEBhdXRvbWF0aW9uID0gOjpBdXRvbWF0aW9uLmZpbmQocGFyYW1zWzppZF0pCiAgIyAgIEBjcml0ZXJpYV9tYXRjaGVzID0gU29jazo6U2VydmljZXM6OkF1dG9tYXRpb25Dcml0ZXJpYUZpbmRlci5ydW4oQGF1dG9tYXRpb24uY3JpdGVyaWEpCiAgIyBlbmQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2353,28 +2358,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgQGF1dG9tYXRpb25fanNvbiA9IGNhbWVsaXplX2tleXMhKEBhdXRvbWF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICBrLnRvX3MuY2FtZWxpemUoOmxvd2VyKS50b19zeW0KICAgICAgZWxzZQogICAgICAgIGsuY2FtZWxpemUoOmxvd2VyKS50b19zeW0KICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBqc29uLmNyZWF0ZVBhdGgoZWRpdF9hZG1pbl9hdXRvbWF0aW9uc19wYXRoKGkpKQogIGpzb24uZWRpdFBhdGgoZWRpdF9hZG1pbl9hdXRvbWF0aW9uc19wYXRoKGkpKQogIGpzb24uZGVsZXRlUGF0aChhZG1pbl9hdXRvbWF0aW9uc19wYXRoKGkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgQGF1dG9tYXRpb25zX2pzb24gPSBAYXV0b21hdGlvbnMubWFwIGRvIHxhfAogICAgIyAgIGEuYXR0cmlidXRlcy5tZXJnZSh7CiAgICAjICAgICAnc2hvd1BhdGgnID0+IGFkbWluX2F1dG9tYXRpb25fcGF0aChhKSwKICAgICMgICAgICdlZGl0UGF0aCcgPT4gZWRpdF9hZG1pbl9hdXRvbWF0aW9uX3BhdGgoYSksCiAgICAjICAgICAnZGVsZXRlUGF0aCcgPT4gIiN7YWRtaW5fYXV0b21hdGlvbnNfcGF0aH0vI3thLmlkfSIKICAgICMgICB9KQogICAgIyBlbmQudG9fanNvbgogICAgIwogICAgIyBSYWlscy5sb2dnZXIuZGVidWcoQGF1dG9tYXRpb25zX2pzb24uY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRpdiBkYXRhLWF1dG9tYXRpb25zLWpzb249IjwlPSBhdXRvbWF0aW9uc19qc29uICU+Ij48L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGRlZiB0b19qc29uKG9wdGlvbnM9bmlsKQogICAgICBpZiBvcHRpb25zLmlzX2E/KEhhc2gpCiAgICAgICAgY2FtZWxpemVkID0gb3B0aW9ucy5kZWxldGUoOmNhbWVsaXplKSB8fCBvcHRpb25zLmRlbGV0ZSgnY2FtZWxpemUnKQogICAgICBlbmQKICAgIGVuZAogICAgMjggT3JpbmRhIFdheQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCUjIGF1dG9tYXRpb25zX2pzb24gPSByZW5kZXIodGVtcGxhdGU6ICdpbmRleC5qc29uLmpidWlsZGVyJykgJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBkYXRhLWF1dG9tYXRpb25zLWpzb249IiIK</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlcy5kZWVwX3RyYW5zZm9ybV9rZXlzIHsgfGt8IGsuY2FtZWxpemUoOmxvd2VyKSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCUgYXV0b21hdGlvbnNfanNvbiA9IGsgJT4K</text>
+        <text encoding="base64">ICAgIC8vICAgaWQ6IHRoaXMuYXV0b21hdGlvbi5pZCwKICAgIC8vICAgbmFtZTogdGhpcy5hdXRvbWF0aW9uLm5hbWUsCiAgICAvLyAgIGRlc2NyaXB0aW9uOiB0aGlzLmF1dG9tYXRpb24uZGVzY3JpcHRpb24sCiAgICAvLyAgIGFjdGlvblR5cGU6IHRoaXMuYXV0b21hdGlvbi5hY3Rpb25fdHlwZSwKICAgIC8vICAgYWN0aW9uQ29uZmlnOiB0aGlzLmF1dG9tYXRpb24uYWN0aW9uX2NvbmZpZywKICAgIC8vICAgZW5hYmxlZDogdGhpcy5hdXRvbWF0aW9uLmVuYWJsZWQKICAgIC8vIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBqc29uLmlwdjRfYWRkcnMobS5pcHY0X2FkZHJzLm1hcCgmOnRvX3MpKQogIGpzb24uaXB2Nl9hZGRycyhtLmlwdjZfYWRkcnMubWFwKCY6dG9fcykpCiAganNvbi5tYWNfYWRkcnMobS5tYWNfYWRkcnMpCiAganNvbi5vcyhtLm9zKQogIGpzb24udWNiX2Rlc2t0b3BfdmVyc2lvbihtLnVjYl9kZXNrdG9wX3ZlcnNpb24pCiAganNvbi5iZXNfcmVsYXlfZGlzdGFuY2UobS5iZXNfcmVsYXlfZGlzdGFuY2UpCiAganNvbi5sYXN0X3JlcG9ydF90cyhtLmxhc3RfcmVwb3J0X3RzLmlzbzg2MDEpCiAganNvbi5jb25maWdfc3RhcnRfdHMobS5jb25maWdfc3RhcnRfdHMuaXNvODYwMSkKICBqc29uLmNvbmZpZ19zdG9wX3RzKG0uY29uZmlnX3N0b3BfdHMuaXNvODYwMSkKICBqc29uLmNyZWF0ZWRfYXQobS5jcmVhdGVkX2F0Lmlzbzg2MDEpCiAganNvbi51cGRhdGVkX2F0KG0udXBkYXRlZF9hdC5pc284NjAxKQo=</text>
+        <text encoding="base64">ICAgICMgQGF1dG9tYXRpb25fanNvbiA9IGNhbWVsaXplX2tleXMhKEBhdXRvbWF0aW9uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2413,7 +2418,6 @@
         <entry>rt-dev</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5CIHNvcnQ=</entry>
         <entry encoding="base64">JzwsJz5CICFzb3J0</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>action GotoClass</entry>
@@ -2424,14 +2428,15 @@
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
         <entry>action QuickList.CustomGitActions</entry>
-        <entry>action GotoAction</entry>
         <entry>action SelectAllOccurrences</entry>
-        <entry>action GotoFile</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoFile</entry>
         <entry>action GotoRelated</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoSymbol</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
