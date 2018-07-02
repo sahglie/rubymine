@@ -1918,6 +1918,12 @@
         <mark key="." line="62" column="18" />
         <mark key="^" line="62" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" timestamp="1530554031959">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="1" column="16" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/alert_pig/create_alert_groups.rb" timestamp="1485995908697">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="33" />
@@ -2281,14 +2287,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBhdXRvbWF0aW9uX2pzb24gPSBjYW1lbGl6ZV9rZXlzKEBhdXRvbWF0aW9uLmFzX2pzb24pCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>rt</text>
@@ -2297,7 +2303,7 @@
         <text encoding="base64">ICAgIGpzb25faGFzaC5kZWVwX3RyYW5zZm9ybV9rZXlzIHsgfGt8IGsuY2FtZWxpemUoOmxvd2VyKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBhdXRvbWF0aW9uX2pzb24gPSBjYW1lbGl6ZV9rZXlzKEBhdXRvbWF0aW9uLmFzX2pzb24pCg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2313,31 +2319,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0id2VsbCBjb2wtbWQtMTIiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGpzb25faGFzaC5kZWVwX3RyYW5zZm9ybV9rZXlzIHsgfGt8IGsuY2FtZWxpemUoOmxvd2VyKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCBjb2wtbWQtMyI+CiAgICAgICAgPCEtLTxsYWJlbCBmb3I9ImNyaXRlcmlhX2ZpZWxkIj5BY3Rpb24gVHlwZTwvbGFiZWw+LS0+CiAgICAgICAgPHNlbGVjdCBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iY3JpdGVyaWFfZmllbGQiIHYtbW9kZWw9InNlbGVjdGVkRmllbGQiPgogICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIj5TZWxlY3QgT25lPC9vcHRpb24+CiAgICAgICAgICA8b3B0aW9uIHYtZm9yPSJmaWVsZCBpbiBmaWVsZE5hbWVzIj57e2ZpZWxkfX08L29wdGlvbj4KICAgICAgICA8L3NlbGVjdD4KICAgICAgICA8IS0tPHNwYW4gY2xhc3M9ImhlbHAtYmxvY2siIHYtaWY9ImVycm9ycy5hY3Rpb25fdHlwZSI+e3sgZXJyb3JzLmFjdGlvbl90eXBlIH19PC9zcGFuPi0tPgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgY2FtZWxpemVfa2V5cyhqc29uX2hhc2gpCg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCBjb2wtbWQtMyI+CiAgICAgICAgPCEtLTxsYWJlbCBmb3I9ImNyaXRlcmlhX2ZpZWxkIj5BY3Rpb24gVHlwZTwvbGFiZWw+LS0+CiAgICAgICAgPHNlbGVjdCBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iY3JpdGVyaWFfZmllbGQiIHYtbW9kZWw9InNlbGVjdGVkRmllbGQiPgogICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIj5TZWxlY3QgT25lPC9vcHRpb24+CiAgICAgICAgICA8b3B0aW9uIHYtZm9yPSJmaWVsZCBpbiBmaWVsZE5hbWVzIj57e2ZpZWxkfX08L29wdGlvbj4KICAgICAgICA8L3NlbGVjdD4KICAgICAgICA8IS0tPHNwYW4gY2xhc3M9ImhlbHAtYmxvY2siIHYtaWY9ImVycm9ycy5hY3Rpb25fdHlwZSI+e3sgZXJyb3JzLmFjdGlvbl90eXBlIH19PC9zcGFuPi0tPgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBhdXRvbWF0aW9uX2pzb24gPSBjYW1lbGl6ZV9rZXlzKEBhdXRvbWF0aW9uLmFzX2pzb24pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBlbmQK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGpzb25faGFzaC5kZWVwX3RyYW5zZm9ybV9rZXlzIHsgfGt8IGsuY2FtZWxpemUoOmxvd2VyKSB9Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action QuickList.FindAndReplace</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2387,12 +2393,12 @@
         <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
         <entry>action GotoRelated</entry>
-        <entry>action QuickList.CustomGitActions</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoSymbol</entry>
         <entry>action QuickList.FindAndReplace</entry>
+        <entry>action QuickList.CustomGitActions</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
