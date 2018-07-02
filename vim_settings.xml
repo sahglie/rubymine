@@ -481,7 +481,7 @@
         <mark key="." line="34" column="16" />
         <mark key="^" line="34" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530568650004">
+      <file name="/Dummy.txt" timestamp="1530570117690">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -2417,7 +2417,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action QuickList.CustomGitActions</text>
       </register>
     </registers>
     <search>
@@ -2468,11 +2468,11 @@
         <entry>w'</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>we</entry>
-        <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
