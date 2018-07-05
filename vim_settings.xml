@@ -162,11 +162,12 @@
         <mark key="^" line="1028" column="76" />
         <mark key="." line="1028" column="71" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/data/automationSchema.json" timestamp="1530131968528">
-        <mark key="[" line="61" column="19" />
-        <mark key="]" line="61" column="24" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/data/automationSchema.json" timestamp="1530814958899">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="65" column="12" />
         <mark key="^" line="61" column="24" />
-        <mark key="." line="61" column="24" />
+        <mark key="." line="65" column="12" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/assets/config/manifest.js" timestamp="1475613001388">
         <mark key="[" line="2" column="38" />
@@ -810,6 +811,12 @@
         <mark key="." line="57" column="79" />
         <mark key="^" line="57" column="79" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_actions/notification.rb" timestamp="1530815617437">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/automations/new.html.erb" timestamp="1530318538404">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="33" />
@@ -901,6 +908,13 @@
         <mark key="]" line="7" column="21" />
         <mark key="^" line="13" column="66" />
         <mark key="." line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automations/notification.rb" timestamp="1530815482545">
+        <mark key="'" line="3" column="18" />
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+        <mark key="^" line="0" column="39" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/forms/aid_list/tag.rb" timestamp="1479498667974">
         <mark key="[" line="0" column="11" />
@@ -1059,6 +1073,12 @@
         <mark key="]" line="25" column="28" />
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/incident_automation_runner.rb" timestamp="1530815289344">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/email_temporary_password.rb" timestamp="1480278043572">
         <mark key="[" line="19" column="52" />
@@ -1748,6 +1768,11 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationIncidents.vue" timestamp="1530815052753">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/verify_email.rb" timestamp="1475696273345">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="42" />
@@ -2145,8 +2170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/automations/index.html.erb" />
-      <jump line="75" column="27" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/packs/application.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/Gemfile" />
       <jump line="61" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationNew.vue" />
       <jump line="106" column="21" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/AutomationEditor.vue" />
@@ -2245,6 +2268,8 @@
       <jump line="55" column="3" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationIncidents.vue" />
       <jump line="43" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automations_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automations_controller.rb" />
+      <jump line="65" column="12" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/data/automationSchema.json" />
+      <jump line="4" column="18" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automations/notification.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2253,14 +2278,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY3JhcC5zZW5kCg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>rt</text>
@@ -2269,7 +2294,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh4KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwIHNxbF9zY29wZS50b19zcWwK</text>
+        <text encoding="base64">ICAgICAgY3JhcC5zZW5kCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2285,31 +2310,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwIHNxbF9zY29wZS50b19zcWwK</text>
+        <text encoding="base64">ICAgICAgY3JhcCA9IGluY2lkZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwIHNxbF9zY29wZS50b19zcWwK</text>
+        <text encoding="base64">ICAgICAgY3JhcC5zZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5kZWJ1ZyhAYXV0b21hdGlvbi5lcnJvcnMuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgY3JhcCA9IGluY2lkZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5kZWJ1ZyhlLm1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgQGluY2lkZW50c19zcWwgPSBAaW5jaWRlbnRzLnRvX25pY2VxbC5nc3ViKC8oQU5EKS8sICdcbiAgICBcMScpLmdzdWIoLygsKS8sICdcMVxuICAnKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzb2NrLW1vZGFsIEBjbG9zZT0ic2hvd01vZGFsID0gZmFsc2UiIDpzaG93PSJzaG93TW9kYWwiIHNpemU9J2xhcmdlJz4KICAgICAgPHRlbXBsYXRlIHNsb3Q9InRpdGxlIj5JbmNpZGVudHMgU1FMPC90ZW1wbGF0ZT4KICAgICAgPHRlbXBsYXRlIHNsb3Q9ImJvZHkiPgogICAgICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgIDxwcmUgY2xhc3M9IndlbGwiPgp7e2Zvcm1hdHRlZFNxbH19CiAgICAgIDwvcHJlPgogICAgICAgIDwvZGl2PgogICAgICA8L3RlbXBsYXRlPgogICAgPC9zb2NrLW1vZGFsPgo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIEluY2lkZW50QXV0b21hdGlvblJ1bm5lcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2361,10 +2386,10 @@
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>action ChooseRunConfiguration</entry>
-        <entry>w</entry>
         <entry>action RunClass</entry>
-        <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoAction</entry>
+        <entry>action QuickList.CustomGitActions</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
