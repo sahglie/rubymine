@@ -159,6 +159,7 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="ImplementMethods" />
+  <action id="Jdbc.RunSqlScript" />
   <action id="MethodHierarchy" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -184,6 +185,10 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="ReplaceInPath" />
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt r" />
@@ -192,6 +197,8 @@
     <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
     <keyboard-shortcut first-keystroke="ctrl meta c" />
