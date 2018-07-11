@@ -313,12 +313,12 @@
         <mark key="]" line="25" column="13" />
         <mark key="." line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationJobHistory.vue" timestamp="1531180492414">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="145" column="28" />
-        <mark key="]" line="145" column="28" />
-        <mark key="." line="145" column="28" />
-        <mark key="^" line="145" column="28" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationJobHistory.vue" timestamp="1531326999581">
+        <mark key="'" line="42" column="36" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="66" column="19" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/AutomationCreate.vue" timestamp="1530056245267">
         <mark key="[" line="7" column="0" />
@@ -2469,13 +2469,13 @@
       <jump line="86" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationJobHistory.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/AppSpinner.vue" />
       <jump line="35" column="9" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationJobHistory.vue" />
-      <jump line="43" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationJobHistory.vue" />
       <jump line="12" column="18" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationEdit.vue" />
       <jump line="109" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationEdit.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationEdit.vue" />
       <jump line="34" column="37" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationEdit.vue" />
       <jump line="100" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationEdit.vue" />
       <jump line="15" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationEdit.vue" />
+      <jump line="43" column="36" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationJobHistory.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2484,23 +2484,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Y2FwdGlvbj5FcnJvcnM8L2NhcHRpb24+Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>(j</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJzdWNjZXNzIGxvYWRJbmNpZGVudHMoKSIpCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGFibGUgY2xhc3M9InRhYmxlIHRhYmxlLWhvdmVyIHRhYmxlLWJvcmRlcmVkIj4KICAgICAgICAgIDxjYXB0aW9uPkZhaWx1cmVzPC9jYXB0aW9uPgogICAgICAgICAgPHRoZWFkPgogICAgICAgICAgPHRyPgogICAgICAgICAgICA8dGg+SW5jaWRlbnQgSUQ8L3RoPgogICAgICAgICAgICA8dGg+RXJyb3I8L3RoPgogICAgICAgICAgPC90cj4KICAgICAgICAgIDwvdGhlYWQ+CiAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICA8dHIgdi1mb3I9InJvdyBpbiB2aWV3ZWRKb2IuZmFpbHVyZUluZm8iPgogICAgICAgICAgICA8dGQ+e3tyb3cuaW5jaWRlbnR9fTwvdGQ+CiAgICAgICAgICAgIDx0ZD57e3Jvdy5lcnJvcl9tZXNzYWdlfX08L3RkPgogICAgICAgICAgPC90cj4KICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgPC90YWJsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuam9iTGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICA8Y2FwdGlvbj5FcnJvcnM8L2NhcHRpb24+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2516,28 +2516,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCdjb21wbGV0ZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7cm93LmVycm9yX21lc3NhZ2V9fTwvdGQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcignaW5kZXgnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPkVycm9yPC90aD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF4aW9zLmRlZmF1bHRzLmhlYWRlcnMuY29tbW9uWydDYWNoZS1Db250cm9sJ10gPSAnbm8tY2FjaGUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuam9iTGlzdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiJGVtaXQ6IGNvbXBsZXRlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCdjb21wbGV0ZScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlbmRlcignaW5kZXgnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9LmJpbmQodGhpcyksIDUwMDApCg==</text>
+        <text encoding="base64">ICAgIGF4aW9zLmRlZmF1bHRzLmhlYWRlcnMuY29tbW9uWydDYWNoZS1Db250cm9sJ10gPSAnbm8tY2FjaGUnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiJGVtaXQ6IGNvbXBsZXRlZCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5kZWJ1ZygiQVVUT01BVElPTl9JTkNJREVOVFNfQ09VTlQ6ICN7QGluY2lkZW50cy5jb3VudH0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
