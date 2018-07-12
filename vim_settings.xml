@@ -498,7 +498,7 @@
         <mark key="." line="34" column="16" />
         <mark key="^" line="34" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531420506328">
+      <file name="/Dummy.txt" timestamp="1531422205605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -947,6 +947,12 @@
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationNew.vue" timestamp="1531421312724">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+        <mark key="^" line="13" column="11" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automation_runner_controller.rb" timestamp="1530832510862">
         <mark key="'" line="35" column="0" />
@@ -1727,6 +1733,10 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationEdit.vue" timestamp="1531421308033">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/aggressive_ip_ignores_controller.rb" timestamp="1479924376376">
         <mark key="[" line="26" column="57" />
         <mark key="]" line="26" column="58" />
@@ -2209,12 +2219,12 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="7" column="66" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" timestamp="1530834347885">
-        <mark key="'" line="82" column="7" />
-        <mark key="[" line="81" column="10" />
-        <mark key="]" line="82" column="7" />
-        <mark key="^" line="82" column="7" />
-        <mark key="." line="82" column="7" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" timestamp="1531422135650">
+        <mark key="c" line="10" column="0" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="1" column="35" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_history.rb" timestamp="1530833508532">
         <mark key="[" line="15" column="58" />
@@ -2368,13 +2378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationIncidents.vue" />
-      <jump line="74" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationIncidents.vue" />
-      <jump line="88" column="3" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationIncidents.vue" />
-      <jump line="55" column="3" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationIncidents.vue" />
-      <jump line="43" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automations_controller.rb" />
-      <jump line="65" column="12" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/data/automationSchema.json" />
-      <jump line="4" column="18" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automations/notification.rb" />
       <jump line="87" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/ticket.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/ticket.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/comment.rb" />
@@ -2468,6 +2471,13 @@
       <jump line="32" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/sync_incident_with_rt_ticket.rb" />
       <jump line="45" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/sync_incident_with_rt_ticket.rb" />
       <jump line="59" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/sync_incident_with_rt_ticket.rb" />
+      <jump line="20" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
+      <jump line="126" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
+      <jump line="209" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
+      <jump line="95" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
+      <jump line="108" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
+      <jump line="8" column="21" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
+      <jump line="134" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2476,23 +2486,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNsZWFyRXJyb3IoZXZlbnQpIHsKICAgICAgLy8gY29uc29sZS5sb2coZXZlbnQudGFyZ2V0KQogICAgfSwKCg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>create_db_ticket</text>
+        <text>clearError</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8dGFibGUgY2xhc3M9InRhYmxlIHRhYmxlLWhvdmVyIHRhYmxlLWJvcmRlcmVkIj4KICAgICAgICAgIDxjYXB0aW9uPkZhaWx1cmVzPC9jYXB0aW9uPgogICAgICAgICAgPHRoZWFkPgogICAgICAgICAgPHRyPgogICAgICAgICAgICA8dGg+SW5jaWRlbnQgSUQ8L3RoPgogICAgICAgICAgICA8dGg+RXJyb3I8L3RoPgogICAgICAgICAgPC90cj4KICAgICAgICAgIDwvdGhlYWQ+CiAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICA8dHIgdi1mb3I9InJvdyBpbiB2aWV3ZWRKb2IuZmFpbHVyZUluZm8iPgogICAgICAgICAgICA8dGQ+e3tyb3cuaW5jaWRlbnR9fTwvdGQ+CiAgICAgICAgICAgIDx0ZD57e3Jvdy5lcnJvcl9tZXNzYWdlfX08L3RkPgogICAgICAgICAgPC90cj4KICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgPC90YWJsZT4K</text>
+      <register name="0" type="4">
+        <text>${this.editorContext().charAt(0).toUpperCase()}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBlbmQK</text>
+        <text encoding="base64">ICAgIGNsZWFyRXJyb3IoZXZlbnQpIHsKICAgICAgLy8gY29uc29sZS5sb2coZXZlbnQudGFyZ2V0KQogICAgfSwKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2508,37 +2518,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDbGlFeGNlcHRpb25Ob3RpZmljYXRpb24ubm90aWZ5X29uX2V4Y2VwdGlvbiBkbwo=</text>
+        <text encoding="base64">ICAgIGVkaXRvckNvbnRleHQoKSB7CiAgICAgIHJldHVybiAodGhpcy5hdXRvbWF0aW9uLmlkID09PSBudWxsKSA/ICJuZXciIDogImVkaXQiCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5hdXRvbWF0aW9uLmlkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3tqLnN0YXR1c319Cg==</text>
+        <text encoding="base64">ICAgIGVkaXRvckNvbnRleHQoKSB7CiAgICAgIGNvbnNvbGUubG9nKHRoaXMuYXV0b21hdGlvbi5pZCkKICAgICAgcmV0dXJuICh0aGlzLmF1dG9tYXRpb24uaWQgPT09IG51bGwpID8gIm5ldyIgOiAiZWRpdCIKICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZCB2LWVsc2U+Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICh0aGlzLmF1dG9tYXRpb24uaWQgPT09IG51bGwpID8gIm5ldyIgOiAiZWRpdCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlLnJ1bgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5hdXRvbWF0aW9uLmlkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZCB2LWVsc2U+CiAgICAgICAgICAgIHt7ai5zdGF0dXN9fQogICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgIGNsZWFyRXJyb3IoZXZlbnQpIHsKICAgICAgLy8gY29uc29sZS5sb2coZXZlbnQudGFyZ2V0KQogICAgfSwKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2FwdGlvbj5FcnJvcnM8L2NhcHRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7cm93LmVycm9yX21lc3NhZ2V9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>action QuickList.CustomGitActions</text>
       </register>
     </registers>
     <search>
-      <last-search>create_db_ticket</last-search>
+      <last-search>clearError</last-search>
       <last-offset />
-      <last-pattern>create_db_ticket</last-pattern>
+      <last-pattern>clearError</last-pattern>
       <last-replace>(@job</last-replace>
       <last-substitute>(j</last-substitute>
       <last-dir>1</last-dir>
@@ -2546,7 +2556,6 @@
     </search>
     <history>
       <history-search>
-        <entry>activemodel</entry>
         <entry>tot</entry>
         <entry>tota</entry>
         <entry>total</entry>
@@ -2566,6 +2575,7 @@
         <entry>automation</entry>
         <entry>(j</entry>
         <entry>create_db_ticket</entry>
+        <entry>clearError</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
@@ -2574,18 +2584,18 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlUnVuQ29uZmlndXJhdGlvbg==</entry>
         <entry>action ChooseRunConfiguration</entry>
         <entry>action GotoSymbol</entry>
-        <entry>action QuickList.FindAndReplace</entry>
         <entry>action GotoAction</entry>
         <entry>wq</entry>
         <entry>action GotoRelated</entry>
         <entry>%s/(j/(@job/g</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Run</entry>
-        <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action QuickList.FindAndReplace</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>w</entry>
         <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
