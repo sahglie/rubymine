@@ -2548,7 +2548,7 @@
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action QuickList.CustomGitActions</text>
       </register>
     </registers>
     <search>
@@ -2602,8 +2602,8 @@
         <entry>action QuickList.FindAndReplace</entry>
         <entry>action FileStructurePopup</entry>
         <entry>w</entry>
-        <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoFile</entry>
+        <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
