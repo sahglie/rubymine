@@ -432,6 +432,9 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/projects/vue-hackernews/src/components/ProgressBar.vue" timestamp="1532051639410">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/alert_pig/enrich_osx_alerts.rb" timestamp="1480720379057">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -2383,9 +2386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/ticket.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/ticket.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/comment.rb" />
       <jump line="83" column="67" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_creator.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_creator.rb" />
       <jump line="39" column="23" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/comment_creation.rb" />
@@ -2483,6 +2483,9 @@
       <jump line="108" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
       <jump line="8" column="21" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
       <jump line="134" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
+      <jump line="20" column="4" filename="$USER_HOME$/Development/projects/vue-hackernews/src/components/ProgressBar.vue" />
+      <jump line="61" column="0" filename="$USER_HOME$/Development/projects/vue-hackernews/src/components/ProgressBar.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/vue-hackernews/src/components/ProgressBar.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2547,7 +2550,7 @@
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -2589,7 +2592,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlUnVuQ29uZmlndXJhdGlvbg==</entry>
         <entry>action ChooseRunConfiguration</entry>
         <entry>action GotoSymbol</entry>
-        <entry>action GotoAction</entry>
         <entry>wq</entry>
         <entry>action GotoRelated</entry>
         <entry>%s/(j/(@job/g</entry>
@@ -2603,6 +2605,7 @@
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
