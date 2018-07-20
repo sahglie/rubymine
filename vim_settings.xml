@@ -2550,7 +2550,7 @@
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -2596,7 +2596,6 @@
         <entry>action GotoRelated</entry>
         <entry>%s/(j/(@job/g</entry>
         <entry>action GotoTest</entry>
-        <entry>action RunClass</entry>
         <entry>action Run</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
@@ -2606,6 +2605,7 @@
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
