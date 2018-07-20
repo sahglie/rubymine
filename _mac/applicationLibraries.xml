@@ -13039,19 +13039,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/webpacker-96223d1721e9/.git" />
       </excluded>
     </library>
-    <library name="webpacker (v2.0, RVM: ruby-2.3.4) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-2.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-2.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-2.0/test" />
-      </excluded>
-    </library>
     <library name="webpacker (v3.0.2, RVM: ruby-2.2.4) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/webpacker-3.0.2/exe" />
@@ -13072,50 +13059,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/webpacker-3.0.2/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/webpacker-3.0.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/webpacker-3.0.2/package" />
-      </excluded>
-    </library>
-    <library name="webpacker (v3.0.2, RVM: ruby-2.3.4) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/package" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/package" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.0.2/package" />
-      </excluded>
-    </library>
-    <library name="webpacker (v3.5.3, RVM: ruby-2.3.4) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/package" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/package" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/gemfiles" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/package" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/webpacker-3.5.3/gemfiles" />
       </excluded>
     </library>
     <library name="webrobots (v0.1.2, RVM: ruby-2.2.5) [gem]">
