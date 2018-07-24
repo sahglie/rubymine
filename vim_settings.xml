@@ -1991,8 +1991,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/projects/vue-hackernews/package.json" timestamp="1532454118208">
+      <file name="$USER_HOME$/Development/projects/vue-hackernews/package.json" timestamp="1532455170490">
         <mark key="'" line="82" column="5" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/infohub/spec/lib/ldap/repos/spa_member_spec.rb" timestamp="1473961396694">
         <mark key="[" line="24" column="11" />
@@ -2498,7 +2501,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNsZWFyRXJyb3IoZXZlbnQpIHsKICAgICAgLy8gY29uc29sZS5sb2coZXZlbnQudGFyZ2V0KQogICAgfSwKCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
@@ -2513,7 +2516,7 @@
         <text>${this.editorContext().charAt(0).toUpperCase()}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsZWFyRXJyb3IoZXZlbnQpIHsKICAgICAgLy8gY29uc29sZS5sb2coZXZlbnQudGFyZ2V0KQogICAgfSwKCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2529,31 +2532,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVkaXRvckNvbnRleHQoKSB7CiAgICAgIHJldHVybiAodGhpcy5hdXRvbWF0aW9uLmlkID09PSBudWxsKSA/ICJuZXciIDogImVkaXQiCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5hdXRvbWF0aW9uLmlkKQo=</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVkaXRvckNvbnRleHQoKSB7CiAgICAgIGNvbnNvbGUubG9nKHRoaXMuYXV0b21hdGlvbi5pZCkKICAgICAgcmV0dXJuICh0aGlzLmF1dG9tYXRpb24uaWQgPT09IG51bGwpID8gIm5ldyIgOiAiZWRpdCIKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNsZWFyRXJyb3IoZXZlbnQpIHsKICAgICAgLy8gY29uc29sZS5sb2coZXZlbnQudGFyZ2V0KQogICAgfSwKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICh0aGlzLmF1dG9tYXRpb24uaWQgPT09IG51bGwpID8gIm5ldyIgOiAiZWRpdCIK</text>
+        <text encoding="base64">ICAgIGVkaXRvckNvbnRleHQoKSB7CiAgICAgIHJldHVybiAodGhpcy5hdXRvbWF0aW9uLmlkID09PSBudWxsKSA/ICJuZXciIDogImVkaXQiCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5hdXRvbWF0aW9uLmlkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsZWFyRXJyb3IoZXZlbnQpIHsKICAgICAgLy8gY29uc29sZS5sb2coZXZlbnQudGFyZ2V0KQogICAgfSwKCg==</text>
+        <text encoding="base64">ICAgIGVkaXRvckNvbnRleHQoKSB7CiAgICAgIGNvbnNvbGUubG9nKHRoaXMuYXV0b21hdGlvbi5pZCkKICAgICAgcmV0dXJuICh0aGlzLmF1dG9tYXRpb24uaWQgPT09IG51bGwpID8gIm5ldyIgOiAiZWRpdCIKICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICh0aGlzLmF1dG9tYXRpb24uaWQgPT09IG51bGwpID8gIm5ldyIgOiAiZWRpdCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5hdXRvbWF0aW9uLmlkKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2602,13 +2605,13 @@
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action QuickList.FindAndReplace</entry>
-        <entry>w</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
         <entry>action RunClass</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
