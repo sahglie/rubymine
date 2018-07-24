@@ -1992,10 +1992,7 @@
         <mark key="^" line="6" column="59" />
       </file>
       <file name="$USER_HOME$/Development/projects/vue-hackernews/package.json" timestamp="1532455170490">
-        <mark key="'" line="82" column="5" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="'" line="119" column="5" />
       </file>
       <file name="$USER_HOME$/Development/projects/infohub/spec/lib/ldap/repos/spa_member_spec.rb" timestamp="1473961396694">
         <mark key="[" line="24" column="11" />
@@ -2556,7 +2553,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5hdXRvbWF0aW9uLmlkKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -2610,8 +2607,8 @@
         <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
         <entry>action RunClass</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>w</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
