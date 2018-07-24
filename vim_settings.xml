@@ -1650,6 +1650,12 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/projects/vue-hackernews/src/App.vue" timestamp="1532468896198">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/consumers/audit_event_consumer.rb" timestamp="1530034031577">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="18" />
@@ -1997,8 +2003,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/projects/vue-hackernews/package.json" timestamp="1532455170490">
-        <mark key="'" line="99" column="5" />
+      <file name="$USER_HOME$/Development/projects/vue-hackernews/package.json" timestamp="1532468847610">
+        <mark key="'" line="103" column="5" />
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="42" />
+        <mark key="^" line="12" column="42" />
+        <mark key="." line="12" column="42" />
       </file>
       <file name="$USER_HOME$/Development/projects/infohub/spec/lib/ldap/repos/spa_member_spec.rb" timestamp="1473961396694">
         <mark key="[" line="24" column="11" />
@@ -2504,13 +2514,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>,</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
@@ -2559,7 +2569,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5hdXRvbWF0aW9uLmlkKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2610,11 +2620,11 @@
         <entry>action QuickList.FindAndReplace</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoFile</entry>
         <entry>action RunClass</entry>
-        <entry>w</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
