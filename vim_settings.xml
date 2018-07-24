@@ -615,6 +615,12 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/Development/projects/vue-hackernews/src/views/ItemList.vue" timestamp="1532467974373">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/forms/confirm_email.rb" timestamp="1480275540519">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="14" column="29" />
@@ -2497,14 +2503,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
@@ -2553,7 +2559,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5hdXRvbWF0aW9uLmlkKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -2605,10 +2611,10 @@
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoAction</entry>
         <entry>action RunClass</entry>
         <entry>w</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
