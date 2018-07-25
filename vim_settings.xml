@@ -448,8 +448,8 @@
         <mark key="^" line="13" column="66" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532474819819">
-        <mark key="[" line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1532550965266">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -2556,7 +2556,7 @@
         <text encoding="base64">CjxzY3JpcHQ+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -2607,11 +2607,11 @@
         <entry>bd</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action GotoFile</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
