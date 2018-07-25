@@ -701,6 +701,13 @@
         <mark key="." line="46" column="10" />
         <mark key="^" line="46" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/AutomationIncidents.vue" timestamp="1532483458477">
+        <mark key="'" line="78" column="17" />
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="78" column="34" />
+        <mark key="^" line="78" column="34" />
+        <mark key="." line="78" column="34" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/nos_data/calvisitor_sessions.yml" timestamp="1485217824606">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="40" />
@@ -2385,10 +2392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automation_runner_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/incidents/034_automations.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/automation_criteria.rb" />
-      <jump line="1" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automations_controller.rb" />
       <jump line="28" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automation_runner_controller.rb" />
       <jump line="172" column="39" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
       <jump line="1" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationHistory.vue" />
@@ -2485,6 +2488,10 @@
       <jump line="21" column="28" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
       <jump line="52" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/package.json" />
       <jump line="18" column="4" filename="$USER_HOME$/Development/projects/sock-rails5/package.json" />
+      <jump line="74" column="17" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/AutomationIncidents.vue" />
+      <jump line="69" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/AutomationIncidents.vue" />
+      <jump line="136" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/AutomationIncidents.vue" />
+      <jump line="79" column="17" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/AutomationIncidents.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2494,13 +2501,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>mount</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>mount</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
@@ -2549,7 +2556,7 @@
         <text encoding="base64">CjxzY3JpcHQ+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2599,12 +2606,12 @@
         <entry>action GotoAction</entry>
         <entry>bd</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
