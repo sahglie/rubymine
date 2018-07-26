@@ -2617,7 +2617,7 @@
         <text encoding="base64">fSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.CustomGitActions</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -2670,9 +2670,9 @@
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action QuickList.CustomGitActions</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
