@@ -454,11 +454,11 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="/Ruby Console" timestamp="1532620864927">
+      <file name="/Ruby Console" timestamp="1532622787820">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="75" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/process_shodan_telnet.rb" timestamp="1478640549358">
         <mark key="[" line="9" column="61" />
@@ -2553,7 +2553,7 @@
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.FindAndReplace</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -2604,11 +2604,11 @@
         <entry>w</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action RunAnything</entry>
-        <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVydW5GYWlsZWRUZXN0cw==</entry>
-        <entry>action GotoFile</entry>
         <entry>action RerunFailedTests</entry>
         <entry>action QuickList.FindAndReplace</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
