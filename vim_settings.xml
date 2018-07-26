@@ -795,6 +795,9 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="67" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" timestamp="1532627696466">
+        <mark key="'" line="57" column="4" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/audit_event_syslog.rb" timestamp="1483572461347">
         <mark key="[" line="16" column="11" />
         <mark key="]" line="16" column="21" />
@@ -2389,12 +2392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/ticket.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/ticket.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/comment.rb" />
-      <jump line="83" column="67" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_creator.rb" />
-      <jump line="7" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_creator.rb" />
-      <jump line="39" column="23" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/services/comment_creation.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/jobs/create_rt_ticket.rb" />
       <jump line="24" column="25" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automations_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automations_controller.rb" />
@@ -2489,6 +2486,12 @@
       <jump line="108" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
       <jump line="8" column="21" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
       <jump line="134" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
+      <jump line="37" column="35" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
+      <jump line="50" column="23" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
+      <jump line="55" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
+      <jump line="56" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
+      <jump line="57" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2507,7 +2510,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>clearError</text>
+        <text>airbrake</text>
       </register>
       <register name="0" type="4">
         <text>${this.editorContext().charAt(0).toUpperCase()}</text>
@@ -2557,9 +2560,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clearError</last-search>
+      <last-search>airbrake</last-search>
       <last-offset />
-      <last-pattern>clearError</last-pattern>
+      <last-pattern>airbrake</last-pattern>
       <last-replace>(@job</last-replace>
       <last-substitute>(j</last-substitute>
       <last-dir>1</last-dir>
@@ -2567,8 +2570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tot</entry>
-        <entry>tota</entry>
         <entry>total</entry>
         <entry>app-spinner</entry>
         <entry>loadingRows</entry>
@@ -2587,6 +2588,8 @@
         <entry>(j</entry>
         <entry>create_db_ticket</entry>
         <entry>clearError</entry>
+        <entry>airbrake-ruby</entry>
+        <entry>airbrake</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlUnVuQ29uZmlndXJhdGlvbg==</entry>
