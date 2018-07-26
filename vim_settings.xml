@@ -519,7 +519,7 @@
         <mark key="." line="34" column="16" />
         <mark key="^" line="34" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532635837305">
+      <file name="/Dummy.txt" timestamp="1532637443167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -1771,6 +1771,13 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/intrushield/event.rb" timestamp="1532637439317">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="76" column="14" />
+        <mark key="]" line="76" column="14" />
+        <mark key="^" line="76" column="14" />
+        <mark key="." line="76" column="14" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/activate_cwid/base_controller.rb" timestamp="1483731986118">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="38" />
@@ -2175,11 +2182,6 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="12" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/projects/vue-hackernews/src/views/ItemList.vue" timestamp="1532472321617">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_step1_confirm_email_form.html.haml" timestamp="1480277155639">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="37" />
@@ -2451,7 +2453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationEdit.vue" />
       <jump line="13" column="37" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationEdit.vue" />
       <jump line="18" column="47" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automation_jobs_controller.rb" />
       <jump line="75" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationEdit.vue" />
@@ -2551,6 +2552,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
       <jump line="29" column="0" filename="$USER_HOME$/Development/projects/errbit/app/models/notification_services/hipchat_service.rb" />
       <jump line="26" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/errbit.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/intrushield/event.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2560,13 +2562,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>10</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>airbrake-ruby</text>
@@ -2615,7 +2617,7 @@
         <text encoding="base64">fSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action QuickList.CustomGitActions</text>
       </register>
     </registers>
     <search>
@@ -2668,9 +2670,9 @@
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action QuickList.CustomGitActions</entry>
-        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
