@@ -257,13 +257,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" timestamp="1531422135650">
-        <mark key="c" line="10" column="0" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
-        <mark key="^" line="1" column="35" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/support/vcr_cassettes/Arcsight_Client/_case_for_uuid_uuid_/extracts_case_data_from_meta_event.yml" timestamp="1484077032232">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1507,6 +1500,7 @@
         <mark key="." line="32" column="84" />
         <mark key="^" line="32" column="84" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sidekiq/lib/sidekiq/cli.rb" timestamp="1532660866789" />
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/infoblox/repos/fixed_address_spec.rb" timestamp="1475090478535">
         <mark key="[" line="2" column="62" />
         <mark key="]" line="2" column="65" />
@@ -2559,7 +2553,7 @@
         <text encoding="base64">CjxzY3JpcHQ+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -2601,7 +2595,6 @@
         <entry>action GotoRelated</entry>
         <entry>%s/(j/(@job/g</entry>
         <entry>action Run</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action FileStructurePopup</entry>
@@ -2615,6 +2608,7 @@
         <entry>w</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>vs</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
