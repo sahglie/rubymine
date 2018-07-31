@@ -15525,6 +15525,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/oauth2-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="octicons (v8.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/octicons-8.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/octicons-8.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="octicons_helper (v8.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/octicons_helper-8.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/octicons_helper-8.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="octokit (v4.3.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
