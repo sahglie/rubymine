@@ -1014,12 +1014,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" timestamp="1533060364857">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="15" column="51" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" timestamp="1533063092040">
+        <mark key="'" line="94" column="9" />
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="73" />
+        <mark key="." line="14" column="73" />
+        <mark key="^" line="14" column="73" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/rules/snort_sig_class.rb" timestamp="1481565386685">
         <mark key="[" line="22" column="27" />
@@ -1931,12 +1931,12 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/layouts/_admin_navigation.html.erb" timestamp="1533060201729">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/layouts/_admin_navigation.html.erb" timestamp="1533062683121">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="80" column="10" />
-        <mark key="^" line="77" column="5" />
-        <mark key="." line="77" column="5" />
+        <mark key="[" line="2" column="67" />
+        <mark key="]" line="2" column="67" />
+        <mark key="^" line="2" column="69" />
+        <mark key="." line="2" column="67" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/services/cli_exception_notification.rb" timestamp="1483740806846">
         <mark key="[" line="8" column="0" />
@@ -2049,16 +2049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="27" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
-      <jump line="9" column="74" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
-      <jump line="10" column="74" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
-      <jump line="41" column="10" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
-      <jump line="52" column="18" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
-      <jump line="55" column="21" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
-      <jump line="57" column="10" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
-      <jump line="65" column="25" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
-      <jump line="77" column="5" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
       <jump line="78" column="5" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
       <jump line="79" column="5" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
       <jump line="80" column="5" filename="$USER_HOME$/Development/projects/vue-hackernews/package.json" />
@@ -2145,10 +2135,20 @@
       <jump line="13" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/layouts/_admin_navigation.html.erb" />
       <jump line="0" column="15" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/layouts/_admin_navigation.html.erb" />
       <jump line="16" column="31" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
       <jump line="75" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
       <jump line="127" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/layouts/_admin_navigation.html.erb" />
       <jump line="5" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/layouts/_admin_navigation.html.erb" />
+      <jump line="1" column="21" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
+      <jump line="95" column="1" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
+      <jump line="96" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
+      <jump line="15" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
+      <jump line="89" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
+      <jump line="88" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
+      <jump line="58" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
+      <jump line="18" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
+      <jump line="86" column="43" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
+      <jump line="94" column="9" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2157,23 +2157,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC9zcGFuPg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">PC9zcGFuPg==</text>
       </register>
       <register name="/" type="4">
         <text>page</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSI+CiAgICAgICAgPCU9IGxpbmtfdG8oIlJETSBEYXRhIiwgYWRtaW5fcmRtX2lwdjZfaW5kZXhfcGF0aCwgY2xhc3M6ICJuYXYtbGluayIpICU+CiAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsYWJlbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">PHN0eWxlIHNjb3BlZD4KICBkaXYuY2FyZCB7CiAgICBwYWRkaW5nOiAwIDFlbSAwIDFlbTsKICB9Cjwvc3R5bGU+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2189,28 +2189,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNhcmQtYm9keSI+Cg==</text>
+        <text encoding="base64">PHN0eWxlIHNjb3BlZD4KICBkaXYuY2FyZCB7CiAgICBtYXJnaW46IDBweCAxZW0gMHB4IDFlbTsKICB9Cjwvc3R5bGU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
+        <text encoding="base64">ICBkaXYuY2FyZCB7CiAgICBtYXJnaW46IDBweCAxZW0gMHB4IDFlbTsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8dWwgY2xhc3M9ImZpbHRlckxpc3QiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlPSBsaW5rX3RvKCJSRE0gRGF0YSIsIGFkbWluX3JkbV9pcHY2X2luZGV4X3BhdGgsIGNsYXNzOiAibmF2LWxpbmsiKSAlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9Im5hdi1saW5rIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaSB2LWZvcj0iaXRlbSBpbiBpdGVtcyI+PHNwYW4+e3tpdGVtLm5hbWV9fTo8L3NwYW4+IHt7aXRlbS52YWx1ZX19PC9saT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIGRyb3Bkb3duIj4KICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayBkcm9wZG93bi10b2dnbGUiIGhyZWY9IiMiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biI+CiAgICAgICAgICAgIEF1dGh6CiAgICAgICAgICA8L2E+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJkcm9wZG93bi1tZW51Ij4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJuYXYtbGluayI+e3tpdGVtLm5hbWV9fTo8L3NwYW4+IHt7aXRlbS52YWx1ZX19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCU9IGxpbmtfdG8oIlVzZXJzIiwgYWRtaW5fYXV0aHpfdXNlcnNfcGF0aCwgY2xhc3M6ICJkcm9wZG93bi1pdGVtIikgJT4KICAgICAgICAgICAgPCU9IGxpbmtfdG8oIlNlcnZpY2UgVXNlcnMiLCBhZG1pbl9hdXRoel9zZXJ2aWNlX3VzZXJzX3BhdGgsIGNsYXNzOiAiZHJvcGRvd24taXRlbSIpICU+CiAgICAgICAgICAgIDwlPSBsaW5rX3RvKCJSb2xlcyIsIGFkbWluX2F1dGh6X3JvbGVzX3BhdGgsIGNsYXNzOiAiZHJvcGRvd24taXRlbSIpICU+CiAgICAgICAgICAgIDwlPSBsaW5rX3RvKCJQZXJtaXNzaW9ucyIsIGFkbWluX2F1dGh6X3Blcm1pc3Npb25zX3BhdGgsIGNsYXNzOiAiZHJvcGRvd24taXRlbSIpICU+CiAgICAgICAgICAgIDwlPSBsaW5rX3RvKCJBUEkgS2V5cyIsIGFkbWluX2F1dGh6X2FwaV9rZXlzX3BhdGgsIGNsYXNzOiAiZHJvcGRvd24taXRlbSIpICU+Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmxleC1yb3cgbWwtbWQtYXV0byBkLW5vbmUgZC1tZC1mbGV4Ij4K</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNhcmQtYm9keSI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
