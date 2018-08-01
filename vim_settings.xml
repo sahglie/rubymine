@@ -64,6 +64,9 @@
         <mark key="." line="31" column="23" />
         <mark key="^" line="16" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/api/rd/reg_ips_controller.rb" timestamp="1532971284678">
+        <mark key="'" line="27" column="2" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/rt_ticket.rb" timestamp="1529963760990">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="14" />
@@ -597,11 +600,12 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/helpers/button_helper.rb" timestamp="1533080686477">
-        <mark key="[" line="46" column="45" />
-        <mark key="]" line="46" column="53" />
-        <mark key="." line="46" column="53" />
-        <mark key="^" line="46" column="53" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/helpers/button_helper.rb" timestamp="1533153612110">
+        <mark key="'" line="46" column="53" />
+        <mark key="[" line="46" column="53" />
+        <mark key="]" line="46" column="61" />
+        <mark key="." line="46" column="61" />
+        <mark key="^" line="46" column="61" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan.rb" timestamp="1478550115613">
         <mark key="[" line="3" column="25" />
@@ -987,6 +991,9 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automations_controller.rb" timestamp="1532975230683">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/DateCriteria.vue" timestamp="1530118310575">
         <mark key="[" line="60" column="23" />
         <mark key="]" line="60" column="27" />
@@ -1194,6 +1201,9 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" timestamp="1532976226530">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/spec/rails_helper.rb" timestamp="1478904649050">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -1211,6 +1221,9 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/admin/exception_rules.js" timestamp="1533153139152">
+        <mark key="'" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_step1_cwid_form.html.haml" timestamp="1480274424263">
         <mark key="[" line="0" column="34" />
@@ -1439,6 +1452,9 @@
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" timestamp="1533078726738">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/show/_controls_widget.html.erb" timestamp="1533085399684">
         <mark key="'" line="0" column="0" />
@@ -2122,6 +2138,12 @@
         <mark key="." line="40" column="10" />
         <mark key="^" line="40" column="24" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/exception_rules/new.html.haml" timestamp="1533153652690">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/automations/edit.html.erb" timestamp="1531177668700">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -2221,9 +2243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
-      <jump line="58" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
       <jump line="18" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
       <jump line="86" column="43" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
       <jump line="94" column="9" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/SearchDisplay.vue" />
@@ -2321,6 +2340,9 @@
       <jump line="40" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/UcbPersonInfo.vue" />
       <jump line="3" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/UcbPersonInfo.vue" />
       <jump line="116" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/UcbPersonInfo.vue" />
+      <jump line="46" column="53" filename="$USER_HOME$/Development/projects/sock_rails5/app/helpers/button_helper.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/admin/exception_rules.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/admin/exception_rules.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2329,14 +2351,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PSBlcnJvcl9jb3VudF9tc2coQHJ1bGUpCg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dark</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
@@ -2345,7 +2367,7 @@
         <text encoding="base64">ICAgICAgICA8dWw+PGxpIHYtZm9yPSJhZmYgaW4gcGVyc29uSW5mby5hZmZpbGlhdGlvbnMiPnt7IGFmZiB9fSA8L2xpPjwvdWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGZpZWxkc2V0PgogICAgICAgIDxsZWdlbmQ+QWZmaWxpYXRpb25zPC9sZWdlbmQ+CiAgICAgICAgPHVsPjxsaSB2LWZvcj0iYWZmIGluIHBlcnNvbkluZm8uYWZmaWxpYXRpb25zIj57eyBhZmYgfX0gPC9saT48L3VsPgogICAgICA8L2ZpZWxkc2V0Pgo=</text>
+        <text encoding="base64">PSBlcnJvcl9jb3VudF9tc2coQHJ1bGUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2361,31 +2383,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiByZWFkb25seSBjbGFzcz0iZm9ybS1jb250cm9sLXBsYWludGV4dCIgaWQ9Imxhc3RNb2RpZmllZCIgOnZhbHVlPSJwZXJzb25JbmZvLm1vZGlmeXRpbWVzdGFtcCI+Cg==</text>
+        <text encoding="base64">ICAgICAgPGZpZWxkc2V0PgogICAgICAgIDxsZWdlbmQ+QWZmaWxpYXRpb25zPC9sZWdlbmQ+CiAgICAgICAgPHVsPjxsaSB2LWZvcj0iYWZmIGluIHBlcnNvbkluZm8uYWZmaWxpYXRpb25zIj57eyBhZmYgfX0gPC9saT48L3VsPgogICAgICA8L2ZpZWxkc2V0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGRsIGNsYXNzPSJkbC1ob3Jpem9udGFsIj4KICAgICAgICA8ZHQ+QWZmaWxpYXRpb25zPC9kdD4KICAgICAgICA8ZGQ+CiAgICAgICAgICA8dWw+PGxpIHYtZm9yPSJhZmYgaW4gcGVyc29uSW5mby5hZmZpbGlhdGlvbnMiPnt7IGFmZiB9fSA8L2xpPjwvdWw+CiAgICAgICAgPC9kZD4KICAgICAgPC9kbD4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiByZWFkb25seSBjbGFzcz0iZm9ybS1jb250cm9sLXBsYWludGV4dCIgaWQ9Imxhc3RNb2RpZmllZCIgOnZhbHVlPSJwZXJzb25JbmZvLm1vZGlmeXRpbWVzdGFtcCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkbCBjbGFzcz0iZGwtaG9yaXpvbnRhbCI+CiAgICAgIDxkdD5BZmZpbGlhdGlvbnM8L2R0PgogICAgICA8ZGQ+CiAgICAgICAgPHVsPjxsaSB2LWZvcj0iYWZmIGluIHBlcnNvbkluZm8uYWZmaWxpYXRpb25zIj57eyBhZmYgfX0gPC9saT48L3VsPiAKICAgICAgPC9kZD4KICAgIDwvZGw+Cg==</text>
+        <text encoding="base64">ICAgICAgPGRsIGNsYXNzPSJkbC1ob3Jpem9udGFsIj4KICAgICAgICA8ZHQ+QWZmaWxpYXRpb25zPC9kdD4KICAgICAgICA8ZGQ+CiAgICAgICAgICA8dWw+PGxpIHYtZm9yPSJhZmYgaW4gcGVyc29uSW5mby5hZmZpbGlhdGlvbnMiPnt7IGFmZiB9fSA8L2xpPjwvdWw+CiAgICAgICAgPC9kZD4KICAgICAgPC9kbD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGR0Pk9VPC9kdD4KICAgICAgPGRkPnt7IHBlcnNvbkluZm8ucHJpbWFyeWRlcHR1bml0aGllcmFyY2h5c3RyaW5nIH19PC9kZD4KICAgICAgPGR0Pkxhc3QgTW9kaWZpZWQgVFM8L2R0PgogICAgICA8ZGQ+e3sgcGVyc29uSW5mby5tb2RpZnl0aW1lc3RhbXAgfX08L2RkPgo=</text>
+        <text encoding="base64">ICAgIDxkbCBjbGFzcz0iZGwtaG9yaXpvbnRhbCI+CiAgICAgIDxkdD5BZmZpbGlhdGlvbnM8L2R0PgogICAgICA8ZGQ+CiAgICAgICAgPHVsPjxsaSB2LWZvcj0iYWZmIGluIHBlcnNvbkluZm8uYWZmaWxpYXRpb25zIj57eyBhZmYgfX0gPC9saT48L3VsPiAKICAgICAgPC9kZD4KICAgIDwvZGw+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGR0PkVtcGxveWVlIElEPC9kdD4KICAgICAgPGRkPnt7IHBlcnNvbkluZm8uZW1wbG95ZWVpZCB9fTwvZGQ+CiAgICAgIDxkdD5LZXJiZXJvcyBQcmluY2lwYWw8L2R0PgogICAgICA8ZGQ+e3sgcGVyc29uSW5mby5rZXJiZXJvc3ByaW5jaXBhbHN0cmluZyB9fTwvZGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgPGR0Pk9VPC9kdD4KICAgICAgPGRkPnt7IHBlcnNvbkluZm8ucHJpbWFyeWRlcHR1bml0aGllcmFyY2h5c3RyaW5nIH19PC9kZD4KICAgICAgPGR0Pkxhc3QgTW9kaWZpZWQgVFM8L2R0PgogICAgICA8ZGQ+e3sgcGVyc29uSW5mby5tb2RpZnl0aW1lc3RhbXAgfX08L2RkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGR0PkVtYWlsPC9kdD4KICAgICAgPGRkPnt7IHBlcnNvbkluZm8ubWFpbCB9fTwvZGQ+CiAgICAgIDxkdD5PZmZpY2lhbCBFbWFpbDwvZHQ+CiAgICAgIDxkZD57eyBwZXJzb25JbmZvLm9mZmljaWFsZW1haWwgfX08L2RkPgo=</text>
+        <text encoding="base64">ICAgICAgPGR0PkVtcGxveWVlIElEPC9kdD4KICAgICAgPGRkPnt7IHBlcnNvbkluZm8uZW1wbG95ZWVpZCB9fTwvZGQ+CiAgICAgIDxkdD5LZXJiZXJvcyBQcmluY2lwYWw8L2R0PgogICAgICA8ZGQ+e3sgcGVyc29uSW5mby5rZXJiZXJvc3ByaW5jaXBhbHN0cmluZyB9fTwvZGQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGR0PkNhbG5ldCBVSUQ8L2R0PgogICAgICA8ZGQ+e3sgcGVyc29uSW5mby5jYWxuZXRfdWlkIH19PC9kZD4KICAgICAgPGR0PkZpcnN0IE5hbWU8L2R0PgogICAgICA8ZGQ+e3sgcGVyc29uSW5mby5naXZlbm5hbWUgfX08L2RkPgogICAgICA8ZHQ+TGFzdCBOYW1lPC9kdD4KICAgICAgPGRkPnt7IHBlcnNvbkluZm8uc24gfX08L2RkPgo=</text>
+        <text encoding="base64">ICAgICAgPGR0PkVtYWlsPC9kdD4KICAgICAgPGRkPnt7IHBlcnNvbkluZm8ubWFpbCB9fTwvZGQ+CiAgICAgIDxkdD5PZmZpY2lhbCBFbWFpbDwvZHQ+CiAgICAgIDxkZD57eyBwZXJzb25JbmZvLm9mZmljaWFsZW1haWwgfX08L2RkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgPGR0PkNhbG5ldCBVSUQ8L2R0PgogICAgICA8ZGQ+e3sgcGVyc29uSW5mby5jYWxuZXRfdWlkIH19PC9kZD4KICAgICAgPGR0PkZpcnN0IE5hbWU8L2R0PgogICAgICA8ZGQ+e3sgcGVyc29uSW5mby5naXZlbm5hbWUgfX08L2RkPgogICAgICA8ZHQ+TGFzdCBOYW1lPC9kdD4KICAgICAgPGRkPnt7IHBlcnNvbkluZm8uc24gfX08L2RkPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.CustomGitActions</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2429,18 +2451,18 @@
         <entry>source ~/ideavimrc</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action QuickList.FindAndReplace</entry>
-        <entry>action GotoRelated</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
         <entry>action FileStructurePopup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LkN1c3RvbUdpdEFjdGlvbnM=</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>action GotoAction</entry>
+        <entry>action QuickList.CustomGitActions</entry>
+        <entry>action GotoRelated</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
-        <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
