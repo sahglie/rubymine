@@ -2185,7 +2185,7 @@
         <text encoding="base64">ICAgICAgPCU9IHNpbXBsZV9mb3JtX2ZvcihAc2VhcmNoLCB1cmw6IGFkbWluX2JpZ2ZpeF9tYWNoaW5lc19wYXRoLCBtZXRob2Q6IDpnZXQsIGh0bWw6IHsgaWQ6ICJzZWFyY2giLCBjbGFzczogImZvcm0taG9yaXpvbnRhbCIgfSwgd3JhcHBlcjogOmhvcml6b250YWxfZm9ybSkgZG8gfGZ8ICU+CiAgICAgICAgPCU9IGYuaW5wdXQoOm1hY2hpbmVfaWQsIGxhYmVsOiAiTWFjaGluZSBJRCIpICU+CiAgICAgICAgPCU9IGYuaW5wdXQoOm1hY2hpbmVfbmFtZSkgJT4KICAgICAgICA8JT0gZi5pbnB1dCg6aXAsIGxhYmVsOiAiSVAiKSAlPgogICAgICAgIDwlPSBmLmlucHV0KDptYWMsIGxhYmVsOiAiTUFDIikgJT4KICAgICAgICA8JT0gZi5pbnB1dCg6b3MsIGxhYmVsOiAiT1MiKSAlPgogICAgICAgIDxoci8+CiAgICAgICAgPCU9IGYuc3VibWl0KCJTZWFyY2giLCBjbGFzczogImJ0biBidG4tcHJpbWFyeSIpICU+CiAgICAgIDwlIGVuZCAlPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -2238,9 +2238,9 @@
         <entry>%s/panel/card/gc</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
