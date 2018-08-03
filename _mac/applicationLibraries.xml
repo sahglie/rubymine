@@ -2830,6 +2830,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-8.6.4/spec" />
       </excluded>
     </library>
+    <library name="autoprefixer-rails (v8.6.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-8.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-8.6.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-8.6.5/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-8.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-8.6.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-8.6.5/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-8.6.5/spec" />
+      </excluded>
+    </library>
     <library name="autoprefixer-rails (v9.0.2, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -2864,6 +2882,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-9.0.2/spec" />
+      </excluded>
+    </library>
+    <library name="autoprefixer-rails (v9.1.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-9.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-9.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-9.1.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-9.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-9.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-9.1.0/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/autoprefixer-rails-9.1.0/spec" />
       </excluded>
     </library>
     <library name="awesome_print (v1.7.0, RVM: ruby-2.2.4) [gem]" type="rubylib">
@@ -8573,6 +8609,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/font-awesome-rails-4.2.0.0/test" />
+      </excluded>
+    </library>
+    <library name="font-awesome-rails (v4.7.0.4, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/font-awesome-rails-4.7.0.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/font-awesome-rails-4.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/font-awesome-rails-4.7.0.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/font-awesome-rails-4.7.0.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/font-awesome-rails-4.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/font-awesome-rails-4.7.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/font-awesome-rails-4.7.0.4/test" />
       </excluded>
     </library>
     <library name="font-awesome-sass (v4.7.0, RVM: ruby-2.3.4) [gem]" type="rubylib">
@@ -24232,11 +24286,13 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sassc/1.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sassc-1.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sassc-1.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sassc-1.12.1/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sassc/1.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sassc-1.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sassc-1.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sassc-1.12.1/test" />
