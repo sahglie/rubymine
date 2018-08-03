@@ -651,11 +651,11 @@
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile" timestamp="1533253401829">
-        <mark key="'" line="5" column="15" />
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="56" column="15" />
-        <mark key="." line="56" column="15" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile" timestamp="1533255545579">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="26" />
         <mark key="^" line="56" column="15" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/severity_rules/_form.html.haml" timestamp="1533158737580">
@@ -1027,8 +1027,8 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" timestamp="1533078726738">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" timestamp="1533255122662">
+        <mark key="'" line="62" column="4" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/show/_controls_widget.html.erb" timestamp="1533085399684">
         <mark key="'" line="0" column="0" />
@@ -3259,12 +3259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/HostInfo.vue" />
-      <jump line="30" column="71" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/utils/api_client.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/utils/api_client.js" />
-      <jump line="60" column="45" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/HostInfo.vue" />
-      <jump line="20" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/HostInfo.vue" />
-      <jump line="68" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/HostInfo.vue" />
       <jump line="66" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/HostInfo.vue" />
       <jump line="72" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/HostInfo.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/HostInfo.vue" />
@@ -3359,6 +3353,12 @@
       <jump line="28" column="61" filename="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/uid_blocks_feature_spec.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/helpers/application_helper.rb" />
       <jump line="5" column="15" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
+      <jump line="65" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
+      <jump line="66" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
+      <jump line="62" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
+      <jump line="39" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
+      <jump line="6" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3377,7 +3377,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>mini</text>
+        <text>boot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChwYWdlLmhhc19zZWxlY3Rvcj8oInRhYmxlI3RocmVhdF9sb2dzIHRib2R5IHRyIikpLnRvIGJlX3RydXRoeQo=</text>
@@ -3423,13 +3423,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mini</last-search>
+      <last-search>boot</last-search>
       <last-offset />
-      <last-pattern>mini</last-pattern>
+      <last-pattern>boot</last-pattern>
       <last-replace>card</last-replace>
       <last-substitute>panel</last-substitute>
       <last-dir>1</last-dir>
@@ -3437,8 +3437,6 @@
     </search>
     <history>
       <history-search>
-        <entry>octi</entry>
-        <entry>simple_form</entry>
         <entry>horizontal</entry>
         <entry>errors</entry>
         <entry>required</entry>
@@ -3457,6 +3455,8 @@
         <entry>screen</entry>
         <entry>h2</entry>
         <entry>mini</entry>
+        <entry>autoprefixer</entry>
+        <entry>boot</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSymbol</entry>
@@ -3468,7 +3468,6 @@
         <entry>action GotoRelated</entry>
         <entry>%s/panel/card/s</entry>
         <entry>s/panel/card/g</entry>
-        <entry>action QuickList.FindAndReplace</entry>
         <entry>action Run</entry>
         <entry>action GotoTest</entry>
         <entry>%s/panel/card/g</entry>
@@ -3476,9 +3475,10 @@
         <entry>action RecentFiles</entry>
         <entry>action RunClass</entry>
         <entry>action QuickList.CustomGitActions</entry>
-        <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action QuickList.FindAndReplace</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
