@@ -376,7 +376,6 @@
         <mark key="^" line="25" column="67" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationJobHistory.vue" timestamp="1533588712933" />
       <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/AutomationCreate.vue" timestamp="1530056245267">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -618,7 +617,7 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533754896436">
+      <file name="/Dummy.txt" timestamp="1533756997593">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
@@ -1255,11 +1254,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1532983648790">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="120" column="2" />
-        <mark key="]" line="120" column="2" />
-        <mark key="." line="120" column="2" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1533756991431">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="140" column="5" />
+        <mark key="]" line="140" column="6" />
+        <mark key="." line="140" column="6" />
         <mark key="^" line="120" column="2" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationNew.vue" timestamp="1531421312724">
@@ -2994,7 +2993,6 @@
         <mark key="." line="2" column="79" />
         <mark key="^" line="1" column="91" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automation_jobs_controller.rb" timestamp="1533587520017" />
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/DateCriteria.vue" timestamp="1533582273018">
         <mark key="[" line="18" column="50" />
         <mark key="]" line="18" column="50" />
@@ -3181,10 +3179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
-      <jump line="65" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
-      <jump line="66" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
-      <jump line="62" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" />
       <jump line="39" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
       <jump line="6" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
       <jump line="17" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
@@ -3281,6 +3275,10 @@
       <jump line="114" column="49" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form.rb" />
       <jump line="5" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rd/services/ip.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rd/services/ip.rb" />
+      <jump line="157" column="73" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" />
+      <jump line="14" column="28" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" />
+      <jump line="138" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" />
+      <jump line="49" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3299,7 +3297,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>required</text>
+        <text>rd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaXB2NF9zdWJuZXRzID0gU2VydmljZXM6OlJlZ1N1Ym5ldC5rZWVwX2lmIHsgfHN8IHMuc3VibmV0LmlwdjQ/IH0KICAgICAgaXB2NF9zdWJuZXRzLm1hcCB7IHxzfCBzLnN1Ym5ldC50b19yYW5nZS50b19hIH0uZmxhdHRlbi5tYXAoJjp0b19zKQo=</text>
@@ -3345,13 +3343,13 @@
         <text encoding="base64">ICAgICAgc3VibmV0X2lwcyA9IGlwdjRfc3ViZW50X2lwcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action QuickList.CustomGitActions</text>
       </register>
     </registers>
     <search>
-      <last-search>required</last-search>
+      <last-search>rd</last-search>
       <last-offset />
-      <last-pattern>required</last-pattern>
+      <last-pattern>rd</last-pattern>
       <last-replace>card</last-replace>
       <last-substitute>panel</last-substitute>
       <last-dir>1</last-dir>
@@ -3359,7 +3357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>label</entry>
         <entry>token</entry>
         <entry>New</entry>
         <entry>a.btn-default</entry>
@@ -3379,9 +3376,9 @@
         <entry>axios</entry>
         <entry>form-control</entry>
         <entry>required</entry>
+        <entry>rd</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoSymbol</entry>
         <entry>source ~/ideavimrc</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LkN1c3RvbUdpdEFjdGlvbnM=</entry>
@@ -3397,10 +3394,11 @@
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoAction</entry>
-        <entry>action QuickList.CustomGitActions</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>wq</entry>
+        <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
