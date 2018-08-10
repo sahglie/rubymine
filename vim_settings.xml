@@ -47,9 +47,6 @@
         <mark key="." line="31" column="23" />
         <mark key="^" line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/api/rd/reg_ips_controller.rb" timestamp="1532971284678">
-        <mark key="'" line="27" column="2" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/uid_blocks/_tabs.html.haml" timestamp="1533168320580">
         <mark key="[" line="3" column="79" />
         <mark key="]" line="3" column="85" />
@@ -112,6 +109,13 @@
         <mark key="." line="1" column="50" />
         <mark key="^" line="1" column="50" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/_search.html.erb" timestamp="1533922678392">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap.rb" timestamp="1475694007856">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="12" />
@@ -135,6 +139,11 @@
         <mark key="]" line="10" column="5" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/dmca_notices/index.html.haml" timestamp="1533242745853">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/assets/javascripts/application.js" timestamp="1475612840497">
         <mark key="[" line="13" column="22" />
@@ -302,6 +311,13 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nessus/forms/scan_search.rb" timestamp="1533923743858">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sidekiq/sock_error_handler.rb" timestamp="1481667261980">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
@@ -326,6 +342,12 @@
         <mark key="]" line="30" column="79" />
         <mark key="." line="30" column="79" />
         <mark key="^" line="30" column="79" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/palo_alto/threat_logs_controller.rb" timestamp="1533924241263">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="54" column="2" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/metrics/ops_reports/index.html.haml" timestamp="1476136405575">
         <mark key="[" line="5" column="53" />
@@ -437,11 +459,21 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/snort/packets/_payload.html.haml" timestamp="1533921551859">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step4/set_password.js.erb" timestamp="1484687196178">
         <mark key="[" line="1" column="59" />
         <mark key="]" line="1" column="59" />
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="58" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/rt_queues/edit.html.haml" timestamp="1533239187558">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aid/_tabs.html.erb" timestamp="1533239729051">
         <mark key="[" line="0" column="0" />
@@ -563,7 +595,7 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Ruby Console" timestamp="1533754769022">
+      <file name="/Ruby Console" timestamp="1533921336726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -581,11 +613,6 @@
         <mark key="]" line="9" column="61" />
         <mark key="." line="9" column="61" />
         <mark key="^" line="9" column="79" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1533754753684">
-        <mark key="[" line="128" column="4" />
-        <mark key="]" line="128" column="4" />
-        <mark key="." line="128" column="4" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/step5/index.html.erb" timestamp="1480287082082">
         <mark key="[" line="0" column="43" />
@@ -611,13 +638,24 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/nos_data/calvisitor_feature_spec.rb" timestamp="1533246450605">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="69" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/ids/alert_group/calnet_uid.rb" timestamp="1485989990125">
         <mark key="[" line="10" column="68" />
         <mark key="]" line="10" column="70" />
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533756997593">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/snort/packets_controller.rb" timestamp="1533921271494">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="44" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1533921173019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
@@ -646,9 +684,6 @@
         <mark key="]" line="60" column="27" />
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile" timestamp="1533318095567">
-        <mark key="'" line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/severity_rules/_form.html.haml" timestamp="1533158737580">
         <mark key="'" line="20" column="0" />
@@ -725,11 +760,22 @@
         <mark key="." line="45" column="31" />
         <mark key="^" line="35" column="35" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ticket_rules/index.html.haml" timestamp="1533919455383">
+        <mark key="[" line="26" column="76" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aid/ips/_tabs.html.erb" timestamp="1533239891077">
         <mark key="[" line="2" column="82" />
         <mark key="]" line="2" column="82" />
         <mark key="^" line="1" column="95" />
         <mark key="." line="2" column="82" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ip_incidents/edit.html.erb" timestamp="1533340965511">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ids/alert_reviews/index.html.erb" timestamp="1533229613596">
         <mark key="'" line="5" column="66" />
@@ -798,18 +844,23 @@
         <mark key="." line="1" column="73" />
         <mark key="^" line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/index.js.erb" timestamp="1533922555859">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/aggressive_ips.yml" timestamp="1474408081729">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1533590377390">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1533919204539">
         <mark key="'" line="20" column="9" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="16" />
-        <mark key="." line="34" column="16" />
-        <mark key="^" line="34" column="16" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="10" />
+        <mark key="." line="48" column="10" />
+        <mark key="^" line="48" column="10" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/forms/aid_list/ip_tag.rb" timestamp="1479498731687">
         <mark key="[" line="3" column="12" />
@@ -823,12 +874,12 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" timestamp="1533587478424">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="89" column="37" />
-        <mark key="]" line="89" column="46" />
-        <mark key="^" line="89" column="46" />
-        <mark key="." line="89" column="46" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" timestamp="1533924311858">
+        <mark key="'" line="81" column="18" />
+        <mark key="[" line="165" column="17" />
+        <mark key="]" line="165" column="17" />
+        <mark key="^" line="165" column="17" />
+        <mark key="." line="165" column="17" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ids/alerts/_form.html.erb" timestamp="1533229519987">
         <mark key="'" line="5" column="24" />
@@ -843,8 +894,14 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/admin/exception_rules.js" timestamp="1533153139152">
-        <mark key="'" line="63" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/forms/paginated_search.rb" timestamp="1533922962126">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="45" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/helpers/css_helper.rb" timestamp="1533158833386">
+        <mark key="[" line="2" column="65" />
+        <mark key="]" line="2" column="65" />
+        <mark key="." line="2" column="65" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ids/alert_groups/index.html.erb" timestamp="1533232743510">
         <mark key="'" line="8" column="22" />
@@ -883,6 +940,11 @@
         <mark key="]" line="7" column="37" />
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/application.js" timestamp="1533230069211">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/ids/ids_alert_progress_controller.rb" timestamp="1485984244916">
         <mark key="[" line="0" column="16" />
@@ -975,6 +1037,11 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="47" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nos_data/airbears2/_form.html.erb" timestamp="1533237215911">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/shodan_rules/_actions_cog.html.erb" timestamp="1533243045979">
         <mark key="[" line="9" column="72" />
         <mark key="]" line="9" column="72" />
@@ -999,9 +1066,6 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile.lock" timestamp="1533255122662">
-        <mark key="'" line="62" column="4" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/show/_controls_widget.html.erb" timestamp="1533085399684">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="37" />
@@ -1016,8 +1080,10 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/IncidentHostInfo.vue" timestamp="1533233852377">
-        <mark key="'" line="234" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/palo_alto/threat_logs/index.js.erb" timestamp="1533922551809">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/audit_event_syslog.rb" timestamp="1483572461347">
         <mark key="[" line="16" column="11" />
@@ -1025,13 +1091,18 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/dmca_offenses/index.html.haml" timestamp="1533242859064">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/bigfix/machines/index.html.erb" timestamp="1533238911937">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="24" />
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="/fragment.rb" timestamp="1533591320002">
+      <file name="/fragment.rb" timestamp="1533921402247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -1116,6 +1187,13 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/nessus/scans_controller.rb" timestamp="1533923078701">
+        <mark key="'" line="83" column="19" />
+        <mark key="[" line="77" column="55" />
+        <mark key="]" line="77" column="55" />
+        <mark key="." line="77" column="55" />
+        <mark key="^" line="77" column="54" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_packet_worker.rb" timestamp="1480712348447">
         <mark key="[" line="24" column="35" />
         <mark key="]" line="25" column="5" />
@@ -1182,9 +1260,6 @@
         <mark key="]" line="20" column="37" />
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/nessus/scan_ips/rdm_spec.rb" timestamp="1533754017089">
-        <mark key="^" line="4" column="91" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock-rails5/spec/requests/api/rd/reg_subnets_controller_spec.rb" timestamp="1532722895964">
         <mark key="[" line="13" column="8" />
@@ -1260,6 +1335,11 @@
         <mark key="]" line="140" column="6" />
         <mark key="." line="140" column="6" />
         <mark key="^" line="120" column="2" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ids/alert_reviews/new.html.erb" timestamp="1533231544272">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationNew.vue" timestamp="1531421312724">
         <mark key="[" line="3" column="36" />
@@ -1351,14 +1431,16 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nos_data/airbears2/index.html.erb" timestamp="1533161646685">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/alerts/intrushield.rb" timestamp="1481321931854">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="9" column="7" />
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/rt_tickets/show.html.erb" timestamp="1533591707019">
-        <mark key="'" line="13" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" timestamp="1533581665345">
         <mark key="'" line="65" column="22" />
@@ -1385,9 +1467,6 @@
         <mark key="." line="23" column="63" />
         <mark key="^" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/BigfixMachineInfo.vue" timestamp="1533163066730">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/helpers/admin/authz/base_helper.rb" timestamp="1533164846718">
         <mark key="[" line="23" column="67" />
         <mark key="]" line="23" column="68" />
@@ -1399,6 +1478,12 @@
         <mark key="]" line="5" column="22" />
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nessus/forms/search.rb" timestamp="1533923722201">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="59" column="8" />
+        <mark key="^" line="14" column="77" />
+        <mark key="." line="13" column="72" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/alert_groups/base.rb" timestamp="1485992732979">
         <mark key="[" line="0" column="0" />
@@ -1472,12 +1557,12 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/helpers/icon_helper.rb" timestamp="1533233562842">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="40" column="10" />
-        <mark key="]" line="40" column="10" />
-        <mark key="." line="40" column="10" />
-        <mark key="^" line="40" column="24" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/helpers/icon_helper.rb" timestamp="1533919644421">
+        <mark key="'" line="47" column="6" />
+        <mark key="[" line="48" column="10" />
+        <mark key="]" line="48" column="13" />
+        <mark key="." line="48" column="13" />
+        <mark key="^" line="48" column="13" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/automations/edit.html.erb" timestamp="1531177668700">
         <mark key="[" line="8" column="0" />
@@ -1516,6 +1601,13 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="75" column="33" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/nessus/sscans_controller.rb" timestamp="1533924288750">
+        <mark key="'" line="16" column="33" />
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+        <mark key="^" line="49" column="23" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/nos_data/calvisitor_sessions.yml" timestamp="1485217824606">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="40" />
@@ -1545,6 +1637,13 @@
         <mark key="]" line="9" column="33" />
         <mark key="^" line="17" column="7" />
         <mark key="." line="9" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationList.vue" timestamp="1533582579114">
+        <mark key="'" line="16" column="45" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="9" />
+        <mark key="." line="50" column="9" />
+        <mark key="^" line="50" column="11" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ip_blocks/_actions.html.haml" timestamp="1533168366908">
         <mark key="[" line="6" column="60" />
@@ -1582,6 +1681,12 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/snort/services/packet_search.rb" timestamp="1533921461216">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="26" column="87" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nos_data/calvisitor/_form.html.erb" timestamp="1533237224855">
         <mark key="[" line="9" column="0" />
@@ -1645,6 +1750,11 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/_form.html.erb" timestamp="1533922651306">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aid/ignore_rules/_form.html.erb" timestamp="1533242480201">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="89" />
@@ -1689,12 +1799,12 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/YottaTable.vue" timestamp="1533242022384">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/YottaTable.vue" timestamp="1533923513618">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="45" column="12" />
-        <mark key="]" line="45" column="30" />
-        <mark key="." line="45" column="30" />
-        <mark key="^" line="45" column="30" />
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="65" />
+        <mark key="." line="20" column="65" />
+        <mark key="^" line="20" column="65" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nos_data/calvisitor/index.html.erb" timestamp="1533161573331">
         <mark key="[" line="10" column="63" />
@@ -1750,6 +1860,11 @@
         <mark key="]" line="9" column="77" />
         <mark key="^" line="9" column="77" />
         <mark key="." line="9" column="77" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/Procfile" timestamp="1533057350243">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/Modal.vue" timestamp="1533086950772">
         <mark key="'" line="34" column="4" />
@@ -1863,15 +1978,12 @@
         <mark key="." line="33" column="131" />
         <mark key="^" line="33" column="131" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/index.html.erb" timestamp="1533243815287">
-        <mark key="'" line="24" column="23" />
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="74" />
-        <mark key="." line="12" column="52" />
-        <mark key="^" line="11" column="70" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/rails_helper.rb" timestamp="1533250443495">
-        <mark key="'" line="30" column="18" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/index.html.erb" timestamp="1533922686294">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock-rails5/app/controllers/api/rd/reg_ips_controller.rb" timestamp="1532720761353">
         <mark key="[" line="10" column="46" />
@@ -1983,6 +2095,11 @@
         <mark key="." line="16" column="5" />
         <mark key="^" line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ticket_rules/_pl_rules.html.haml" timestamp="1533919601907">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/helpers/button_helper.rb" timestamp="1533239364409">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="33" column="41" />
@@ -2070,6 +2187,11 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/severity_rules_feature_spec.rb" timestamp="1533251114571">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/mac_blocks/_actions.html.haml" timestamp="1533169095315">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -2082,6 +2204,11 @@
         <mark key="]" line="8" column="54" />
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/palo_alto/forms/threat_log_search.rb" timestamp="1533923591992">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="69" column="2" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/messages/_form.html.haml" timestamp="1533163533288">
         <mark key="'" line="10" column="0" />
@@ -2120,6 +2247,11 @@
         <mark key="." line="33" column="48" />
         <mark key="^" line="33" column="52" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ids/alert_groups/_tabs.html.erb" timestamp="1533232247219">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nessus/http/client.rb" timestamp="1482352594503">
         <mark key="[" line="287" column="44" />
         <mark key="]" line="287" column="10" />
@@ -2137,6 +2269,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/severity_rules/new.html.haml" timestamp="1533158719332">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/metrics/ops_reports/arcsight.rb" timestamp="1476133303537">
         <mark key="[" line="8" column="87" />
@@ -2207,9 +2344,6 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" timestamp="1533591184627">
-        <mark key="'" line="201" column="35" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/jobs/snort_packet_worker.rb" timestamp="1480716697251">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="19" />
@@ -2257,9 +2391,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="15" column="35" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automations_controller.rb" timestamp="1532975230683">
-        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nos_data/vpn/_form.html.erb" timestamp="1533237241934">
         <mark key="[" line="10" column="0" />
@@ -2417,6 +2548,11 @@
         <mark key="." line="16" column="48" />
         <mark key="^" line="16" column="48" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/assets/javascripts/misc.js" timestamp="1533231422961">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/spec/rails_helper.rb" timestamp="1478904649050">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -2559,8 +2695,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/shodan_rules/new.html.erb" timestamp="1533251216587">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationIncidents.vue" timestamp="1533587378839">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="39" column="83" />
+        <mark key="]" line="39" column="83" />
+        <mark key="." line="39" column="83" />
+        <mark key="^" line="39" column="99" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/services/verify_email.rb" timestamp="1475696273345">
         <mark key="[" line="5" column="34" />
@@ -2603,6 +2743,11 @@
         <mark key="]" line="4" column="81" />
         <mark key="^" line="4" column="81" />
         <mark key="." line="4" column="81" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/nos_data/airbears2_feature_spec.rb" timestamp="1533246444382">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="69" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ids/filter_rules/new.html.erb" timestamp="1533227524291">
         <mark key="[" line="9" column="16" />
@@ -2716,6 +2861,11 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="40" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/snort/events_feature_spec.rb" timestamp="1533249115576">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/progress.html.erb" timestamp="1475701912977">
         <mark key="[" line="21" column="62" />
         <mark key="]" line="21" column="62" />
@@ -2733,6 +2883,12 @@
         <mark key="]" line="17" column="7" />
         <mark key="^" line="17" column="7" />
         <mark key="." line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/forms/InputGroup.vue" timestamp="1533922031062">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="1" column="43" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/jobs/airbears_usage.rb" timestamp="1483471878649">
         <mark key="[" line="13" column="0" />
@@ -2897,9 +3053,6 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/helpers/application_helper.rb" timestamp="1533253054939">
-        <mark key="'" line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationView.vue" timestamp="1530302825782">
         <mark key="[" line="15" column="58" />
         <mark key="]" line="15" column="64" />
@@ -2911,6 +3064,11 @@
         <mark key="]" line="4" column="17" />
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/user_incidents/new.html.erb" timestamp="1533250330161">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/block_sync/monitor_ip_blocks.rb" timestamp="1482345618513">
         <mark key="[" line="10" column="0" />
@@ -2998,6 +3156,13 @@
         <mark key="]" line="18" column="50" />
         <mark key="." line="18" column="50" />
         <mark key="^" line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/edit.html.haml" timestamp="1533920234201">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="49" column="1" />
+        <mark key="." line="49" column="1" />
+        <mark key="^" line="49" column="1" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/show/_security_contacts.html.erb" timestamp="1533084784264">
         <mark key="[" line="1" column="26" />
@@ -3128,6 +3293,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/palo_alto/threat_logs/_form.html.erb" timestamp="1533922230391">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="8" />
+        <mark key="^" line="1" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/set_questions.js.erb" timestamp="1480271371739">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="66" />
@@ -3179,38 +3350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
-      <jump line="6" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
-      <jump line="17" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
-      <jump line="80" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/Gemfile" />
-      <jump line="12" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
-      <jump line="18" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/buttons/EditButton.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/buttons/EditButton.vue" />
-      <jump line="14" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/buttons/DeleteButton.vue" />
-      <jump line="14" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/buttons/EditButton.vue" />
-      <jump line="49" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationList.vue" />
-      <jump line="38" column="63" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationList.vue" />
-      <jump line="169" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="1" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="130" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="212" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="76" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="81" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="43" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="171" column="28" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="40" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" />
-      <jump line="72" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="173" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="29" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" />
-      <jump line="85" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" />
-      <jump line="38" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" />
-      <jump line="53" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" />
-      <jump line="122" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="64" column="23" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" />
-      <jump line="71" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" />
-      <jump line="78" column="66" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="88" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationEditor.vue" />
-      <jump line="60" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" />
       <jump line="15" column="7" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" />
       <jump line="6" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" />
       <jump line="62" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" />
@@ -3238,7 +3377,6 @@
       <jump line="40" column="33" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationIncidents.vue" />
       <jump line="136" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationIncidents.vue" />
       <jump line="76" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationJobHistory.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" />
       <jump line="137" column="3" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationJobHistory.vue" />
       <jump line="19" column="48" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationJobHistory.vue" />
       <jump line="132" column="28" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/AutomationJobHistory.vue" />
@@ -3255,7 +3393,6 @@
       <jump line="184" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form.rb" />
       <jump line="16" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form.rb" />
       <jump line="438" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="67" column="26" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="71" column="28" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="118" column="26" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
@@ -3279,6 +3416,40 @@
       <jump line="14" column="28" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" />
       <jump line="138" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" />
       <jump line="49" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" />
+      <jump line="47" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/app/helpers/icon_helper.rb" />
+      <jump line="41" column="35" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/index.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/index.html.erb" />
+      <jump line="10" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/edit.html.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/edit.html.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
+      <jump line="32" column="43" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
+      <jump line="35" column="46" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
+      <jump line="38" column="69" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
+      <jump line="98" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
+      <jump line="86" column="23" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
+      <jump line="111" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/snort/packet.rb" />
+      <jump line="2" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/lib/snort/forms/packet_search.rb" />
+      <jump line="14" column="29" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/palo_alto/threat_logs/_form.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/palo_alto/threat_logs/_form.html.erb" />
+      <jump line="31" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/_form.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/palo_alto/threat_logs/index.js.erb" />
+      <jump line="30" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/_form.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/_form.html.erb" />
+      <jump line="38" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/_search.html.erb" />
+      <jump line="37" column="7" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/_search.html.erb" />
+      <jump line="16" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/nessus/scans_controller.rb" />
+      <jump line="80" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/nessus/scans_controller.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/nessus/scans_controller.rb" />
+      <jump line="83" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/nessus/scans_controller.rb" />
+      <jump line="11" column="23" filename="$USER_HOME$/Development/projects/sock_rails5/lib/palo_alto/forms/threat_log_search.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/palo_alto/forms/threat_log_search.rb" />
+      <jump line="17" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nessus/forms/scan_search.rb" />
+      <jump line="26" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nessus/forms/scan_search.rb" />
+      <jump line="16" column="34" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/palo_alto/threat_logs_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/palo_alto/threat_logs_controller.rb" />
+      <jump line="16" column="33" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/nessus/sscans_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" />
+      <jump line="81" column="18" filename="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3288,22 +3459,22 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplCiAgICAgIEBhbGxfaXBzID0gU2V0Lm5ldwogICAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IGRv</text>
       </register>
       <register name="/" type="4">
-        <text>rd</text>
+        <text>nessus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaXB2NF9zdWJuZXRzID0gU2VydmljZXM6OlJlZ1N1Ym5ldC5rZWVwX2lmIHsgfHN8IHMuc3VibmV0LmlwdjQ/IH0KICAgICAgaXB2NF9zdWJuZXRzLm1hcCB7IHxzfCBzLnN1Ym5ldC50b19yYW5nZS50b19hIH0uZmxhdHRlbi5tYXAoJjp0b19zKQo=</text>
+        <text encoding="base64">ICAgICAgcmVzb3VyY2VzKDpzY2FucykgZG8KICAgICAgICBnZXQoOnNob3dfcmVzdWx0KQogICAgICAgIHBhdGNoKDp1cGxvYWRfcmVzdWx0cykKICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplCiAgICAgIEBhbGxfaXBzID0gU2V0Lm5ldwogICAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3319,37 +3490,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRjaCg6dXBsb2FkX3Jlc3VsdHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNkYXRhWzplbnZdID0gRU5WCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoOnNob3dfcmVzdWx0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgYmFzZV9pcHMgPSBTbnNEYXRhOjpSZG1JcC5hbGwubWFwIHsgfGV8IGUuaXAudG9fcyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIGF0dHJpYnV0ZXNfcHJlc2VudAogICAgICAgIGF0dHJpYnV0ZXMucmVkdWNlKHt9KSBkbyB8YXR0cnMsIChhdHRyLHZhbCl8CiAgICAgICAgICBhdHRyc1thdHRyXSA9IHZhbCBpZiB2YWwucHJlc2VudD8KICAgICAgICAgIGF0dHJzCiAgICAgICAgZW5kCiAgICAgIGVuZAoKICAgICAgZGVmIHNlbGYubW9kZWxfbmFtZQogICAgICAgIEFjdGl2ZU1vZGVsOjpOYW1lLm5ldyhzZWxmLCBuaWwsICJRIikKICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVnX2lwcyA9IFNlcnZpY2VzOjpSZWdJcC5hbGxfaXBzLm1hcCB7IHxpfCBpLmlwLnRvX3MgfQo=</text>
+        <text encoding="base64">ICAgICAgcHJpdmF0ZQoKICAgICAgZGVmIHZhbGlkYXRlX2FkZGl0aW9uYWxfdGVybXNfZm9yX2xhcmdlX3NlYXJjaF93aW5kb3cKICAgICAgICBpZiByYW5nZV90ZXJtc19wcmVzZW50PyAmJiByYW5nZV9ncmVhdGVyX3RoYW5fMzBfbWluPyAmJiBhZGRpdGlvbmFsX3Rlcm1zX2VtcHR5PwogICAgICAgICAgZXJyb3JzLmFkZCgiYmFzZSIsIDw8LU1TRy5zdHJpcCkKWW91IG11c3Qgc3BlY2lmeSBhZGRpdGlvbmFsIHNlYXJjaCB0ZXJtcyB3aGVuIHNlYXJjaCByYW5nZSB3aW5kb3cgaXMgZ3JlYXRlciB0aGFuIDMwIG1pbnV0ZXMKICAgICAgICAgIE1TRwogICAgICAgIGVuZAogICAgICBlbmQKCiAgICAgIGRlZiByYW5nZV9ncmVhdGVyX3RoYW5fMzBfbWluPwogICAgICAgIChUaW1lLnBhcnNlKHN0b3BfcmFuZ2VfdHMudG9fcykgLSBUaW1lLnBhcnNlKHN0YXJ0X3JhbmdlX3RzLnRvX3MpKSA+IDMwLm1pbnV0ZXMKICAgICAgcmVzY3VlIEFyZ3VtZW50RXJyb3IKICAgICAgICAjIG5vb3AgaWYgdGltZSBjYW4ndCBiZSBwYXJzZWQKICAgICAgZW5kCgogICAgICBkZWYgdmFsaWRhdGVfc2VhcmNoX3dpbmRvd19sZXNzX3RoYW5fMTJfaHJzCiAgICAgICAgaWYgKFRpbWUucGFyc2Uoc3RvcF9yYW5nZV90cy50b19zKSAtIFRpbWUucGFyc2Uoc3RhcnRfcmFuZ2VfdHMudG9fcykpID4gMTIuaG91cnMKICAgICAgICAgIGVycm9ycy5hZGQoImJhc2UiLCAiU2VhcmNoIHdpbmRvdyBtdXN0IGJlIGxlc3MgdGhhbiAxMiBob3VycyIpCiAgICAgICAgZW5kCiAgICAgIHJlc2N1ZSBBcmd1bWVudEVycm9yCiAgICAgICAgZXJyb3JzLmFkZCgiYmFzZSIsICJJbnZhbGlkIFRpbWUgRm9ybWF0IikKICAgICAgZW5kCgogICAgICBkZWYgcmFuZ2VfdGVybXNfcHJlc2VudD8KICAgICAgICBzdG9wX3JhbmdlX3RzLnByZXNlbnQ/ICYmIHN0YXJ0X3JhbmdlX3RzLnByZXNlbnQ/CiAgICAgIGVuZAoKICAgICAgZGVmIGFkZGl0aW9uYWxfdGVybXNfZW1wdHk/CiAgICAgICAgYWRkaXRpb25hbF90ZXJtcyA9IGF0dHJpYnV0ZXMuZXhjZXB0KCJwYWdlIiwgInBlcl9wYWdlIiwgInNvcnRfb3JkZXIiLCAic3RhcnRfcmFuZ2VfdHMiLCAic3RvcF9yYW5nZV90cyIpCiAgICAgICAgYWRkaXRpb25hbF90ZXJtcy5rZXlzLmFsbD8geyB8dHwgc2VsZi5zZW5kKHQpLmJsYW5rPyB9CiAgICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlCgogICAgZGVmIHJlZ19pcHMKICAgICAgU2VydmljZXM6OlJlZ0lwLmFsbF9pcHMubWFwIHsgfGl8IGkuaXAudG9fcyB9CiAgICBlbmQKCiAgICBkZWYgcmVnX2lwdjRfc3VibmV0X2lwcwogICAgICBpcHY0X3N1Ym5ldHMgPSBTZXJ2aWNlczo6UmVnU3VibmV0LmtlZXBfaWYgeyB8c3wgcy5zdWJuZXQuaXB2ND8gfQogICAgICBpcHY0X3N1Ym5ldHMubWFwIHsgfHN8IHMuc3VibmV0LnRvX3JhbmdlLnRvX2EgfS5mbGF0dGVuLm1hcCgmOnRvX3MpCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgdmFsaWRhdGVzKDpzZXZlcml0eSwgbnVtZXJpY2FsaXR5OiB7IGFsbG93X2JsYW5rOiB0cnVlIH0pCiAgICAgIHZhbGlkYXRlcyg6c3JjX2lwLCBpcF9hZGRyZXNzOiB7IGFsbG93X2JsYW5rOiB0cnVlIH0pCiAgICAgIHZhbGlkYXRlcyg6c3JjX3BvcnQsIG51bWVyaWNhbGl0eTogeyBhbGxvd19ibGFuazogdHJ1ZSB9KQogICAgICB2YWxpZGF0ZXMoOmRzdF9pcCwgaXBfYWRkcmVzczogeyBhbGxvd19ibGFuazogdHJ1ZSB9KQogICAgICB2YWxpZGF0ZXMoOmRzdF9wb3J0LCBudW1lcmljYWxpdHk6IHsgYWxsb3dfYmxhbms6IHRydWUgfSkKICAgICAgdmFsaWRhdGVzKDpzdGFydF9yYW5nZV90cywgdGltZXN0YW1wOiB0cnVlLCBwcmVzZW5jZTogdHJ1ZSkKICAgICAgdmFsaWRhdGVzKDpzdG9wX3JhbmdlX3RzLCB0aW1lc3RhbXA6IHRydWUsIHByZXNlbmNlOiB0cnVlKQogICAgICB2YWxpZGF0ZXMoOnNvcnRfb3JkZXIsIGluY2x1c2lvbjogeyBpbjogJXcoYXNjIGRlc2MpIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlKDpwYWdlLCBkZWZhdWx0OiAxKQogICAgICBhdHRyaWJ1dGUoOnBlcl9wYWdlLCBkZWZhdWx0OiAxXzAwMCkKICAgICAgYXR0cmlidXRlKDpzb3J0X29yZGVyLCBkZWZhdWx0OiAiZGVzYyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3VibmV0X2lwcyA9IGlwdjRfc3ViZW50X2lwcwo=</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlKDpzcmNfcG9ydCkKICAgICAgYXR0cmlidXRlKDpkc3RfaXApCiAgICAgIGF0dHJpYnV0ZSg6ZHN0X3BvcnQpCiAgICAgIGF0dHJpYnV0ZSg6dnN5c19uYW1lKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.CustomGitActions</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search>rd</last-search>
+      <last-search>nessus</last-search>
       <last-offset />
-      <last-pattern>rd</last-pattern>
+      <last-pattern>nessus</last-pattern>
       <last-replace>card</last-replace>
       <last-substitute>panel</last-substitute>
       <last-dir>1</last-dir>
@@ -3357,8 +3528,6 @@
     </search>
     <history>
       <history-search>
-        <entry>token</entry>
-        <entry>New</entry>
         <entry>a.btn-default</entry>
         <entry>h2.alert-danger</entry>
         <entry>click</entry>
@@ -3371,34 +3540,36 @@
         <entry>boot</entry>
         <entry>editorContext</entry>
         <entry>error</entry>
-        <entry>panel</entry>
         <entry>automation</entry>
         <entry>axios</entry>
         <entry>form-control</entry>
         <entry>required</entry>
         <entry>rd</entry>
+        <entry>panel</entry>
+        <entry>radio</entry>
+        <entry>nessus</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/ideavimrc</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUXVpY2tMaXN0LkN1c3RvbUdpdEFjdGlvbnM=</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>%s/panel/card/s</entry>
         <entry>s/panel/card/g</entry>
-        <entry>action QuickList.FindAndReplace</entry>
-        <entry>%s/panel/card/g</entry>
         <entry>action GotoRelated</entry>
         <entry>action Run</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoAction</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry>wq</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>%s/panel/card/g</entry>
+        <entry>action QuickList.FindAndReplace</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action QuickList.CustomGitActions</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
