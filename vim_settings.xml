@@ -1105,10 +1105,10 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/show/_controls_widget.html.erb" timestamp="1534180662418">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/show/_controls_widget.html.erb" timestamp="1534184683575">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="15" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="38" column="9" />
         <mark key="^" line="13" column="45" />
         <mark key="." line="21" column="0" />
       </file>
@@ -2798,11 +2798,11 @@
         <mark key="." line="23" column="52" />
         <mark key="^" line="23" column="52" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" timestamp="1534182948036">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="49" />
-        <mark key="." line="27" column="49" />
-        <mark key="^" line="27" column="49" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" timestamp="1534184876756">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="88" column="12" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="90" column="5" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/edit.html.erb" timestamp="1480288384100">
         <mark key="[" line="6" column="0" />
@@ -3516,7 +3516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="26" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="129" column="29" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="142" column="26" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="161" column="31" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
@@ -3616,6 +3615,7 @@
       <jump line="9" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/mac_block.rb" />
       <jump line="85" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/mac_block.rb" />
       <jump line="43" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/uid_block.rb" />
+      <jump line="66" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3624,23 +3624,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ob3ZlciI+CiAgPHRoZWFkIGNsYXNzPSJ0aGVhZC1saWdodCI+CiAgPHRyPgogICAgPHRoPklkZW50aWZpZXI8L3RoPgogICAgPHRoPlRpY2tldCAjPC90aD4KICAgIDx0aD5TZXJ2aWNlPC90aD4KICAgIDx0aD5CbG9jayBRdWV1ZWQ8L3RoPgogICAgPHRoPkJsb2NrIFN5bmNlZDwvdGg+CiAgICA8dGg+VW5ibG9jayBRdWV1ZWQ8L3RoPgogICAgPHRoPlVuYmxvY2sgU3luY2VkPC90aD4KICA8L3RyPgogIDwvdGhlYWQ+CiAgPHRib2R5PgogIDwlIEBibG9ja19oaXN0b3J5LmVhY2ggZG8gfGJ8ICU+CiAgICA8dHI+CiAgICAgIDx0ZD48JT0gYi5pZGVudGlmaWVyICU+PC90ZD4KICAgICAgPHRkPjwlPSBiLnRpY2tldF9pZCAlPjwvdGQ+CiAgICAgIDx0ZD48JT0gYi5zZXJ2aWNlICU+PC90ZD4KICAgICAgPHRkPjwlPSBiLmJsb2NrX3F1ZXVlZF9hdC50cnkoOnRvX3MsIDp5bWRobXMpICU+PC90ZD4KICAgICAgPHRkPjwlPSBiLmJsb2NrX3N5bmNlZF9hdC50cnkoOnRvX3MsIDp5bWRobXMpICU+PC90ZD4KICAgICAgPHRkPjwlPSBiLnVuYmxvY2tfcXVldWVkX2F0LnRyeSg6dG9fcywgOnltZGhtcykgJT48L3RkPgogICAgICA8dGQ+PCU9IGIudW5ibG9ja19zeW5jZWRfYXQudHJ5KDp0b19zLCA6eW1kaG1zKSAlPjwvdGQ+CiAgICA8L3RyPgogIDwlIGVuZCAlPgogIDwvdGJvZHk+CjwvdGFibGU+Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>rdm</text>
       </register>
-      <register name="0" type="4">
-        <text>.to_s(:ymdhms)</text>
+      <register name="0" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY2FyZCI+CiAgPGRpdiBjbGFzcz0iY2FyZC1ib2R5Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ob3ZlciI+CiAgPHRoZWFkIGNsYXNzPSJ0aGVhZC1saWdodCI+CiAgPHRyPgogICAgPHRoPklkZW50aWZpZXI8L3RoPgogICAgPHRoPlRpY2tldCAjPC90aD4KICAgIDx0aD5TZXJ2aWNlPC90aD4KICAgIDx0aD5CbG9jayBRdWV1ZWQ8L3RoPgogICAgPHRoPkJsb2NrIFN5bmNlZDwvdGg+CiAgICA8dGg+VW5ibG9jayBRdWV1ZWQ8L3RoPgogICAgPHRoPlVuYmxvY2sgU3luY2VkPC90aD4KICA8L3RyPgogIDwvdGhlYWQ+CiAgPHRib2R5PgogIDwlIEBibG9ja19oaXN0b3J5LmVhY2ggZG8gfGJ8ICU+CiAgICA8dHI+CiAgICAgIDx0ZD48JT0gYi5pZGVudGlmaWVyICU+PC90ZD4KICAgICAgPHRkPjwlPSBiLnRpY2tldF9pZCAlPjwvdGQ+CiAgICAgIDx0ZD48JT0gYi5zZXJ2aWNlICU+PC90ZD4KICAgICAgPHRkPjwlPSBiLmJsb2NrX3F1ZXVlZF9hdC50cnkoOnRvX3MsIDp5bWRobXMpICU+PC90ZD4KICAgICAgPHRkPjwlPSBiLmJsb2NrX3N5bmNlZF9hdC50cnkoOnRvX3MsIDp5bWRobXMpICU+PC90ZD4KICAgICAgPHRkPjwlPSBiLnVuYmxvY2tfcXVldWVkX2F0LnRyeSg6dG9fcywgOnltZGhtcykgJT48L3RkPgogICAgICA8dGQ+PCU9IGIudW5ibG9ja19zeW5jZWRfYXQudHJ5KDp0b19zLCA6eW1kaG1zKSAlPjwvdGQ+CiAgICA8L3RyPgogIDwlIGVuZCAlPgogIDwvdGJvZHk+CjwvdGFibGU+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3656,28 +3656,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSYWlscy5sb2dnZXIuZGVidWcoaXBfYmxvY2tzLnRvX3NxbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5kZWJ1ZyhwYXJhbXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHRkPjwlPSBibG9ja19zdGF0dXNfbGFiZWwoYi5zdGF0dXMpICU+PC90ZD4K</text>
+        <text encoding="base64">ICA8dGFibGUgY2xhc3M9InRhYmxlIHRhYmxlLWhvdmVyIj4KICAgIDx0aGVhZCBjbGFzcz0idGhlYWQtbGlnaHQiPgogICAgPHRyPgogICAgICA8dGg+SWRlbnRpZmllcjwvdGg+CiAgICAgIDx0aD5UaWNrZXQgIzwvdGg+CiAgICAgIDx0aD5TZXJ2aWNlPC90aD4KICAgICAgPHRoPlF1ZXVlZCBBdDwvdGg+CiAgICAgIDx0aD5TeW5jZWQgQXQ8L3RoPgogICAgICA8dGg+U3RhdHVzPC90aD4KICAgIDwvdHI+CiAgICA8L3RoZWFkPgogICAgPHRib2R5PgogICAgPCUgQGFjdGl2ZV9ibG9ja3MuZWFjaCBkbyB8YnwgJT4KICAgICAgPHRyPgogICAgICAgIDx0ZD48JT0gYi5pZGVudGlmaWVyICU+PC90ZD4KICAgICAgICA8dGQ+PCU9IGIudGlja2V0X2lkICU+PC90ZD4KICAgICAgICA8dGQ+PCU9IGIuc2VydmljZSAlPjwvdGQ+CiAgICAgICAgPHRkPjwlPSBiLmJsb2NrX3F1ZXVlZF9hdC50cnkoOnRvX3MsIDp5bWRobXMpICU+PC90ZD4KICAgICAgICA8dGQ+PCU9IGIuYmxvY2tfc3luY2VkX2F0LnRyeSg6dG9fcywgOnltZGhtcykgJT48L3RkPgogICAgICAgIDx0ZD48JT0gYmxvY2tfc3RhdHVzX2xhYmVsKGIuc3RhdHVzKSAlPjwvdGQ+CiAgICAgIDwvdHI+CiAgICA8JSBlbmQgJT4KICAgIDwvdGJvZHk+CiAgPC90YWJsZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx0aD5TdGF0dXM8L3RoPgo=</text>
+        <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ob3ZlciI+CiAgPHRoZWFkIGNsYXNzPSJ0aGVhZC1saWdodCI+CiAgPHRyPgogICAgPHRoPklkZW50aWZpZXI8L3RoPgogICAgPHRoPlRpY2tldCAjPC90aD4KICAgIDx0aD5TZXJ2aWNlPC90aD4KICAgIDx0aD5RdWV1ZWQgQXQ8L3RoPgogICAgPHRoPlN5bmNlZCBBdDwvdGg+CiAgICA8dGg+U3RhdHVzPC90aD4KICA8L3RyPgogIDwvdGhlYWQ+CiAgPHRib2R5PgogIDwlIEBhY3RpdmVfYmxvY2tzLmVhY2ggZG8gfGJ8ICU+CiAgICA8dHI+CiAgICAgIDx0ZD48JT0gYi5pZGVudGlmaWVyICU+PC90ZD4KICAgICAgPHRkPjwlPSBiLnRpY2tldF9pZCAlPjwvdGQ+CiAgICAgIDx0ZD48JT0gYi5zZXJ2aWNlICU+PC90ZD4KICAgICAgPHRkPjwlPSBiLmJsb2NrX3F1ZXVlZF9hdC50cnkoOnRvX3MsIDp5bWRobXMpICU+PC90ZD4KICAgICAgPHRkPjwlPSBiLmJsb2NrX3N5bmNlZF9hdC50cnkoOnRvX3MsIDp5bWRobXMpICU+PC90ZD4KICAgICAgPHRkPjwlPSBibG9ja19zdGF0dXNfbGFiZWwoYi5zdGF0dXMpICU+PC90ZD4KICAgIDwvdHI+CiAgPCUgZW5kICU+CiAgPC90Ym9keT4KPC90YWJsZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPGxpPgogICAgICAgIDwlPSBsaW5rX3RvKCJTeW5jIFRpY2tldCIsIHN5bmNfYWRtaW5faW5jaWRlbnRfcnRfdGlja2V0X3BhdGgoQGluY2lkZW50KSwgY2xhc3M6ICJkcm9wZG93bi1pdGVtIikgJT4KICAgICAgPC9saT4KICAgIDwlIGVuZCAlPgogICAgPGxpPgogICAgICA8JT0gbGlua190byh0b2dnbGVfc3RhdHVzKEBpbmNpZGVudCksIGFkbWluX2luY2lkZW50X3RvZ2dsZV9zdGF0dXNfcGF0aChAaW5jaWRlbnQpLCBjbGFzczogImRyb3Bkb3duLWl0ZW0iLCBpZDogJ3RvZ2dsZV9pbmNpZGVudF9zdGF0dXMnKSAlPgogICAgPC9saT4KICAgIDwlIGlmIEBpbmNpZGVudC50aWNrZXRfcGVuZGluZz8gJT4KICAgICAgPGxpPgogICAgICAgIDwlPSBsaW5rX3RvKCJDcmVhdGUgUlQgVGlja2V0IiwgYWRtaW5faW5jaWRlbnRfcnRfdGlja2V0X3BhdGgoQGluY2lkZW50KSwgbWV0aG9kOiA6cG9zdCwgY2xhc3M6ICJkcm9wZG93bi1pdGVtIiwgaWQ6ICdjcmVhdGVfcnRfdGlja2V0JykgJT4KICAgICAgPC9saT4KICAgIDwlIGVuZCAlPgogICAgPGxpIGNsYXNzPSJkaXZpZGVyIj48L2xpPgogICAgPGxpPgogICAgICA8JT0gbGlua190byhpY29uX2RlbGV0ZSh0ZXh0OiAiRGVsZXRlIEluY2lkZW50IiksIFs6YWRtaW4sIEBpbmNpZGVudF0sIG1ldGhvZDogOmRlbGV0ZSwgZGF0YTogeyBjb25maXJtOiAnQXJlIHlvdSBzdXJlPycgfSwgY2xhc3M6ICJkcm9wZG93bi1pdGVtIikgJT4KICAgIDwvbGk+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBibG9ja19oaXN0b3J5ID0gOjpTb2NrOjpTZXJ2aWNlczo6RmluZEluY2lkZW50QmxvY2tzLmJsb2NrX2hpc3RvcnkoQGluY2lkZW50LnRpY2tldF9pZCkK</text>
+        <text encoding="base64">ICAgIDwlIGlmIEBpbmNpZGVudC50aWNrZXRfaWQgJT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBibG9ja19oaXN0b3J5ID0gOjpTb2NrOjpTZXJ2aWNlczo6RmluZEluY2lkZW50QmxvY2tzLmJsb2NrX2hpc3RvcnkoQGluY2lkZW50LnRpY2tldF9pZCkK</text>
+        <text encoding="base64">PHA+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9wPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3732,9 +3732,9 @@
         <entry>action Run</entry>
         <entry>action RunClass</entry>
         <entry>action QuickList.FindAndReplace</entry>
-        <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
