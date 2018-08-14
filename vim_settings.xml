@@ -419,6 +419,13 @@
         <mark key="." line="10" column="79" />
         <mark key="^" line="10" column="79" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" timestamp="1534266887792">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="25" column="89" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="26" column="19" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/consumers/audit_event_consumer_spec.rb" timestamp="1530034835424">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -627,11 +634,11 @@
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/snort/forms/packet_search.rb" timestamp="1533920869770">
         <mark key="'" line="2" column="10" />
       </file>
-      <file name="/Ruby Console" timestamp="1534264688440">
+      <file name="/Ruby Console" timestamp="1534266950088">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/messages/index.html.erb" timestamp="1533164111202">
         <mark key="'" line="6" column="15" />
@@ -1115,11 +1122,10 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/case.rb" timestamp="1534264775115">
-        <mark key="[" line="33" column="55" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="34" column="3" />
-        <mark key="^" line="34" column="3" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/case.rb" timestamp="1534265867522">
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/ids/Intrushield.vue" timestamp="1533169984415">
         <mark key="'" line="1" column="25" />
@@ -1632,6 +1638,10 @@
         <mark key="^" line="20" column="9" />
         <mark key="." line="20" column="9" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/formatters/simple.rb" timestamp="1534265439848">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="19" column="22" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/_search_form.html.erb" timestamp="1533937534070">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="46" />
@@ -1774,6 +1784,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="26" column="87" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/process_arcsight_cases.rb" timestamp="1534266963865">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="22" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nos_data/calvisitor/_form.html.erb" timestamp="1533237224855">
         <mark key="[" line="9" column="0" />
@@ -3346,11 +3362,11 @@
         <mark key="." line="24" column="29" />
         <mark key="^" line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/active_attack.rb" timestamp="1534265144742">
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="14" column="71" />
-        <mark key="^" line="14" column="74" />
-        <mark key="." line="14" column="71" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/active_attack.rb" timestamp="1534265483857">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="38" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/alert_pig/create_alert_groups.rb" timestamp="1485995908697">
         <mark key="[" line="7" column="33" />
@@ -3527,8 +3543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="32" column="43" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="35" column="46" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="38" column="69" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="98" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
@@ -3627,6 +3641,8 @@
       <jump line="98" column="21" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/anomalous_behaviour.rb" />
+      <jump line="39" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
+      <jump line="61" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3636,22 +3652,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>arcsight</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBlbnN1cmVfaGFzX21ldGFfZXZlbnQKICAgICAgaWYgbWV0YV9ldmVudC5uaWw/CiAgICAgICAgZXJyb3JzLmFkZCgibWV0YV9ldmVudCIsICJjYW4ndCBiZSBibGFuayIpCiAgICAgIGVuZAogICAgZW5kCg==</text>
+      <register name="0" type="4">
+        <text>Services::Case.new(env: @env.to_s)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBACg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3667,28 +3683,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JzLmFkZCgibWV0YV9ldmVudCIsICJjYW4ndCBiZSBibGFuayIpCg==</text>
+        <text encoding="base64">Y2FzZXMgPSBjYXNlX3NlcnZpY2UuZmluZF9wZW5kaW5nX2Nhc2VzKGNhc2VfdHlwZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIG1ldGFfZXZlbnQubmlsPwo=</text>
+        <text encoding="base64">Y2FzZV9zZXJ2aWNlID0gQXJjc2lnaHQ6OlNlcnZpY2VzOjpDYXNlLm5ldwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhdXRvX2Jsb2NrX21hY190cyAgICAgVElNRVNUQU1QIFdJVEggVElNRSBaT05FLAo=</text>
+        <text encoding="base64">Y2FzZXMgPSBjYXNlX3NlcnZpY2UuZmluZF9wZW5kaW5nX2Nhc2VzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhdXRvX2Jsb2NrX2lwX3RzICAgICAgVElNRVNUQU1QIFdJVEggVElNRSBaT05FLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBldmVudF9vdXRwdXQgfHw9IEFyY3NpZ2h0OjpGb3JtYXR0ZXJzOjpTaW1wbGUubmV3KHNlbGYpLnJlbmRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhdXRvX2Jsb2NrX2lwICAgICAgICAgQk9PTEVBTiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgREVGQVVMVCBGQUxTRSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6aG9zdF90eXBlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6YmxvY2tfY29uZmlybWVkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JzLmFkZCgibWV0YV9ldmVudCIsICJjYW4ndCBiZSBibGFuayIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi51cGRhdGVfYXR0cmlidXRlISg6dW5ibG9ja19xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIG1ldGFfZXZlbnQubmlsPwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3737,15 +3753,15 @@
         <entry>action FileStructurePopup</entry>
         <entry>%s/attrs/query/g</entry>
         <entry>action GotoTest</entry>
-        <entry>action Run</entry>
-        <entry>action RunClass</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>d</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action Run</entry>
+        <entry>action RunClass</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
