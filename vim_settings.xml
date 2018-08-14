@@ -627,8 +627,8 @@
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/snort/forms/packet_search.rb" timestamp="1533920869770">
         <mark key="'" line="2" column="10" />
       </file>
-      <file name="/Ruby Console" timestamp="1534263629980">
-        <mark key="[" line="0" column="44" />
+      <file name="/Ruby Console" timestamp="1534264688440">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -1115,6 +1115,12 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/case.rb" timestamp="1534264775115">
+        <mark key="[" line="33" column="55" />
+        <mark key="]" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/ids/Intrushield.vue" timestamp="1533169984415">
         <mark key="'" line="1" column="25" />
         <mark key="[" line="2" column="22" />
@@ -1142,7 +1148,7 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="/fragment.rb" timestamp="1533921402247">
+      <file name="/fragment.rb" timestamp="1534264534193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -1434,6 +1440,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="4" column="17" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/base.rb" timestamp="1534265067463">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="101" column="6" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/verify_email_controller.rb" timestamp="1475710715841">
         <mark key="[" line="7" column="21" />
@@ -2549,11 +2559,11 @@
         <mark key="." line="37" column="46" />
         <mark key="^" line="37" column="46" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/folder_mapping.rb" timestamp="1534263519482">
-        <mark key="[" line="63" column="45" />
-        <mark key="]" line="63" column="45" />
-        <mark key="." line="63" column="45" />
-        <mark key="^" line="63" column="44" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/folder_mapping.rb" timestamp="1534264465005">
+        <mark key="[" line="69" column="35" />
+        <mark key="]" line="69" column="35" />
+        <mark key="." line="69" column="35" />
+        <mark key="^" line="63" column="51" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_job.rb" timestamp="1531170858834">
         <mark key="[" line="21" column="9" />
@@ -3336,11 +3346,11 @@
         <mark key="." line="24" column="29" />
         <mark key="^" line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/active_attack.rb" timestamp="1534263212891">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="23" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/active_attack.rb" timestamp="1534265144742">
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="14" column="71" />
+        <mark key="^" line="14" column="74" />
+        <mark key="." line="14" column="71" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/alert_pig/create_alert_groups.rb" timestamp="1485995908697">
         <mark key="[" line="7" column="33" />
@@ -3626,22 +3636,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.to_sym</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>.to_sym</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>arcsight</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kdWxlIEFyY3NpZ2h0CiAgbW9kdWxlIEVudGl0aWVzCiAgICBtb2R1bGUgQ2FzZXMKICAgICAgY2xhc3MgQW5vbWFsb3VzQmVoYXZpb3VyIDwgQmFzZQogICAgICAgIE5BTUUgPSAiYW5vbWFsb3VzIGJlaGF2aW91ciIKCiAgICAgICAgZGVmIGV2ZW50X3R5cGUKICAgICAgICAgICJhbm9tYWxvdXMgYmVoYXZpb3VyIgogICAgICAgIGVuZAoKICAgICAgICBkZWYgZXZlbnRfb3V0cHV0CiAgICAgICAgICBAZXZlbnRfb3V0cHV0IHx8PSBBcmNzaWdodDo6Rm9ybWF0dGVyczo6U2ltcGxlLm5ldyhzZWxmKS5yZW5kZXIKICAgICAgICBlbmQKICAgICAgZW5kCiAgICBlbmQKICBlbmQKZW5kCg==</text>
+        <text encoding="base64">ICAgIGRlZiBlbnN1cmVfaGFzX21ldGFfZXZlbnQKICAgICAgaWYgbWV0YV9ldmVudC5uaWw/CiAgICAgICAgZXJyb3JzLmFkZCgibWV0YV9ldmVudCIsICJjYW4ndCBiZSBibGFuayIpCiAgICAgIGVuZAogICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhdXRvX2Jsb2NrX21hY190cyAgICAgVElNRVNUQU1QIFdJVEggVElNRSBaT05FLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3657,28 +3667,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhdXRvX2Jsb2NrX2lwX3RzICAgICAgVElNRVNUQU1QIFdJVEggVElNRSBaT05FLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JzLmFkZCgibWV0YV9ldmVudCIsICJjYW4ndCBiZSBibGFuayIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhdXRvX2Jsb2NrX2lwICAgICAgICAgQk9PTEVBTiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgREVGQVVMVCBGQUxTRSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIG1ldGFfZXZlbnQubmlsPwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6aG9zdF90eXBlLAo=</text>
+        <text encoding="base64">ICBhdXRvX2Jsb2NrX21hY190cyAgICAgVElNRVNUQU1QIFdJVEggVElNRSBaT05FLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6YmxvY2tfY29uZmlybWVkLAo=</text>
+        <text encoding="base64">ICBhdXRvX2Jsb2NrX2lwX3RzICAgICAgVElNRVNUQU1QIFdJVEggVElNRSBaT05FLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi51cGRhdGVfYXR0cmlidXRlISg6dW5ibG9ja19xKQo=</text>
+        <text encoding="base64">ICBhdXRvX2Jsb2NrX2lwICAgICAgICAgQk9PTEVBTiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgREVGQVVMVCBGQUxTRSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICA6aG9zdF90eXBlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByLnNhdmUhCg==</text>
+        <text encoding="base64">ICAgICAgICA6YmxvY2tfY29uZmlybWVkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByLnVuYmxvY2tfcXVldWVkX2F0ID0gVGltZS5ub3cK</text>
+        <text encoding="base64">ICAgICAgc2VsZi51cGRhdGVfYXR0cmlidXRlISg6dW5ibG9ja19xKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3731,11 +3741,11 @@
         <entry>action RunClass</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>d</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
