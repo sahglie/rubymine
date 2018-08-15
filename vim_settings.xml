@@ -216,6 +216,12 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/CriteriaEditor.vue" timestamp="1534290081640">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="77" column="3" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/pages/admin/AutomationList.vue" timestamp="1534285400241">
         <mark key="'" line="21" column="31" />
         <mark key="[" line="4" column="14" />
@@ -267,10 +273,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing.rb" timestamp="1534299490507">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing.rb" timestamp="1534301999458">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="97" column="2" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="30" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/sscans/index.json.jbuilder" timestamp="1533935095983">
         <mark key="[" line="9" column="42" />
@@ -500,6 +508,12 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/db/ddl/incidents/035_automation_criteria.sql" timestamp="1534289605056">
+        <mark key="[" line="12" column="90" />
+        <mark key="]" line="12" column="98" />
+        <mark key="^" line="12" column="98" />
+        <mark key="." line="12" column="98" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ip_blocks/_history.html.haml" timestamp="1533168696606">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="7" />
@@ -621,12 +635,12 @@
         <mark key="^" line="57" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" timestamp="1534301028512">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" timestamp="1534302236550">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="62" column="2" />
-        <mark key="^" line="58" column="43" />
-        <mark key="." line="58" column="43" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/monkey_patches/rails/active_record/connection_adapters/postgresql/oid/cidr.rb" timestamp="1479921350231">
         <mark key="[" line="12" column="12" />
@@ -707,12 +721,12 @@
         <mark key="." line="33" column="131" />
         <mark key="^" line="33" column="131" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/network_blocks/ip_block.rb" timestamp="1534301237448">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/network_blocks/ip_block.rb" timestamp="1534301305507">
         <mark key="'" line="55" column="16" />
-        <mark key="[" line="60" column="29" />
-        <mark key="]" line="60" column="31" />
-        <mark key="^" line="60" column="31" />
-        <mark key="." line="60" column="31" />
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="60" column="39" />
+        <mark key="^" line="60" column="39" />
+        <mark key="." line="60" column="39" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sidekiq/sock_error_handler.rb" timestamp="1481667261980">
         <mark key="[" line="0" column="0" />
@@ -863,12 +877,12 @@
         <mark key="^" line="20" column="9" />
         <mark key="." line="20" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_unblock_batch.rb" timestamp="1534301148332">
-        <mark key="'" line="7" column="50" />
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="24" />
-        <mark key="." line="44" column="24" />
-        <mark key="^" line="44" column="24" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_unblock_batch.rb" timestamp="1534301886928">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="33" column="19" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aid/ips/index.html.erb" timestamp="1533240184054">
         <mark key="[" line="12" column="45" />
@@ -2975,6 +2989,12 @@
         <mark key="^" line="0" column="61" />
         <mark key="." line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/ssh_cmd.rb" timestamp="1534301829542">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
+        <mark key="^" line="52" column="18" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/base_controller.rb" timestamp="1529949340774">
         <mark key="[" line="17" column="21" />
         <mark key="]" line="17" column="32" />
@@ -3659,8 +3679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="36" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" />
       <jump line="6" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/new.html.erb" />
       <jump line="7" column="31" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/_ip.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/_ip.html.erb" />
@@ -3754,11 +3772,13 @@
       <jump line="57" column="5" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" />
       <jump line="58" column="43" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" />
       <jump line="27" column="51" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" />
       <jump line="7" column="50" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_unblock_batch.rb" />
       <jump line="60" column="31" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/network_blocks/ip_block.rb" />
       <jump line="52" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/network_blocks/ip_block.rb" />
       <jump line="55" column="16" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/network_blocks/ip_block.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" />
+      <jump line="48" column="22" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_unblock_batch.rb" />
+      <jump line="16" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_unblock_batch.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3768,22 +3788,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>automation</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxmLm5lZWRzX2Jsb2NrX3N5bmNlZAogICAgICB3aGVyZShibG9ja19zeW5jZWRfYXQ6IG5pbCkKICAgIGVuZAo=</text>
+      <register name="0" type="4">
+        <text>&quot;Blackhole routing batch block failed: [#{output}]&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJhaXNlKEJsb2NrRXJyb3IsICJCbGFja2hvbGUgcm91dGluZyBiYXRjaCBibG9jayBmYWlsZWQ6IFsje291dHB1dH1dIikgdW5sZXNzIHJlc3VsdAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3799,25 +3819,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q2xpRXhjZXB0aW9uTm90aWZpY2F0aW9uLm5vdGlmeV9vbl9leGNlcHRpb24gZG8K</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXIgPSAiPSs9Kz0rPSs9IFVOQkxPQ0sgPSs9Kz0rPSs9IgogICAgICAgIGVudHJpZXMgPSBAaXBfdW5ibG9ja3MubWFwIHsgfGl8ICIje2kuaXBfYWRkcmVzcy50b19zfSAgICAje2kudGlja2V0X2lkfSIgfQogICAgICAgIGZvb3RlciA9ICI9LT0tPS09LT0gVU5CTE9DSyA9LT0tPS09LT0iCiAgICAgICAgW2hlYWRlciwgZW50cmllcywgZm9vdGVyXS5mbGF0dGVuLmpvaW4oIlxuIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXIgPSAiPSs9Kz0rPSs9IEJMT0NLID0rPSs9Kz0rPSIKICAgICAgICBlbnRyaWVzID0gQGlwX2Jsb2Nrcy5tYXAgeyB8aXwgIiN7aS5pcF9hZGRyZXNzLnRvX3N9ICAgICN7aS50aWNrZXRfaWR9IiB9CiAgICAgICAgZm9vdGVyID0gIj0tPS09LT0tPSBCTE9DSyA9LT0tPS09LT0iCiAgICAgICAgW2hlYWRlciwgZW50cmllcywgZm9vdGVyXS5mbGF0dGVuLmpvaW4oIlxuIikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIHNzaF9saXN0X2NtZAogICAgICAgIHJlbW90ZV91c2VyID0gInNucyIKICAgICAgICBzb2NrX2hvbWUgPSBGaWxlLmV4cGFuZF9wYXRoKEZpbGUuam9pbihSYWlscy5yb290LnRvX3MsICcuLicpKQogICAgICAgIHJlbW90ZV9rZXkgPSBGaWxlLmpvaW4oc29ja19ob21lLCAiLnNzaCIsICJwb2x5cF9zc2hfa2V5IikKICAgICAgICByZW1vdGVfY21kID0gIlwic3VkbyAtdSBibGFja2hvbGUgL3Vzci9sb2NhbC9ibGFja2hvbGUvYmluL2Jsb2NrbGlzdFwiIgoKICAgICAgICAic3NoIC1sICN7cmVtb3RlX3VzZXJ9IC1pICN7cmVtb3RlX2tleX0gI3tAcmVtb3RlX2hvc3R9ICN7cmVtb3RlX2NtZH0iCiAgICAgIGVuZAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHVuYmxvY2tfY29uZmlnCiAgICAgICAgaGVhZGVyID0gIj0rPSs9Kz0rPSBVTkJMT0NLID0rPSs9Kz0rPSIKICAgICAgICBlbnRyaWVzID0gQGluY2lkZW50cy5tYXAgeyB8aXwgIiN7aS5ldmVudF9pcC50b19zfSAgICAje2kudGlja2V0X2lkfSIgfQogICAgICAgIGZvb3RlciA9ICI9LT0tPS09LT0gVU5CTE9DSyA9LT0tPS09LT0iCiAgICAgICAgW2hlYWRlciwgZW50cmllcywgZm9vdGVyXS5mbGF0dGVuLmpvaW4oIlxuIikKICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBAcmVtb3RlX2hvc3QgPSAiY3VzdGFyZC5uZXQuYmVya2VsZXkuZWR1cwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
