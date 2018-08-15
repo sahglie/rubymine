@@ -604,6 +604,11 @@
         <mark key="." line="40" column="2" />
         <mark key="^" line="40" column="2" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/bin/sock/auto_unblock_hosts.rb" timestamp="1534300965000">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt.rb" timestamp="1527198020896">
         <mark key="[" line="12" column="6" />
         <mark key="]" line="12" column="6" />
@@ -615,6 +620,13 @@
         <mark key="]" line="36" column="0" />
         <mark key="^" line="57" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" timestamp="1534301028512">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="62" column="2" />
+        <mark key="^" line="58" column="43" />
+        <mark key="." line="58" column="43" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/monkey_patches/rails/active_record/connection_adapters/postgresql/oid/cidr.rb" timestamp="1479921350231">
         <mark key="[" line="12" column="12" />
@@ -694,6 +706,13 @@
         <mark key="]" line="33" column="131" />
         <mark key="." line="33" column="131" />
         <mark key="^" line="33" column="131" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/models/network_blocks/ip_block.rb" timestamp="1534301237448">
+        <mark key="'" line="55" column="16" />
+        <mark key="[" line="60" column="29" />
+        <mark key="]" line="60" column="31" />
+        <mark key="^" line="60" column="31" />
+        <mark key="." line="60" column="31" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sidekiq/sock_error_handler.rb" timestamp="1481667261980">
         <mark key="[" line="0" column="0" />
@@ -843,6 +862,13 @@
         <mark key="]" line="3" column="52" />
         <mark key="^" line="20" column="9" />
         <mark key="." line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_unblock_batch.rb" timestamp="1534301148332">
+        <mark key="'" line="7" column="50" />
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+        <mark key="^" line="44" column="24" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aid/ips/index.html.erb" timestamp="1533240184054">
         <mark key="[" line="12" column="45" />
@@ -1014,12 +1040,11 @@
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing_batch.rb" timestamp="1534299667337">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing_batch.rb" timestamp="1534300490276">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="26" />
-        <mark key="]" line="56" column="34" />
-        <mark key="^" line="56" column="34" />
-        <mark key="." line="56" column="34" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="85" column="2" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/json_param_key_transform.rb" timestamp="1530315750654">
         <mark key="[" line="0" column="0" />
@@ -1820,6 +1845,12 @@
         <mark key="]" line="39" column="91" />
         <mark key="." line="39" column="91" />
         <mark key="^" line="39" column="96" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/ListMemberCriteria.vue" timestamp="1534288947397">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="66" />
+        <mark key="." line="6" column="36" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/admin_rt_ticket.js" timestamp="1527883240866">
         <mark key="[" line="8" column="0" />
@@ -3628,17 +3659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/rt_tickets/_controls_widget.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ip_blocks/_controls_widget.html.erb" />
-      <jump line="54" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/ip_block.rb" />
-      <jump line="81" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/ip_block.rb" />
-      <jump line="65" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/mac_block.rb" />
-      <jump line="50" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/mac_block.rb" />
-      <jump line="9" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/mac_block.rb" />
-      <jump line="85" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/mac_block.rb" />
-      <jump line="43" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/uid_block.rb" />
-      <jump line="66" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" />
       <jump line="46" column="36" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" />
       <jump line="6" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/new.html.erb" />
@@ -3727,7 +3747,18 @@
       <jump line="18" column="49" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing_batch.rb" />
       <jump line="80" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing_batch.rb" />
       <jump line="56" column="34" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing_batch.rb" />
+      <jump line="63" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing_batch.rb" />
+      <jump line="83" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing_batch.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing_batch.rb" />
+      <jump line="15" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" />
+      <jump line="57" column="5" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" />
+      <jump line="58" column="43" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" />
+      <jump line="27" column="51" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_block_batch.rb" />
+      <jump line="7" column="50" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_unblock_batch.rb" />
+      <jump line="60" column="31" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/network_blocks/ip_block.rb" />
+      <jump line="52" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/network_blocks/ip_block.rb" />
+      <jump line="55" column="16" filename="$USER_HOME$/Development/projects/sock-rails5/app/models/network_blocks/ip_block.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3749,10 +3780,10 @@
         <text>automation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kdWxlIE5vYwogIG1vZHVsZSBTZXJ2aWNlcwogICAgY2xhc3MgQmxhY2tob2xlUm91dGluZwogICAgICBCbG9ja0Vycm9yID0gQ2xhc3MubmV3KFN0YW5kYXJkRXJyb3IpCgogICAgICBkZWYgaW5pdGlhbGl6ZQogICAgICAgIEByZW1vdGVfaG9zdCA9ICJjdXN0YXJkLm5ldC5iZXJrZWxleS5lZHUiCiAgICAgIGVuZAoKICAgICAgZGVmIGFsbF9ibG9ja3MKICAgICAgICByZXN1bHQgPSBgI3tzc2hfbGlzdF9jbWR9YAoKICAgICAgICByZXN1bHRzID0gW10KICAgICAgICByZXN1bHQuc3BsaXQoIlxuIikuZWFjaCBkbyB8bGluZXwKICAgICAgICAgIGJyZWFrIGlmIGxpbmUuZW1wdHk/CiAgICAgICAgICBpcCwgXywgYmxvY2tfdHlwZSA9IGxpbmUuc3BsaXQoL1xzezIsfS8pCiAgICAgICAgICByZXN1bHRzIDw8IE9wZW5TdHJ1Y3QubmV3KGlwX2FkZHJlc3M6IGlwLCBibG9ja190eXBlOiBibG9ja190eXBlKQogICAgICAgIGVuZAoKICAgICAgICByZXN1bHRzCiAgICAgIGVuZAoKICAgICAgZGVmIGJsb2NrX2lwKGlwLCB0aWNrZXRfaWQpCiAgICAgICAgcmV0dXJuIHVubGVzcyBSYWlscy5lbnYucHJvZHVjdGlvbj8KICAgICAgICByZXN1bHQsIG91dHB1dCA9IHJ1bl9ibG9ja19jbWQoaXAsIHRpY2tldF9pZCkKICAgICAgICByYWlzZShCbG9ja0Vycm9yLCAiQmxhY2tob2xlIHJvdXRpbmcgYmxvY2sgZmFpbGVkIGZvciAje2lwLnRvX3N9OiBbI3tvdXRwdXR9XSIpIHVubGVzcyByZXN1bHQKICAgICAgZW5kCgogICAgICBkZWYgdW5ibG9ja19pcChpcCwgdGlja2V0X2lkKQogICAgICAgIHJldHVybiB1bmxlc3MgUmFpbHMuZW52LnByb2R1Y3Rpb24/CiAgICAgICAgcmVzdWx0LCBvdXRwdXQgPSBydW5fdW5ibG9ja19jbWQoaXAsIHRpY2tldF9pZCkKICAgICAgICByYWlzZShCbG9ja0Vycm9yLCAiQmxhY2tob2xlIHJvdXRpbmcgdW5ibG9jayBmYWlsZWQgZm9yICN7aXAudG9fc306IFsje291dHB1dH1dIikgdW5sZXNzIHJlc3VsdAogICAgICBlbmQKCiAgICAgIGRlZiBzZWxmLmFsbF9ibG9ja3MKICAgICAgICBzZWxmLm5ldy5hbGxfYmxvY2tzCiAgICAgIGVuZAoKICAgICAgZGVmIHNlbGYuYmxvY2tfaXAoaXAsIHRpY2tldF9pZCkKICAgICAgICBzZWxmLm5ldy5ibG9ja19pcChpcCwgdGlja2V0X2lkKQogICAgICBlbmQKCiAgICAgIGRlZiBzZWxmLnVuYmxvY2tfaXAoaXAsIHRpY2tldF9pZCkKICAgICAgICBzZWxmLm5ldy51bmJsb2NrX2lwKGlwLCB0aWNrZXRfaWQpCiAgICAgIGVuZAoKICAgICAgcHJpdmF0ZQoKICAgICAgZGVmIHNzaF9ibG9ja19jbWQKICAgICAgICByZW1vdGVfdXNlciA9ICJzbnMiCiAgICAgICAgc29ja19ob21lID0gRmlsZS5leHBhbmRfcGF0aChGaWxlLmpvaW4oUmFpbHMucm9vdC50b19zLCAnLi4nKSkKICAgICAgICByZW1vdGVfa2V5ID0gRmlsZS5qb2luKHNvY2tfaG9tZSwgIi5zc2giLCAicG9seXBfc3NoX2tleSIpCiAgICAgICAgcmVtb3RlX2NtZCA9ICJcInN1ZG8gLXUgYmxhY2tob2xlIC91c3IvbG9jYWwvYmxhY2tob2xlL2Jpbi9ibGFja2hvbGVcIiIKCiAgICAgICAgInNzaCAtbCAje3JlbW90ZV91c2VyfSAtaSAje3JlbW90ZV9rZXl9ICN7QHJlbW90ZV9ob3N0fSAje3JlbW90ZV9jbWR9IgogICAgICBlbmQKICAgICAgCiAgICAgIGRlZiBzc2hfbGlzdF9jbWQKICAgICAgICByZW1vdGVfdXNlciA9ICJzbnMiCiAgICAgICAgc29ja19ob21lID0gRmlsZS5leHBhbmRfcGF0aChGaWxlLmpvaW4oUmFpbHMucm9vdC50b19zLCAnLi4nKSkKICAgICAgICByZW1vdGVfa2V5ID0gRmlsZS5qb2luKHNvY2tfaG9tZSwgIi5zc2giLCAicG9seXBfc3NoX2tleSIpCiAgICAgICAgcmVtb3RlX2NtZCA9ICJcInN1ZG8gLXUgYmxhY2tob2xlIC91c3IvbG9jYWwvYmxhY2tob2xlL2Jpbi9ibG9ja2xpc3RcIiIKCiAgICAgICAgInNzaCAtbCAje3JlbW90ZV91c2VyfSAtaSAje3JlbW90ZV9rZXl9ICN7QHJlbW90ZV9ob3N0fSAje3JlbW90ZV9jbWR9IgogICAgICBlbmQKCiAgICAgIGRlZiBydW5fYmxvY2tfY21kKGlwLCB0aWNrZXRfaWQpCiAgICAgICAgY21kID0gImVjaG8gJyN7YmxvY2tfY21kKGlwLCB0aWNrZXRfaWQpfScgfCAje3NzaF9ibG9ja19jbWR9IDI+JjEiCiAgICAgICAgcmVzdWx0ID0gYCN7Y21kfWAKICAgICAgICBSYWlscy5sb2dnZXIuZGVidWcocmVzdWx0KQogICAgICAgIFskPy5leGl0c3RhdHVzID09IDAsIHJlc3VsdF0KICAgICAgZW5kCgogICAgICBkZWYgcnVuX3VuYmxvY2tfY21kKGlwLCB0aWNrZXRfaWQpCiAgICAgICAgY21kID0gImVjaG8gJyN7dW5ibG9ja19jbWQoaXAsIHRpY2tldF9pZCl9JyB8ICN7c3NoX2Jsb2NrX2NtZH0gMj4mMSIKICAgICAgICByZXN1bHQgPSBgI3tjbWR9YAogICAgICAgIFJhaWxzLmxvZ2dlci5kZWJ1ZyhyZXN1bHQpCiAgICAgICAgWyQ/LmV4aXRzdGF0dXMgPT0gMCwgcmVzdWx0XQogICAgICBlbmQKCiAgICAgIGRlZiBibG9ja19jbWQoaXAsIHRpY2tldF9pZCkKICAgICAgICA8PC1DTUQgCj0rPSs9Kz0rPSBCTE9DSyA9Kz0rPSs9Kz0KI3tpcC50b19zfSAgICAje3RpY2tldF9pZH0KPS09LT0tPS09IEJMT0NLID0tPS09LT0tPQogICAgICAgQ01ECiAgICAgIGVuZAoKICAgICAgZGVmIHVuYmxvY2tfY21kKGlwLCB0aWNrZXRfaWQpCiAgICAgICAgPDwtQ01EIAo9Kz0rPSs9Kz0gVU5CTE9DSyA9Kz0rPSs9Kz0KI3tpcC50b19zfSAgICAje3RpY2tldF9pZH0KPS09LT0tPS09IFVOQkxPQ0sgPS09LT0tPS09CiAgICAgICBDTUQKICAgICAgZW5kCiAgICBlbmQKICBlbmQKZW5kCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZWxmLm5lZWRzX2Jsb2NrX3N5bmNlZAogICAgICB3aGVyZShibG9ja19zeW5jZWRfYXQ6IG5pbCkKICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHJ1bl9ibG9ja19jbWQoaXAsIHRpY2tldF9pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3771,25 +3802,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHNlbGYuYWxsX2Jsb2NrcwogICAgICAgIHNlbGYubmV3LmFsbF9ibG9ja3MKICAgICAgZW5kCg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q2xpRXhjZXB0aW9uTm90aWZpY2F0aW9uLm5vdGlmeV9vbl9leGNlcHRpb24gZG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGFsbF9ibG9ja3MKICAgICAgICByZXN1bHQgPSBgI3tzc2hfbGlzdF9jbWR9YAoKICAgICAgICByZXN1bHRzID0gW10KICAgICAgICByZXN1bHQuc3BsaXQoIlxuIikuZWFjaCBkbyB8bGluZXwKICAgICAgICAgIGJyZWFrIGlmIGxpbmUuZW1wdHk/CiAgICAgICAgICBpcCwgXywgYmxvY2tfdHlwZSA9IGxpbmUuc3BsaXQoL1xzezIsfS8pCiAgICAgICAgICByZXN1bHRzIDw8IE9wZW5TdHJ1Y3QubmV3KGlwX2FkZHJlc3M6IGlwLCBibG9ja190eXBlOiBibG9ja190eXBlKQogICAgICAgIGVuZAoKICAgICAgICByZXN1bHRzCiAgICAgIGVuZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEVycm9yID0gQ2xhc3MubmV3KFN0YW5kYXJkRXJyb3IpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZGVmIHVuYmxvY2tfY29uZmlnCiAgICAgICAgaGVhZGVyID0gIj0rPSs9Kz0rPSBVTkJMT0NLID0rPSs9Kz0rPSIKICAgICAgICBlbnRyaWVzID0gQGluY2lkZW50cy5tYXAgeyB8aXwgIiN7aS5ldmVudF9pcC50b19zfSAgICAje2kudGlja2V0X2lkfSIgfQogICAgICAgIGZvb3RlciA9ICI9LT0tPS09LT0gVU5CTE9DSyA9LT0tPS09LT0iCiAgICAgICAgW2hlYWRlciwgZW50cmllcywgZm9vdGVyXS5mbGF0dGVuLmpvaW4oIlxuIikKICAgICAgZW5kCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiBhbGxvdyBhdXRvX3VuYmxvY2sgYW5kIHVuYmxvY2tfb24gdG8gYmUgc2V0IGR1cmluZyBhdXRvbWF0aW9uIGNvbmZpZwogICAgICAjIGF1dG9fdW5ibG9jayA9IEBhdXRvbWF0aW9uLmFjdGlvbl9jb25maWdbJ2F1dG9fdW5ibG9jayddCiAgICAgICMgdW5ibG9ja19vbiA9IEBhdXRvbWF0aW9uLmFjdGlvbl9jb25maWdbJ3VuYmxvY2tfb24nXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3844,9 +3875,9 @@
         <entry>action GotoAction</entry>
         <entry>action RunClass</entry>
         <entry>action GotoTest</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
