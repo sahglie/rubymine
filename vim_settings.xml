@@ -713,7 +713,7 @@
         <mark key="." line="8" column="44" />
         <mark key="^" line="8" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534361929470">
+      <file name="/Dummy.txt" timestamp="1534364384032">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
@@ -1123,11 +1123,11 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_quality_assurance" timestamp="1534362132376">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="81" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="42" column="50" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_quality_assurance" timestamp="1534364216432">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="5" />
+        <mark key="." line="37" column="5" />
+        <mark key="^" line="37" column="5" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/incidents_controller.rb" timestamp="1534361856667">
         <mark key="'" line="5" column="0" />
@@ -3685,14 +3685,14 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ki8yICAgKiAgICogICAqICAgKiAgIGFwcF9zb2NrIFJBSUxTX0VOVj0kRU5WICRTT0NLL3N5bmNfYmxhY2tob2xlX2Jsb2NrX2JhdGNoLnJiCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -3741,7 +3741,7 @@
         <text encoding="base64">ICAgIC8vICAgYXhpb3MuZGVmYXVsdHMuaGVhZGVycy5jb21tb25bJ1gtQ1NSRi1Ub2tlbiddID0gdG9rZW4uZ2V0QXR0cmlidXRlKCdjb250ZW50JykK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action QuickList.CustomGitActions</text>
       </register>
     </registers>
     <search>
@@ -3794,9 +3794,9 @@
         <entry>action RunClass</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
-        <entry>action QuickList.CustomGitActions</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
+        <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
