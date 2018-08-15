@@ -457,7 +457,8 @@
         <mark key="." line="22" column="33" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/config/config.yml" timestamp="1532721991084">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/config/config.yml" timestamp="1534291168204">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="130" column="15" />
@@ -598,7 +599,7 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="79" />
       </file>
-      <file name="/Ruby Console" timestamp="1534286871016">
+      <file name="/Ruby Console" timestamp="1534292178640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -947,8 +948,12 @@
         <mark key="." line="16" column="48" />
         <mark key="^" line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/log_metrics.rb" timestamp="1534287423339">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/log_metrics.rb" timestamp="1534291802396">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/ids/alert_group/ip_address.rb" timestamp="1485992149132">
         <mark key="[" line="18" column="25" />
@@ -1049,7 +1054,7 @@
         <mark key="." line="6" column="85" />
         <mark key="^" line="6" column="85" />
       </file>
-      <file name="/fragment.rb" timestamp="1534286975787">
+      <file name="/fragment.rb" timestamp="1534292192571">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -1074,11 +1079,10 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/bin/arcsight/log_metrics.rb" timestamp="1534287427623">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="36" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="7" column="36" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/bin/arcsight/log_metrics.rb" timestamp="1534291813678">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/severity_rules/_form.html.haml" timestamp="1533158737580">
         <mark key="'" line="20" column="0" />
@@ -1136,6 +1140,12 @@
         <mark key="]" line="11" column="4" />
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/bin/sock/process_arcsight_active_attack_cases.rb" timestamp="1534292230638">
+        <mark key="[" line="8" column="84" />
+        <mark key="]" line="8" column="84" />
+        <mark key="." line="8" column="84" />
+        <mark key="^" line="8" column="98" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock-rails5/.babelrc" timestamp="1532474721597">
         <mark key="[" line="1" column="22" />
@@ -1254,6 +1264,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/sock/forms/incident/new_for_ip.rb" timestamp="1534292428752">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="7" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/nessus/sscans_controller.rb" timestamp="1533937134586">
         <mark key="'" line="101" column="0" />
@@ -2498,6 +2514,7 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/process_cases.rb" timestamp="1534292132411" />
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/uid_blocks/_tabs.html.haml" timestamp="1533168320580">
         <mark key="[" line="3" column="79" />
         <mark key="]" line="3" column="85" />
@@ -3491,8 +3508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/nessus/sscans_controller.rb" />
-      <jump line="124" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/nessus/sscans_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/new.html.haml" />
       <jump line="21" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/sscans/_search_form.html.erb" />
       <jump line="80" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/nessus/scans_controller.rb" />
@@ -3591,6 +3606,8 @@
       <jump line="4" column="9" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/BooleanCriteria.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/BooleanCriteria.vue" />
       <jump line="40" column="3" filename="$USER_HOME$/Development/projects/sock-rails5/app/javascript/components/automations/DateCriteria.vue" />
+      <jump line="25" column="8" filename="$USER_HOME$/Development/projects/sock-rails5/config/config.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/config/config.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3600,22 +3617,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>e</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2x1bW5cPg==</text>
+        <text>arcsight</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlzQm9vbGVhbkZpZWxkKGZpZWxkKSB7CiAgICAgIHJldHVybiBmaWVsZCAmJiAodGhpcy5zY2hlbWFbZmllbGRdLnR5cGUgPT09ICJib29sZWFuIikKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDp2YWx1ZXM9ImZpZWxkVmFsdWVzKGZpZWxkKSIK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3631,40 +3648,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDp2YWx1ZXM9ImZpZWxkVmFsdWVzKGZpZWxkKSIK</text>
+        <text encoding="base64">ICBSYWlscy5sb2dnZXIuZXJyb3IoZS5tZXNzYWdlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWVzOiBbdHJ1ZSwgZmFsc2VdLAo=</text>
+        <text encoding="base64">cmVzY3VlID0+IGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWVzOiBbdHJ1ZSwgZmFsc2VdLAo=</text>
+        <text encoding="base64">YmVnaW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IGV4dHJhY3RfZXhpc3RzKGMudmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDp2YWx1ZXM9ImZpZWxkVmFsdWVzKGZpZWxkKSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHBhcnNlX2V4aXN0c19jcml0ZXJpYShjKQogICAgICAgIHRhYmxlLCBjb2x1bW4gPSBjLmNvbHVtbl9uYW1lLnNwbGl0KCIuIikKICAgICAgICBtb2RlbCwgYXJlbCA9IGV4dHJhY3RfbW9kZWxfYW5kX2FyZWwodGFibGUpCiAgICAgICAgdGltZSA9IGV4dHJhY3RfdGltZShjLnZhbHVlKQoKICAgICAgICBtb2RlbC53aGVyZShhcmVsW2NvbHVtbl0uc2VuZChEQVRFX09QU1tjLm9wZXJhdG9yXSwgdGltZSkpCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDp2YWx1ZXM9ImZpZWxkVmFsdWVzKGZpZWxkKSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iaW52YWxpZC1mZWVkYmFjayIgdi1pZj0iZXJyb3IiPnt7IGVycm9yIH19PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsdWVzOiBbdHJ1ZSwgZmFsc2VdLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTxzZWxlY3QgY2xhc3M9ImZvcm0tY29udHJvbCIgOmNsYXNzPSJ7J2lzLWludmFsaWQnOiBlcnJvcn0iIHYtbW9kZWw9InNlbGVjdGVkVmFsdWUiPi0tPgogICAgICAgIDwhLS08b3B0aW9uIHYtZm9yPSJ2IGluIHZhbHVlcyI+e3t2fX08L29wdGlvbj4tLT4KICAgICAgPCEtLTwvc2VsZWN0Pi0tPgo=</text>
+        <text encoding="base64">ICAgICAgdmFsdWVzOiBbdHJ1ZSwgZmFsc2VdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJpbnZhbGlkLWZlZWRiYWNrIiB2LWlmPSJlcnJvciI+e3sgZXJyb3IgfX08L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IGV4dHJhY3RfZXhpc3RzKGMudmFsdWUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2x1bW5cPg==</last-search>
+      <last-search>arcsight</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2x1bW5cPg==</last-pattern>
+      <last-pattern>arcsight</last-pattern>
       <last-replace>query</last-replace>
       <last-substitute>attrs</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -3686,9 +3703,9 @@
         <entry>for_date_range</entry>
         <entry>attrs</entry>
         <entry>rdm</entry>
-        <entry>arcsight</entry>
         <entry>limit</entry>
         <entry encoding="base64">XDxjb2x1bW5cPg==</entry>
+        <entry>arcsight</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoRelated</entry>
@@ -3705,12 +3722,12 @@
         <entry>action Run</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoAction</entry>
-        <entry>action RunClass</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action RunClass</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
