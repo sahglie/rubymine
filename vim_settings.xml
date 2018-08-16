@@ -715,11 +715,11 @@
         <mark key="^" line="26" column="40" />
         <mark key="." line="26" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534457705271">
+      <file name="/Dummy.txt" timestamp="1534460685829">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="50" />
+        <mark key="^" line="0" column="50" />
+        <mark key="." line="0" column="50" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/mac_blocks/_history.html.haml" timestamp="1533168937294">
         <mark key="[" line="12" column="0" />
@@ -765,12 +765,12 @@
         <mark key="^" line="17" column="7" />
         <mark key="." line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/utils/api_client.js" timestamp="1534357424777">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/utils/api_client.js" timestamp="1534460661803">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="40" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/radius_log_worker.rb" timestamp="1483576294340">
         <mark key="[" line="46" column="7" />
@@ -1421,6 +1421,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/forms/incident/search.rb" timestamp="1534459498079">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="40" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/_tabs.html.erb" timestamp="1533944803937">
         <mark key="[" line="5" column="92" />
@@ -2868,12 +2874,12 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" timestamp="1534377941962">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="35" />
-        <mark key="]" line="66" column="49" />
-        <mark key="^" line="66" column="49" />
-        <mark key="." line="66" column="49" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" timestamp="1534460163586">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="59" column="7" />
+        <mark key="^" line="59" column="7" />
+        <mark key="." line="59" column="7" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/edit.html.erb" timestamp="1480288384100">
         <mark key="[" line="6" column="0" />
@@ -3611,7 +3617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sock/process_arcsight_cases.rb" />
       <jump line="42" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automations_controller.rb" />
       <jump line="43" column="28" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_job.rb" />
       <jump line="48" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_job.rb" />
@@ -3711,6 +3716,7 @@
       <jump line="105" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
       <jump line="85" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/sync_incident_with_rt_event.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3720,19 +3726,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlmIHJ0X2Jsb2NrZXIuYmxvY2tlZD8=</text>
+        <text>.getAttribute('content')</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlmIHJ0X2Jsb2NrZXIuYmxvY2tlZD8=</text>
+        <text>.getAttribute('content')</text>
       </register>
       <register name="/" type="4">
         <text>block_syned</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBydF90aWNrZXRbJ3N0YXR1cyddID09ICdyZXNvbHZlZCcKICAgICAgICAgIGluY2lkZW50LmNsb3NlIQogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICA8dGg+QmxvY2sgU3luY2VkPC90aD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbmNpZGVudCA9IHJ0X3RpY2tldC5pbmNpZGVudAo=</text>
@@ -3775,7 +3781,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action QuickList.CustomGitActions</text>
       </register>
     </registers>
     <search>
@@ -3824,13 +3830,13 @@
         <entry>action Run</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>action RunClass</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
-        <entry>action QuickList.CustomGitActions</entry>
-        <entry>action GotoFile</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
