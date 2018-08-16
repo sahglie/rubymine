@@ -428,8 +428,8 @@
         <mark key="." line="10" column="79" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" timestamp="1534359813054">
-        <mark key="'" line="53" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" timestamp="1534451796939">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="45" column="28" />
         <mark key="]" line="45" column="27" />
         <mark key="." line="45" column="27" />
@@ -3654,9 +3654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="49" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
-      <jump line="107" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
-      <jump line="53" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sock/process_arcsight_cases.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sock/process_arcsight_cases.rb" />
       <jump line="42" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automations_controller.rb" />
@@ -3754,6 +3751,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sock/sync_blackhole_batches.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sock/sync_blackhole_block_batch.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sock/sync_blackhole_block_batch.rb" />
+      <jump line="38" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
+      <jump line="105" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3818,7 +3818,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQGluY2lkZW50cyA9IEluY2lkZW50LndoZXJlKHRpY2tla3RfaWQ6IEBpcF91bmJsb2Nrcy5tYXAoJjp0aWNrZXRfaWQpKQogICAgICAgICAgICBAaW5jaWRlbnRzLmVhY2goJjpjbG9zZSEpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -3871,9 +3871,9 @@
         <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action QuickList.CustomGitActions</entry>
+        <entry>w</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
