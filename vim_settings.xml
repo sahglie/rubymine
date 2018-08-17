@@ -647,7 +647,7 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Ruby Console" timestamp="1534443976218">
+      <file name="/Ruby Console" timestamp="1534527220441">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -3781,7 +3781,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.CustomGitActions</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -3830,13 +3830,13 @@
         <entry>action Run</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>action RunClass</entry>
-        <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action QuickList.CustomGitActions</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
