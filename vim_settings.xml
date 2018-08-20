@@ -1151,8 +1151,8 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/case.rb" timestamp="1534360092387">
-        <mark key="'" line="75" column="22" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/case.rb" timestamp="1534787931304">
+        <mark key="'" line="0" column="26" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
@@ -1269,6 +1269,13 @@
         <mark key="]" line="107" column="42" />
         <mark key="." line="107" column="42" />
         <mark key="^" line="77" column="54" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/entities/cases/active_attach_spec.rb" timestamp="1534788713700">
+        <mark key="'" line="33" column="33" />
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="17" column="51" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/workers/snort_packet_worker.rb" timestamp="1480712348447">
         <mark key="[" line="24" column="35" />
@@ -1477,6 +1484,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="4" column="17" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/base.rb" timestamp="1534787583448">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="50" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/verify_email_controller.rb" timestamp="1475710715841">
         <mark key="[" line="7" column="21" />
@@ -2842,6 +2854,11 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/entities/cases/possible_compromise_spec.rb" timestamp="1534787768087">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="55" column="2" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/exception_rule.rb" timestamp="1534369112018">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="46" />
@@ -2885,6 +2902,11 @@
         <mark key="]" line="6" column="47" />
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/entities/cases/anomalous_behaviour_spec.rb" timestamp="1534787788090">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="55" column="2" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ids/notification_rules/edit.html.haml" timestamp="1533229469418">
         <mark key="'" line="0" column="0" />
@@ -3434,11 +3456,11 @@
         <mark key="." line="24" column="29" />
         <mark key="^" line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/active_attack.rb" timestamp="1534269869830">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="12" />
-        <mark key="." line="32" column="43" />
-        <mark key="^" line="32" column="31" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/active_attack.rb" timestamp="1534787629574">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="45" />
+        <mark key="^" line="48" column="45" />
+        <mark key="." line="48" column="45" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/alert_pig/create_alert_groups.rb" timestamp="1485995908697">
         <mark key="[" line="7" column="33" />
@@ -3615,11 +3637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="45" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/ExceptionRulesList.vue" />
-      <jump line="64" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/exception_rules_controller.rb" />
-      <jump line="97" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/exception_rules_controller.rb" />
-      <jump line="96" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/exception_rules_controller.rb" />
-      <jump line="66" column="44" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/ExceptionRulesList.vue" />
       <jump line="67" column="22" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/ExceptionRulesList.vue" />
       <jump line="87" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/ExceptionRulesList.vue" />
       <jump line="89" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/aid/Ip.vue" />
@@ -3715,6 +3732,11 @@
       <jump line="12" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
       <jump line="70" column="40" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
       <jump line="46" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/base.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/entities/cases/possible_compromise_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/entities/cases/anomalous_behaviour_spec.rb" />
+      <jump line="0" column="26" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/case.rb" />
+      <jump line="33" column="33" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/entities/cases/active_attach_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3724,22 +3746,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>quality_assurance</text>
+        <text>t</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>quality_assurance</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>block_syned</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7a2V5OiAidGlja2V0X2lkIiwgbmFtZTogIlRpY2tldCAjIn0sCg==</text>
+        <text encoding="base64">cmVxdWlyZSAicmFpbHNfaGVscGVyIgoKCmRlc2NyaWJlIEFyY3NpZ2h0OjpFbnRpdGllczo6Q2FzZXM6OkFub21hbG91c0JlaGF2aW91ciBkbwogIGZpeHR1cmVzKDphbGwpCgogIGxldCg6c2VydmljZSkgeyBBcmNzaWdodDo6U2VydmljZXM6OkNhc2UubmV3IH0KCiAgYmVmb3JlKDplYWNoKSBkbwogICAgVkNSLnVzZV9jYXNzZXR0ZSgiQXJjc2lnaHRfRW50aXRpZXNfQ2FzZXMvYW5vbWFsb3VzX2JlaGF2aW91ciIpIGRvCiAgICAgIGthc2VzID0gc2VydmljZS5maW5kX2RvbmVfY2FzZXModHlwZXM6IFs6YW5vbWFsb3VzX2JlaGF2aW91cl0pCiAgICAgIEBrYXNlID0ga2FzZXMuZmlyc3QKICAgIGVuZAogIGVuZAoKICBjb250ZXh0KCJWYWxpZCBDYXNlIikgZG8KICAgIGl0ICJpcyB2YWxpZCIgZG8KICAgICAgZXhwZWN0KEBrYXNlLmV2ZW50X3R5cGUpLnRvIGVxbCgiYW5vbWFsb3VzIGJlaGF2aW91ciIpCiAgICAgIGV4cGVjdChAa2FzZS5tZXRhX2V2ZW50KS50b19ub3QgYmVfbmlsCiAgICAgIGV4cGVjdChAa2FzZS52YWxpZD8pLnRvIGJlX3RydXRoeQogICAgZW5kCgogICAgaXQgInJlcXVpcmVzIGEgbWV0YV9ldmVudCIgZG8KICAgICAgQGthc2UuZXZlbnRzLnJlamVjdCEoJjptZXRhX2V2ZW50PykKICAgICAgQGthc2UuaW5zdGFuY2VfdmFyaWFibGVfc2V0KDpAbWV0YV9ldmVudCwgbmlsKQoKICAgICAgZXhwZWN0KEBrYXNlLnZhbGlkPykudG8gYmVfZmFsc2V5CiAgICAgIGV4cGVjdChAa2FzZS5lcnJvcnNbIm1ldGFfZXZlbnQiXSkudG8gYmVfcHJlc2VudAogICAgZW5kCgogICAgaXQgInJlcXVpcmVzIGV2ZW50cyIgZG8KICAgICAgQGthc2UuZXZlbnRzID0gW10KICAgICAgZXhwZWN0KEBrYXNlLnZhbGlkPykudG8gYmVfZmFsc2V5CiAgICAgIGV4cGVjdChAa2FzZS5lcnJvcnNbImV2ZW50cyJdKS50byBiZV9wcmVzZW50CgogICAgICAjIG1ldGFfZXZlbnRzIGFyZSBpZ25vcmVkCiAgICAgIEBrYXNlLmV2ZW50cyA9IFtkb3VibGUoImV2ZW50IiwgbWV0YV9ldmVudD86IHRydWUsIHVzZXJuYW1lOiAiamVmZiIpXQogICAgICBleHBlY3QoQGthc2UudmFsaWQ/KS50byBiZV9mYWxzZXkKICAgICAgZXhwZWN0KEBrYXNlLmVycm9yc1siZXZlbnRzIl0pLnRvIGJlX3ByZXNlbnQKICAgIGVuZAogIGVuZAoKICBpdCAicmV0dXJucyBhdHRyc19mb3JfaW5jaWRlbnQiIGRvCiAgICBhdHRycyA9IEBrYXNlLmF0dHJzX2Zvcl9pbmNpZGVudC5leGNlcHQoOmV2ZW50X291dHB1dCkKICAgIGV4cGVjdChhdHRycykudG8gZXFsKHsKICAgICAgZXZlbnRfaWQ6ICJSRE0gU09DSyBQTDItMyBldmVudHMgMTY5LjIyOS4xMzEuMTF8bmV3Y2FzdGxlIiwKICAgICAgZXZlbnRfaXA6IElQQWRkci5uZXcoIjE2OS4yMjkuMTMxLjExIiksCiAgICAgIGV2ZW50X3NvdXJjZTogImFyY3NpZ2h0IiwKICAgICAgZXZlbnRfdHlwZTogImFub21hbG91cyBiZWhhdmlvdXIiLAogICAgICBldmVudF9zdGFydF90czogIjIwMTgtMDMtMTkgMDM6MDk6MjUgLTA3MDAiLAogICAgICBldmVudF9zZXZlcml0eTogMSwKICAgICAgcXVldWVfbmFtZTogIkdlbmVyYWwiLAogICAgICBtZXNzYWdlX25hbWU6ICJhbm9tYWxvdXMgYmVoYXZpb3VyIgogICAgfSkKICBlbmQKZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7a2V5OiAidXNlcl9lbWFpbCIsIG5hbWU6ICJVc2VyIEVtYWlsIn0sCg==</text>
+        <text encoding="base64">ICAgICAgdGlja2V0X2RlbGF5OiAiMjAxOC0wOC0yMCAxMTowNTo0OS42NDc3MDUwMDAgLTA3MDAiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3755,31 +3777,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBmb3JtYXRUaW1lKHRpbWUpIHsKICAgICAgcmV0dXJuIG1vbWVudCh0aW1lKS5mb3JtYXQoJ1ktTU0tREQgaGg6bW06c3MnKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChhdHRycykudG8gZXFsKHsKICAgICAgZXZlbnRfaWQ6ICJSRE0gU09DSyBQTDItMyBldmVudHMgMTY5LjIyOS4xMzEuMTF8bmV3Y2FzdGxlIiwKICAgICAgZXZlbnRfaXA6IElQQWRkci5uZXcoIjE2OS4yMjkuMTMxLjExIiksCiAgICAgIGV2ZW50X3NvdXJjZTogImFyY3NpZ2h0IiwKICAgICAgZXZlbnRfdHlwZTogImFub21hbG91cyBiZWhhdmlvdXIiLAogICAgICBldmVudF9zdGFydF90czogIjIwMTgtMDMtMTkgMDM6MDk6MjUgLTA3MDAiLAogICAgICBldmVudF9zZXZlcml0eTogMSwKICAgICAgcXVldWVfbmFtZTogIkdlbmVyYWwiLAogICAgICBtZXNzYWdlX25hbWU6ICJhbm9tYWxvdXMgYmVoYXZpb3VyIgogICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGQ+e3sgcHJvcHMucm93LmdldCgnZXZlbnRfaWQnKSB9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIHB1dHMgYXR0cnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7a2V5OiAiZXZlbnRfaWQiLCBuYW1lOiAiRXZlbnQgSUQifSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIGV2ZW50X2lwLnByZXNlbnQ/ICYmIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBmb3JtYXRUaW1lKHRpbWUpIHsKICAgICAgcmV0dXJuIG1vbWVudCh0aW1lKS5mb3JtYXQoJ1ktTU0tREQgaGg6bW06c3MnKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIGAke3QuZ2V0RnVsbFllYXIoKX0tJHt0LmdldE1vbnRoKCkrMX0tJHt0LmdldERheSgpfSAke3QuZ2V0SG91cnMoKX06JHt0LmdldE1pbnV0ZXMoKX06JHt0LmdldFNlY29uZHMoKX1gCg==</text>
+        <text encoding="base64">ICAgICAgICB7a2V5OiAidXNlcl9lbWFpbCIsIG5hbWU6ICJVc2VyIEVtYWlsIn0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHQgPSBuZXcgRGF0ZSh0aW1lKQo=</text>
+        <text encoding="base64">CiAgICBmb3JtYXRUaW1lKHRpbWUpIHsKICAgICAgcmV0dXJuIG1vbWVudCh0aW1lKS5mb3JtYXQoJ1ktTU0tREQgaGg6bW06c3MnKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGQ+e3sgcHJvcHMucm93LmdldCgnZXZlbnRfaWQnKSB9fTwvdGQ+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -3824,17 +3846,17 @@
         <entry>d</entry>
         <entry>source ~/ideavimrc</entry>
         <entry>r</entry>
-        <entry>action Run</entry>
         <entry>action QuickList.FindAndReplace</entry>
-        <entry>action RunClass</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoAction</entry>
         <entry>wq</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
