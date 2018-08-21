@@ -3864,7 +3864,7 @@
         <text encoding="base64">ICAgICdzZWFyY2gtZGlzcGxheSc6IFNlYXJjaERpc3BsYXksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoTest</text>
       </register>
     </registers>
     <search>
@@ -3913,13 +3913,13 @@
         <entry>action GotoAction</entry>
         <entry>wq</entry>
         <entry>action Run</entry>
-        <entry>action GotoTest</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>action RunClass</entry>
         <entry>w</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoTest</entry>
       </history-cmd>
       <history-expr />
       <history-input />
