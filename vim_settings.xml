@@ -2315,7 +2315,7 @@
         <mark key="." line="16" column="5" />
         <mark key="^" line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/ssh_cmd.rb" timestamp="1534876317189">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/ssh_cmd.rb" timestamp="1534881442265">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="53" column="31" />
         <mark key="]" line="53" column="31" />
@@ -3900,7 +3900,7 @@
         <text encoding="base64">ICAgICAgICAgICMgQGxvZ2dlci5lcnJvcigiQmxhY2tob2xlIHVuYmxvY2sgYmF0Y2ggZmFpbGVkIGZvciBpcHM6IFsje2lwc31dIG91dHB1dDogWyN7b3V0cHV0fV0iKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.CustomGitActions</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -3948,7 +3948,6 @@
         <entry>action GotoAction</entry>
         <entry>action Run</entry>
         <entry>%s/blackhole_routing/blackhole_service/g</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>action RunClass</entry>
         <entry>w</entry>
@@ -3956,6 +3955,7 @@
         <entry>action GotoFile</entry>
         <entry>wq</entry>
         <entry>action QuickList.CustomGitActions</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
