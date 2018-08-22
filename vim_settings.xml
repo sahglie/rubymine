@@ -124,6 +124,12 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/incident_search.rb" timestamp="1534956878953">
+        <mark key="[" line="27" column="69" />
+        <mark key="]" line="27" column="69" />
+        <mark key="." line="27" column="69" />
+        <mark key="^" line="27" column="34" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/_search.html.erb" timestamp="1533922678392">
         <mark key="'" line="5" column="7" />
         <mark key="[" line="3" column="21" />
@@ -1469,12 +1475,6 @@
         <mark key="^" line="3" column="81" />
         <mark key="." line="3" column="46" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/arcsight/log_metrics.rb" timestamp="1534803736418">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="17" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1534444612707">
         <mark key="'" line="161" column="0" />
         <mark key="[" line="44" column="0" />
@@ -1844,13 +1844,6 @@
         <mark key="]" line="40" column="5" />
         <mark key="^" line="40" column="5" />
         <mark key="." line="40" column="5" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_unblock_batch.rb" timestamp="1534880236415">
-        <mark key="'" line="34" column="10" />
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="9" />
-        <mark key="^" line="16" column="9" />
-        <mark key="." line="16" column="9" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_criteria_finder.rb" timestamp="1530306886398">
         <mark key="[" line="3" column="38" />
@@ -2315,13 +2308,6 @@
         <mark key="." line="16" column="5" />
         <mark key="^" line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/ssh_cmd.rb" timestamp="1534881442265">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="53" column="31" />
-        <mark key="^" line="53" column="30" />
-        <mark key="." line="53" column="31" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/forms/edit_exception_rule.rb" timestamp="1534372749505">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="2" column="14" />
@@ -2428,12 +2414,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="0" column="75" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_block_batch.rb" timestamp="1534880383871">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/user.rb" timestamp="1533057535161">
         <mark key="'" line="30" column="2" />
@@ -3844,20 +3824,20 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBydW5fYmxvY2tfY21kCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>blackhole_routing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJ1bl9ibG9ja19jbWQK</text>
+        <text encoding="base64">ICAgICAgICBxLm1lcmdlIShyZXBvLnJ0X3F1ZXVlKHF1ZXJ5WzpydF9xdWV1ZV0pKSAgICAgICAgICAgICAgICAgICAgaWYgcXVlcnlbOnJ0X3F1ZXVlXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBydW5fYmxvY2tfY21kCg==</text>
@@ -3900,7 +3880,7 @@
         <text encoding="base64">ICAgICAgICAgICMgQGxvZ2dlci5lcnJvcigiQmxhY2tob2xlIHVuYmxvY2sgYmF0Y2ggZmFpbGVkIGZvciBpcHM6IFsje2lwc31dIG91dHB1dDogWyN7b3V0cHV0fV0iKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -3948,14 +3928,14 @@
         <entry>action GotoAction</entry>
         <entry>action Run</entry>
         <entry>%s/blackhole_routing/blackhole_service/g</entry>
-        <entry>action RecentFiles</entry>
         <entry>action RunClass</entry>
-        <entry>w</entry>
         <entry>action GotoTest</entry>
         <entry>action GotoFile</entry>
         <entry>wq</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
