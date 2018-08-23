@@ -124,10 +124,10 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/incident_search.rb" timestamp="1534956878953">
-        <mark key="[" line="27" column="69" />
-        <mark key="]" line="27" column="69" />
-        <mark key="." line="27" column="69" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/incident_search.rb" timestamp="1535054097096">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="34" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scans/_search.html.erb" timestamp="1533922678392">
@@ -677,11 +677,11 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Ruby Console" timestamp="1534807407790">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Ruby Console" timestamp="1535052250252">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/messages/index.html.erb" timestamp="1533164111202">
         <mark key="'" line="6" column="15" />
@@ -748,7 +748,7 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534880550635">
+      <file name="/Dummy.txt" timestamp="1535052748983">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
@@ -969,12 +969,12 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1534786620419">
-        <mark key="'" line="12" column="10" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="10" />
-        <mark key="." line="33" column="10" />
-        <mark key="^" line="33" column="10" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1535051795632">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/snort/services/signature_search.rb" timestamp="1534805580777">
         <mark key="[" line="4" column="19" />
@@ -1013,6 +1013,10 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/forms/paginated_search.rb" timestamp="1534782513907">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="49" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/sscans/_search_form.html.erb" timestamp="1533936999044">
         <mark key="'" line="21" column="6" />
@@ -1226,11 +1230,11 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="/fragment.rb" timestamp="1534803436131">
+      <file name="/fragment.rb" timestamp="1535052434976">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="31" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/_questions_form.html.erb" timestamp="1479148231511">
         <mark key="[" line="0" column="50" />
@@ -1455,12 +1459,11 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/incidents_feature_spec.rb" timestamp="1534375000031">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="130" column="33" />
-        <mark key="]" line="130" column="33" />
-        <mark key="." line="130" column="33" />
-        <mark key="^" line="130" column="33" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/incidents_feature_spec.rb" timestamp="1535054061522">
+        <mark key="[" line="108" column="31" />
+        <mark key="]" line="109" column="3" />
+        <mark key="." line="109" column="3" />
+        <mark key="^" line="109" column="3" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/run_automations.rb" timestamp="1534352364738">
         <mark key="[" line="7" column="0" />
@@ -1474,6 +1477,12 @@
         <mark key="]" line="12" column="6" />
         <mark key="^" line="3" column="81" />
         <mark key="." line="3" column="46" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/arcsight/log_metrics.rb" timestamp="1534803736418">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" timestamp="1534444612707">
         <mark key="'" line="161" column="0" />
@@ -1529,6 +1538,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="4" column="17" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/snort/events_controller.rb" timestamp="1534807247237">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="51" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/verify_email_controller.rb" timestamp="1475710715841">
         <mark key="[" line="7" column="21" />
@@ -1906,12 +1919,12 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/forms/new_exception_rule.rb" timestamp="1534372733845">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="25" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="2" column="25" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/forms/new_exception_rule.rb" timestamp="1535052671071">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing.rb" timestamp="1534875286163">
         <mark key="'" line="51" column="10" />
@@ -2308,6 +2321,12 @@
         <mark key="." line="16" column="5" />
         <mark key="^" line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/validators/ips_or_macs_validator.rb" timestamp="1535052594227">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="35" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/forms/edit_exception_rule.rb" timestamp="1534372749505">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="2" column="14" />
@@ -2372,8 +2391,8 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/exception_rules_controller.rb" timestamp="1534374600244">
-        <mark key="'" line="104" column="2" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/exception_rules_controller.rb" timestamp="1535052395348">
+        <mark key="'" line="90" column="0" />
         <mark key="[" line="1" column="78" />
         <mark key="]" line="2" column="1" />
         <mark key="^" line="2" column="1" />
@@ -3025,6 +3044,10 @@
         <mark key="^" line="4" column="81" />
         <mark key="." line="4" column="81" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/nos_data/airbears2_feature_spec.rb" timestamp="1535053328988">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ids/filter_rules/new.html.erb" timestamp="1533227524291">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="20" />
@@ -3080,6 +3103,10 @@
         <mark key="]" line="29" column="38" />
         <mark key="." line="29" column="38" />
         <mark key="^" line="29" column="38" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/mac_blocks_feature_spec.rb" timestamp="1535052917468">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="83" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock-rails5/app/views/admin/nos_data/vpn/index.html.erb" timestamp="1529558033702">
         <mark key="[" line="4" column="0" />
@@ -3716,12 +3743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="415" column="49" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/YottaTable.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/buttons/EditButton.vue" />
-      <jump line="48" column="3" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/ExceptionRulesList.vue" />
-      <jump line="52" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
-      <jump line="64" column="86" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
-      <jump line="55" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/exception_rules_feature_spec.rb" />
       <jump line="35" column="52" filename="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/incidents_feature_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/incidents_feature_spec.rb" />
       <jump line="15" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/automations/index.json.jbuilder" />
@@ -3816,6 +3837,12 @@
       <jump line="34" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_block_batch_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_block_batch_spec.rb" />
       <jump line="40" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_unblock_batch.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
+      <jump line="40" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/forms/new_exception_rule.rb" />
+      <jump line="90" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/exception_rules_controller.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/incidents_feature_spec.rb" />
+      <jump line="152" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/incidents_feature_spec.rb" />
+      <jump line="109" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/features/admin/incidents_feature_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3825,22 +3852,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_name</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_name</text>
       </register>
       <register name="/" type="4">
         <text>blackhole_routing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBxLm1lcmdlIShyZXBvLnJ0X3F1ZXVlKHF1ZXJ5WzpydF9xdWV1ZV0pKSAgICAgICAgICAgICAgICAgICAgaWYgcXVlcnlbOnJ0X3F1ZXVlXQo=</text>
+        <text encoding="base64">ICAgIHZpc2l0KGFkbWluX2luY2lkZW50c19wYXRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBydW5fYmxvY2tfY21kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3856,31 +3883,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0KCJUaWNrZXQgIyIsIGZyb206ICJSdCBRdWV1ZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIGxldCg6YWlyYmVhcnNfZ3JvdXApIHsgTm9jOjpMZGFwOjpHcm91cC5uZXcoOmFpcmJlYXJzKSB9CiAgIyBsZXQoOnZwbl9ncm91cCkgeyBOb2M6OkxkYXA6Okdyb3VwLm5ldyg6dnBuKSB9CiAgIwogICMgYmVmb3JlKDplYWNoKSBkbwogICMgICBhaXJiZWFyc19ncm91cC5yZW1vdmUoNjEwNjUpCiAgIyAgIHZwbl9ncm91cC5yZW1vdmUoNjEwNjUpCiAgIyBlbmQKICAjCiAgIyBhZnRlcig6YWxsKSBkbwogICMgICBhaXJiZWFyc19ncm91cC5yZW1vdmUoNjEwNjUpCiAgIyAgIHZwbl9ncm91cC5yZW1vdmUoNjEwNjUpCiAgIyBlbmQK</text>
+        <text encoding="base64">ICAgICAgZmlsbF9pbigiVXNlcm5hbWUiLCB3aXRoOiAicnVubmVyIikKICAgICAgZmlsbF9pbigiU3RhcnQgUmFuZ2UgVFMiLCB3aXRoOiAxLmhvdXIuYWdvLnRvX3MpCiAgICAgIGZpbGxfaW4oIlN0b3AgUmFuZ2UgVFMiLCB3aXRoOiAxLm1pbnV0ZS5mcm9tX25vdy50b19zKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbGlja19vbgogICAgbG9naW5fdXNlcih1c2VyLmNhbG5ldF91aWQpCiAgICB2aXNpdChhZG1pbl9pbmNpZGVudHNfcGF0aCkKICAgIGV4cGVjdChwYWdlKS50byBoYXZlX3NlbGVjdG9yKCJoMSIsIHRleHQ6ICJJbmNpZGVudHMiKQogICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoInRhYmxlI2luY2lkZW50cyIpCiAgICBleHBlY3QocGFnZS5hbGwoInRhYmxlI2luY2lkZW50cyB0ci5pbmNpZGVudCIpLmxlbmd0aCkudG8gZXFsKDMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogIGl0ICJUb2dnbGVzIGFuIGluY2lkZW50J3Mgc3RhdHVzIiBkbwogICAgdmlzaXQoYWRtaW5faW5jaWRlbnRfcGF0aCh3aW54cCkpCgogICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoInNwYW4uYmFkZ2UtcHJpbWFyeSIsIHRleHQ6IFN0YXR1czo6T1BFTikKCiAgICBjbGlja19vbigiTW9yZSIpCiAgICBjbGlja19vbigiQ2xvc2UgSW5jaWRlbnQiKQogICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoInNwYW4uYmFkZ2Utc2Vjb25kYXJ5IiwgdGV4dDogU3RhdHVzOjpDTE9TRUQpCgogICAgY2xpY2tfb24oIk1vcmUiKQogICAgY2xpY2tfb24oIk9wZW4gSW5jaWRlbnQiKQogICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoInNwYW4uYmFkZ2UtcHJpbWFyeSIsIHRleHQ6IFN0YXR1czo6T1BFTikKICBlbmQKCiAgaXQgIkRpc3BsYXlzIGRldGFpbHMgZm9yIGEgc3BlY2lmaWMgaW5jaWRlbnQiIGRvCiAgICB2aXNpdChhZG1pbl9pbmNpZGVudHNfcGF0aCkKICAgIHBhZ2UuZmluZCgiI3t3aW54cF9zZWxlY3Rvcn0gYSIpLmNsaWNrCgogICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoImgxIiwgdGV4dDogIlZpZXcgSW5jaWRlbnQiKQogICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoImRpdiNpbmNpZGVudC1pbmZvIikKICAgIGV4cGVjdChwYWdlKS50byBoYXZlX3NlbGVjdG9yKCJkaXYjaG9zdC1pbmZvIikKICAgIGV4cGVjdChwYWdlKS50byBoYXZlX3NlbGVjdG9yKCJkaXYjc2VjdXJpdHktY29udGFjdHMiKQogICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoImRpdiNuZXR3b3JrLXNlc3Npb24iKQogIGVuZAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyBkZWYgY2xvc2VfaW5jaWRlbnRzCiAgICAgICMgICBJbmNpZGVudC53aGVyZSh0aWNrZWt0X2lkOiBAaXBfdW5ibG9ja3MubWFwKCY6dGlja2V0X2lkKSkuZWFjaCgmOmNsb3NlISkKICAgICAgIyBlbmQK</text>
+        <text encoding="base64">ICBpdCAiYWRkcyBjYyBlbWFpbHMgdG8gcnQgdGlja2V0IgoKICBpdCAiRGVsZXRlcyBhbiBpbmNpZGVudCIgZG8KICAgIHZpc2l0KGFkbWluX2luY2lkZW50X3BhdGgod2lueHAuaWQpKQoKICAgIGNsaWNrX29uKCJNb3JlIikKICAgIGNsaWNrX29uKCJEZWxldGUgSW5jaWRlbnQiKQogICAgcGFnZS5kcml2ZXIuYnJvd3Nlci5zd2l0Y2hfdG8uYWxlcnQuYWNjZXB0CgogICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoImgxIiwgdGV4dDogIkluY2lkZW50cyIpCiAgICBleHBlY3QocGFnZSkudG8gaGF2ZV9zZWxlY3RvcigiZGl2LmFsZXJ0LXN1Y2Nlc3MiKQogICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfbm9fc2VsZWN0b3Iod2lueHBfc2VsZWN0b3IpCiAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNsb3NlX2luY2lkZW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIEBpcF91bmJsb2Nrcy5lYWNoKCY6dW5ibG9ja19zeW5jZWQhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgQGxvZ2dlci5lcnJvcigiQmxhY2tob2xlIHVuYmxvY2sgYmF0Y2ggZmFpbGVkIGZvciBpcHM6IFsje2lwc31dIG91dHB1dDogWyN7b3V0cHV0fV0iKQo=</text>
+        <text encoding="base64">ICAjIGl0ICJDcmVhdGVzIGFuIGluY2lkZW50IGZvciBhIHNwZWNpZmljIElQIiBkbwogICMgICBjbGlja19vbigiTmV3IEluY2lkZW50IikKICAjICAgY2xpY2tfb24oIkZvciBhbiBJUCBBZGRyZXNzIikKICAjICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoImgxIiwgdGV4dDogIk5ldyBJbmNpZGVudCBmb3IgSVAiKQogICMKICAjICAgIyBFcnJvciB3aGVuIGludmFsaWQKICAjICAgd2l0aGluKCJmb3JtI25ld19pcF9pbmNpZGVudCIpIGRvCiAgIyAgICAgY2xpY2tfb24oIlN1Ym1pdCIpCiAgIyAgIGVuZAogICMgICBleHBlY3QocGFnZSkudG8gaGF2ZV9zZWxlY3RvcigiZGl2LmFsZXJ0LWRhbmdlciIpCiAgIwogICMgICAjIExvb2t1cHMgSG9zdCBJbmZvIGFmdGVyIHZhbGlkIElQIGlzIGVudGVyZWQKICAjICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoIiNob3N0LXN1bW1hcnktaGVscCIpCiAgIyAgIHdpdGhpbigiZm9ybSNuZXdfaXBfaW5jaWRlbnQiKSBkbwogICMgICAgIGZpbGxfaW4oIkV2ZW50IElQIiwgd2l0aDogIjEyOC4zMi43Ni42NiIpCiAgIyAgIGVuZAogICMKICAjICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoIiNob3N0LWluZm8iKQogICMgICBleHBlY3QocGFnZSkudG8gaGF2ZV9zZWxlY3RvcigiI25ldHdvcmstc2Vzc2lvbiIpCiAgIyAgIGV4cGVjdChwYWdlKS50byBoYXZlX3NlbGVjdG9yKCIjc2VjdXJpdHktY29udGFjdHMiKQogICMgICBleHBlY3QocGFnZSkudG8gaGF2ZV9zZWxlY3RvcigiI21hYy1oaXN0b3J5IikKICAjICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoIiNob3N0LWV4Y2VwdGlvbnMiKQogICMKICAjICAgIyBTdWNjZXNzIHdoZW4gdmFsaWQKICAjICAgd2l0aGluKCJmb3JtI25ld19pcF9pbmNpZGVudCIpIGRvCiAgIyAgICAgZmlsbF9pbigiRXZlbnQgSVAiLCB3aXRoOiAiMTI4LjMyLjc2LjY2IikKICAjICAgICBmaWxsX2luKCJFdmVudCBQb3J0Iiwgd2l0aDogIjQ0MyIpCiAgIyAgICAgc2VsZWN0KEV2ZW50U291cmNlOjpORVNTVVMsIGZyb206ICJFdmVudCBTb3VyY2UiKQogICMgICAgIHNlbGVjdChFdmVudFR5cGU6OlZVTE5FUkFCSUxJVFksIGZyb206ICJFdmVudCBUeXBlIikKICAjICAgICBmaWxsX2luKCJFdmVudCBJRCIsIHdpdGg6ICI2NjYiKQogICMgICAgIHNlbGVjdCgiMyIsIGZyb206ICJFdmVudCBTZXZlcml0eSIpCiAgIyAgICAgZmlsbF9pbigiRXZlbnQgT3V0cHV0Iiwgd2l0aDogImV2ZW50IG91dHB1dCIpCiAgIyAgICAgY2xpY2tfb24oIlN1Ym1pdCIpCiAgIyAgIGVuZAogICMKICAjICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoImgxIiwgdGV4dDogIlZpZXcgSW5jaWRlbnQiKQogICMgICBleHBlY3QocGFnZSkudG8gaGF2ZV9zZWxlY3RvcigiZGl2LmFsZXJ0LXN1Y2Nlc3MiKQogICMgZW5kCgogICMgaXQgIkNyZWF0ZXMgYW4gaW5jaWRlbnQgZm9yIGEgc3BlY2lmaWMgVXNlciIgZG8KICAjICAgY2xpY2tfb24oIk5ldyBJbmNpZGVudCIpCiAgIyAgIGNsaWNrX29uKCJGb3IgYSBVc2VyIikKICAjICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoImgxIiwgdGV4dDogIk5ldyBJbmNpZGVudCBmb3IgVXNlciIpCiAgIyAKICAjICAgIyBGaW5kIHVzZXIgaW4gTERBUAogICMgICB3aXRoaW4oImZvcm0jc2VhcmNoLWxkYXAiKSBkbwogICMgICAgIHNlbGVjdCgiQ2FsbmV0IFVJRCIsIGZyb206ICJTZWFyY2ggQnkiKQogICMgICAgIGZpbGxfaW4oIlNlYXJjaCBUZXJtIiwgd2l0aDogIjYxMDY1IikKICAjICAgICBjbGlja19vbigiU2VhcmNoIikKICAjICAgZW5kCiAgIyAgIHBhZ2UuZmluZCgidHIjdWNiX3BlcnNvbl82MTA2NSBidXR0b24iKS5jbGljawogICMgCiAgIyAgIHVzZXJfbmFtZSA9IHBhZ2UuZmluZCgiI3VzZXJfaW5jaWRlbnRfdXNlcl9uYW1lIikudmFsdWUKICAjICAgZXhwZWN0KHVzZXJfbmFtZSkudG8gZXFsKCJTdGV2ZW4gSGFuc2VuIikKICAjICAgdXNlcl9lbWFpbCA9IHBhZ2UuZmluZCgiI3VzZXJfaW5jaWRlbnRfdXNlcl9lbWFpbCIpLnZhbHVlCiAgIyAgIGV4cGVjdCh1c2VyX2VtYWlsKS50byBlcWwoInJ1bm5lckBiZXJrZWxleS5lZHUiKQogICMgCiAgIyAgICMgTG9va3VwcyBIb3N0IEluZm8gYWZ0ZXIgdmFsaWQgSVAgaXMgZW50ZXJlZCAKICAjICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoIiNob3N0LXN1bW1hcnktaGVscCIpCiAgIyAgIHdpdGhpbigiZm9ybSNuZXdfdXNlcl9pbmNpZGVudCIpIGRvCiAgIyAgICAgZmlsbF9pbigiRXZlbnQgSVAiLCB3aXRoOiAiMTI4LjMyLjc2LjY2IikKICAjICAgZW5kCiAgIyAKICAjICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoIiNob3N0LWluZm8iKQogICMgICBleHBlY3QocGFnZSkudG8gaGF2ZV9zZWxlY3RvcigiI25ldHdvcmstc2Vzc2lvbiIpCiAgIyAgIGV4cGVjdChwYWdlKS50byBoYXZlX3NlbGVjdG9yKCIjc2VjdXJpdHktY29udGFjdHMiKQogICMgICBleHBlY3QocGFnZSkudG8gaGF2ZV9zZWxlY3RvcigiI21hYy1oaXN0b3J5IikKICAjICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoIiNob3N0LWV4Y2VwdGlvbnMiKQogICMgCiAgIyAgICMgRXJyb3IKICAjICAgd2l0aGluKCJmb3JtI25ld191c2VyX2luY2lkZW50IikgZG8KICAjICAgICBjbGlja19vbigiU3VibWl0IikKICAjICAgZW5kCiAgIyAgIGV4cGVjdChwYWdlKS50byBoYXZlX3NlbGVjdG9yKCJkaXYjZm9ybS1lcnJvciIpCiAgIyAKICAjICAgIyBTdWNjZXNzCiAgIyAgIHdpdGhpbigiZm9ybSNuZXdfdXNlcl9pbmNpZGVudCIpIGRvCiAgIyAgICAgc2VsZWN0KEV2ZW50VHlwZTo6R0VORVJBTCwgZnJvbTogIkV2ZW50IFR5cGUiKQogICMgICAgIHNlbGVjdChFdmVudFNvdXJjZTo6T1RIRVIsIGZyb206ICJFdmVudCBTb3VyY2UiKQogICMgICAgIHNlbGVjdCgiMyIsIGZyb206ICJFdmVudCBTZXZlcml0eSIpCiAgIyAgICAgc2VsZWN0KG1zZy5wcmV2aWV3LCBmcm9tOiAiTWVzc2FnZSBOYW1lIikKICAjICAgICBzZWxlY3QocXVldWUubmFtZSwgZnJvbTogIlJUIFF1ZXVlIikKICAjICAgICBjbGlja19vbigiU3VibWl0IikKICAjICAgZW5kCiAgIyAgIGV4cGVjdChwYWdlKS50byBoYXZlX3NlbGVjdG9yKCJoMSIsIHRleHQ6ICJWaWV3IEluY2lkZW50IikKICAjICAgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoImRpdi5hbGVydC1zdWNjZXNzIikKICAjIGVuZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -3925,17 +3952,17 @@
         <entry>r</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoAction</entry>
-        <entry>action Run</entry>
         <entry>%s/blackhole_routing/blackhole_service/g</entry>
-        <entry>action RunClass</entry>
         <entry>action GotoTest</entry>
-        <entry>action GotoFile</entry>
         <entry>wq</entry>
+        <entry>action Run</entry>
+        <entry>action GotoAction</entry>
         <entry>action QuickList.CustomGitActions</entry>
+        <entry>action GotoFile</entry>
+        <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
-        <entry>action RecentFiles</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
