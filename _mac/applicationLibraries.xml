@@ -7954,6 +7954,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mini_mime-1.0.0/bench" />
       </excluded>
     </library>
+    <library name="mini_mime (v1.0.1, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mini_mime-1.0.1/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mini_mime-1.0.1/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mini_mime-1.0.1/bench" />
+      </excluded>
+    </library>
     <library name="mini_portile2 (v2.1.0, RVM: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -9369,7 +9388,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.3/lib" />
@@ -9379,7 +9397,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.3/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.3/lib" />
@@ -10446,6 +10463,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.2/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.2/test" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v3.0.3, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/public_suffix-3.0.3/test" />
       </excluded>
     </library>
     <library name="puma (v3.11.0, RVM: ruby-2.3.4) [gem]" type="rubylib">
