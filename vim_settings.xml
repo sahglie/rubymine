@@ -3675,6 +3675,7 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/processors/radius_log.rb" timestamp="1535410347493" />
       <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/alert_pig/014_alert_groups.sql" timestamp="1485992899033">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -3896,7 +3897,7 @@
         <text encoding="base64">Ki8zMCAgICAgKiAgICAqICAgKiAgICogIGFwcF9zb2NrIFJBSUxTX0VOVj0kRU5WICRTSURFS0lRL21vbml0b3Jfc2lkZWtpcV9xdWV1ZXMucmIKKi8zMCAgICAgKiAgICAqICAgKiAgICogIGFwcF9zb2NrIFJBSUxTX0VOVj0kRU5WICRTSURFS0lRL21vbml0b3Jfc2lkZWtpcV9xdWV1ZXMucmIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -3949,9 +3950,9 @@
         <entry>action RecentFiles</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
