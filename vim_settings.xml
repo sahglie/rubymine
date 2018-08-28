@@ -1857,11 +1857,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="0" column="75" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_block_batch.rb" timestamp="1535483921807">
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="19" />
-        <mark key="^" line="31" column="19" />
-        <mark key="." line="31" column="19" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_block_batch.rb" timestamp="1535487835138">
+        <mark key="'" line="23" column="15" />
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="25" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/security_questions/_creds_form.html.erb" timestamp="1483732109545">
         <mark key="[" line="0" column="13" />
@@ -2553,12 +2554,12 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_block_batch_spec.rb" timestamp="1535483707555">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_block_batch_spec.rb" timestamp="1535487507644">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="4" />
-        <mark key="^" line="15" column="4" />
-        <mark key="." line="15" column="4" />
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap/conn.rb" timestamp="1480275147243">
         <mark key="[" line="41" column="32" />
@@ -2849,8 +2850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
-      <jump line="15" column="14" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
       <jump line="63" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
       <jump line="3" column="46" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/forms/incident/search.rb" />
       <jump line="42" column="7" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/forms/incident/search.rb" />
@@ -2949,6 +2948,8 @@
       <jump line="74" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/ssh_cmd.rb" />
       <jump line="6" column="69" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_unblock_batch_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_unblock_batch_spec.rb" />
+      <jump line="21" column="22" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_block_batch.rb" />
+      <jump line="23" column="15" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_block_batch.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2958,22 +2959,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>0q5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBpcF9ibG9ja3MubWFwIGRvIHxlfAogICAgICAgICAgICB7IGlwX2FkZHJlc3M6IGUuaXBfYWRkcmVzcywgdGlja2V0X2lkOiBlLnRpY2tldF9pZCB9CiAgICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIEBsb2dnZXIuaW5mbyhzdGRlcnIucmVhZCkgdW5sZXNzIGV4aXRfc3RhdHVzLnN1Y2Nlc3M/Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2989,31 +2990,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgaXBfYWRkcmVzczogZS5pcF9hZGRyZXNzLCB0aWNrZXRfaWQ6IGUudGlja2V0X2lkIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGxvZ2dlci5pbmZvKHN0ZGVycikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBibG9ja3MgPSBAaXBfYmxvY2tzLm1hcCBkbyB8ZXwK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvciA9IG5pbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAoJD8uZXhpdHN0YXR1cyA9PSAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3IgPSBzdGRlcnIgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBpcF9ibG9ja3MubWFwIGRvIHxlfAogICAgICAgICAgICB7IGlwX2FkZHJlc3M6IGUuaXBfYWRkcmVzcywgdGlja2V0X2lkOiBlLnRpY2tldF9pZCB9CiAgICAgICAgICBlbmQKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgZG91YmxlKCJpcF9ibG9jayIsIGlwX2FkZHJlc3M6ICd5eScsIHRpY2tldF9pZDogJzEnKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRyaWVzID0gQGlwX2Jsb2Nrcy5tYXAgZG8gfGV8CiAgICAgICAgICB7IGlwX2FkZHJlc3M6IGUuaXBfYWRkcmVzcywgdGlja2V0X2lkOiBlLnRpY2tldF9pZCB9CiAgICAgICAgZW5kCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHJ1bl9tb2NrX2Jsb2NrX2NtZAogICAgICAgICJlY2hvICcje2Jsb2NrX2xpc3R9JyB8ICN7U2VydmljZXM6OlNzaENtZC5ibGFja2hvbGVfYWRkX2NtZH0gMj4mMSIKICAgICAgZW5kCgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsgaXBfYWRkcmVzczogZS5pcF9hZGRyZXNzLCB0aWNrZXRfaWQ6IGUudGlja2V0X2lkIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBibG9ja3MgPSBAaXBfYmxvY2tzLm1hcCBkbyB8ZXwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJ1bl9tb2NrX2Jsb2NrX2NtZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAoJD8uZXhpdHN0YXR1cyA9PSAwKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -3049,7 +3050,6 @@
         <entry>0q5</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/panel/card/g</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>%s/attrs/query/g</entry>
         <entry>d</entry>
@@ -3058,17 +3058,18 @@
         <entry>action FileStructurePopup</entry>
         <entry>%s/blackhole_routing/blackhole_service/g</entry>
         <entry>wq</entry>
-        <entry>action Run</entry>
         <entry>action GotoClass</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>ew</entry>
+        <entry>w</entry>
         <entry>action GotoTest</entry>
+        <entry>action Run</entry>
         <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
