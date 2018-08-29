@@ -1836,9 +1836,9 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/services/rt_ticket.rb" timestamp="1535561565292">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="62" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/services/rt_ticket.rb" timestamp="1535581664801">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="23" column="62" />
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
@@ -1886,11 +1886,11 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="50" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/jobs/queue_ip_unblock.rb" timestamp="1535581254326">
-        <mark key="[" line="19" column="86" />
-        <mark key="]" line="19" column="86" />
-        <mark key="." line="19" column="86" />
-        <mark key="^" line="19" column="85" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/jobs/queue_ip_unblock.rb" timestamp="1535582300730">
+        <mark key="[" line="19" column="84" />
+        <mark key="]" line="19" column="89" />
+        <mark key="." line="19" column="89" />
+        <mark key="^" line="19" column="89" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ip_blocks/_actions.html.haml" timestamp="1533168366908">
         <mark key="[" line="6" column="60" />
@@ -3227,12 +3227,12 @@
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_block.rb" timestamp="1535561808768">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="91" column="49" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_block.rb" timestamp="1535581938834">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="87" column="49" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/progress.html.erb" timestamp="1475701912977">
         <mark key="[" line="21" column="62" />
@@ -3946,22 +3946,22 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cm1vZHVsZSBOZXR3b3JrQmxvY2tzCiAgbW9kdWxlIFNlcnZpY2VzCiAgICBjbGFzcyBJcEFkZHJlc3MKCiAgICAgIGRlZiBpbml0aWFsaXplKGlwX2Jsb2NrLCBydF90aWNrZXQ6IG5pbCkKICAgICAgICBAaXBfYmxvY2sgPSBpcF9ibG9jawogICAgICAgIEBydF90aWNrZXQgPSBydF90aWNrZXQKICAgICAgZW5kCgogICAgICBkZWYgcXVldWVfYmxvY2shKGZvcm0pCiAgICAgICAgYmxvY2sgPSBOZXR3b3JrQmxvY2tzOjpJcEJsb2NrLnF1ZXVlX2Jsb2NrIShmb3JtLmF0dHJpYnV0ZXMpCiAgICAgICAgTmV0d29ya0Jsb2Nrczo6Sm9iczo6UXVldWVJcEJsb2NrLnBlcmZvcm1fYXN5bmMoYmxvY2suaWQpCiAgICAgIGVuZAoKICAgICAgZGVmIHF1ZXVlX3VuYmxvY2shKGJsb2NrKQogICAgICAgIGJsb2Nrczo6SXBCbG9jay5xdWV1ZV9ibG9jayEoQGZvcm0uYXR0cmlidXRlcykKICAgICAgICBOZXR3b3JrQmxvY2tzOjpKb2JzOjpRdWV1ZUlwQmxvY2sucGVyZm9ybV9hc3luYyhibG9jay5pZCkKICAgICAgZW5kCgogICAgICBkZWYgYmxvY2sKICAgICAgICBBcHBsaWNhdGlvblJlY29yZC50cmFuc2FjdGlvbiBkbwogICAgICAgICAgQGlwX2Jsb2NrLmlzX2RtY2EhIGlmIHJ0X3RpY2tldC5pc19kbWNhPwogICAgICAgICAgcnRfdGlja2V0Lm1vdmVfdG9fYmxvY2tlZF9xdWV1ZQogICAgICAgICAgQGlwX2Jsb2NrLmJsb2NrX3N5bmNlZCEKICAgICAgICBlbmQgICAgICAgICAgICAgIAoKICAgICAgICBzZWxmCiAgICAgIGVuZAoKICAgICAgZGVmIHVuYmxvY2sKICAgICAgICBBcHBsaWNhdGlvblJlY29yZC50cmFuc2FjdGlvbiBkbwogICAgICAgICAgcnRfdGlja2V0LnJlc29sdmUKICAgICAgICAgIEBpcF9ibG9jay51bmJsb2NrX3N5bmNlZCEKICAgICAgICBlbmQKICAgICAgZW5kCgogICAgICBkZWYgc2VsZi5ibG9jayhpcCwgcnRfdGlja2V0OiBuaWwpCiAgICAgICAgbmV3KGlwLCBydF90aWNrZXQ6IHJ0X3RpY2tldCkuYmxvY2sKICAgICAgZW5kCgogICAgICBkZWYgc2VsZi51bmJsb2NrKGlwLCBydF90aWNrZXQ6IG5pbCkKICAgICAgICBzZWxmLm5ldyhpcCwgcnRfdGlja2V0OiBydF90aWNrZXQpLnVuYmxvY2sKICAgICAgZW5kCgogICAgICBwcml2YXRlCgogICAgICBkZWYgcnRfdGlja2V0CiAgICAgICAgQHJ0X3RpY2tldCB8fD0gU2VydmljZXM6OlJ0VGlja2V0Lm5ldyhAaXBfYmxvY2spCiAgICAgIGVuZAogICAgZW5kCiAgZW5kCmVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>incident.present?</text>
       </register>
       <register name="/" type="4">
         <text>dmca</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJ0X3RpY2tldC5yZXNvbHZlCiAgICAgICAgICBAaXBfYmxvY2sudW5ibG9ja19zeW5jZWQhCg==</text>
+      <register name="0" type="4">
+        <text>&quot;error when trying to unblock rt ticket: #{block.ticket_id}, #{e.message}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cm1vZHVsZSBOZXR3b3JrQmxvY2tzCiAgbW9kdWxlIFNlcnZpY2VzCiAgICBjbGFzcyBJcEFkZHJlc3MKCiAgICAgIGRlZiBpbml0aWFsaXplKGlwX2Jsb2NrLCBydF90aWNrZXQ6IG5pbCkKICAgICAgICBAaXBfYmxvY2sgPSBpcF9ibG9jawogICAgICAgIEBydF90aWNrZXQgPSBydF90aWNrZXQKICAgICAgZW5kCgogICAgICBkZWYgcXVldWVfYmxvY2shKGZvcm0pCiAgICAgICAgYmxvY2sgPSBOZXR3b3JrQmxvY2tzOjpJcEJsb2NrLnF1ZXVlX2Jsb2NrIShmb3JtLmF0dHJpYnV0ZXMpCiAgICAgICAgTmV0d29ya0Jsb2Nrczo6Sm9iczo6UXVldWVJcEJsb2NrLnBlcmZvcm1fYXN5bmMoYmxvY2suaWQpCiAgICAgIGVuZAoKICAgICAgZGVmIHF1ZXVlX3VuYmxvY2shKGJsb2NrKQogICAgICAgIGJsb2Nrczo6SXBCbG9jay5xdWV1ZV9ibG9jayEoQGZvcm0uYXR0cmlidXRlcykKICAgICAgICBOZXR3b3JrQmxvY2tzOjpKb2JzOjpRdWV1ZUlwQmxvY2sucGVyZm9ybV9hc3luYyhibG9jay5pZCkKICAgICAgZW5kCgogICAgICBkZWYgYmxvY2sKICAgICAgICBBcHBsaWNhdGlvblJlY29yZC50cmFuc2FjdGlvbiBkbwogICAgICAgICAgQGlwX2Jsb2NrLmlzX2RtY2EhIGlmIHJ0X3RpY2tldC5pc19kbWNhPwogICAgICAgICAgcnRfdGlja2V0Lm1vdmVfdG9fYmxvY2tlZF9xdWV1ZQogICAgICAgICAgQGlwX2Jsb2NrLmJsb2NrX3N5bmNlZCEKICAgICAgICBlbmQgICAgICAgICAgICAgIAoKICAgICAgICBzZWxmCiAgICAgIGVuZAoKICAgICAgZGVmIHVuYmxvY2sKICAgICAgICBBcHBsaWNhdGlvblJlY29yZC50cmFuc2FjdGlvbiBkbwogICAgICAgICAgcnRfdGlja2V0LnJlc29sdmUKICAgICAgICAgIEBpcF9ibG9jay51bmJsb2NrX3N5bmNlZCEKICAgICAgICBlbmQKICAgICAgZW5kCgogICAgICBkZWYgc2VsZi5ibG9jayhpcCwgcnRfdGlja2V0OiBuaWwpCiAgICAgICAgbmV3KGlwLCBydF90aWNrZXQ6IHJ0X3RpY2tldCkuYmxvY2sKICAgICAgZW5kCgogICAgICBkZWYgc2VsZi51bmJsb2NrKGlwLCBydF90aWNrZXQ6IG5pbCkKICAgICAgICBzZWxmLm5ldyhpcCwgcnRfdGlja2V0OiBydF90aWNrZXQpLnVuYmxvY2sKICAgICAgZW5kCgogICAgICBwcml2YXRlCgogICAgICBkZWYgcnRfdGlja2V0CiAgICAgICAgQHJ0X3RpY2tldCB8fD0gU2VydmljZXM6OlJ0VGlja2V0Lm5ldyhAaXBfYmxvY2spCiAgICAgIGVuZAogICAgZW5kCiAgZW5kCmVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3977,31 +3977,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbmNpZGVudCA9IEluY2lkZW50LmZpbmRfYnkodGlja2V0X2lkOiBibG9jay50aWNrZXRfaWQpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cm1vZHVsZSBOZXR3b3JrQmxvY2tzCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBCbG9ja0Vycm9yLCAiZXJyb3Igd2hlbiB0cnlpbmcgdG8gdW5ibG9jayBydCB0aWNrZXQ6ICN7YmxvY2sudGlja2V0X2lkfSwgI3tlLm1lc3NhZ2V9IgogICAgICAjICAgIyBAaXBfYmxvY2sudW5ibG9ja19zeW5jZWQhCiAgICAgICMgICAjIEB0aWNrZXRfaWQsIEBpcF9hZGRyZXNzID0gYmxvY2sudGlja2V0X2lkLCBibG9jay5pcF9hZGRyZXNzCiAgICAgICMgICAjCiAgICAgICMgICAjIGlmIEluY2lkZW50LmZpbmRfYnkhKHRpY2tldF9pZDogQHRpY2tldF9pZCkuZG1jYT8KICAgICAgIyAgICMgICBibG9jay5pc19kbWNhIQogICAgICAjICAgIyBlbmQKICAgICAgIyAgICMKICAgICAgIyAgICMgdGlja2V0X2Jsb2NrZXIuYmxvY2sKICAgICAgIyByZXNjdWUgUnQ6OkJhZFN0YXR1c0NvZGVFcnJvciA9PiBlCiAgICAgICMgICBSYWlscy5sb2dnZXIuZXJyb3IoZS5tZXNzYWdlKQogICAgICAjICAgcmFpc2UgU3RhbmRhcmRFcnJvciwgIkFuIGVycm9yIHdoZW4gY29tbXVuaWNhdGluZyB3aXRoIFJUIGZvciB0aWNrZXQ6ICN7YmxvY2sudGlja2V0X2lkfSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHF1ZXVlX2Jsb2NrIShhdHRycz17fSkKICAgICAgICBpcF9ibG9jayA9IE5ldHdvcmtCbG9ja3M6OklwQmxvY2sucXVldWVfYmxvY2shKGF0dHJzKQogICAgICAgIE5ldHdvcmtCbG9ja3M6OkpvYnM6OlF1ZXVlSXBCbG9jay5wZXJmb3JtX2FzeW5jKGlwX2Jsb2NrLmlkKQogICAgICBlbmQKCiAgICAgIGRlZiBxdWV1ZV91bmJsb2NrIShibG9jaykKICAgICAgICBibG9jay5xdWV1ZV91bmJsb2NrIQogICAgICAgIE5ldHdvcmtCbG9ja3M6OkpvYnM6OlF1ZXVlSXBVbmJsb2NrLnBlcmZvcm1fYXN5bmMoYmxvY2suaWQpCiAgICAgIGVuZAoK</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcucXVldWVfYmxvY2shKGF0dHJzKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBjYW1wdXNfaG9zdD8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcucXVldWVfdW5ibG9jayEoYXR0cnMpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICMgZGVmIGJsb2NrCiAgICAgICMgICBBcHBsaWNhdGlvblJlY29yZC50cmFuc2FjdGlvbiBkbwogICAgICAjICAgICBAaXBfYmxvY2suaXNfZG1jYSEgaWYgcnRfdGlja2V0LmlzX2RtY2E/CiAgICAgICMgICAgIHJ0X3RpY2tldC5tb3ZlX3RvX2Jsb2NrZWRfcXVldWUKICAgICAgIyAgICAgQGlwX2Jsb2NrLmJsb2NrX3N5bmNlZCEKICAgICAgIyAgIGVuZAogICAgICAjCiAgICAgICMgICBzZWxmCiAgICAgICMgZW5kCiAgICAgICMKICAgICAgIyBkZWYgdW5ibG9jawogICAgICAjICAgQXBwbGljYXRpb25SZWNvcmQudHJhbnNhY3Rpb24gZG8KICAgICAgIyAgICAgcnRfdGlja2V0LnJlc29sdmUKICAgICAgIyAgICAgQGlwX2Jsb2NrLnVuYmxvY2tfc3luY2VkIQogICAgICAjICAgZW5kCiAgICAgICMgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgUmFpbHMuZW52LnRlc3Q/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGluaXRpYWxpemUoaXBfYmxvY2ssIHJ0X3RpY2tldDogbmlsKQogICAgICAgIEBpcF9ibG9jayA9IGlwX2Jsb2NrCiAgICAgICAgQHJ0X3RpY2tldCA9IHJ0X3RpY2tldAogICAgICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgICBydF90aWNrZXQucmVzb2x2ZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4055,8 +4055,8 @@
         <entry>action RecentFiles</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
