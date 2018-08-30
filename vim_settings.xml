@@ -451,12 +451,12 @@
         <mark key="." line="10" column="79" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" timestamp="1535585642922">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" timestamp="1535651907951">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="112" column="2" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="23" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/consumers/audit_event_consumer_spec.rb" timestamp="1530034835424">
         <mark key="[" line="10" column="0" />
@@ -927,6 +927,12 @@
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="28" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/services/process_off_campus_attack_cases_spec.rb" timestamp="1535652639688">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="10" column="59" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/aid/ips/_tabs.html.erb" timestamp="1533239891077">
         <mark key="[" line="2" column="82" />
         <mark key="]" line="2" column="82" />
@@ -1123,10 +1129,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_active_attack_cases.rb" timestamp="1535586321219">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_active_attack_cases.rb" timestamp="1535651796517">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/change_password/update.js.erb" timestamp="1484687120935">
         <mark key="[" line="1" column="44" />
@@ -1646,6 +1653,13 @@
         <mark key="." line="4" column="9" />
         <mark key="^" line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/entities/cases/off_campus_attack_spec.rb" timestamp="1535652023907">
+        <mark key="'" line="42" column="18" />
+        <mark key="[" line="41" column="34" />
+        <mark key="]" line="42" column="18" />
+        <mark key="." line="42" column="18" />
+        <mark key="^" line="42" column="18" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/automation_history.rb" timestamp="1531159664582">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="1" column="45" />
@@ -1982,6 +1996,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="26" column="87" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/process_arcsight_cases.rb" timestamp="1535651888601">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="45" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/snort/signatures/_tabs.html.haml" timestamp="1534806091988">
         <mark key="[" line="0" column="0" />
@@ -2750,12 +2770,12 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/off_campus_attack.rb" timestamp="1535587001868">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/off_campus_attack.rb" timestamp="1535651772431">
         <mark key="'" line="4" column="26" />
-        <mark key="[" line="35" column="87" />
-        <mark key="]" line="35" column="87" />
-        <mark key="." line="35" column="87" />
-        <mark key="^" line="35" column="86" />
+        <mark key="[" line="56" column="92" />
+        <mark key="]" line="56" column="92" />
+        <mark key="." line="56" column="92" />
+        <mark key="^" line="56" column="76" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/services/alert_review.rb" timestamp="1535644709660">
         <mark key="'" line="102" column="0" />
@@ -3355,9 +3375,10 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/services/process_cases_spec.rb" timestamp="1534359846920">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="38" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/services/process_cases_spec.rb" timestamp="1535652061854">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="26" column="2" />
         <mark key="^" line="23" column="38" />
         <mark key="." line="23" column="38" />
       </file>
@@ -3886,9 +3907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" />
-      <jump line="36" column="58" filename="$USER_HOME$/Development/projects/sock_rails5/config/sock_crontab_production" />
       <jump line="84" column="33" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing2.rb" />
       <jump line="82" column="17" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing2.rb" />
       <jump line="39" column="32" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing2.rb" />
@@ -3986,6 +4004,9 @@
       <jump line="326" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/sock/services/incident_creator_spec.rb" />
       <jump line="223" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/sock/services/incident_creator_spec.rb" />
       <jump line="294" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/sock/services/incident_creator_spec.rb" />
+      <jump line="42" column="18" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/entities/cases/off_campus_attack_spec.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/services/process_cases_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/services/process_cases_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3994,23 +4015,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>when</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcHV0cyBjYXNlcy5zaXplCg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>when</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>queue_create_ticket</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KFJ0OjpUaWNrZXQpLnRvIHJlY2VpdmUoOmNyZWF0ZV9mb3JfaW5jaWRlbnQpCgo=</text>
+        <text encoding="base64">cmVxdWlyZSAicmFpbHNfaGVscGVyIgoKCmRlc2NyaWJlIEFyY3NpZ2h0OjpTZXJ2aWNlczo6UHJvY2Vzc0Nhc2VzIGRvCiAgZml4dHVyZXMoOmFsbCkKCiAgbGV0KDpzZXJ2aWNlKSB7IEFyY3NpZ2h0OjpTZXJ2aWNlczo6UHJvY2Vzc0Nhc2VzLm5ldyB9CiAgbGV0KDpjYXNlX3NlcnZpY2UpIHsgQXJjc2lnaHQ6OlNlcnZpY2VzOjpDYXNlLm5ldyB9CgogIGNvbnRleHQoIkNyZWF0aW5nIGluY2lkZW50cyBmcm9tIGNhc2VzIikgZG8KCiAgICBpdCAiY3JlYXRlcyBmcm9tIGNyZWRlbnRpYWwgZXhwb3N1cmUiLCB2Y3I6IHsgcmVjb3JkOiA6b25jZSB9IGRvCiAgICAgIGNhc2VzID0gY2FzZV9zZXJ2aWNlLmZpbmRfcGVuZGluZ19jYXNlcyh0eXBlczogWzpjcmVkZW50aWFsX2V4cG9zdXJlXSkKICAgICAgZXhwZWN0IHsgc2VydmljZS5ydW4oY2FzZXM6IGNhc2VzKSB9LnRvIGNoYW5nZSB7IEluY2lkZW50LmNvdW50IH0uYnkoMSkKICAgIGVuZAogICAgCiAgICBpdCAiY3JlYXRlcyBmcm9tIGFub21hbG91cyBiZWhhdmlvdXIiLCB2Y3I6IHsgcmVjb3JkOiA6b25jZSB9IGRvCiAgICAgIGNhc2VzID0gY2FzZV9zZXJ2aWNlLmZpbmRfcGVuZGluZ19jYXNlcyh0eXBlczogWzphbm9tYWxvdXNfYmVoYXZpb3VyXSkKICAgICAgZXhwZWN0IHsgc2VydmljZS5ydW4oY2FzZXM6IGNhc2VzKSB9LnRvIGNoYW5nZSB7IEluY2lkZW50LmNvdW50IH0uYnkoMSkKICAgIGVuZAogICAgCiAgICBpdCAiY3JlYXRlcyBmcm9tIHBvc3NpYmxlIGNvbXByb21pc2UiLCB2Y3I6IHsgcmVjb3JkOiA6b25jZSB9IGRvCiAgICAgIGNhc2VzID0gY2FzZV9zZXJ2aWNlLmZpbmRfcGVuZGluZ19jYXNlcyh0eXBlczogWzpwb3NzaWJsZV9jb21wcm9taXNlXSkKICAgICAgZXhwZWN0IHsgc2VydmljZS5ydW4oY2FzZXM6IGNhc2VzKSB9LnRvIGNoYW5nZSB7IEluY2lkZW50LmNvdW50IH0uYnkoMSkKICAgIGVuZAogIGVuZAplbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHV0cyBjYXNlcy5zaXplCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4026,31 +4047,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU29jazo6U2VydmljZXM6OkluY2lkZW50Q3JlYXRvci5jcmVhdGUhKGZvcm0pCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICBpdCAiY3JlYXRlcyBmcm9tIGFub21hbG91cyBiZWhhdmlvdXIiLCB2Y3I6IHsgcmVjb3JkOiA6b25jZSB9IGRvCiAgICAgIGNhc2VzID0gY2FzZV9zZXJ2aWNlLmZpbmRfcGVuZGluZ19jYXNlcyh0eXBlczogWzphbm9tYWxvdXNfYmVoYXZpb3VyXSkKICAgICAgZXhwZWN0IHsgc2VydmljZS5ydW4oY2FzZXM6IGNhc2VzKSB9LnRvIGNoYW5nZSB7IEluY2lkZW50LmNvdW50IH0uYnkoMSkKICAgIGVuZAoKICAgIGl0ICJjcmVhdGVzIGZyb20gcG9zc2libGUgY29tcHJvbWlzZSIsIHZjcjogeyByZWNvcmQ6IDpvbmNlIH0gZG8KICAgICAgY2FzZXMgPSBjYXNlX3NlcnZpY2UuZmluZF9wZW5kaW5nX2Nhc2VzKHR5cGVzOiBbOnBvc3NpYmxlX2NvbXByb21pc2VdKQogICAgICBleHBlY3QgeyBzZXJ2aWNlLnJ1bihjYXNlczogY2FzZXMpIH0udG8gY2hhbmdlIHsgSW5jaWRlbnQuY291bnQgfS5ieSgxKQogICAgZW5kCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZm9ybS5jYWxuZXRfdWlkID0gbmlsCiAgICAgIGZvcm0udXNlcl9uYW1lID0gIk9mZiBDYW1wdXMgSm9lIgogICAgICBmb3JtLnVzZXJfZW1haWwgPSAib2ZmX2NhbXB1c19qb2VAZG9tYWluLmNvbSIKICAgICAgZm9ybS5ldmVudF9pcCA9ICIxMjguMzIuNzYuNjYiCiAgICAgIGZvcm0uZXZlbnRfcG9ydCA9IDQ0Mwo=</text>
+        <text encoding="base64">c2VydmljZS5ydW4oY2FzZV90eXBlczogdHlwZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3coTm9zRGF0YTo6U2VydmljZXM6Ok5ldHdvcmtTZXNzaW9uU2VhcmNoKS50byByZWNlaXZlKDpydW4pLmFuZF9yZXR1cm4obmV0d29ya19zZXNzaW9uKQogICAgICBhbGxvdyhOb3NEYXRhOjpTZXJ2aWNlczo6SG9zdEluZm9Mb29rdXApLnRvIHJlY2VpdmUoOnJ1bikuYW5kX3JldHVybihob3N0X2luZm8pCg==</text>
+        <text encoding="base64">dHlwZXMgPSBBcmNzaWdodDo6U2VydmljZXM6OkNhc2U6OkNBU0VfVFlQRVMuZXhjZXB0KDphY3RpdmVfYXR0YWNrKS5rZXlzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU29jazo6U2VydmljZXM6OkluY2lkZW50Q3JlYXRvci5jcmVhdGUhKGZvcm0pCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgaXQgImRvZXNuJ3QgY3JlYXRlIHJ0IHRpY2tldCB3aGVuIG5vdGlmeT1mYWxzZSIgZG8KICAgICAgYWxsb3coTm9zRGF0YTo6U2VydmljZXM6Ok5ldHdvcmtTZXNzaW9uU2VhcmNoKS50byByZWNlaXZlKDpydW4pLmFuZF9yZXR1cm4obmV0d29ya19zZXNzaW9uKQogICAgICBhbGxvdyhOb3NEYXRhOjpTZXJ2aWNlczo6SG9zdEluZm9Mb29rdXApLnRvIHJlY2VpdmUoOnJ1bikuYW5kX3JldHVybihob3N0X2luZm8pCiAgICAgIGV4cGVjdChSdDo6VGlja2V0KS50b19ub3QgcmVjZWl2ZSg6Y3JlYXRlX2Zvcl9pbmNpZGVudCkKCiAgICAgIGZvcm0uY2FsbmV0X3VpZCA9IG5pbAogICAgICBmb3JtLnVzZXJfbmFtZSA9ICJPZmYgQ2FtcHVzIEpvZSIKICAgICAgZm9ybS51c2VyX2VtYWlsID0gIm9mZl9jYW1wdXNfam9lQGRvbWFpbi5jb20iCiAgICAgIGZvcm0uZXZlbnRfaXAgPSAiMTI4LjMyLjc2LjY2IgogICAgICBmb3JtLmV2ZW50X3BvcnQgPSA0NDMKICAgICAgCiAgICAgIGV4cGVjdCB7CiAgICAgICAgZm9ybS5ub3RpZnkgPSBmYWxzZQogICAgICAgIFNvY2s6OlNlcnZpY2VzOjpJbmNpZGVudENyZWF0b3IuY3JlYXRlIShmb3JtKQogICAgICB9LnRvIGNoYW5nZSB7IEluY2lkZW50LmNvdW50IH0uYnkoMSkKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgU29jazo6U2VydmljZXM6OkluY2lkZW50Q3JlYXRvci5jcmVhdGUhKGZvcm0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIGkgPSBJbmNpZGVudC5maXJzdAoKICAgICAgIyBFdmVudCBEYXRhCiAgICAgIGV4cGVjdChpLmlwLnRvX3MpLnRvIGVxbCgiMTI4LjMyLjc2LjY2IikKICAgICAgZXhwZWN0KGkuZXZlbnRfcG9ydCkudG8gZXFsKDQ0MykKICAgICAgZXhwZWN0KGkuZXZlbnRfc3RhcnRfdHMudG9fcykudG8gZXFsKCIyMDE0LTAxLTAxIDAwOjAwOjAwIC0wODAwIikKICAgICAgZXhwZWN0KGkuZXZlbnRfc3RvcF90cy50b19zKS50byBlcWwoIjIwMTQtMDEtMDEgMDE6MDA6MDAgLTA4MDAiKQogICAgICBleHBlY3QoaS5ldmVudF9zb3VyY2UpLnRvIGVxbCgibmVzc3VzIikKICAgICAgZXhwZWN0KGkuZXZlbnRfdHlwZSkudG8gZXFsKCJ2dWxuZXJhYmlsaXR5IikKICAgICAgZXhwZWN0KGkuZXZlbnRfaWQpLnRvIGVxbCgiNjY2IikKICAgICAgZXhwZWN0KGkuZXZlbnRfc2V2ZXJpdHkpLnRvIGVxbCgzKQogICAgICBleHBlY3QoaS5ldmVudF9vdXRwdXQpLnRvIGVxbCgiZXZlbnQgb3V0cHV0IikKCiAgICAgICMgSG9zdCBJbmZvCiAgICAgIGV4cGVjdChpLmhvc3RfaW5mb1siaG9zdF90eXBlIl0pLnRvIGVxbCgiZGhjcF9keW5hbWljIikKICAgICAgZXhwZWN0KGkuaG9zdF9pbmZvWyJnZW5lcmFsX2hvc3RfdHlwZSJdKS50byBlcWwoImRoY3AiKQogICAgICBleHBlY3QoaS5ob3N0X3R5cGUpLnRvIGVxbCgiZGhjcCIpCiAgICAgIGV4cGVjdChpLmhvc3RuYW1lKS50byBlcWwoImRoY3AtMTI4LTMyLTc2LTY2LmxpcHMuYmVya2VsZXkuZWR1IikKICAgICAgZXhwZWN0KGkucHJvdGVjdGlvbl9sZXZlbCkudG8gZXFsKDEpCiAgICAgIGV4cGVjdChpLm1hYykudG8gZXFsKCIwMDowMDowMDowMDowMDowMCIpCgogICAgICAjIE5ldHdvcmsgU2Vzc2lvbgogICAgICBleHBlY3QoaS5uZXR3b3JrX3Nlc3Npb25bImhvc3RfdHlwZSJdKS50byBlcWwoImRoY3AiKQogICAgICBleHBlY3QoaS5uZXR3b3JrX3Nlc3Npb25bInVzZXJfYXR0cnMiXVsiY2FsbmV0X3VpZCJdKS50byBlcWwoNjEwNjUpCgogICAgICAjIFVzZXIgSW5mbwogICAgICBleHBlY3QoaS51c2VyX2luZm9bIm1haWwiXSkudG8gZXFsKCJydW5uZXJAYmVya2VsZXkuZWR1IikKICAgICAgZXhwZWN0KGkuY2FsbmV0X3VpZCkudG8gZXFsKDYxMDY1KQogICAgICBleHBlY3QoaS51c2VyX25hbWUpLnRvIGVxbCgiU3RldmVuIEhhbnNlbiIpCiAgICAgIGV4cGVjdChpLnVzZXJfZW1haWwpLnRvIGVxbCgicnVubmVyQGJlcmtlbGV5LmVkdSIpCgogICAgICAjIFRpY2tldCBSdWxlCiAgICAgIGV4cGVjdChpLm1lc3NhZ2UubmFtZSkudG8gZXFsKCJkZWZhdWx0IikKICAgICAgZXhwZWN0KGkucnRfcXVldWUubmFtZSkudG8gZXFsKCJHZW5lcmFsIikKCiAgICAgICMgcnQgdGlja2V0aW5nIGlzIHNraXBwZWQgZHVyaW5nIHRlc3RzCiAgICAgIGV4cGVjdChpLnRpY2tldF9zdGF0dXMpLnRvIGVxbCgiUEVORElORyIpCiAgICAgIGV4cGVjdChpLnRpY2tldF9pZCkudG8gYmVfbmlsCiAgICAgIGV4cGVjdChpLnRpY2tldF9jcmVhdGVkX3RzKS50byBiZV9uaWwKCiAgICAgIGV4cGVjdChpLmVucmljaG1lbnRfc3RhdHVzKS50byBlcWwoIkNPTVBMRVRFRCIpCiAgICAgIGV4cGVjdChpLnN0YXR1cykudG8gZXFsKCJPUEVOIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KFJ0OjpUaWNrZXQpLnRvIHJlY2VpdmUoOmNyZWF0ZV9mb3JfaW5jaWRlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgZm9ybS5jYWxuZXRfdWlkID0gbmlsCiAgICAgIGZvcm0udXNlcl9uYW1lID0gIk9mZiBDYW1wdXMgSm9lIgogICAgICBmb3JtLnVzZXJfZW1haWwgPSAib2ZmX2NhbXB1c19qb2VAZG9tYWluLmNvbSIKICAgICAgZm9ybS5ldmVudF9pcCA9ICIxMjguMzIuNzYuNjYiCiAgICAgIGZvcm0uZXZlbnRfcG9ydCA9IDQ0Mwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -4096,16 +4117,16 @@
         <entry>action QuickList.FindAndReplace</entry>
         <entry>ew</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Run</entry>
-        <entry>action GotoTest</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
+        <entry>action Run</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
-        <entry>action RunClass</entry>
+        <entry>action GotoTest</entry>
         <entry>w</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
