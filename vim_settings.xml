@@ -621,6 +621,12 @@
         <mark key="^" line="21" column="58" />
         <mark key="." line="21" column="58" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/set_ip_blocks_unblock_on.rb" timestamp="1535740830736">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/queue_job_count.rb" timestamp="1532983590733">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="18" />
@@ -827,6 +833,9 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/services/host_type_lookup.rb" timestamp="1535586158091">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile" timestamp="1534376336917">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="86" column="27" />
@@ -854,9 +863,10 @@
         <mark key="." line="46" column="10" />
         <mark key="^" line="46" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/email_failed_ip_block_sync.rb" timestamp="1482349102243">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="41" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/email_failed_ip_block_sync.rb" timestamp="1535740347394">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="2" />
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
@@ -902,12 +912,12 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/forms/ip_block.rb" timestamp="1535659663028">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="75" column="2" />
-        <mark key="^" line="6" column="87" />
-        <mark key="." line="6" column="87" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/forms/ip_block.rb" timestamp="1535740302472">
+        <mark key="'" line="14" column="44" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ids/alert_groups/show.html.erb" timestamp="1533233534221">
         <mark key="'" line="14" column="18" />
@@ -1014,6 +1024,9 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1535740716861">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/snort/services/signature_search.rb" timestamp="1534805580777">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="23" />
@@ -1065,12 +1078,6 @@
         <mark key="]" line="33" column="78" />
         <mark key="." line="33" column="78" />
         <mark key="^" line="33" column="78" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/incident_creator.rb" timestamp="1535653780851">
-        <mark key="'" line="36" column="10" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/security_questions/_questions_form.html.erb" timestamp="1483732131011">
         <mark key="[" line="40" column="26" />
@@ -1653,12 +1660,6 @@
         <mark key="." line="4" column="9" />
         <mark key="^" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/entities/cases/off_campus_attack_spec.rb" timestamp="1535657568372">
-        <mark key="'" line="48" column="18" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/automation_history.rb" timestamp="1531159664582">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="1" column="45" />
@@ -1795,10 +1796,6 @@
         <mark key="]" line="12" column="44" />
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/nos_data/ucb_hosts.yml" timestamp="1535657496899">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_cli/exe/sock" timestamp="1484263935881">
         <mark key="[" line="20" column="19" />
@@ -2309,11 +2306,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="14" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/changes.sql" timestamp="1535739334110">
-        <mark key="[" line="2" column="56" />
-        <mark key="]" line="2" column="58" />
-        <mark key="." line="2" column="58" />
-        <mark key="^" line="2" column="58" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/changes.sql" timestamp="1535740924957">
+        <mark key="[" line="2" column="69" />
+        <mark key="]" line="3" column="49" />
+        <mark key="." line="3" column="49" />
+        <mark key="^" line="3" column="49" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/messages/edit.html.haml" timestamp="1533250846680">
         <mark key="[" line="4" column="18" />
@@ -2496,11 +2493,11 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/incidents/021_ip_blocks.sql" timestamp="1535739368974">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
-        <mark key="^" line="7" column="52" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/db/ddl/incidents/021_ip_blocks.sql" timestamp="1535740943701">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="52" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/ldap/mds.rb" timestamp="1480272879686">
         <mark key="[" line="21" column="49" />
@@ -2795,6 +2792,9 @@
         <mark key="]" line="56" column="96" />
         <mark key="." line="56" column="96" />
         <mark key="^" line="56" column="96" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/services/alert_review.rb" timestamp="1535644709660">
+        <mark key="'" line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/radius_logs.rb" timestamp="1483572420452">
         <mark key="[" line="25" column="15" />
@@ -3938,12 +3938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="43" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing2.rb" />
-      <jump line="64" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_routing2_spec.rb" />
-      <jump line="95" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing2.rb" />
-      <jump line="17" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_routing2_spec.rb" />
-      <jump line="16" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_routing2_spec.rb" />
-      <jump line="19" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing2.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_routing2_spec.rb" />
       <jump line="41" column="1" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_routing2_spec.rb" />
       <jump line="53" column="18" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_routing2_spec.rb" />
@@ -3973,7 +3967,6 @@
       <jump line="42" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing2.rb" />
       <jump line="4" column="25" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing.rb" />
       <jump line="98" column="20" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_routing_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
       <jump line="35" column="52" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_cases.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/services/host_type_lookup.rb" />
@@ -4038,6 +4031,13 @@
       <jump line="43" column="59" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/arcsight/entities/cases/possible_compromise_spec.rb" />
       <jump line="56" column="56" filename="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/forms/ip_block.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/forms/ip_block.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/forms/ip_block.rb" />
+      <jump line="14" column="44" filename="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/forms/ip_block.rb" />
+      <jump line="15" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sock/email_failed_ip_block_sync.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/bin/sock/email_failed_ip_block_sync.rb" />
+      <jump line="58" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
+      <jump line="27" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4046,23 +4046,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBiYXRjaCAgICAgICAgICAgICBCT09MRUFOIERFRkFVTFQgRkFMU0UsCg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>ts</text>
       </register>
       <register name="/" type="4">
-        <text>queue_create_ticket</text>
+        <text>changes.sq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgaW5jaWRlbnRzLmlwX2Jsb2NrcyBjaGFuZ2UgY29sdW1uIHRpY2tldF9pZCB0byBudWxsOwo=</text>
+        <text encoding="base64">ICAgIGIudXBkYXRlX2F0dHJpYnV0ZXMhKHVuYmxvY2tfb246IGIuY3JlYXRlZF90cyArIDEueWVhcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhdXRvX3VuYmxvY2sgICAgICBCT09MRUFOIERFRkFVTFQgRkFMU0UgICAgTk9UIE5VTEwsCg==</text>
+        <text encoding="base64">ICBiYXRjaCAgICAgICAgICAgICBCT09MRUFOIERFRkFVTFQgRkFMU0UsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4078,37 +4078,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsaWRhdGUoOmVuc3VyZV9ydF90aWNrZXRfZXhpc3RzLCBpZjogLT4geyB0aWNrZXRfaWQucHJlc2VudD8gfSkK</text>
+        <text encoding="base64">ICAgIGIudW5ibG9ja19vbiA9IGIuY3JlYXRlZF90cwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGVuc3VyZV9ydF90aWNrZXRfZXhpc3RzCiAgICAgICAgcmV0dXJuIHRydWUgaWYgUmFpbHMuZW52LnRlc3Q/CiAgICAgICAgaWYgUnQ6OlRpY2tldEZpbmRlci5maW5kKHRpY2tldF9pZCkubmlsPwogICAgICAgICAgc2VsZi5lcnJvcnMuYWRkKDp0aWNrZXRfaWQsICJ0aWNrZXQgZG9lcyBub3QgZXhpc3QgaW4gUlQiKQogICAgICAgIGVuZAogICAgICByZXNjdWUgUnQ6OkJhZFN0YXR1c0NvZGVFcnJvciA9PiBlCiAgICAgICAgUmFpbHMubG9nZ2VyLmVycm9yKGUubWVzc2FnZSkKICAgICAgICByYWlzZSBCbG9ja0Vycm9yLCAiZXJyb3Igd2hlbiB0cnlpbmcgdG8gbG9jYXRlIHRpY2tldCBpbiBSVCIKICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICBiLnVuYmxvY2tfb24gPSBiLmNyZWF0ZWRfdHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q2xpRXhjZXB0aW9uTm90aWZpY2F0aW9uLm5vdGlmeV9vbl9leGNlcHRpb24gZG8KICBSYWlscy5sb2dnZXIuaW5mbygiLS0tLS1TdGFydGluZyBzb2NrL2VtYWlsX2ZhaWxlZF9pcF9ibG9ja19zeW5jLnJiIikKCiAgZmFpbGVkX3N5bmNfbGlzdCA9ICBOZXR3b3JrQmxvY2tzOjpJcEJsb2NrLmZhaWxlZF9ibG9ja19zeW5jCiAgaXBzID0gZmFpbGVkX3N5bmNfbGlzdC5tYXAgeyB8ZmFpbGVkX3N5bmN8IGZhaWxlZF9zeW5jLmlwX2FkZHJlc3MgfQogIEFwcGxpY2F0aW9uTWFpbGVyLmZhaWxlZF9ibG9ja19zeW5jKGlwcykuZGVsaXZlcl9ub3cgdW5sZXNzIGlwcy5lbXB0eT8KCiAgUmFpbHMubG9nZ2VyLmluZm8oIi0tRmluaXNoZWQgc29jay9lbWFpbF9mYWlsZWRfaXBfYmxvY2tfc3luYy5yYiIpCmVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHJlcXVpcmVzX2NvbmZpcm1hdGlvbj8KICAgICAgICBpZiBzZWxmLnZhbGlkPwogICAgICAgICAgcmV0dXJuIHRydWUgaWYgQ3JpdGljYWxJcC5maW5kX2J5KGlwX2FkZHJlc3M6IGlwX2FkZHJlc3MudG9fcykucHJlc2VudD8KICAgICAgICAgIHJldHVybiB0cnVlIGlmIGhvc3RfdHlwZS50b19zICE9IEhvc3RUeXBlOjpTVEFUSUMudG9fcwogICAgICAgIGVuZAogICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsaWRhdGVzKDp0aWNrZXRfaWQsIHByZXNlbmNlOiB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgZGVmIGF1dG9fdW5ibG9ja19pcD8KICAgICAgICBhdXRvX3VuYmxvY2sudG9fcyA9PSAidHJ1ZSIKICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXR0cmlidXRlKDp0aWNrZXRfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlKDphdXRvX3VuYmxvY2ssIGRlZmF1bHQ6IC0+IHsgZmFsc2UgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE5ldHdvcmtCbG9ja3M6OlNlcnZpY2VzOjpJcEFkZHJlc3MucXVldWVfYmxvY2shKGlwX2Jsb2NrLmF0dHJpYnV0ZXMpCiAgICBleHBlY3QoaXBfYmxvY2suYmxvY2tfcXVldWVkPykudG8gYmVfdHJ1dGh5Cg==</text>
+        <text encoding="base64">ICBhdXRvX3VuYmxvY2sgICAgICBCT09MRUFOIERFRkFVTFQgRkFMU0UgICAgTk9UIE5VTEwsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>queue_create_ticket</last-search>
+      <last-search>changes.sq</last-search>
       <last-offset />
-      <last-pattern>queue_create_ticket</last-pattern>
+      <last-pattern>changes.sq</last-pattern>
       <last-replace>blackhole_service</last-replace>
       <last-substitute>blackhole_routing</last-substitute>
       <last-dir>1</last-dir>
@@ -4116,8 +4116,6 @@
     </search>
     <history>
       <history-search>
-        <entry>attrs</entry>
-        <entry>rdm</entry>
         <entry>arcsight</entry>
         <entry>limit</entry>
         <entry>redis</entry>
@@ -4136,6 +4134,8 @@
         <entry>dmca</entry>
         <entry>host_type</entry>
         <entry>queue_create_ticket</entry>
+        <entry>auto</entry>
+        <entry>changes.sq</entry>
       </history-search>
       <history-cmd>
         <entry>%s/attrs/query/g</entry>
@@ -4149,12 +4149,12 @@
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
-        <entry>action Run</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>action GotoTest</entry>
-        <entry>action RunClass</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Run</entry>
+        <entry>action RunClass</entry>
         <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
