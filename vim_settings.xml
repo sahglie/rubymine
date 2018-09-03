@@ -3355,7 +3355,7 @@
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_block.rb" timestamp="1535658096119">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_block.rb" timestamp="1535998151410">
         <mark key="'" line="150" column="0" />
         <mark key="[" line="20" column="8" />
         <mark key="]" line="20" column="8" />
@@ -3405,12 +3405,12 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/services/ip_address.rb" timestamp="1535763135754">
-        <mark key="'" line="23" column="2" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="2" />
-        <mark key="." line="29" column="2" />
-        <mark key="^" line="29" column="2" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/services/ip_address.rb" timestamp="1535998209293">
+        <mark key="'" line="24" column="2" />
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/ids/alerts_controller.rb" timestamp="1530132254398">
         <mark key="[" line="5" column="0" />
@@ -3984,7 +3984,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="27" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket.rb" />
       <jump line="170" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket.rb" />
       <jump line="114" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/sock/services/incident_creator_spec.rb" />
       <jump line="125" column="50" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/incident_creator.rb" />
@@ -4021,7 +4020,6 @@
       <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_off_campus_attack_cases.rb" />
       <jump line="0" column="5" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/services/process_off_campus_attack_cases.rb" />
       <jump line="10" column="39" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/off_campus_attack.rb" />
-      <jump line="150" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_block.rb" />
       <jump line="16" column="31" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/network_blocks/services/ip_address_spec.rb" />
       <jump line="21" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/network_blocks/services/ip_address_spec.rb" />
       <jump line="97" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/rt/ticket_block_spec.rb" />
@@ -4084,6 +4082,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
       <jump line="41" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_routing_spec.rb" />
       <jump line="4" column="10" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing.rb" />
+      <jump line="18" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_block.rb" />
+      <jump line="150" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket_block.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4092,23 +4092,23 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_cases</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbmNpZGVudCA9IGlwX2Jsb2NrLmluY2lkZW50Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>_cases</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>puts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlwX2Jsb2NrLmluY2lkZW50LnRyeSg6b3BlbiEpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmNpZGVudCA9IGlwX2Jsb2NrLmluY2lkZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmNpZGVudCA9IGlwX2Jsb2NrLmluY2lkZW50Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4127,28 +4127,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIGNtZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAbG9nZ2VyLmRlYnVnKGNtZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpcF9ibG9jay5pbmNpZGVudC50cnkoOm9wZW4hKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlwX2Jsb2NrLmluY2lkZW50LnRyeSg6b3BlbiEpCg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRzIGNtZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBAbG9nZ2VyLmRlYnVnKGNtZCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4199,11 +4199,11 @@
         <entry>action FileStructurePopup</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
-        <entry>w</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
