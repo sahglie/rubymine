@@ -1745,6 +1745,11 @@
         <mark key="^" line="32" column="5" />
         <mark key="." line="21" column="79" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/block_quota.rb" timestamp="1536083882942">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/serializers/admin/automations/incident_serializer.rb" timestamp="1531168170137">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="32" column="26" />
@@ -1886,8 +1891,10 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/process_off_campus_attack_cases.rb" timestamp="1536083177716">
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/process_off_campus_attack_cases.rb" timestamp="1536083370710">
         <mark key="'" line="2" column="10" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="99" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/admin_rt_ticket.js" timestamp="1527883240866">
         <mark key="[" line="8" column="0" />
@@ -3855,20 +3862,20 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Sock::Services::CriteriaToSqlRelation.run(@automation.criteria)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>Sock::Services::CriteriaToSqlRelation.run(@automation.criteria)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>automations</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyKHN0YXR1czogMjAxLCBqc29uOiB7ZGF0YToge2lkOiBhdXRvbWF0aW9uX2V4ZWMuaWR9fSkK</text>
+        <text encoding="base64">ICAgICAgZGVmIG9wZW5fYmxvY2tzCiAgICAgICAgTUFYX0JMT0NLUyAtIEluY2lkZW50LmFyY3NpZ2h0X2F1dG9fYmxvY2tzLmNvdW50CiAgICAgIGVuZAoKICAgICAgTUFYX0RBSUxZX0JMT0NLUyA9IDEwMAoKICAgICAgZGVmIG9wZW5fZGF5X2Jsb2NrcwogICAgICAgIE1BWF9EQUlMWV9CTE9DS1MgLSBJbmNpZGVudC5hcmNzaWdodF9hdXRvX2Jsb2Nrcy5mb3JfZGF5KFRpbWUubm93KS5jb3VudAogICAgICBlbmQKCiAgICAgIGRlZiByZWFjaGVkX2Jsb2NrX3F1b3RhPyhvcGVuX2Jsb2Nrcywgb3Blbl9kYXlfYmxvY2tzKQogICAgICAgIG9wZW5fYmxvY2tzIDw9IDAgfHwgb3Blbl9kYXlfYmxvY2tzIDw9IDAKICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3887,31 +3894,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBkYXlfdG90YWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG9tYXRpb25fZXhlYyA9IFNvY2s6OlNlcnZpY2VzOjpBdXRvbWF0aW9uUnVubmVyLnJ1bihAYXV0b21hdGlvbiwgQGluY2lkZW50cykKCiAgICByZW5kZXIoc3RhdHVzOiAyMDEsIGpzb246IHtkYXRhOiB7aWQ6IGF1dG9tYXRpb25fZXhlYy5pZH19KQo=</text>
+        <text encoding="base64">CiAgICBkZWYgcmVhY2hlZF9ibG9ja19xdW90YT8ob3Blbl9ibG9ja3MsIG9wZW5fZGF5X2Jsb2NrcykKICAgICAgb3Blbl9ibG9ja3MgPD0gMCB8fCBvcGVuX2RheV9ibG9ja3MgPD0gMAogICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgaWYgUmFpbHMuZW52LnByb2R1Y3Rpb24/CiMgICAgICAgICAgc2VhcmNoX2FiMl9zZXNzaW9ucwojICAgICAgICBlbHNlCiMgICAgICAgICAgc2VhcmNoX2FiMl9hY2NvdW50aW5nCiMgICAgICAgIGVuZAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIE1BWF9EQUlMWV9CTE9DS1MgPSAxMDAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHNlYXJjaF9hYjJfc2Vzc2lvbnMKICAgICAgICBOb3NEYXRhOjpBaXJiZWFyczJTZXNzaW9uLmZpbmRfc2Vzc2lvbihAaXAsIEB0cywgQHBvcnQpCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBAaXAK</text>
+        <text encoding="base64">ICAgIGF1dG9tYXRpb25fZXhlYyA9IFNvY2s6OlNlcnZpY2VzOjpBdXRvbWF0aW9uUnVubmVyLnJ1bihAYXV0b21hdGlvbiwgQGluY2lkZW50cykKCiAgICByZW5kZXIoc3RhdHVzOiAyMDEsIGpzb246IHtkYXRhOiB7aWQ6IGF1dG9tYXRpb25fZXhlYy5pZH19KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nX2Vycm9yKGthc2UsIGVycikK</text>
+        <text encoding="base64">IyAgICAgICAgaWYgUmFpbHMuZW52LnByb2R1Y3Rpb24/CiMgICAgICAgICAgc2VhcmNoX2FiMl9zZXNzaW9ucwojICAgICAgICBlbHNlCiMgICAgICAgICAgc2VhcmNoX2FiMl9hY2NvdW50aW5nCiMgICAgICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3963,10 +3970,10 @@
         <entry>action GotoAction</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
-        <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
