@@ -270,6 +270,9 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing.rb" timestamp="1536156254141">
+        <mark key="'" line="143" column="2" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/sscans/index.json.jbuilder" timestamp="1533935095983">
         <mark key="[" line="9" column="42" />
         <mark key="]" line="9" column="42" />
@@ -466,11 +469,12 @@
         <mark key="." line="22" column="33" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/config/config.yml" timestamp="1536081092061">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/config/config.yml" timestamp="1536156426721">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="113" column="57" />
+        <mark key="]" line="114" column="3" />
+        <mark key="^" line="114" column="3" />
+        <mark key="." line="114" column="3" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock-rails5/app/controllers/api/rd/reg_subnets_controller.rb" timestamp="1532720743101">
         <mark key="[" line="14" column="0" />
@@ -627,7 +631,7 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="79" />
       </file>
-      <file name="/Ruby Console" timestamp="1535138507401">
+      <file name="/Ruby Console" timestamp="1536156436151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -688,7 +692,7 @@
         <mark key="^" line="58" column="3" />
         <mark key="." line="58" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535064842182">
+      <file name="/Dummy.txt" timestamp="1536156687577">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -1343,6 +1347,12 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/spec/lib/noc/services/blackhole_routing_spec.rb" timestamp="1536156269846">
+        <mark key="[" line="79" column="39" />
+        <mark key="]" line="79" column="39" />
+        <mark key="^" line="79" column="38" />
+        <mark key="." line="79" column="39" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/nessus/scan_configs/edit.html.haml" timestamp="1533243984366">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="6" column="21" />
@@ -1745,10 +1755,11 @@
         <mark key="^" line="32" column="5" />
         <mark key="." line="21" column="79" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/block_quota.rb" timestamp="1536083882942">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/block_quota.rb" timestamp="1536155935749">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/serializers/admin/automations/incident_serializer.rb" timestamp="1531168170137">
         <mark key="[" line="32" column="20" />
@@ -1891,10 +1902,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/process_off_campus_attack_cases.rb" timestamp="1536083370710">
-        <mark key="'" line="2" column="10" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="99" column="8" />
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/process_off_campus_attack_cases.rb" timestamp="1536156041216">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/packs/admin_rt_ticket.js" timestamp="1527883240866">
         <mark key="[" line="8" column="0" />
@@ -3028,6 +3041,12 @@
         <mark key="^" line="0" column="61" />
         <mark key="." line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/ssh_cmd.rb" timestamp="1536156573508">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/base_controller.rb" timestamp="1529949340774">
         <mark key="[" line="17" column="21" />
         <mark key="]" line="17" column="32" />
@@ -3147,6 +3166,11 @@
         <mark key="]" line="2" column="64" />
         <mark key="^" line="2" column="64" />
         <mark key="." line="2" column="64" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/spec/lib/arcsight/services/case_spec.rb" timestamp="1536155320444">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="2" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/ip_blocks/block_confirmation.html.haml" timestamp="1533168754197">
         <mark key="'" line="7" column="0" />
@@ -3398,6 +3422,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="^" line="25" column="52" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/spec/lib/arcsight/services/block_quota_spec.rb" timestamp="1536156003144">
+        <mark key="[" line="23" column="51" />
+        <mark key="]" line="23" column="50" />
+        <mark key="." line="23" column="50" />
+        <mark key="^" line="23" column="50" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/DateCriteria.vue" timestamp="1530118310575">
         <mark key="[" line="60" column="23" />
@@ -3754,13 +3784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/sync_incident_with_rt_event.rb" />
-      <jump line="10" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incident_blocks/index.html.erb" />
-      <jump line="1" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/ip_block.rb" />
-      <jump line="73" column="4" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/incidents_controller.rb" />
-      <jump line="48" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
-      <jump line="106" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
-      <jump line="74" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
       <jump line="15" column="14" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
       <jump line="63" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/IncidentList.vue" />
       <jump line="3" column="46" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/forms/incident/search.rb" />
@@ -3854,6 +3877,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/config/database.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/config/routes.rb" />
       <jump line="2" column="10" filename="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/process_off_campus_attack_cases.rb" />
+      <jump line="35" column="17" filename="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/process_off_campus_attack_cases.rb" />
+      <jump line="87" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/arcsight/services/process_off_campus_attack_cases.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/spec/lib/arcsight/services/case_spec.rb" />
+      <jump line="143" column="2" filename="$USER_HOME$/Development/projects/sock-rails5/lib/noc/services/blackhole_routing.rb" />
+      <jump line="213" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/config/config.yml" />
+      <jump line="220" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/config/config.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/config/config.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3869,13 +3899,13 @@
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>block(ip_blocks)).to be_truthy</text>
       </register>
       <register name="/" type="4">
-        <text>automations</text>
+        <text>development</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmIG9wZW5fYmxvY2tzCiAgICAgICAgTUFYX0JMT0NLUyAtIEluY2lkZW50LmFyY3NpZ2h0X2F1dG9fYmxvY2tzLmNvdW50CiAgICAgIGVuZAoKICAgICAgTUFYX0RBSUxZX0JMT0NLUyA9IDEwMAoKICAgICAgZGVmIG9wZW5fZGF5X2Jsb2NrcwogICAgICAgIE1BWF9EQUlMWV9CTE9DS1MgLSBJbmNpZGVudC5hcmNzaWdodF9hdXRvX2Jsb2Nrcy5mb3JfZGF5KFRpbWUubm93KS5jb3VudAogICAgICBlbmQKCiAgICAgIGRlZiByZWFjaGVkX2Jsb2NrX3F1b3RhPyhvcGVuX2Jsb2Nrcywgb3Blbl9kYXlfYmxvY2tzKQogICAgICAgIG9wZW5fYmxvY2tzIDw9IDAgfHwgb3Blbl9kYXlfYmxvY2tzIDw9IDAKICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICBibGFja2hvbGU6CiAgICByZW1vdGVfaG9zdDogYm9tYmF5LnNlY3VyaXR5LmJlcmtlbGV5LmVkdQogICAgcmVtb3RlX3VzZXI6IHNvY2tfYmxvY2sKICAgIHByaXZhdGVfa2V5X3BhdGg6IDwlPSAiI3tFTlZbJ0hPTUUnXX0vLnNzaC9pZF9kc2EiICU+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3894,37 +3924,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBkYXlfdG90YWwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgcmVhY2hlZF9ibG9ja19xdW90YT8ob3Blbl9ibG9ja3MsIG9wZW5fZGF5X2Jsb2NrcykKICAgICAgb3Blbl9ibG9ja3MgPD0gMCB8fCBvcGVuX2RheV9ibG9ja3MgPD0gMAogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBvcGVuX2RheV9jb3VudCAtPSAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBvcGVuX2NvdW50IC09IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE1BWF9EQUlMWV9CTE9DS1MgPSAxMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICMgYnJlYWsgaWYgcmVhY2hlZF9ibG9ja19xdW90YT8ob3Blbl9jb3VudCwgb3Blbl9kYXlfY291bnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpdCAia25vd3Mgd2hlbiB0aGUgZGF5IHF1b3RhIGhhcyBiZWVuIHJlYWNoZWQiIGRvCiAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF1dG9tYXRpb25fZXhlYyA9IFNvY2s6OlNlcnZpY2VzOjpBdXRvbWF0aW9uUnVubmVyLnJ1bihAYXV0b21hdGlvbiwgQGluY2lkZW50cykKCiAgICByZW5kZXIoc3RhdHVzOiAyMDEsIGpzb246IHtkYXRhOiB7aWQ6IGF1dG9tYXRpb25fZXhlYy5pZH19KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgaWYgUmFpbHMuZW52LnByb2R1Y3Rpb24/CiMgICAgICAgICAgc2VhcmNoX2FiMl9zZXNzaW9ucwojICAgICAgICBlbHNlCiMgICAgICAgICAgc2VhcmNoX2FiMl9hY2NvdW50aW5nCiMgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">CiAgICBzZXJ2aWNlLmFwcGx5X2Jsb2NrCiAgICBleHBlY3Qoc2VydmljZS5kYXlfcXVvdGFfcmVhY2hlZD8pLnRvIGJlX3RydXRoeQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>automations</last-search>
+      <last-search>development</last-search>
       <last-offset />
-      <last-pattern>automations</last-pattern>
+      <last-pattern>development</last-pattern>
       <last-replace>blackhole_service</last-replace>
       <last-substitute>blackhole_routing</last-substitute>
       <last-dir>1</last-dir>
@@ -3932,7 +3962,6 @@
     </search>
     <history>
       <history-search>
-        <entry>panel</entry>
         <entry>radio</entry>
         <entry>nessus</entry>
         <entry>for_date_range</entry>
@@ -3952,9 +3981,9 @@
         <entry>sidekiq</entry>
         <entry>for_ip</entry>
         <entry>automations</entry>
+        <entry>development</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/panel/card/g</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>%s/attrs/query/g</entry>
         <entry>d</entry>
@@ -3967,13 +3996,14 @@
         <entry>action Run</entry>
         <entry>action GotoClass</entry>
         <entry>action QuickList.CustomGitActions</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoTest</entry>
-        <entry>action RunClass</entry>
-        <entry>action GotoFile</entry>
+        <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action RunClass</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
