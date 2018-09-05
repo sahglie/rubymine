@@ -465,12 +465,12 @@
         <mark key="." line="18" column="85" />
         <mark key="^" line="18" column="85" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_runner.rb" timestamp="1536019049955">
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_runner.rb" timestamp="1536166718839">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="41" column="34" />
-        <mark key="^" line="41" column="34" />
-        <mark key="." line="41" column="34" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+        <mark key="." line="16" column="42" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/consumers/audit_event_consumer_spec.rb" timestamp="1530034835424">
         <mark key="[" line="10" column="0" />
@@ -723,10 +723,10 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Ruby Console" timestamp="1536003156835">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="/Ruby Console" timestamp="1536166385710">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/messages/index.html.erb" timestamp="1533164111202">
@@ -811,7 +811,7 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536019053136">
+      <file name="/Dummy.txt" timestamp="1536166731925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -2120,8 +2120,8 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing.rb" timestamp="1535997195707">
-        <mark key="'" line="4" column="10" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing.rb" timestamp="1536165217962">
+        <mark key="'" line="45" column="0" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
@@ -2759,8 +2759,8 @@
         <mark key="^" line="287" column="10" />
         <mark key="." line="287" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/ip_block.rb" timestamp="1535760705653">
-        <mark key="'" line="1" column="8" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/ip_block.rb" timestamp="1536165230202">
+        <mark key="'" line="49" column="6" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -2860,7 +2860,7 @@
         <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/pages/admin/AutomationEdit.vue" timestamp="1536017965132">
-        <mark key="'" line="105" column="29" />
+        <mark key="'" line="110" column="29" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -4078,8 +4078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="44" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="163" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="169" column="76" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="177" column="50" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="179" column="21" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
@@ -4178,6 +4176,8 @@
       <jump line="25" column="13" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/automation_executions_controller.rb" />
       <jump line="119" column="26" filename="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/routes.rb" />
+      <jump line="45" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing.rb" />
+      <jump line="49" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/ip_block.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4187,13 +4187,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>batch</text>
+        <text>!</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>batch</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>jobs</text>
@@ -4202,7 +4202,7 @@
         <text encoding="base64">ICAgICJpbmNpZGVudC5hdXRvX2Jsb2NrX2lwIjogewogICAgICAidHlwZSI6ICJib29sZWFuIiwKICAgICAgInZhbHVlcyI6IFsKICAgICAgICB0cnVlLAogICAgICAgIGZhbHNlCiAgICAgIF0KICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTYiPgogICAgICAgIDxhdXRvbWF0aW9uLWhpc3RvcnkKICAgICAgICAgICAgOmF1dG9tYXRpb24taWQ9ImF1dG9tYXRpb24uaWQiCiAgICAgICAgICAgIDpleGVjdXRpb24taWQ9ImFjdGl2ZUV4ZWN1dGlvbklkIgogICAgICAgICAgICBAY29tcGxldGVkPSJsb2FkSW5jaWRlbnRzIgogICAgICAgIC8+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgZXhlYy5zYXZlISAmJiBleGVjCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4218,28 +4218,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICA8ZGl2IGNsYXNzPSJkLWZsZXggZmxleC1yb3ciPgogICAgICA8ZGl2IGNsYXNzPSJjb2wiPgogICAgICAgIDxtYXRjaGluZy1pbmNpZGVudHMKICAgICAgICAgICAgOmluY2lkZW50cz0iaW5jaWRlbnRzIgogICAgICAgICAgICA6aW5jaWRlbnRzLXNxbD0iaW5jaWRlbnRzU3FsIgogICAgICAgICAgICBAcnVuQWN0aW9uPSJleGVjdXRlQXV0b21hdGlvbiIvPgogICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgZXhlYyA9IGF1dG9tYXRpb24uZXhlY3V0aW9ucy5idWlsZCgKICAgICAgICBzaWRla2lxX2JhdGNoX2lkOiBiYXRjaC5iaWQsCiAgICAgICAgaW5jaWRlbnRfaWRzOiBpbmNpZGVudHMubWFwKCY6aWQpCiAgICAgICkKCiAgICAgIGV4ZWMuc2F2ZSEgJiYgZXhlYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG9tYXRpb25fam9iID0gc2VydmljZS5ydW4oQGF1dG9tYXRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgYmF0Y2ggPSBTaWRla2lxOjpCYXRjaC5uZXcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBpbmNpZGVudHNfc3FsID0gQGF1dG9tYXRpb24ubWF0Y2hpbmdfaW5jaWRlbnRzLnRvX25pY2VxbAo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTYiPgogICAgICAgIDxhdXRvbWF0aW9uLWhpc3RvcnkKICAgICAgICAgICAgOmF1dG9tYXRpb24taWQ9ImF1dG9tYXRpb24uaWQiCiAgICAgICAgICAgIDpleGVjdXRpb24taWQ9ImFjdGl2ZUV4ZWN1dGlvbklkIgogICAgICAgICAgICBAY29tcGxldGVkPSJsb2FkSW5jaWRlbnRzIgogICAgICAgIC8+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBpbmNpZGVudHMgPSBTb2NrOjpTZXJ2aWNlczo6Q3JpdGVyaWFUb1NxbFJlbGF0aW9uLnJ1bihAYXV0b21hdGlvbi5jcml0ZXJpYSkK</text>
+        <text encoding="base64">CiAgICA8ZGl2IGNsYXNzPSJkLWZsZXggZmxleC1yb3ciPgogICAgICA8ZGl2IGNsYXNzPSJjb2wiPgogICAgICAgIDxtYXRjaGluZy1pbmNpZGVudHMKICAgICAgICAgICAgOmluY2lkZW50cz0iaW5jaWRlbnRzIgogICAgICAgICAgICA6aW5jaWRlbnRzLXNxbD0iaW5jaWRlbnRzU3FsIgogICAgICAgICAgICBAcnVuQWN0aW9uPSJleGVjdXRlQXV0b21hdGlvbiIvPgogICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1dG9tYXRpb25fam9iID0gc2VydmljZS5ydW4oQGF1dG9tYXRpb24pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhlY19sb2cK</text>
+        <text encoding="base64">ICAgIEBpbmNpZGVudHNfc3FsID0gQGF1dG9tYXRpb24ubWF0Y2hpbmdfaW5jaWRlbnRzLnRvX25pY2VxbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhlY19sb2cucmVsb2FkCg==</text>
+        <text encoding="base64">ICAgIEBpbmNpZGVudHMgPSBTb2NrOjpTZXJ2aWNlczo6Q3JpdGVyaWFUb1NxbFJlbGF0aW9uLnJ1bihAYXV0b21hdGlvbi5jcml0ZXJpYSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhlY19sb2cuc2F2ZSEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action QuickList.CustomGitActions</text>
@@ -4284,7 +4284,6 @@
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>action GotoAction</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Run</entry>
         <entry>action GotoTest</entry>
@@ -4293,9 +4292,10 @@
         <entry>action GotoRelated</entry>
         <entry>action GotoSymbol</entry>
         <entry>action QuickList.FindAndReplace</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
         <entry>w</entry>
         <entry>action QuickList.CustomGitActions</entry>
       </history-cmd>
