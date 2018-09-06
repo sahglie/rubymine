@@ -234,11 +234,12 @@
         <mark key="." line="21" column="73" />
         <mark key="^" line="21" column="73" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/parsers/palo_alto_prod_url.rb" timestamp="1536258296348">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="24" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/parsers/palo_alto_prod_url.rb" timestamp="1536261058986">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="93" column="52" />
+        <mark key="]" line="93" column="55" />
+        <mark key="." line="93" column="55" />
+        <mark key="^" line="93" column="55" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/parsers/alert.rb" timestamp="1481324783767">
         <mark key="[" line="26" column="43" />
@@ -1603,6 +1604,9 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_logs.json.erb" timestamp="1536261564953">
+        <mark key="'" line="88" column="61" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/incident_creator.rb" timestamp="1479501101043">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="13" />
@@ -1706,6 +1710,9 @@
         <mark key="]" line="7" column="21" />
         <mark key="^" line="13" column="66" />
         <mark key="." line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automations/notification.rb" timestamp="1536013804839">
+        <mark key="'" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/forms/aid_list/tag.rb" timestamp="1479498667974">
         <mark key="[" line="0" column="11" />
@@ -1866,6 +1873,12 @@
         <mark key="]" line="20" column="36" />
         <mark key="^" line="20" column="58" />
         <mark key="." line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/helpers/network_blocks_helper.rb" timestamp="1536006806020">
+        <mark key="[" line="16" column="100" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_routing_spec.rb" timestamp="1535999054722">
         <mark key="'" line="78" column="6" />
@@ -2371,10 +2384,10 @@
         <mark key="." line="72" column="46" />
         <mark key="^" line="72" column="46" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" timestamp="1536258515941">
-        <mark key="'" line="285" column="0" />
-        <mark key="[" line="189" column="5" />
-        <mark key="]" line="189" column="5" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" timestamp="1536261504517">
+        <mark key="'" line="49" column="11" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="23" />
         <mark key="^" line="189" column="5" />
         <mark key="." line="189" column="5" />
       </file>
@@ -2838,6 +2851,9 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" timestamp="1536005579995">
+        <mark key="'" line="49" column="9" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/jobs/snort_packet_worker.rb" timestamp="1480716697251">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="19" />
@@ -3147,6 +3163,12 @@
         <mark key="]" line="101" column="63" />
         <mark key="." line="101" column="63" />
         <mark key="^" line="42" column="56" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_job_creation.rb" timestamp="1536008289282">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="56" column="6" />
+        <mark key="^" line="42" column="5" />
+        <mark key="." line="42" column="5" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sidekiq/report_sidekiq_metrics.rb" timestamp="1532981819011">
         <mark key="[" line="8" column="2" />
@@ -3494,6 +3516,9 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="18" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/services/ip_address.rb" timestamp="1535998209293">
+        <mark key="'" line="4" column="2" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/ids/alerts_controller.rb" timestamp="1530132254398">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="9" column="10" />
@@ -3543,6 +3568,12 @@
         <mark key="]" line="38" column="56" />
         <mark key="." line="38" column="56" />
         <mark key="^" line="38" column="56" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/consumers/palo_alto_consumer.rb" timestamp="1536261700214">
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="48" column="30" />
+        <mark key="^" line="48" column="30" />
+        <mark key="." line="48" column="30" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/lib/account/forms/confirm_email.rb" timestamp="1480275540519">
         <mark key="[" line="14" column="29" />
@@ -4067,24 +4098,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="48" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="192" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="198" column="138" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="203" column="48" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="204" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="210" column="73" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="218" column="21" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="219" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="225" column="81" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="231" column="51" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="233" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="239" column="74" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="246" column="50" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="247" column="19" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="256" column="45" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="266" column="41" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="267" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
-      <jump line="272" column="109" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="275" column="45" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="277" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
       <jump line="285" column="73" filename="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" />
@@ -4165,8 +4178,26 @@
       <jump line="49" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/network_blocks/ip_block.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/parsers/palo_alto.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/ids/parsers/palo_alto_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
       <jump line="285" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="135" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/parsers/palo_alto_prod_url.rb" />
+      <jump line="259" column="35" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="119" column="7" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="213" column="7" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="25" column="7" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="63" column="6" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/parsers/palo_alto_prod_url.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/parsers/palo_alto_prod_url.rb" />
+      <jump line="112" column="7" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="14" column="21" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="16" column="34" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="40" column="7" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="47" column="18" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="49" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_prod_url_logs.json.erb" />
+      <jump line="9" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_logs.json.erb" />
+      <jump line="26" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_logs.json.erb" />
+      <jump line="86" column="7" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_logs.json.erb" />
+      <jump line="118" column="11" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_logs.json.erb" />
+      <jump line="88" column="61" filename="$USER_HOME$/Development/projects/sock_rails5/spec/fixtures/alert_pig/palo_alto_logs.json.erb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4175,20 +4206,20 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGFyc2VyID0gSWRzOjpQYXJzZXJzOjpQYWxvQWx0by5uZXcoYWxlcnQpCiAgICAgIHRva2VucyA9IHBhcnNlci5leHRyYWN0X3Rva2VucwoKICAgICAgZXhwZWN0KHRva2Vuc1s6c2lnX2lkXSkudG8gZXFsKDE0OTg0KQogICAgICBleHBlY3QodG9rZW5zWzpzaWdfbmFtZV0pLnRvIGVxbCgiU3VzcGljaW91cyBIVFRQIEV2YXNpb24gRm91bmQiKQogICAgICBleHBlY3QodG9rZW5zWzpzaWdfY2xhc3NdKS50byBlcWwoInNweXdhcmUiKQogICAgICBleHBlY3QodG9rZW5zWzpzaWdfcHJpb3JpdHldKS50byBlcWwoNSkKICAgICAgZXhwZWN0KHRva2Vuc1s6cHJvdG9jb2xdKS50byBlcWwoInRjcCIpCiAgICAgIGV4cGVjdCh0b2tlbnNbOnNyY19pcF0pLnRvIGVxbChyZF9pcCkKICAgICAgZXhwZWN0KHRva2Vuc1s6c3JjX3BvcnRdKS50byBlcWwoNTMpCiAgICAgIGV4cGVjdCh0b2tlbnNbOmRzdF9pcF0pLnRvIGVxbCgiMTAuMTcuMS41NyIpCiAgICAgIGV4cGVjdCh0b2tlbnNbOmRzdF9wb3J0XSkudG8gZXFsKDM1NzM5KQoKICAgICAgYWxlcnQgPSBBbGVydFBpZzo6SWRzQWxlcnQuaW5pdF9hbGVydCh0b2tlbnMpCiAgICAgIGV4cGVjdChhbGVydC52YWxpZD8pLnRvIGJlX3RydXRoeQo=</text>
+      <register name="&quot;" type="4">
+        <text>threatid</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>threatid</text>
       </register>
       <register name="/" type="4">
-        <text>jobs</text>
+        <text>threatid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAicmFpbHNfaGVscGVyIgoKClJTcGVjLmRlc2NyaWJlKElkczo6UGFyc2Vyczo6UGFsb0FsdG8pIGRvCiAgbGV0KDpwYWxvX2FsdG9fYWxlcnRzKSBkbwogICAgZmlsZV9wYXRoID0gRmlsZS5qb2luKFNvY2tSYWlscy5maXh0dXJlX3BhdGgsICJhbGVydF9waWciLCAicGFsb19hbHRvX2xvZ3MuanNvbi5lcmIiKQogICAgZGF0YSA9IEVSQi5uZXcoRmlsZS5yZWFkKGZpbGVfcGF0aCkpLnJlc3VsdChiaW5kaW5nKQogICAgSlNPTi5wYXJzZShkYXRhKVsibG9ncyJdCiAgZW5kCgogIGxldCg6YWxlcnQpIHsgcGFsb19hbHRvX2FsZXJ0cy5maXJzdCB9CiAgbGV0KDpyZF9pcCkgeyBSZDo6U2VydmljZXM6OklwLmZpcnN0LmlwIH0KCiAgY29udGV4dCgiI2V4dHJhY3RfdG9rZW5zIikgZG8KICAgIGl0ICJpdCBleHRyYWN0cyBhbGVydCB0b2tlbnMgZm9yIHZhbGlkIGFsZXJ0cyIgZG8KICAgICAgcGFyc2VyID0gSWRzOjpQYXJzZXJzOjpQYWxvQWx0by5uZXcoYWxlcnQpCiAgICAgIHRva2VucyA9IHBhcnNlci5leHRyYWN0X3Rva2VucwogICAgICAKICAgICAgZXhwZWN0KHRva2Vuc1s6c2lnX2lkXSkudG8gZXFsKDE0OTg0KQogICAgICBleHBlY3QodG9rZW5zWzpzaWdfbmFtZV0pLnRvIGVxbCgiU3VzcGljaW91cyBIVFRQIEV2YXNpb24gRm91bmQiKQogICAgICBleHBlY3QodG9rZW5zWzpzaWdfY2xhc3NdKS50byBlcWwoInNweXdhcmUiKQogICAgICBleHBlY3QodG9rZW5zWzpzaWdfcHJpb3JpdHldKS50byBlcWwoNSkKICAgICAgZXhwZWN0KHRva2Vuc1s6cHJvdG9jb2xdKS50byBlcWwoInRjcCIpCiAgICAgIGV4cGVjdCh0b2tlbnNbOnNyY19pcF0pLnRvIGVxbChyZF9pcCkKICAgICAgZXhwZWN0KHRva2Vuc1s6c3JjX3BvcnRdKS50byBlcWwoNTMpCiAgICAgIGV4cGVjdCh0b2tlbnNbOmRzdF9pcF0pLnRvIGVxbCgiMTAuMTcuMS41NyIpCiAgICAgIGV4cGVjdCh0b2tlbnNbOmRzdF9wb3J0XSkudG8gZXFsKDM1NzM5KQogICAgICAKICAgICAgYWxlcnQgPSBBbGVydFBpZzo6SWRzQWxlcnQuaW5pdF9hbGVydCh0b2tlbnMpCiAgICAgIGV4cGVjdChhbGVydC52YWxpZD8pLnRvIGJlX3RydXRoeQogICAgZW5kCiAgZW5kCgogIGNvbnRleHQoIiNtYXRjaD8iKSBkbwogICAgaXQgInJldHVybnMgdHJ1ZSBmb3IgcGFsb19hbHRvIGFsZXJ0cyB0aGF0IHNob3VsZCBiZSBwcm9jZXNzZWQiIGRvCiAgICAgIElkczo6UGFyc2Vyczo6UGFsb0FsdG8ubmV3KGFsZXJ0KS5tYXRjaD8KICAgIGVuZAogIGVuZAplbmQK</text>
+        <text encoding="base64">ICAgICAgdGhyZWF0X25hbWU6IGV4dHJhY3RfdGhyZWF0X25hbWUoYXR0cnNbInRocmVhdGlkIl0pLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcGFyc2VyID0gSWRzOjpQYXJzZXJzOjpQYWxvQWx0by5uZXcoYWxlcnQpCiAgICAgIHRva2VucyA9IHBhcnNlci5leHRyYWN0X3Rva2VucwoKICAgICAgZXhwZWN0KHRva2Vuc1s6c2lnX2lkXSkudG8gZXFsKDE0OTg0KQogICAgICBleHBlY3QodG9rZW5zWzpzaWdfbmFtZV0pLnRvIGVxbCgiU3VzcGljaW91cyBIVFRQIEV2YXNpb24gRm91bmQiKQogICAgICBleHBlY3QodG9rZW5zWzpzaWdfY2xhc3NdKS50byBlcWwoInNweXdhcmUiKQogICAgICBleHBlY3QodG9rZW5zWzpzaWdfcHJpb3JpdHldKS50byBlcWwoNSkKICAgICAgZXhwZWN0KHRva2Vuc1s6cHJvdG9jb2xdKS50byBlcWwoInRjcCIpCiAgICAgIGV4cGVjdCh0b2tlbnNbOnNyY19pcF0pLnRvIGVxbChyZF9pcCkKICAgICAgZXhwZWN0KHRva2Vuc1s6c3JjX3BvcnRdKS50byBlcWwoNTMpCiAgICAgIGV4cGVjdCh0b2tlbnNbOmRzdF9pcF0pLnRvIGVxbCgiMTAuMTcuMS41NyIpCiAgICAgIGV4cGVjdCh0b2tlbnNbOmRzdF9wb3J0XSkudG8gZXFsKDM1NzM5KQoKICAgICAgYWxlcnQgPSBBbGVydFBpZzo6SWRzQWxlcnQuaW5pdF9hbGVydCh0b2tlbnMpCiAgICAgIGV4cGVjdChhbGVydC52YWxpZD8pLnRvIGJlX3RydXRoeQo=</text>
@@ -4231,13 +4262,13 @@
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTYiPgogICAgICAgIDxhdXRvbWF0aW9uLWhpc3RvcnkKICAgICAgICAgICAgOmF1dG9tYXRpb24taWQ9ImF1dG9tYXRpb24uaWQiCiAgICAgICAgICAgIDpleGVjdXRpb24taWQ9ImFjdGl2ZUV4ZWN1dGlvbklkIgogICAgICAgICAgICBAY29tcGxldGVkPSJsb2FkSW5jaWRlbnRzIgogICAgICAgIC8+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoTest</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jobs</last-search>
+      <last-search>threatid</last-search>
       <last-offset />
-      <last-pattern>jobs</last-pattern>
+      <last-pattern>threatid</last-pattern>
       <last-replace>blackhole_service</last-replace>
       <last-substitute>blackhole_routing</last-substitute>
       <last-dir>1</last-dir>
@@ -4245,11 +4276,6 @@
     </search>
     <history>
       <history-search>
-        <entry>host_type</entry>
-        <entry>queue_create_ticket</entry>
-        <entry>auto</entry>
-        <entry>changes.sq</entry>
-        <entry>auto_unblock</entry>
         <entry>5</entry>
         <entry>7</entry>
         <entry>blackhole_routing</entry>
@@ -4265,6 +4291,11 @@
         <entry>not a valid</entry>
         <entry>automations</entry>
         <entry>jobs</entry>
+        <entry>subtype</entry>
+        <entry>misc</entry>
+        <entry>url</entry>
+        <entry>category</entry>
+        <entry>threatid</entry>
       </history-search>
       <history-cmd>
         <entry>vsort</entry>
@@ -4280,13 +4311,13 @@
         <entry>action GotoRelated</entry>
         <entry>action GotoSymbol</entry>
         <entry>action QuickList.FindAndReplace</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action QuickList.CustomGitActions</entry>
-        <entry>w</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoTest</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
+        <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
