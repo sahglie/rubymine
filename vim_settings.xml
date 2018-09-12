@@ -304,6 +304,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/app/consumers/palo_alto_consumer.rb" timestamp="1536764571447">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/run_automations.rb" timestamp="1534352364738">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -3620,7 +3626,6 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/db/ddl/changes.sql" timestamp="1536758535270" />
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/validators/ips_or_macs_validator.rb" timestamp="1535052594227">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="30" />
@@ -4149,7 +4154,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -4199,12 +4204,12 @@
         <entry>action FileStructurePopup</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
