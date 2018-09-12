@@ -807,6 +807,9 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/ids/parsers/palo_alto.rb" timestamp="1536767825203">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/sock/run_blackhole_block_batch.rb" timestamp="1535497442154">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="36" />
@@ -2609,12 +2612,6 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/sock/services/sync_incident_with_rt_event.rb" timestamp="1536761906285">
-        <mark key="[" line="63" column="26" />
-        <mark key="]" line="63" column="63" />
-        <mark key="." line="63" column="63" />
-        <mark key="^" line="63" column="63" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/metrics/ops_reports/notice_spec.rb" timestamp="1476136593892">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="53" />
@@ -3990,7 +3987,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/ids/services/alert_review.rb" />
       <jump line="142" column="27" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket.rb" />
       <jump line="170" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/lib/rt/ticket.rb" />
       <jump line="114" column="30" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/sock/services/incident_creator_spec.rb" />
@@ -4090,6 +4086,7 @@
       <jump line="40" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
       <jump line="41" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/lib/noc/services/blackhole_routing_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock-rails5/lib/ids/parsers/palo_alto.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4154,7 +4151,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -4208,8 +4205,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
