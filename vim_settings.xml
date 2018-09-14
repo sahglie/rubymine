@@ -2752,6 +2752,11 @@
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/nos_data/services/find_calvis_session.rb" timestamp="1536944688242">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock-rails5/app/controllers/admin/auto_escalate_block_controller.rb" timestamp="1529954868317">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="37" />
@@ -4168,8 +4173,8 @@
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZGVmIHNlYXJjaF9jYWx2aXNfc2Vzc2lvbnMKICAgICAgICBOb3NEYXRhOjpDYWx2aXNpdG9yU2Vzc2lvbi5maW5kX3Nlc3Npb24oQGlwLCBAdHMsIEBwb3J0KQogICAgICBlbmQKCg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
@@ -4184,7 +4189,7 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KHNlcnZpY2UuYmxvY2tsaXN0LnNpemUpLnRvIGVxbCgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBzZXJ2aWNlLmVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgZGVmIHNlYXJjaF9jYWx2aXNfc2Vzc2lvbnMKICAgICAgICBOb3NEYXRhOjpDYWx2aXNpdG9yU2Vzc2lvbi5maW5kX3Nlc3Npb24oQGlwLCBAdHMsIEBwb3J0KQogICAgICBlbmQKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4200,28 +4205,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBzZXJ2aWNlLmVycm9yCg==</text>
+        <text encoding="base64">IyAgICAgICAgaWYgUmFpbHMuZW52LnByb2R1Y3Rpb24/CiMgICAgICAgICAgc2VhcmNoX2NhbHZpc19zZXNzaW9ucwojICAgICAgICBlbHNlCiMgICAgICAgICAgc2VhcmNoX2NhbHZpc19hY2NvdW50aW5nCiMgICAgICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHNlcnZpY2UuYmxvY2tsaXN0LnNpemUpLnRvIGVxbCgwKQo=</text>
+        <text encoding="base64">ICAgICAgcHV0cyBzZXJ2aWNlLmVycm9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgcHV0cyBzZXJ2aWNlLmVycm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHNlcnZpY2UuYmxvY2tsaXN0LnNpemUpLnRvIGVxbCgwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpdCAiZG9lcyBub3QgY3JlYXRlIHRoZSB0aWNrZXQgaWYgbm90aWZ5IGlzIHNldCB0byBmYWxzZSIgZG8KICAgIHRpY2tldCA9IGluY2lkZW50LnRpY2tldAogICAgaW5jaWRlbnQuZXZlbnRfc291cmNlID0gRXZlbnRTb3VyY2U6OklEU19BTEVSVAoKICAgIGFsbG93KGluY2lkZW50KS50byByZWNlaXZlKDpub3RpZnk/KS5hbmRfcmV0dXJuKGZhbHNlKQogICAgY3JlYXRvci5jcmVhdGUKCiAgICBpbmNpZGVudC5ydF90aWNrZXQKICAgIGV4cGVjdChpbmNpZGVudC5vcGVuPykudG8gYmVfZmFsc2V5CiAgICBleHBlY3QoaW5jaWRlbnQudGlja2V0X2lkKS50byBiZV9uaWwKICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ19ldmVudCgiSWdub3JpbmciKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpdCAiZG9lcyBub3QgY3JlYXRlIHRoZSB0aWNrZXQgaWYgbm90aWZ5IGlzIHNldCB0byBmYWxzZSIgZG8KICAgIHRpY2tldCA9IGluY2lkZW50LnRpY2tldAogICAgaW5jaWRlbnQuZXZlbnRfc291cmNlID0gRXZlbnRTb3VyY2U6OklEU19BTEVSVAoKICAgIGFsbG93KGluY2lkZW50KS50byByZWNlaXZlKDpub3RpZnk/KS5hbmRfcmV0dXJuKGZhbHNlKQogICAgY3JlYXRvci5jcmVhdGUKCiAgICBpbmNpZGVudC5ydF90aWNrZXQKICAgIGV4cGVjdChpbmNpZGVudC5vcGVuPykudG8gYmVfZmFsc2V5CiAgICBleHBlY3QoaW5jaWRlbnQudGlja2V0X2lkKS50byBiZV9uaWwKICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4270,15 +4275,15 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action FileStructurePopup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVuQ2xhc3M=</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
