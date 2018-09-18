@@ -2747,6 +2747,12 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="11" column="29" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/lib/ids/parsers/palo_alto_prod_url.rb" timestamp="1537291723126">
+        <mark key="[" line="94" column="36" />
+        <mark key="]" line="94" column="43" />
+        <mark key="." line="94" column="43" />
+        <mark key="^" line="94" column="43" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ids/models/alerts/fidelis.rb" timestamp="1481321923232">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="18" />
@@ -2887,6 +2893,12 @@
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock-rails5/spec/lib/ids/parsers/palo_alto_prod_url_spec.rb" timestamp="1537291802295">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="3" column="43" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/ucb_shodan/client.rb" timestamp="1478549942145">
         <mark key="[" line="1" column="8" />
@@ -4192,13 +4204,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>palerts</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>palerts</text>
       </register>
       <register name="/" type="4">
         <text>sock_block</text>
@@ -4247,7 +4259,7 @@
         <text encoding="base64">ICBpdCAiZG9lcyBub3QgY3JlYXRlIHRoZSB0aWNrZXQgaWYgbm90aWZ5IGlzIHNldCB0byBmYWxzZSIgZG8KICAgIHRpY2tldCA9IGluY2lkZW50LnRpY2tldAogICAgaW5jaWRlbnQuZXZlbnRfc291cmNlID0gRXZlbnRTb3VyY2U6OklEU19BTEVSVAoKICAgIGFsbG93KGluY2lkZW50KS50byByZWNlaXZlKDpub3RpZnk/KS5hbmRfcmV0dXJuKGZhbHNlKQogICAgY3JlYXRvci5jcmVhdGUKCiAgICBpbmNpZGVudC5ydF90aWNrZXQKICAgIGV4cGVjdChpbmNpZGVudC5vcGVuPykudG8gYmVfZmFsc2V5CiAgICBleHBlY3QoaW5jaWRlbnQudGlja2V0X2lkKS50byBiZV9uaWwKICBlbmQK</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4283,7 +4295,6 @@
         <entry>sock_block</entry>
       </history-search>
       <history-cmd>
-        <entry>action Run</entry>
         <entry>vsort</entry>
         <entry encoding="base64">JzwsJz52c29ydA==</entry>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
@@ -4296,13 +4307,14 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVuQ2xhc3M=</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoTest</entry>
-        <entry>action RunClass</entry>
         <entry>action GotoFile</entry>
         <entry>action QuickList.FindAndReplace</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
+        <entry>vs</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action GotoTest</entry>
+        <entry>action RunClass</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
