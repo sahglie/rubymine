@@ -1745,6 +1745,11 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/bin/kafka/stream_from_tail.rb" timestamp="1537395346495">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/CriteriaEditor.vue" timestamp="1533581665345">
         <mark key="'" line="65" column="22" />
         <mark key="[" line="1" column="20" />
@@ -4168,7 +4173,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZWZhdWx0LXNvY2stcXVldWUK</text>
+        <text encoding="base64">IyAgICBqc29uID0gSlNPTi5wYXJzZShtc2cudmFsdWUpCg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
@@ -4183,7 +4188,7 @@
         <text encoding="base64">ICAgICAgICAgIGF0dHJzWzpxdWV1ZV9uYW1lXSA9ICJCbG9ja2VkIgogICAgICAgICAgYXR0cnNbOm1lc3NhZ2VfbmFtZV0gPSAiYXV0b2Jsb2NrIgogICAgICAgICAgYXR0cnNbOmV2ZW50X3NldmVyaXR5XSA9IDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZWZhdWx0LXNvY2stcXVldWUK</text>
+        <text encoding="base64">IyAgICBqc29uID0gSlNPTi5wYXJzZShtc2cudmFsdWUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4199,31 +4204,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZV9uYW1lOiBtZXNzYWdlX25hbWUgfQo=</text>
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVldWVfbmFtZTogcXVldWVfbmFtZSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVldWVfbmFtZTogIkVzY2FsYXRlQmxvY2siLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZWZhdWx0LXNvY2stcXVldWU6bGliL2FyY3NpZ2h0L2VudGl0aWVzL2Nhc2VzL2FjdGl2ZV9hdHRhY2sucmIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOmxpYi9hcmNzaWdodC9lbnRpdGllcy9jYXNlcy9vZmZfY2FtcHVzX2F0dGFjay5yYgogICAgICAgICAgc3VwZXIubWVyZ2UoeyBhdXRvX2Jsb2NrX2lwOiB0cnVlLCBvdmVycmlkZV90aWNrZXRfcnVsZXM6IHRydWUsIG5vdGlmeTogZmFsc2UgfSkKPT09PT09PQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Pj4+Pj4+PiBkZWZhdWx0LXNvY2stcXVldWUK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZV9uYW1lOiBtZXNzYWdlX25hbWUgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVldWVfbmFtZTogcXVldWVfbmFtZSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVldWVfbmFtZTogIkVzY2FsYXRlQmxvY2siLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4275,10 +4280,10 @@
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
         <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
