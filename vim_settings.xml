@@ -4223,7 +4223,7 @@
         <text encoding="base64">Pj4+Pj4+PiBkZWZhdWx0LXNvY2stcXVldWUK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -4274,11 +4274,11 @@
         <entry>%s/General/SOCK-Default/gc</entry>
         <entry>action GotoTest</entry>
         <entry>action RunClass</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
