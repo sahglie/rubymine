@@ -778,8 +778,8 @@
         <mark key="." line="63" column="40" />
         <mark key="^" line="75" column="71" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1537551269199">
-        <mark key="'" line="138" column="8" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" timestamp="1537567942017">
+        <mark key="'" line="35" column="0" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="32" column="56" />
         <mark key="." line="111" column="0" />
@@ -4189,8 +4189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="27" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automations/notification.rb" />
-      <jump line="27" column="25" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automations/notification.rb" />
       <jump line="54" column="31" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_runner.rb" />
       <jump line="46" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_runner.rb" />
       <jump line="32" column="72" filename="$USER_HOME$/Development/projects/sock_rails5/spec/requests/api/incidents_controller_spec.rb" />
@@ -4278,7 +4276,6 @@
       <jump line="62" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/arcsight/entities/cases/off_campus_attack.rb" />
       <jump line="82" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/incidents_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
       <jump line="139" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
       <jump line="135" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
       <jump line="137" column="8" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
@@ -4289,6 +4286,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/api/network_blocks/ip.json.jbuilder" />
       <jump line="5" column="24" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/api/network_blocks/mac.json.jbuilder" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/app/views/api/network_blocks/mac.json.jbuilder" />
+      <jump line="122" column="49" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
+      <jump line="35" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/config/config.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4307,7 +4307,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>kafka</text>
+        <text>panorama</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">anNvbi5ibG9ja3MoQG1hY19ibG9ja3MpIGRvIHxifAogIGpzb24uaWQoYi5pZCkKICBqc29uLm1hYyhiLm1hY19hZGRyZXNzLnRvX3MpCiAganNvbi5zZXJ2aWNlKGIuc2VydmljZSkKICBqc29uLnRpY2tldF9pZChiLnRpY2tldF9pZCkKICBqc29uLmlzX2RtY2EoYi5pc19kbWNhKQogIGpzb24uYmxvY2tlZF9hdChiLmJsb2NrX3N5bmNlZF9hdC50cnkoOmlzbzg2MDEpKQplbmQK</text>
@@ -4353,13 +4353,13 @@
         <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>kafka</last-search>
+      <last-search>panorama</last-search>
       <last-offset />
-      <last-pattern>kafka</last-pattern>
+      <last-pattern>panorama</last-pattern>
       <last-replace>SOCK-Default</last-replace>
       <last-substitute>General</last-substitute>
       <last-dir>1</last-dir>
@@ -4367,7 +4367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>puts</entry>
         <entry>block_selector</entry>
         <entry>ip_block</entry>
         <entry>error</entry>
@@ -4387,6 +4386,7 @@
         <entry>general</entry>
         <entry>General</entry>
         <entry>kafka</entry>
+        <entry>panorama</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
@@ -4407,8 +4407,8 @@
         <entry>action GotoTest</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
