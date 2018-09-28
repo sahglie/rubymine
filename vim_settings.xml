@@ -427,11 +427,10 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/_tabs.html.erb" timestamp="1533944507963">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="6" />
-        <mark key="^" line="8" column="46" />
-        <mark key="." line="8" column="46" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/incidents/_tabs.html.erb" timestamp="1538171325116">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/views/account/activate_cwid/set_password.js.erb" timestamp="1479150212111">
         <mark key="[" line="8" column="56" />
@@ -1800,11 +1799,11 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/rt_tickets/show.html.erb" timestamp="1534442586703">
-        <mark key="[" line="50" column="81" />
-        <mark key="]" line="50" column="113" />
-        <mark key="^" line="39" column="106" />
-        <mark key="." line="50" column="81" />
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/rt_tickets/show.html.erb" timestamp="1538171940164">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/Development/projects/myaccount/app/controllers/account/change_password_controller.rb" timestamp="1484687417472">
         <mark key="[" line="15" column="0" />
@@ -1995,6 +1994,12 @@
         <mark key="]" line="19" column="71" />
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="71" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/rt_tickets_controller.rb" timestamp="1538171910386">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/rt_queue.rb" timestamp="1536271035405">
         <mark key="[" line="2" column="19" />
@@ -4297,22 +4302,22 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwlPSBAaW5jaWRlbnQuaWQgPT0gYi5pbmNpZGVudF9pZCA/ICJjdXJyZW50IiA6ICJsaW5rZWQiICU+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLndhcm4oInJ0X3RpY2tldCBkYiByZWNvcmQgZm9yIGluY2lkZW50ICN7QGluY2lkZW50LmlkfSBkb2VzIG5vdCBleGlzdCIpICAK</text>
       </register>
       <register name="j" type="4">
         <text>jjjjjjjjjjjjjjj,</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>panorama</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwlPSBAaW5jaWRlbnQuaWQgPT0gYi5pbmNpZGVudF9pZCA/ICJjdXJyZW50IiA6ICJsaW5rZWQiICU+PC90ZD4K</text>
+      <register name="0" type="4">
+        <text>@rt_ticket = @incident.rt_ticket</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwlPSBiLmlkZW50aWZpZXIgJT48L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLndhcm4oInJ0X3RpY2tldCBkYiByZWNvcmQgZm9yIGluY2lkZW50ICN7QGluY2lkZW50LmlkfSBkb2VzIG5vdCBleGlzdCIpICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4328,31 +4333,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaXJlY3RfaXBfYmxvY2tzID0gOjpOZXR3b3JrQmxvY2tzOjpJcEJsb2NrLmhpc3RvcnkuZm9yX2luY2lkZW50KEBpbmNpZGVudCkK</text>
+        <text encoding="base64">ICA8JSBpZiBAaW5jaWRlbnQucnRfdGlja2V0ICU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2hlcmUoJ3VuYmxvY2tfc3luY2VkX2F0IG5vdCBudWxsJykuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwlPSBiLmlkZW50aWZpZXIgJT48L3RkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaXJlY3RfaXBfYmxvY2tzID0gOjpOZXR3b3JrQmxvY2tzOjpJcEJsb2NrLmhpc3RvcnkuZm9yX2luY2lkZW50KEBpbmNpZGVudCkKICAgICAgICBsaW5rZWRfaXBfYmxvY2tzID0gQGluY2lkZW50LmxpbmtlZF9pbmNpZGVudHMuZWFjaF93aXRoX29iamVjdChbXSkgZG8gfGxpbmtlZF9pbmNpZGVudCwgYXJyYXl8CiAgICAgICAgICBhcnJheS5jb25jYXQoOjpOZXR3b3JrQmxvY2tzOjpJcEJsb2NrLmhpc3RvcnkuZm9yX2luY2lkZW50KGxpbmtlZF9pbmNpZGVudCkpCiAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXJlY3RfaXBfYmxvY2tzID0gOjpOZXR3b3JrQmxvY2tzOjpJcEJsb2NrLmhpc3RvcnkuZm9yX2luY2lkZW50KEBpbmNpZGVudCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgd2hlcmUoJ3VuYmxvY2tfc3luY2VkX2F0IG5vdCBudWxsJykuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXJlY3RfaXBfYmxvY2tzID0gOjpOZXR3b3JrQmxvY2tzOjpJcEJsb2NrLmhpc3RvcnkuZm9yX2luY2lkZW50KEBpbmNpZGVudCkKICAgICAgICBsaW5rZWRfaXBfYmxvY2tzID0gQGluY2lkZW50LmxpbmtlZF9pbmNpZGVudHMuZWFjaF93aXRoX29iamVjdChbXSkgZG8gfGxpbmtlZF9pbmNpZGVudCwgYXJyYXl8CiAgICAgICAgICBhcnJheS5jb25jYXQoOjpOZXR3b3JrQmxvY2tzOjpJcEJsb2NrLmhpc3RvcnkuZm9yX2luY2lkZW50KGxpbmtlZF9pbmNpZGVudCkpCiAgICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJldmlvdXNfaW5jaWRlbnRzID0gSW5jaWRlbnQud2hlcmUoCiAgICAgICAgICAgICAgZXZlbnRfc291cmNlOiBmb3JtLmV2ZW50X3NvdXJjZSwKICAgICAgICAgICAgICBldmVudF90eXBlOiBmb3JtLmV2ZW50X3R5cGUsCiAgICAgICAgICAgICAgZXZlbnRfaXA6IGZvcm0uZXZlbnRfaXAKICAgICAgICAgICAgKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoRelated</text>
       </register>
     </registers>
     <search>
@@ -4395,7 +4400,6 @@
         <entry>action FileStructurePopup</entry>
         <entry>action Run</entry>
         <entry>action GotoClass</entry>
-        <entry>action GotoRelated</entry>
         <entry>action QuickList.CustomGitActions</entry>
         <entry>%s/general/sock_default/gc</entry>
         <entry>%s/General/SOCK-Default/gc</entry>
@@ -4404,10 +4408,11 @@
         <entry>action GotoSymbol</entry>
         <entry>action GotoAction</entry>
         <entry>action QuickList.FindAndReplace</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoRelated</entry>
       </history-cmd>
       <history-expr />
       <history-input />
