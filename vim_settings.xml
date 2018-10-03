@@ -870,6 +870,9 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/sock/auto_incidents/shodan_spec.rb" timestamp="1536271596892">
+        <mark key="'" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/Gemfile" timestamp="1534376336917">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="86" column="27" />
@@ -927,6 +930,9 @@
         <mark key="]" line="21" column="24" />
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/infoblox/client_spec.rb" timestamp="1536273377868">
+        <mark key="'" line="181" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/views/admin/authz/permissions/index.html.haml" timestamp="1533165324189">
         <mark key="[" line="7" column="2" />
@@ -1076,6 +1082,9 @@
         <mark key="]" line="4" column="23" />
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/database.yml" timestamp="1536275797048">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/forms/aid_list/ip_tag.rb" timestamp="1479498731687">
         <mark key="[" line="3" column="12" />
@@ -1238,6 +1247,9 @@
         <mark key="]" line="6" column="19" />
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/auto_incidents/unsupported_osx.rb" timestamp="1536271114820">
+        <mark key="'" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/bin/workers/dhcp_syslog.rb" timestamp="1484095028799">
         <mark key="[" line="24" column="15" />
@@ -1719,6 +1731,9 @@
         <mark key="]" line="7" column="21" />
         <mark key="^" line="13" column="66" />
         <mark key="." line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automations/notification.rb" timestamp="1536013804839">
+        <mark key="'" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/alert_pig/forms/aid_list/tag.rb" timestamp="1479498667974">
         <mark key="[" line="0" column="11" />
@@ -2286,6 +2301,9 @@
         <mark key="]" line="27" column="37" />
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/ab2_accounting.rb" timestamp="1538596702228">
+        <mark key="'" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/YottaTable.vue" timestamp="1534443259859">
         <mark key="'" line="216" column="38" />
@@ -2884,6 +2902,9 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/app/models/palo_alto/threat_log.rb" timestamp="1536268123242">
+        <mark key="'" line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/helpers/label_helper.rb" timestamp="1533086079569">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="45" />
@@ -2929,6 +2950,9 @@
         <mark key="]" line="12" column="7" />
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/config/initializers/local/simple_form_bootstrap.rb" timestamp="1536005579995">
+        <mark key="'" line="49" column="9" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/jobs/snort_packet_worker.rb" timestamp="1480716697251">
         <mark key="[" line="0" column="17" />
@@ -3065,6 +3089,9 @@
         <mark key="]" line="54" column="15" />
         <mark key="." line="54" column="15" />
         <mark key="^" line="54" column="14" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/spec/lib/sock/auto_incidents/unsupported_osx_spec.rb" timestamp="1536271091802">
+        <mark key="'" line="18" column="27" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/automation_job.rb" timestamp="1534351113918">
         <mark key="'" line="43" column="17" />
@@ -3610,6 +3637,9 @@
         <mark key="]" line="19" column="27" />
         <mark key="." line="19" column="27" />
         <mark key="^" line="18" column="5" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sock_rails5/lib/network_blocks/services/ip_address.rb" timestamp="1535998209293">
+        <mark key="'" line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/app/controllers/admin/ids/alerts_controller.rb" timestamp="1530132254398">
         <mark key="[" line="5" column="0" />
@@ -4193,7 +4223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/requests/api/host_info_controller_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/spec/requests/api/snort_events_controller_spec.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/db/ddl/changes.sql" />
       <jump line="175" column="16" filename="$USER_HOME$/Development/projects/sock_rails5/app/javascript/components/automations/ExecutionHistory.vue" />
@@ -4293,6 +4322,7 @@
       <jump line="44" column="2" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/incident.rb" />
       <jump line="19" column="69" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/find_incident_blocks.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sock_rails5/lib/sock/services/find_incident_blocks.rb" />
+      <jump line="0" column="15" filename="$USER_HOME$/Development/projects/sock_rails5/app/models/nos_data/ab2_accounting.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4357,7 +4387,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoRelated</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -4397,7 +4427,6 @@
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action Run</entry>
         <entry>action GotoClass</entry>
         <entry>action QuickList.CustomGitActions</entry>
@@ -4408,11 +4437,12 @@
         <entry>action GotoSymbol</entry>
         <entry>action GotoAction</entry>
         <entry>action QuickList.FindAndReplace</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action GotoRelated</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
