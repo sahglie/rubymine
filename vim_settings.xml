@@ -279,7 +279,7 @@
         <mark key="^" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/nos_data/services/network_session_search.rb" timestamp="1538600471273">
-        <mark key="'" line="150" column="0" />
+        <mark key="'" line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sock_rails5/lib/noc/services/blackhole_routing_batch.rb" timestamp="1535491267231">
         <mark key="'" line="77" column="0" />
@@ -4360,7 +4360,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -4413,9 +4413,9 @@
         <entry>action GotoRelated</entry>
         <entry>action RecentFiles</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
