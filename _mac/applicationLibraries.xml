@@ -15647,6 +15647,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.6.8/benchmarks" />
       </excluded>
     </library>
+    <library name="ruby-kafka (v0.7.3, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-kafka-0.7.3/benchmarks" />
+      </excluded>
+    </library>
     <library name="ruby-oci8 (v2.2.2, RVM: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
